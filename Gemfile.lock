@@ -195,7 +195,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.6)
-  jekyll-theme-dinky
+  minima (~> 2.0)
   tzinfo-data
 
 RUBY VERSION
