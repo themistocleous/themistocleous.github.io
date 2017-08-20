@@ -1,0 +1,37 @@
+---
+layout: page
+title:  "Deep Learning"
+date:   2017-05-31 14:08:38 +0200
+categories: Research Project
+---
+![screenshot]({{ site.url }}/img/headers/brain.jpg)
+
+<p style="text-align:justify;">Deep Neural Networks, SVMs, HMMs  constitute the powerhouse of most applications
+in  text-to-speech, speech  perception, machine  translation, image  description
+generation, and  semantic interpretation. They  also offer insights  about human
+perception and cognition, namely how humans process, store, retrieve information
+from  speech signals,  texts, vision,  etc.   I explore  these architectures  to
+understand how humans map speech into abstract linguistic categories.</p>
+
+<p style="text-align:justify;">Specifically, in Themistocleous (2017), I  provide a classification model of two
+Modern  Greek  dialects,   namely  Athenian  Greek  and   Cypriot  Greek,  using
+information from  formant dynamics  of F1,  F2, F3, F4  and vowel  duration. The
+measurements   were  employed   in  classification   experiments,  using   three
+classifiers: Linear  Discriminant Analysis, Flexible Discriminant  Analysis, and
+C5.0. The  latter outperformed the  other classification models, resulting  in a
+higher classification  accuracy of the  dialect. C5.0 classification  shows that
+duration and  the zeroth  coefficient of F2,  F3 and F4  contribute more  to the
+classification of  the dialect than the  other measurements; it also  shows that
+formant dynamics are important for the classification of dialect.</p>
+
+
+<p style="text-align:justify;">The ability to accurately perceive whether a  speaker is asking a question or is
+making a statement is crucial  for any successful interaction. However, learning
+and classifying tonal patterns has been  a challenging task for automatic speech
+recognition  and for  models  of  tonal representation,  as  tonal contours  are
+characterized by significant variation. In Bernardi and Themistocleous (2017) we
+provide a  classification model of  Cypriot Greek questions and  statements.  We
+evaluate two  state-of-the-art network  architectures: a Long  Short-Term Memory
+(LSTM) network  and a convolutional  network (ConvNet). The  ConvNet outperforms
+the LSTM in the classification task  and exhibited an excellent performance with
+95% classification accuracy.</p>
