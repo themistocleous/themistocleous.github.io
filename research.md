@@ -14,12 +14,6 @@ trends of my current research: prosody, vowels and consonants, speech pathology,
 language acquisition and diglossia, and writing and speech. I conclude, with
 some ideas for future research.
 
-
-
-
-
-
-
 #### [Deep Learning]({% post_url 2017-06-12-deep-learning %})
 #### [Speech Acoustics]({% post_url 2017-06-12-segments %})
 #### [Prosody]({% post_url 2017-06-12-prosody %})

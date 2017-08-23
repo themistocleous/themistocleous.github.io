@@ -7,7 +7,7 @@ categories: Research Project
 
 # Project Description
 
-![screenshot]({{ site.url }}/img/img_papers/lex.jpg)
+![screenshot](/img/img_papers/lex.jpg)
 
 <div style="text-align:justify">The Utilitarian dictionary of Modern Greek Language is one of the most important dictionaries of Modern Greek. It has been published by the Academy of Athens in 2014. The decision to publish the Dictionary was unanimously adopted by the Plenum of the Academy of Athens in June 2003. The Advisory Committee was made up of the academics: Athanasios Kavylis, Grigorios Skalkeas, Konstantinos Despotopoulos, Nikolaos Konomis, Nikolaos Matsaniotis, Spiros Iakovidis, and Vasilios Petrakos. The Scientific Secretary was the General Secretary of the Academy Nikolaos Matsaniotis (2003-2010) who was later succeeded by Vasilios X. Petrakos (2010).  The dictionary is the outcome of years of research by a research group led by <b><i>Professor Christoforos Charalambakis</i></b>, who coordinated the whole project from day one.</div>
 

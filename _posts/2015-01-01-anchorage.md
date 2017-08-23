@@ -4,7 +4,7 @@ title:  "Seeking an anchorage"
 date:   2015-01-01 14:08:38 +0200
 categories: Research Project
 ---
-![anchorage]({{ site.url }}/img/img_papers/anchorage.png)
+![anchorage](/img/img_papers/anchorage.png)
 
 - authors = Ch. Themistocleous
 - date = "2015-01-01"
