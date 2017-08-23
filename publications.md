@@ -158,6 +158,6 @@ Glosson tou Panepistimiou Athinon, Filosoﬁki Scholi, 9-11/12/2005.</span></p>
 <p style="text-align:justify;"><span ><strong>Themistocleous, Charalambos.</strong> (2006). A Grammar of SMG. Greek Verbs [in Greek]. Athens University of Athens. (pp. 400).</span></p>
 
 <p></p>
-![screenshot]({{ site.url }}/img/img_papers/bookstats.png)
-![screenshot]({{ site.url }}/img/img_papers/bookgreek.jpg)
+![screenshot]({ site.url }/img/img_papers/bookstats.png)
+![screenshot](/img/img_papers/bookgreek.jpg)
 <p></p>
