@@ -4,7 +4,7 @@ title:  "Deep Learning"
 date:   2017-05-31 14:08:38 +0200
 categories: Research Project
 ---
-![screenshot]({{ site.url }}/img/headers/brain.jpg)
+![screenshot](/img/headers/brain.jpg)
 
 <p style="text-align:justify;">Deep Neural Networks, SVMs, HMMs  constitute the powerhouse of most applications
 in  text-to-speech, speech  perception, machine  translation, image  description

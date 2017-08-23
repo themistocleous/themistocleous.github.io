@@ -4,7 +4,7 @@ title: "Dialect classification using vowel acoustic parameters"
 date:   2017-01-01 14:08:38 +0200
 categories: Research Project
 ---
-![vowels]({{ site.url }}/img/img_papers/vowels.png)
+![vowels](/img/img_papers/vowels.png)
 
 - authors = Ch. Themistocleous
 - date = "2013-07-01"

@@ -4,7 +4,7 @@ title:  "Modern Greek vowels and the nature of acoustic gradience"
 date:   2017-01-01 14:08:38 +0200
 categories: Research Project
 ---
-![vowels]({{ site.url }}/img/img_papers/vowels_Stress.pdf)
+![vowels](/img/img_papers/vowels_Stress.pdf)
 - date = "2017-07-01"
 - publication = "Phonetica, 74, 157 – 172."
 - title = "Modern Greek vowels and the nature of acoustic gradience."
