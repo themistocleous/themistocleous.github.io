@@ -1,78 +1,508 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-08-25T14:43:09+02:00</updated><id>http://localhost:4000/</id><title type="html">Charalambos (Haris) Themistocleous</title><subtitle>Charalambos Themistocleous Website</subtitle><entry><title type="html">Statistics</title><link href="http://localhost:4000/teaching/2017/07/01/MLT.html" rel="alternate" type="text/html" title="Statistics" /><published>2017-07-01T14:08:38+02:00</published><updated>2017-07-01T14:08:38+02:00</updated><id>http://localhost:4000/teaching/2017/07/01/MLT</id><content type="html" xml:base="http://localhost:4000/teaching/2017/07/01/MLT.html">&lt;p&gt;&lt;em&gt;Current:&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;♦ &lt;strong&gt;Statistical Methods for NLP.&lt;/strong&gt; Spring 2017. Master’s Programme in Language Technology. &lt;em&gt;University of Gothenburg&lt;/em&gt;. Access Course Website.&lt;/p&gt;
-
-&lt;p&gt;♦ &lt;strong&gt;Introduction to Formal Linguistics.&lt;/strong&gt; Autumn 2016. Master’s Programme in Language Technology. &lt;em&gt;University of Gothenburg&lt;/em&gt;. Co-teaching with Stergios Chatzikyriakides.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Courses: 2011 - 2015:&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;♦ &lt;strong&gt;Phonetics &amp;amp; Phonology.&lt;/strong&gt;  Department of English Studies. &lt;em&gt;University of Cyprus&lt;/em&gt;.
-This course investigates the speech sounds of human languages from an articulatory and an acoustic point of view as well as the basic notions behind the way in which speech sounds are organized into sound systems of different human languages. At a supra-segmental level, it investigates prosodic systems (syllable structure and stress) of human languages. Whilst it starts off with the fundamental concepts of phonetics and phonology, at the same time, it provides the foundation for more advanced treatments of the above topics through different theoretical frameworks within contemporary phonology.&lt;/p&gt;
-
-&lt;p&gt;The course is arranged thematically: each week, we will examine a major topic of phonetic and/or phonological concern, providing theoretical, methodological and empirical work (observation and or instrumental). Students are responsible for writing a short, weekly assignment paper or small projects, to be handed in before each week’s final class. Students should, at a minimum, be prepared to discuss eachof that class period’s focus questions in conference.&lt;/p&gt;
-
-&lt;p&gt;Assignments must be turned in on time to receive full credit and comments. Extensions will be granted only in cases of illness, family emergency, etc. Late assignments will not be accepted for credit if turned in after the problem set has been returned to students, or discussed in class, whichever comes first. You are encouraged to work on problem sets together, but your answers must be written up separately and in your own words.&lt;/p&gt;
-
-&lt;p&gt;♦ &lt;strong&gt;Theoretical Phonology: Suprasegmental Phonology.&lt;/strong&gt; Department of English Studies. &lt;em&gt;University of Cyprus&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Assuming no prior knowledge of Phonetics and Phonology, the course introduces students to the basic notions of these fields. The first part of this course explores the production, perception, and acoustics of speech sounds. More specifically, the course introduces the basic notions of sound structure, demonstrates how sounds are transcribed using the International Phonetic Alphabet, and explores the distinctive features of sounds. The second part provides an introduction to suprasegmental structure. The course is arranged thematically: each week, we will examine a major topic providing theoretical, methodological and empirical work.&lt;/p&gt;
-
-&lt;p&gt;♦ &lt;strong&gt;Principles of Linguistic Analysis I.&lt;/strong&gt;  Department of English Studies. &lt;em&gt;University of Cyprus&lt;/em&gt;.
-Principles of Linguistic Analysis I examines core areas in linguistic theory and aims to provide a most up-to-date, comprehensive and detailed overview of phonology. More specifically, the course has the following goals:
-to introduce students to the most influential areas of phonological theory,
-to discuss and compare answers and solutions phonological theories provide to major phonological questions,
-to enable students to read the current scholarly literature with critical understanding and perspective,
-to show how phonology interacts with other linguistic domains such as phonetics, morphology, syntax, and language acquisition.&lt;/p&gt;
-
-&lt;p&gt;♦ &lt;strong&gt;Research Design and Statistics for Linguists using R.&lt;/strong&gt; Department of English Studies. &lt;em&gt;University of Cyprus&lt;/em&gt;.
-This course provides an introduction to research methodology, experimental design and statistics for linguists. By the end of the course, students will be able to&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-08-25T14:45:15+02:00</updated><id>http://localhost:4000/</id><title type="html">Charalambos (Haris) Themistocleous</title><subtitle>Charalambos Themistocleous Website</subtitle><entry><title type="html">Statistics</title><link href="http://localhost:4000/teaching/2017/07/01/MLT.html" rel="alternate" type="text/html" title="Statistics" /><published>2017-07-01T14:08:38+02:00</published><updated>2017-07-01T14:08:38+02:00</updated><id>http://localhost:4000/teaching/2017/07/01/MLT</id><content type="html" xml:base="http://localhost:4000/teaching/2017/07/01/MLT.html">&lt;h1 style=&quot;text-align:center;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;Course Plan&lt;/span&gt;&lt;/h1&gt;
 &lt;ul&gt;
-  &lt;li&gt;define a research hypothesis and articulate a research question,&lt;/li&gt;
-  &lt;li&gt;plan a research project and design an experiment,&lt;/li&gt;
-  &lt;li&gt;define response variables,&lt;/li&gt;
-  &lt;li&gt;define explanatory variables,&lt;/li&gt;
-  &lt;li&gt;perform the right statistics test,&lt;/li&gt;
-  &lt;li&gt;execute the test on the R statistics package,&lt;/li&gt;
-  &lt;li&gt;learn to create graphs and present their findings.
-The course covers these topics through the discussion of key research methods and resources and through the analysis of real-life datasets, by using R code.  It will therefore be of major interest to everyone interested in designing experiments and performing statistical analyses, but it is also of utmost importance for everyone interested in reading and understanding research articles.&lt;/li&gt;
+	&lt;li style=&quot;text-align:left;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;&lt;a style=&quot;color:#000000;&quot; href=&quot;https://gul.gu.se/public/courseId/77641/lang-sv/publicPage.do&quot;&gt;Course Page&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li style=&quot;text-align:left;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;&lt;a style=&quot;color:#000000;&quot; href=&quot;https://gul.gu.se/public/courseId/77641/lang-sv/publicPage.do?item=35787059&quot;&gt;Course Plan&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li style=&quot;text-align:left;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;&lt;a style=&quot;color:#000000;&quot; href=&quot;https://gul.gu.se/public/courseId/77641/lang-sv/publicPage.do?item=35835281&quot;&gt;Course Schedule&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;table border=&quot;yes&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;4&quot;&gt;
+&lt;tbody&gt;
+&lt;tr valign=&quot;top&quot;&gt;
+&lt;td&gt;&lt;strong&gt;Class&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Topics&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Materials&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Code&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot;&gt;
+&lt;td&gt;&lt;strong&gt;Class 1&lt;/strong&gt;
 
-&lt;p&gt;♦ &lt;strong&gt;Information Structure and Prosody&lt;/strong&gt;.  Department of English Studies. &lt;em&gt;University of Cyprus&lt;/em&gt;.&lt;/p&gt;
+&lt;strong&gt;Lecturers:&lt;/strong&gt; Charalambos (Haris) Themistocleous
 
-&lt;p&gt;‘Information Structure and Prosody’ is indented to provide students with a sound coverage of the topics related to the melodic patterns of Speech Prosody and their interactions with ‘Information Structure’ and ‘Discourse’. The course presents the state of the art in the field; it demonstrates current research trends and uncovers potential directions for future research. It is therefore of major interest to everyone studying phonology and semantics and their interaction. The course is arranged thematically: each week, we examine a major topic, providing theoretical, methodological and empirical work (base on observation &amp;amp; experimentation).&lt;/p&gt;
+&lt;strong&gt;Room:&lt;/strong&gt; T346
 
-&lt;p&gt;♦ &lt;strong&gt;Sociolinguistics: Phonetics and Phonology.&lt;/strong&gt;  Department of English Studies. &lt;em&gt;University of Cyprus&lt;/em&gt;.&lt;/p&gt;
+Må 16/1 13:15 - 15:00
 
-&lt;p&gt;Why do we speak differently from our grandparents? Why speakers from some areas sound strange? What do we mean when we say this woman/man sounds like a doctor? Why languages change and how do we study language change? How do linguists study language variation? This class provides an introduction to Sociophonetics, the multifaceted subfield of linguistics in which phonetics, phonology and sociolinguistics interact. We will cover the following topics:&lt;/p&gt;
+&lt;strong&gt;Notes: &lt;/strong&gt;See also the current New York article:&lt;strong&gt; &lt;a href=&quot;https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html&quot; target=&quot;_blank&quot;&gt;The great AI awakening.&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Introduction to the class
 
-&lt;p&gt;(a) sociophonetics: approaches, methodologies, and ethics.&lt;/p&gt;
+Introduction to Machine Learning
 
-&lt;p&gt;(b) field studies and data collection.&lt;/p&gt;
+Combinatorics
 
-&lt;p&gt;(c) phonetic/phonological variation.&lt;/p&gt;
+Computational Statistics using Python (&amp;amp; R)&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;&lt;a href=&quot;https://app.box.com/s/z5q7fchbedsjcj7k0lnb5ztaoapg57o1&quot; target=&quot;_blank&quot;&gt;Class 1 Presentation&lt;/a&gt;&lt;/strong&gt;
+&lt;b&gt;
+&lt;/b&gt;&lt;strong&gt;&lt;a href=&quot;https://app.box.com/s/fwp4402jpvbt38sgdeyzn30p35a9qcqr&quot; target=&quot;_blank&quot;&gt;Class 1 Presentation (printer friendly version&lt;sup&gt;1&lt;/sup&gt;)&lt;/a&gt;&lt;/strong&gt;
+&lt;b&gt;
+&lt;/b&gt;Charalambos Themistocleous (2017).&lt;strong&gt; &lt;a href=&quot;https://app.box.com/s/8llr57g118lpaf2dzewwl4qnl7ozf90p&quot; target=&quot;_blank&quot;&gt;Introduction to R. Part A. Language Fundamentals &lt;/a&gt;&lt;/strong&gt;(manuscript)Introduction to Python: &lt;strong&gt;&lt;a href=&quot;https://www.python.org/&quot;&gt;Python Programming Language&lt;/a&gt;, &lt;a href=&quot;https://docs.scipy.org/doc/numpy-dev/user/quickstart.html&quot;&gt;Scipy/Numpy Quickstart Tutorial&lt;/a&gt; &lt;/strong&gt;(see also Class 5 notes)
+&lt;sup&gt;1&lt;/sup&gt;&lt;em&gt;Please prefer the printer friendly version to save paper.&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;The code of the examples in the presentation (frequency lists, concordances, etc.) can be accessed &lt;strong&gt;&lt;a href=&quot;https://app.box.com/s/3veheazricpykpa5v97e2lepjxbtrcb6&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt; &lt;/strong&gt;for those interested to see how they were created.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot;&gt;
+&lt;td&gt;&lt;strong&gt;Class 2&lt;/strong&gt;
 
-&lt;p&gt;(d) language change.&lt;/p&gt;
+&lt;strong&gt;Lecturers: &lt;/strong&gt;Charalambos (Haris) Themistocleous
 
-&lt;p&gt;This class is essentially a trip into language and society. We will meet the main practitioners of the field. We will try to uncover the philosophies that underlie their thought and the ideas that formed their approaches. We will explore thoroughly the phonemic systems of languages and try to uncover the reasons of change.&lt;/p&gt;
+&lt;strong&gt;Room:&lt;/strong&gt; T346
 
-&lt;p&gt;♦ &lt;strong&gt;Phonetics and Phonology: Advanced Level.&lt;/strong&gt;  Department of English Studies. &lt;em&gt;University of Cyprus&lt;/em&gt;. The ‘English Phonetics and Phonology: Advanced Level’ is an integrated and structured course of key topics representing the state of the art in the field of phonetics and phonology. Focusing on linguistic, interactional, social, cultural and ideological issues, the course is organized to provide a graded introduction to Phonetics and Phonological theory which is essential for sociolinguistic research. The course includes:&lt;/p&gt;
+To 19/1 10:15 - 12:00
 
+ &lt;/td&gt;
+&lt;td&gt;Probability Theory: Introduction&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;&lt;a href=&quot;https://app.box.com/s/cw0hdf99jggqbobph2fjdftzi3tsn1gv&quot; target=&quot;_blank&quot;&gt;Class 2 Presentation&lt;/a&gt;&lt;/strong&gt;
+&lt;strong&gt;&lt;a href=&quot;https://app.box.com/s/0cftdt7aoquk5t22ysb9ze4ugobny1s6&quot; target=&quot;_blank&quot;&gt;Class 2 (printer friendly version)&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot;&gt;
+&lt;td&gt;&lt;strong&gt;Class 3&lt;/strong&gt;
+
+&lt;strong&gt;Lecturers: &lt;/strong&gt;Charalambos (Haris) Themistocleous
+
+&lt;strong&gt;Room: &lt;/strong&gt;Lab 4
+
+Må 23/1 10:15 - 12:00
+
+&lt;strong&gt;Notes:&lt;/strong&gt; &lt;em&gt;Using probabilities in everyday decision making and how do avoid biases: &lt;/em&gt;
+
+Tversky, A., &amp;amp; Kahneman, D. (1974). &lt;a href=&quot;http://science.sciencemag.org/content/185/4157/1124.full.pdf+html&quot; target=&quot;_blank&quot;&gt;Judgment under Uncertainty: Heuristics and Biases.&lt;/a&gt; &lt;i&gt;Science, 185&lt;/i&gt;(4157), 1124-1131. doi:10.1126/science.185.4157.1124
+
+ &lt;/td&gt;
+&lt;td&gt;
+&lt;div class=&quot;page&quot; title=&quot;Page 5&quot;&gt;
+&lt;div class=&quot;section&quot;&gt;
+&lt;div class=&quot;layoutArea&quot;&gt;
+&lt;div class=&quot;column&quot;&gt;Law of Total probability&lt;/div&gt;
+&lt;div class=&quot;column&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;column&quot;&gt;
+&lt;div class=&quot;page&quot; title=&quot;Page 6&quot;&gt;
+&lt;div class=&quot;section&quot;&gt;
+&lt;div class=&quot;layoutArea&quot;&gt;
+&lt;div class=&quot;column&quot;&gt;
+
+Independent vs. Dependent Events
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;column&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;column&quot;&gt;Conditional Probability&lt;/div&gt;
+&lt;div class=&quot;column&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;column&quot;&gt;Bayesian Theorem&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+ &lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;&lt;a href=&quot;https://app.box.com/s/xx497uv3voh3z0vol2bq40mtm25eahdb&quot; target=&quot;_blank&quot;&gt;Class 3 Presentation&lt;/a&gt;&lt;/strong&gt;
+&lt;strong&gt;&lt;a href=&quot;https://app.box.com/s/kfk45yqlqh9xi1dbmszr6st7yj9dl35e&quot; target=&quot;_blank&quot;&gt;Class 3 (printer friendly version)&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt; 
+
+ 
+
+ &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot;&gt;
+&lt;td&gt;&lt;strong&gt;Class 4&lt;/strong&gt;
+
+&lt;strong&gt;Lecturers: &lt;/strong&gt;Charalambos (Haris) Themistocleous
+
+&lt;strong&gt;Room: &lt;/strong&gt;T346
+&lt;pre&gt;26/1 10:15:00 AM - 12:00:00 PM&lt;/pre&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;div class=&quot;page&quot; title=&quot;Page 3&quot;&gt;
+&lt;div class=&quot;section&quot;&gt;
+&lt;div class=&quot;layoutArea&quot;&gt;
+&lt;div class=&quot;column&quot;&gt;
+
+Discrete Variables
+
+Continuous Variables
+
+Distributions
+&lt;div class=&quot;page&quot; title=&quot;Page 21&quot;&gt;
+&lt;div class=&quot;section&quot;&gt;
+&lt;div class=&quot;layoutArea&quot;&gt;
+&lt;div class=&quot;column&quot;&gt;
+
+Bernoulli Distribution
+&lt;div class=&quot;page&quot; title=&quot;Page 31&quot;&gt;
+&lt;div class=&quot;section&quot;&gt;
+&lt;div class=&quot;layoutArea&quot;&gt;
+&lt;div class=&quot;column&quot;&gt;
+
+Binomial Distribution
+&lt;div class=&quot;page&quot; title=&quot;Page 44&quot;&gt;
+&lt;div class=&quot;section&quot;&gt;
+&lt;div class=&quot;layoutArea&quot;&gt;
+&lt;div class=&quot;column&quot;&gt;
+
+Hypergeometric Distribution
+
+Random Variables
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;&lt;a href=&quot;https://app.box.com/s/19wvwhd8xfv68aykgjtaxwttksfumdx8&quot; target=&quot;_blank&quot;&gt;Class 4 Presentation&lt;/a&gt;&lt;/strong&gt;
+
+&lt;strong&gt;&lt;a href=&quot;https://app.box.com/s/3lq7bfmdcmbv8d42imw7l20ffuj4234v&quot; target=&quot;_blank&quot;&gt;Class 4 (printer friendly version)&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;The code of the examples in the presentation (frequency lists, concordances, etc.) can be accessed &lt;strong&gt;&lt;a href=&quot;https://app.box.com/s/avahzqe6i9g13xptqh8m4k0m5vy8uavg&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/strong&gt;
+
+ &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot;&gt;
+&lt;td&gt;&lt;strong&gt;&lt;a href=&quot;https://app.box.com/s/czi89n9ofd479ztlae152qwtb4t92yeu&quot; target=&quot;_blank&quot;&gt;Assignment: Task 1&lt;/a&gt; &lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot;&gt;
+&lt;td&gt;&lt;strong&gt;Class 5&lt;/strong&gt;
+
+&lt;strong&gt;Lecturers:&lt;/strong&gt; Charalambos (Haris) Themistocleous
+
+&lt;strong&gt;Room:&lt;/strong&gt; Lab 4
+
+Må 30/1 10:15:00 AM - 12:00:00 PM&lt;/td&gt;
+&lt;td&gt;
+&lt;div class=&quot;page&quot; title=&quot;Page 3&quot;&gt;
+&lt;div class=&quot;section&quot;&gt;
+&lt;div class=&quot;layoutArea&quot;&gt;
+&lt;div class=&quot;column&quot;&gt;Computer Exercise 1: Distributions and&lt;/div&gt;
+&lt;div class=&quot;column&quot;&gt;Random number generation based on distribution&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;&lt;a href=&quot;https://app.box.com/s/6cjds60r06grkp3uee9hm418p3p0voly&quot; target=&quot;_blank&quot;&gt;Class 5 Presentation&lt;/a&gt;&lt;/strong&gt;
+
+&lt;strong&gt;&lt;a href=&quot;https://app.box.com/s/7i1zmd8m7kdnf04e7vzmvt5j6821my43&quot; target=&quot;_blank&quot;&gt;Class 5 (printer friendly version)&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;&lt;a href=&quot;https://app.box.com/s/iha6g70fh1x383o26z8im0t1p9jx7c81&quot; target=&quot;_blank&quot;&gt;Code&lt;/a&gt;&lt;/strong&gt;
+
+&lt;strong&gt;&lt;a href=&quot;https://app.box.com/s/q8w5kuf8f4kd9258458t9ivzg3jmsctg&quot; target=&quot;_blank&quot;&gt;Data&lt;/a&gt;&lt;/strong&gt;
 &lt;ul&gt;
-  &lt;li&gt;the study of fundamental concepts in phonetics and phonology,&lt;/li&gt;
-  &lt;li&gt;the study of the sociolinguistic aspects of speech and&lt;/li&gt;
-  &lt;li&gt;the study of interactional phonetics and phonology.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://pandas.pydata.org/pandas-docs/stable/index.html&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Pandas Documentation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://docs.scipy.org/doc/numpy/reference/&quot; target=&quot;_blank&quot;&gt;Numpy Documentation&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://matplotlib.org/&quot; target=&quot;_blank&quot;&gt;Matplotlib Documentation&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot;&gt;
+&lt;td&gt;&lt;strong&gt;Class 6&lt;/strong&gt;
 
-&lt;p&gt;It covers all these topics through the discussion of key research methods and resources, reading classic texts written by leading theorists, highlighting key concepts in different traditions of phonetics and phonology and finally by studying important papers by contemporary specialists showing what phonetics and phonology is able to achieve if applied to different social issues and social settings. It will therefore be  of major interest to everyone interested in phonetics, phonology, conversation analysis, discourse analysis and sociolinguistics.&lt;/p&gt;
+&lt;strong&gt;Lecturers: &lt;/strong&gt;Charalambos (Haris) Themistocleous
 
-&lt;p&gt;♦ &lt;strong&gt;Speech Melody and Conversation.&lt;/strong&gt;  Department of English Studies. &lt;em&gt;University of Cyprus&lt;/em&gt;.‘Speech Melody and Conversation’ provides an overview of speech melody, its linguistic functions and applications in talk in interaction. The course focuses on linguistic, interactional, social, and cultural issues, integrating both theory and practice. The course introduces:
-fundamental concepts in speech melody and prosody.
-grammatical aspects of speech melody and
-applications of speech melody in organizing everyday interactions.
-The course covers these topics through the analysis of oral texts, discussion of key research methods and resources, reading texts written by leading theorists and finally by studying important papers by contemporary specialists. It will therefore be of major interest to everyone interested in phonetics, conversation analysis, discourse analysis and sociolinguistics.&lt;/p&gt;
+&lt;strong&gt;Room: &lt;/strong&gt;T346
+&lt;pre&gt;To 02/02/16 10:15 - 12:00&lt;/pre&gt;
+&lt;/td&gt;
+&lt;td&gt;Continuous Variables
 
-&lt;p&gt;♦ &lt;strong&gt;Sociolinguistics.&lt;/strong&gt;  Department of English Studies. &lt;em&gt;University of Cyprus&lt;/em&gt;.
-Introduction to Sociolinguistics is indented to provide students with a sound coverage of the topics related to ‘Sociolinguistics’ and ‘The Sociology of Language’. The student gradually will develop the joined premises that interpersonal communication practices are culturally variable, socially stratified and geographically distributed. The course is arranged thematically: each week, we will examine a major topic of sociolinguistics concern, providing theoretical, methodological and empirical work (observation and or experimental). Students are responsible for writing a short, weekly assignment paper or small projects, to be handed in before each week’s final class. Students should, at a minimum, be prepared to discuss each of that class period’s focus questions in conference.Assignments must be turned in on time to receive full credit and comments. Extensions will be granted only in cases of illness, family emergency, etc. Late assignments will not be accepted for credit if turned in after the problem set has been returned to students, or discussed in class, whichever comes first. You are encouraged to work on problem sets together, but your answers must be written up separately and in your own words.&lt;/p&gt;</content><author><name></name></author><summary type="html">Current:</summary></entry><entry><title type="html">Statistics</title><link href="http://localhost:4000/research/project/2017/05/31/statistics.html" rel="alternate" type="text/html" title="Statistics" /><published>2017-05-31T14:08:38+02:00</published><updated>2017-05-31T14:08:38+02:00</updated><id>http://localhost:4000/research/project/2017/05/31/statistics</id><content type="html" xml:base="http://localhost:4000/research/project/2017/05/31/statistics.html"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Phonetics</title><link href="http://localhost:4000/research/project/2017/05/31/speechpathology.html" rel="alternate" type="text/html" title="Phonetics" /><published>2017-05-31T14:08:38+02:00</published><updated>2017-05-31T14:08:38+02:00</updated><id>http://localhost:4000/research/project/2017/05/31/speechpathology</id><content type="html" xml:base="http://localhost:4000/research/project/2017/05/31/speechpathology.html">&lt;h2 id=&quot;vowels-and-consonants&quot;&gt;Vowels and Consonants&lt;/h2&gt;
+Hypothesis Testing
+
+Statistical concepts
+
+Linear Models
+
+Linear Mixed effectsModels&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;&lt;a href=&quot;https://app.box.com/s/ws6qwlh357kxq1ma1si6b5az70ys24xd&quot; target=&quot;_blank&quot;&gt;Class 6 Presentation&lt;/a&gt;&lt;/strong&gt;
+
+&lt;strong&gt;&lt;a href=&quot;https://app.box.com/s/cne4jlhhffxok65ng4t0va1r8a8lwczl&quot; target=&quot;_blank&quot;&gt;Class 6 (printer friendly version)&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot;&gt;
+&lt;td&gt;&lt;strong&gt;&lt;a href=&quot;https://app.box.com/s/jfesaxg4crwgc6x446t5qrfs4eb2907d&quot; target=&quot;_blank&quot;&gt;Assignment: Task 2&lt;/a&gt; / &lt;a href=&quot;https://app.box.com/s/q8w5kuf8f4kd9258458t9ivzg3jmsctg&quot; target=&quot;_blank&quot;&gt;Data&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot;&gt;
+&lt;td&gt;&lt;strong&gt;Class 7&lt;/strong&gt;
+
+&lt;strong&gt;Lecturers: &lt;/strong&gt;Charalambos (Haris) Themistocleous
+
+&lt;strong&gt;Room:&lt;/strong&gt; Lab 4
+
+Må 06/02/16 10:15 - 12:00&lt;/td&gt;
+&lt;td&gt;Information Theory
+
+Entropy&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt; &lt;/strong&gt;&lt;strong&gt;&lt;a href=&quot;https://app.box.com/s/9gyn0zrx3nzye6zn5t3wvaxlkmn2s5g2&quot; target=&quot;_blank&quot;&gt;Class 7 Presentation&lt;/a&gt;&lt;/strong&gt;
+
+&lt;strong&gt;&lt;a href=&quot;https://app.box.com/s/zn3o60jkbbwr21fvfj7ki65bh50brfut&quot; target=&quot;_blank&quot;&gt;Class 7 (printer friendly version)&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot;&gt;
+&lt;td&gt;&lt;strong&gt;Class 8&lt;/strong&gt;
+&lt;strong&gt;Lecturers: &lt;/strong&gt;Charalambos (Haris) Themistocleous
+
+&lt;strong&gt;Room:&lt;/strong&gt; Lab 4
+
+To 09/02/16 10:15:00 AM - 12:00:00 PM&lt;/td&gt;
+&lt;td&gt;Machine learning
+Classification
+Basic Concepts&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;&lt;a href=&quot;https://app.box.com/s/k3mo9xoa4y9natzumgjk7brrvnotj3ni&quot; target=&quot;_blank&quot;&gt;Class 8 Presentation&lt;/a&gt;&lt;/strong&gt;
+
+&lt;strong&gt;&lt;a href=&quot;https://app.box.com/s/k3mo9xoa4y9natzumgjk7brrvnotj3ni&quot; target=&quot;_blank&quot;&gt;Class 8 (printer friendly version)&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;&lt;a href=&quot;https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/&quot; target=&quot;_blank&quot;&gt;Machine Learning - videos by Trevor Hastie and  and Rob Tibshirani&lt;/a&gt;&lt;/strong&gt;
+
+&lt;strong&gt;&lt;a href=&quot;http://scikit-learn.org/stable/index.html&quot; target=&quot;_blank&quot;&gt;Scikit Learn&lt;/a&gt;: Machine Learning in Python&lt;/strong&gt;
+
+&lt;strong&gt;&lt;a href=&quot;http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html#exercise-1-language-identification&quot; target=&quot;_blank&quot;&gt;Working With Text Data&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot;&gt;
+&lt;td&gt;&lt;strong&gt;&lt;strong&gt;Class 9&lt;/strong&gt;
+&lt;/strong&gt;&lt;strong&gt;Lecturers: &lt;/strong&gt;Mehdi Ghanimifard&lt;strong&gt;Room:&lt;/strong&gt; Lab 4
+
+Må 13/2 10:15:00 - 12:00&lt;/td&gt;
+&lt;td&gt;FIRST ASSIGNMENT LAB
+
+&lt;strong&gt;DEADLINE &lt;/strong&gt;23/02/17
+Naive Bayes&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;&lt;a title=&quot;Hints and sample codes&quot; href=&quot;https://github.com/mmehdig/statnlp_2017/blob/master/lab1/Lab%201.%20Naive%20Bayes%20Classifier.ipynb&quot; target=&quot;_blank&quot;&gt;Hints and sample codes&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt; &lt;a href=&quot;https://app.box.com/s/lalpms1v2csw9kx8vcvrnabgmct69dfu&quot; target=&quot;_blank&quot;&gt;ASSIGNMENT&lt;/a&gt; 1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot;&gt;
+&lt;td&gt;&lt;strong&gt;Class 10
+&lt;/strong&gt;&lt;strong&gt;Lecturers: &lt;/strong&gt;Mehdi Ghanimifard
+
+&lt;strong&gt;Room:&lt;/strong&gt; Lab 4
+
+To 16/2 10:15 AM - 12:00 PM&lt;/td&gt;
+&lt;td&gt;FIRST ASSIGNMENT LAB
+
+&lt;strong&gt;DEADLINE &lt;/strong&gt;23/02/17
+Naive Bayes&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot;&gt;
+&lt;td&gt;&lt;strong&gt;Class 11&lt;/strong&gt;
+
+&lt;strong&gt;Lecturers: &lt;/strong&gt;Charalambos (Haris) Themistocleous
+
+&lt;strong&gt;Room:&lt;/strong&gt; T346
+
+Må 20/2 10:15 - 12:00&lt;/td&gt;
+&lt;td&gt;
+&lt;div class=&quot;page&quot; title=&quot;Page 2&quot;&gt;
+&lt;div class=&quot;section&quot;&gt;
+&lt;div class=&quot;layoutArea&quot;&gt;
+&lt;div class=&quot;column&quot;&gt;
+
+Machine Learning Approaches
+
+Linear Discriminant Analysis
+
+Functional Discriminant Analysis
+
+ 
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt; &lt;/strong&gt;&lt;strong&gt;&lt;a href=&quot;https://app.box.com/s/kkkfvyb1t2qsgtzpyie3qs8lkg101e6w&quot; target=&quot;_blank&quot;&gt;Class 11 Presentation&lt;/a&gt;&lt;/strong&gt;
+
+&lt;strong&gt;&lt;a href=&quot;https://app.box.com/s/wk2zp8ihfzxq7omf41i2plqbc0yriu0e&quot; target=&quot;_blank&quot;&gt;Class 11 (printer friendly version)&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Caret Package in R (used for demonstrating model comparison in class):  https://topepo.github.io/caret/index.html&lt;/strong&gt;
+
+ 
+
+ &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot;&gt;
+&lt;td&gt;&lt;strong&gt;Class 12&lt;/strong&gt;
+
+&lt;strong&gt;&lt;a href=&quot;https://app.box.com/s/lalpms1v2csw9kx8vcvrnabgmct69dfu&quot; target=&quot;_blank&quot;&gt;ASSIGNMENT&lt;/a&gt; 2 (Evaluation)&lt;/strong&gt;
+
+&lt;strong&gt;Lecturers: &lt;/strong&gt;Mehdi Ghanimifard
+
+&lt;strong&gt;Room:&lt;/strong&gt; Lab 4
+
+To 23/2 10:15 - 12:00&lt;/td&gt;
+&lt;td&gt;SECOND ASSIGNMENT LABDeadline: 02/03/17&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot;&gt;
+&lt;td&gt;&lt;strong&gt;Class 13&lt;/strong&gt;
+
+&lt;strong&gt;Lecturers: &lt;/strong&gt;Charalambos (Haris) Themistocleous
+
+&lt;strong&gt;Room:&lt;/strong&gt; Lab 4
+
+Må 27/2 10:15 - 12:00&lt;/td&gt;
+&lt;td&gt;Decision trees
+
+CART
+
+C5.0
+
+Evaluation&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt; &lt;/strong&gt;&lt;strong&gt;&lt;a href=&quot;https://gul.gu.se/pp/courses/course77641//published/1488914097004/resourceId/36629728/content/374d0c01-5d1b-4ad0-a323-883bcbddde88/Class13.pdf&quot; target=&quot;_blank&quot;&gt;Class 13 Presentation&lt;/a&gt;&lt;/strong&gt;
+
+&lt;strong&gt;&lt;a href=&quot;https://app.box.com/s/2f71ijgc8q3psn3sq6ju89oyjoicb49e&quot; target=&quot;_blank&quot;&gt;Class 13 (printer friendly version)&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot;&gt;
+&lt;td&gt;&lt;strong&gt;Class 14&lt;/strong&gt;
+
+&lt;strong&gt;Lecturers: &lt;/strong&gt;Charalambos (Haris) Themistocleous
+
+&lt;strong&gt;Room:&lt;/strong&gt; T346
+
+To 02/03/ 10:15:00 AM - 12:00:00&lt;/td&gt;
+&lt;td&gt;Markov Chains
+
+Hidden Markov Models
+
+Viderbi&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt; &lt;/strong&gt;&lt;strong&gt;&lt;a href=&quot;https://app.box.com/s/pr1360npgxrsqumc1m08p6s9pwy480su&quot; target=&quot;_blank&quot;&gt;Class 14 Presentation&lt;/a&gt;&lt;/strong&gt;
+
+&lt;strong&gt;&lt;a href=&quot;https://app.box.com/s/trby95hzpzi6uypa5brdgyzljc7ft4uu&quot; target=&quot;_blank&quot;&gt;Class 14 (printer friendly version)&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://web.stanford.edu/~jurafsky/slp3/9.pdf&quot; target=&quot;_blank&quot;&gt;HMM&lt;/a&gt;: Book chapter from Daniel Jurafsky &amp;amp; James H. Martin.  Speech and Language Processing.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot;&gt;
+&lt;td&gt;&lt;strong&gt;Class 15&lt;/strong&gt;
+
+&lt;strong&gt;Lecturers: &lt;/strong&gt;Mehdi Ghanimifard
+
+&lt;strong&gt;Room:&lt;/strong&gt; Lab 4
+
+Må 06/03 10:15:00 AM - 12:00:00 PM
+
+ &lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;THIRD ASSIGNMENT LAB&lt;/strong&gt;
+&lt;p class=&quot;p1&quot;&gt;Implementation of a part-of-speech tagger with Viterbi Algorithm.&lt;/p&gt;
+ &lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/mmehdig/statnlp_2017/tree/master/lab3&quot; target=&quot;_blank&quot;&gt;Link to old instructions, and extended material&lt;/a&gt;&lt;/strong&gt;
+
+&lt;strong&gt;&lt;a href=&quot;https://gubox.box.com/s/lulyafcgmi2tmob8w0o4rc9jemyhikhs&quot; target=&quot;_blank&quot;&gt;Tagged corpora&lt;/a&gt; (ask for password)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot;&gt;
+&lt;td&gt;&lt;strong&gt;Class 16&lt;/strong&gt;
+
+&lt;strong&gt;Lecturers: &lt;/strong&gt;Charalambos (Haris) Themistocleous
+
+&lt;strong&gt;Room:&lt;/strong&gt; T346
+
+To 09/03 10:15 - 12:00&lt;/td&gt;
+&lt;td&gt;Hidden Markov Models
+Training and Evaluating HMMs&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Class 16 Presentation&lt;/strong&gt;
+&lt;strong&gt;Class 16 (printer friendly version)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;&lt;a href=&quot;https://app.box.com/s/2focbbz2eee72wfqb0n1x383h9l915yf&quot; target=&quot;_blank&quot;&gt;Viterbi Python Code&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot;&gt;
+&lt;td&gt;&lt;strong&gt;Class 17&lt;/strong&gt;&lt;strong&gt;Lecturers: &lt;/strong&gt;Mehdi Ghanimifard
+
+&lt;strong&gt;Room:&lt;/strong&gt; Lab 4
+
+Må 13/3 10:15 - 12:00&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;THIRD ASSIGNMENT LAB&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot;&gt;
+&lt;td&gt;&lt;strong&gt;Class 18&lt;/strong&gt;
+
+&lt;strong&gt;Lecturers: &lt;/strong&gt;Charalambos (Haris) Themistocleous
+
+&lt;strong&gt;Room: &lt;/strong&gt;Lab 4
+
+To 16/3 10:15 - 12:00&lt;/td&gt;
+&lt;td&gt;On Unsupervised Machine Learning Learning (Chatrine)
+
+Neural Networks
+Deep Neural Networks&lt;/td&gt;
+&lt;td&gt;Class 18 Presentation
+
+Class 18 (printer friendly version)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr valign=&quot;top&quot;&gt;
+&lt;td&gt;&lt;strong&gt;EXAMS&lt;/strong&gt;
+
+20/3 12.30-16-30
+
+&lt;strong&gt;Room:&lt;/strong&gt; T219.
+
+ &lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color:#000000;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Course Literature&lt;/h2&gt;
+&lt;h3&gt;&lt;b&gt;Course Books&lt;/b&gt;&lt;/h3&gt;
+&lt;ul&gt;
+	&lt;li&gt;Christopher Manning and Hinrich Schütze (1999) &lt;i&gt;Foundations of Statistical Natural Language Processing,&lt;/i&gt; Cambridge, Massachusetts, USA. MIT Press. Also see the book's supplemental materials website at Stanford.&lt;/li&gt;
+	&lt;li&gt;Joseph K. Blitzstein, Jessica Hwang (2014). &lt;i&gt;Introduction to Probability.&lt;/i&gt; London: CRC Press. Taylor &amp;amp; Francis.&lt;/li&gt;
+	&lt;li&gt;James Gareth, Witten Daniela, Hastie Trevor and Robert Tibshirani (). An Introduction to Statistical Learning. Springer. Available online by the authors&lt;a href=&quot;http://www-bcf.usc.edu/~gareth/ISL/&quot;&gt; here. &lt;/a&gt; Slides and videos for Statistical Learning MOOC by Hastie and Tibshirani available separately &lt;a href=&quot;http://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/&quot;&gt;here&lt;/a&gt;. Slides and video tutorials related to this book by Abass Al Sharif can be downloaded &lt;a href=&quot;http://www.alsharif.info/%23!iom530/c21o7&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;b&gt;Complementary Textbooks&lt;/b&gt;&lt;/h3&gt;
+&lt;ul&gt;
+	&lt;li&gt;Daniel Jurafsky and James Martin (2008) &lt;i&gt;An Introduction to Natural Language Processing, &lt;/i&gt;Computational Linguistics, and Speech Recognition, Second Edition. Prentice Hall.&lt;/li&gt;
+	&lt;li&gt;Russell, Stuart J.; Norvig, Peter (2009), Artificial Intelligence: A Modern Approach (3rd ed.), Upper Saddle River, New Jersey: Prentice Hall, ISBN 0-13-604259-7.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;b&gt;Resources&lt;/b&gt;&lt;/h3&gt;
+&lt;ul&gt;
+	&lt;li&gt;The&lt;i&gt;C&lt;/i&gt;lassification &lt;i&gt;A&lt;/i&gt;nd &lt;i&gt;RE&lt;/i&gt;gression &lt;i&gt;T&lt;/i&gt;raining (caret) Package R. &lt;a href=&quot;http://topepo.github.io/caret/index.html&quot;&gt;http://topepo.github.io/caret/index.html&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www.r-project.org/&quot;&gt;The R Project for Statistical Computing&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://www.python.org/&quot;&gt;Python Programming Language&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;https://docs.scipy.org/doc/numpy-dev/user/quickstart.html&quot;&gt;Scipy/Numpy Quickstart Tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Course Description&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color:#000000;&quot;&gt;&lt;em&gt;7.5 hecr, 2nd semester, 1st study period&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color:#000000;&quot;&gt;The purpose of this course is to give an introduction to probabilistic modeling, statistical methods and their use within the field of language technology. The following topics will be covered in the course:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;span style=&quot;color:#000000;&quot;&gt;Probability theory&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style=&quot;color:#000000;&quot;&gt;Information theory&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style=&quot;color:#000000;&quot;&gt;Statistical theory (sampling, estimation, hypothesis testing)&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style=&quot;color:#000000;&quot;&gt;Language modeling&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style=&quot;color:#000000;&quot;&gt;Part-of-speech tagging&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style=&quot;color:#000000;&quot;&gt;Syntactic parsing&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style=&quot;color:#000000;&quot;&gt;Word sense disambiguation&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style=&quot;color:#000000;&quot;&gt;Machine translation&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style=&quot;color:#000000;&quot;&gt;Evaluation&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;color:#000000;&quot;&gt;&lt;em&gt;Elective course offered by the programme for students taking the one-year degree: Degree of Master of Arts (60 credits) in Language Technology (Filosofie magisterexamen i språkteknologi).&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;span style=&quot;color:#000000;&quot;&gt;Course Syllabus&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;span style=&quot;color:#000000;&quot;&gt;The course syllabus in full as adopted by the head of department can be downloaded in pdf.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color:#000000;&quot;&gt;&lt;a class=&quot;pdficon&quot; style=&quot;color:#000000;&quot; href=&quot;http://kursplaner.gu.se/pdf/kurs/en/LT2202&quot;&gt;Course syllabus in English&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;color:#000000;&quot;&gt;&lt;a class=&quot;pdficon&quot; style=&quot;color:#000000;&quot; href=&quot;http://kursplaner.gu.se/pdf/kurs/sv/LT2202&quot;&gt;Course syllabus in Swedish&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;span style=&quot;color:#000000;&quot;&gt;Application&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;span style=&quot;color:#000000;&quot;&gt;The course can be offered as a freestanding single subject course for students not on the MLT programme. Information on application deadlines and admissions in the university course catalogue:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;span style=&quot;color:#000000;&quot;&gt;&lt;a style=&quot;color:#000000;&quot; href=&quot;http://utbildning.gu.se/education/courses-and-programmes/course_detail/?courseid=LT2202&quot;&gt;LT2202 application details in English.&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style=&quot;color:#000000;&quot;&gt;&lt;a style=&quot;color:#000000;&quot; href=&quot;http://utbildning.gu.se/kurser/kurs_information/?courseid=LT2202&quot;&gt;LT2202 application details in Swedish.&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Course Plan Course Page Course Plan Course Schedule   Class Topics Materials Code Class 1</summary></entry><entry><title type="html">Statistics</title><link href="http://localhost:4000/research/project/2017/05/31/statistics.html" rel="alternate" type="text/html" title="Statistics" /><published>2017-05-31T14:08:38+02:00</published><updated>2017-05-31T14:08:38+02:00</updated><id>http://localhost:4000/research/project/2017/05/31/statistics</id><content type="html" xml:base="http://localhost:4000/research/project/2017/05/31/statistics.html"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Phonetics</title><link href="http://localhost:4000/research/project/2017/05/31/speechpathology.html" rel="alternate" type="text/html" title="Phonetics" /><published>2017-05-31T14:08:38+02:00</published><updated>2017-05-31T14:08:38+02:00</updated><id>http://localhost:4000/research/project/2017/05/31/speechpathology</id><content type="html" xml:base="http://localhost:4000/research/project/2017/05/31/speechpathology.html">&lt;h2 id=&quot;vowels-and-consonants&quot;&gt;Vowels and Consonants&lt;/h2&gt;
 
 &lt;p&gt;There have been
 important advances in the field of phonetics and speech acoustics,
