@@ -1,4 +1,78 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-08-24T18:27:33+02:00</updated><id>http://localhost:4000/</id><title type="html">Charalambos (Haris) Themistocleous</title><subtitle>Charalambos Themistocleous Website</subtitle><entry><title type="html">Statistics</title><link href="http://localhost:4000/research/project/2017/05/31/statistics.html" rel="alternate" type="text/html" title="Statistics" /><published>2017-05-31T14:08:38+02:00</published><updated>2017-05-31T14:08:38+02:00</updated><id>http://localhost:4000/research/project/2017/05/31/statistics</id><content type="html" xml:base="http://localhost:4000/research/project/2017/05/31/statistics.html"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Phonetics</title><link href="http://localhost:4000/research/project/2017/05/31/speechpathology.html" rel="alternate" type="text/html" title="Phonetics" /><published>2017-05-31T14:08:38+02:00</published><updated>2017-05-31T14:08:38+02:00</updated><id>http://localhost:4000/research/project/2017/05/31/speechpathology</id><content type="html" xml:base="http://localhost:4000/research/project/2017/05/31/speechpathology.html">&lt;h2 id=&quot;vowels-and-consonants&quot;&gt;Vowels and Consonants&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-08-25T14:35:36+02:00</updated><id>http://localhost:4000/</id><title type="html">Charalambos (Haris) Themistocleous</title><subtitle>Charalambos Themistocleous Website</subtitle><entry><title type="html">Teaching</title><link href="http://localhost:4000/teaching/" rel="alternate" type="text/html" title="Teaching" /><published>2017-07-01T00:00:00+02:00</published><updated>2017-07-01T00:00:00+02:00</updated><id>http://localhost:4000/MLT</id><content type="html" xml:base="http://localhost:4000/teaching/">&lt;p&gt;&lt;em&gt;Current:&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;♦ &lt;strong&gt;Statistical Methods for NLP.&lt;/strong&gt; Spring 2017. Master’s Programme in Language Technology. &lt;em&gt;University of Gothenburg&lt;/em&gt;. Access Course Website.&lt;/p&gt;
+
+&lt;p&gt;♦ &lt;strong&gt;Introduction to Formal Linguistics.&lt;/strong&gt; Autumn 2016. Master’s Programme in Language Technology. &lt;em&gt;University of Gothenburg&lt;/em&gt;. Co-teaching with Stergios Chatzikyriakides.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Courses: 2011 - 2015:&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;♦ &lt;strong&gt;Phonetics &amp;amp; Phonology.&lt;/strong&gt;  Department of English Studies. &lt;em&gt;University of Cyprus&lt;/em&gt;.
+This course investigates the speech sounds of human languages from an articulatory and an acoustic point of view as well as the basic notions behind the way in which speech sounds are organized into sound systems of different human languages. At a supra-segmental level, it investigates prosodic systems (syllable structure and stress) of human languages. Whilst it starts off with the fundamental concepts of phonetics and phonology, at the same time, it provides the foundation for more advanced treatments of the above topics through different theoretical frameworks within contemporary phonology.&lt;/p&gt;
+
+&lt;p&gt;The course is arranged thematically: each week, we will examine a major topic of phonetic and/or phonological concern, providing theoretical, methodological and empirical work (observation and or instrumental). Students are responsible for writing a short, weekly assignment paper or small projects, to be handed in before each week’s final class. Students should, at a minimum, be prepared to discuss eachof that class period’s focus questions in conference.&lt;/p&gt;
+
+&lt;p&gt;Assignments must be turned in on time to receive full credit and comments. Extensions will be granted only in cases of illness, family emergency, etc. Late assignments will not be accepted for credit if turned in after the problem set has been returned to students, or discussed in class, whichever comes first. You are encouraged to work on problem sets together, but your answers must be written up separately and in your own words.&lt;/p&gt;
+
+&lt;p&gt;♦ &lt;strong&gt;Theoretical Phonology: Suprasegmental Phonology.&lt;/strong&gt; Department of English Studies. &lt;em&gt;University of Cyprus&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Assuming no prior knowledge of Phonetics and Phonology, the course introduces students to the basic notions of these fields. The first part of this course explores the production, perception, and acoustics of speech sounds. More specifically, the course introduces the basic notions of sound structure, demonstrates how sounds are transcribed using the International Phonetic Alphabet, and explores the distinctive features of sounds. The second part provides an introduction to suprasegmental structure. The course is arranged thematically: each week, we will examine a major topic providing theoretical, methodological and empirical work.&lt;/p&gt;
+
+&lt;p&gt;♦ &lt;strong&gt;Principles of Linguistic Analysis I.&lt;/strong&gt;  Department of English Studies. &lt;em&gt;University of Cyprus&lt;/em&gt;.
+Principles of Linguistic Analysis I examines core areas in linguistic theory and aims to provide a most up-to-date, comprehensive and detailed overview of phonology. More specifically, the course has the following goals:
+to introduce students to the most influential areas of phonological theory,
+to discuss and compare answers and solutions phonological theories provide to major phonological questions,
+to enable students to read the current scholarly literature with critical understanding and perspective,
+to show how phonology interacts with other linguistic domains such as phonetics, morphology, syntax, and language acquisition.&lt;/p&gt;
+
+&lt;p&gt;♦ &lt;strong&gt;Research Design and Statistics for Linguists using R.&lt;/strong&gt; Department of English Studies. &lt;em&gt;University of Cyprus&lt;/em&gt;.
+This course provides an introduction to research methodology, experimental design and statistics for linguists. By the end of the course, students will be able to&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;define a research hypothesis and articulate a research question,&lt;/li&gt;
+  &lt;li&gt;plan a research project and design an experiment,&lt;/li&gt;
+  &lt;li&gt;define response variables,&lt;/li&gt;
+  &lt;li&gt;define explanatory variables,&lt;/li&gt;
+  &lt;li&gt;perform the right statistics test,&lt;/li&gt;
+  &lt;li&gt;execute the test on the R statistics package,&lt;/li&gt;
+  &lt;li&gt;learn to create graphs and present their findings.
+The course covers these topics through the discussion of key research methods and resources and through the analysis of real-life datasets, by using R code.  It will therefore be of major interest to everyone interested in designing experiments and performing statistical analyses, but it is also of utmost importance for everyone interested in reading and understanding research articles.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;♦ &lt;strong&gt;Information Structure and Prosody&lt;/strong&gt;.  Department of English Studies. &lt;em&gt;University of Cyprus&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;‘Information Structure and Prosody’ is indented to provide students with a sound coverage of the topics related to the melodic patterns of Speech Prosody and their interactions with ‘Information Structure’ and ‘Discourse’. The course presents the state of the art in the field; it demonstrates current research trends and uncovers potential directions for future research. It is therefore of major interest to everyone studying phonology and semantics and their interaction. The course is arranged thematically: each week, we examine a major topic, providing theoretical, methodological and empirical work (base on observation &amp;amp; experimentation).&lt;/p&gt;
+
+&lt;p&gt;♦ &lt;strong&gt;Sociolinguistics: Phonetics and Phonology.&lt;/strong&gt;  Department of English Studies. &lt;em&gt;University of Cyprus&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Why do we speak differently from our grandparents? Why speakers from some areas sound strange? What do we mean when we say this woman/man sounds like a doctor? Why languages change and how do we study language change? How do linguists study language variation? This class provides an introduction to Sociophonetics, the multifaceted subfield of linguistics in which phonetics, phonology and sociolinguistics interact. We will cover the following topics:&lt;/p&gt;
+
+&lt;p&gt;(a) sociophonetics: approaches, methodologies, and ethics.&lt;/p&gt;
+
+&lt;p&gt;(b) field studies and data collection.&lt;/p&gt;
+
+&lt;p&gt;(c) phonetic/phonological variation.&lt;/p&gt;
+
+&lt;p&gt;(d) language change.&lt;/p&gt;
+
+&lt;p&gt;This class is essentially a trip into language and society. We will meet the main practitioners of the field. We will try to uncover the philosophies that underlie their thought and the ideas that formed their approaches. We will explore thoroughly the phonemic systems of languages and try to uncover the reasons of change.&lt;/p&gt;
+
+&lt;p&gt;♦ &lt;strong&gt;Phonetics and Phonology: Advanced Level.&lt;/strong&gt;  Department of English Studies. &lt;em&gt;University of Cyprus&lt;/em&gt;. The ‘English Phonetics and Phonology: Advanced Level’ is an integrated and structured course of key topics representing the state of the art in the field of phonetics and phonology. Focusing on linguistic, interactional, social, cultural and ideological issues, the course is organized to provide a graded introduction to Phonetics and Phonological theory which is essential for sociolinguistic research. The course includes:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;the study of fundamental concepts in phonetics and phonology,&lt;/li&gt;
+  &lt;li&gt;the study of the sociolinguistic aspects of speech and&lt;/li&gt;
+  &lt;li&gt;the study of interactional phonetics and phonology.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It covers all these topics through the discussion of key research methods and resources, reading classic texts written by leading theorists, highlighting key concepts in different traditions of phonetics and phonology and finally by studying important papers by contemporary specialists showing what phonetics and phonology is able to achieve if applied to different social issues and social settings. It will therefore be  of major interest to everyone interested in phonetics, phonology, conversation analysis, discourse analysis and sociolinguistics.&lt;/p&gt;
+
+&lt;p&gt;♦ &lt;strong&gt;Speech Melody and Conversation.&lt;/strong&gt;  Department of English Studies. &lt;em&gt;University of Cyprus&lt;/em&gt;.‘Speech Melody and Conversation’ provides an overview of speech melody, its linguistic functions and applications in talk in interaction. The course focuses on linguistic, interactional, social, and cultural issues, integrating both theory and practice. The course introduces:
+fundamental concepts in speech melody and prosody.
+grammatical aspects of speech melody and
+applications of speech melody in organizing everyday interactions.
+The course covers these topics through the analysis of oral texts, discussion of key research methods and resources, reading texts written by leading theorists and finally by studying important papers by contemporary specialists. It will therefore be of major interest to everyone interested in phonetics, conversation analysis, discourse analysis and sociolinguistics.&lt;/p&gt;
+
+&lt;p&gt;♦ &lt;strong&gt;Sociolinguistics.&lt;/strong&gt;  Department of English Studies. &lt;em&gt;University of Cyprus&lt;/em&gt;.
+Introduction to Sociolinguistics is indented to provide students with a sound coverage of the topics related to ‘Sociolinguistics’ and ‘The Sociology of Language’. The student gradually will develop the joined premises that interpersonal communication practices are culturally variable, socially stratified and geographically distributed. The course is arranged thematically: each week, we will examine a major topic of sociolinguistics concern, providing theoretical, methodological and empirical work (observation and or experimental). Students are responsible for writing a short, weekly assignment paper or small projects, to be handed in before each week’s final class. Students should, at a minimum, be prepared to discuss each of that class period’s focus questions in conference.Assignments must be turned in on time to receive full credit and comments. Extensions will be granted only in cases of illness, family emergency, etc. Late assignments will not be accepted for credit if turned in after the problem set has been returned to students, or discussed in class, whichever comes first. You are encouraged to work on problem sets together, but your answers must be written up separately and in your own words.&lt;/p&gt;</content><author><name></name></author><summary type="html">Current:</summary></entry><entry><title type="html">Statistics</title><link href="http://localhost:4000/research/project/2017/05/31/statistics.html" rel="alternate" type="text/html" title="Statistics" /><published>2017-05-31T14:08:38+02:00</published><updated>2017-05-31T14:08:38+02:00</updated><id>http://localhost:4000/research/project/2017/05/31/statistics</id><content type="html" xml:base="http://localhost:4000/research/project/2017/05/31/statistics.html"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Phonetics</title><link href="http://localhost:4000/research/project/2017/05/31/speechpathology.html" rel="alternate" type="text/html" title="Phonetics" /><published>2017-05-31T14:08:38+02:00</published><updated>2017-05-31T14:08:38+02:00</updated><id>http://localhost:4000/research/project/2017/05/31/speechpathology</id><content type="html" xml:base="http://localhost:4000/research/project/2017/05/31/speechpathology.html">&lt;h2 id=&quot;vowels-and-consonants&quot;&gt;Vowels and Consonants&lt;/h2&gt;
 
 &lt;p&gt;There have been
 important advances in the field of phonetics and speech acoustics,
@@ -5186,114 +5260,4 @@ cross-varietaly.&lt;/p&gt;
 
 &lt;p&gt;Another relevant issue of the phonology of intonation is the formal description of pitch accents that make up the phonemic inventory of a language or dialect. Themistocleous (2011b) provides the first description of Cypriot Greek pitch accents and compares their production with those of Standard Modern Greek. Specifically, Themistocleous (2011) provides a model of prenuclear and nuclear pitch accent accents of Cypriot Greek. He also shows that there is significant dialectal variation in the realization of pitch accents with respect to their alignment and pitch range. Overall, Themistocleous (2011) provided a model about the way pitch accents manifest categories of information structure, namely information focus, topic, contrastive focus, and contrastive topics (see also Themistocleous, 2012).&lt;/p&gt;
 
-&lt;p&gt;Prosodic structure refers to the phonological constituents of prosodic hierarchy, such as the syllable, the foot, the phonological words and intermediate and intonational phrase. These phonological constituents account for various phenomena that take place at their edges, one of these phenomena is final lengthening. In Themistocleous (2014), I conducted two experiments that investigate the interaction of edge-tones and final lengthening. The study shows that in Cypriot Greek the following occur: (a) lengthening applies primarily on the syllable nucleus not the syllable onset, which suggests variety specific effects of lengthening; (b) lengthening depends on the edge-tones, namely, polar questions trigger more lengthening than statements and wh-questions; (c) lengthening provides support for at least two distinct prosodic domains over the phonological word, the intonational phrase and the intermediate phrase; greater lengthening associates with the first and shorter lengthening with the latter; (d) finally, syllable duration depends on the syllable distance from the boundary, i.e., lengthening locally applies on penultimate and ultimate syllables whereas antepenultimates are affected the least. Additionally, by pointing to the distinct lengthening effects of edge-tones and domain-boundaries, the findings provide evidence for dinstinct lengthening devices.&lt;/p&gt;</content><author><name></name></author><summary type="html">Goal: Determine the effects of Information Structure on Prosody cross-varietaly.</summary></entry><entry><title type="html">Programming Languages</title><link href="http://localhost:4000/research/project/2017/05/31/programming.html" rel="alternate" type="text/html" title="Programming Languages" /><published>2017-05-31T14:08:38+02:00</published><updated>2017-05-31T14:08:38+02:00</updated><id>http://localhost:4000/research/project/2017/05/31/programming</id><content type="html" xml:base="http://localhost:4000/research/project/2017/05/31/programming.html"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Phonology</title><link href="http://localhost:4000/research/project/2017/05/31/phonology.html" rel="alternate" type="text/html" title="Phonology" /><published>2017-05-31T14:08:38+02:00</published><updated>2017-05-31T14:08:38+02:00</updated><id>http://localhost:4000/research/project/2017/05/31/phonology</id><content type="html" xml:base="http://localhost:4000/research/project/2017/05/31/phonology.html"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Phonetics</title><link href="http://localhost:4000/research/project/2017/05/31/phonetics.html" rel="alternate" type="text/html" title="Phonetics" /><published>2017-05-31T14:08:38+02:00</published><updated>2017-05-31T14:08:38+02:00</updated><id>http://localhost:4000/research/project/2017/05/31/phonetics</id><content type="html" xml:base="http://localhost:4000/research/project/2017/05/31/phonetics.html">&lt;h2 id=&quot;vowels-and-consonants&quot;&gt;Vowels and Consonants&lt;/h2&gt;
-
-&lt;p&gt;There have been
-important advances in the field of phonetics and speech acoustics,
-which established the acoustic properties of vowels and consonants. Many
-studies  were guided primarily by the urge to
-identify the invariant features of speech that realize speech sounds. The
-invariant features were considered as the ``actual’’ properties of vowels and
-consonants whereas the non-invariant features were thought to be insignificant.
-For instance, vowels were identified by the first two—and in some cases
-three—formant frequencies, which were measured once in the middle of each
-formant frequency. Along with this line of research, however, there has been an
-increasing interest over the effects of factors, such as speaker physiology,
-sociolinguistic properties, emotional state etc. on the acoustic structure of
-vowels and consonants. Following this line of research, in a number of studies,
-I attempt to determine how vowel and consonant spectra convey both linguistic
-and non-linguistic information. To understand these patterns, I employ methods
-from signal processing and machine learning. Especially, I am extremely
-interested in machine learning methods, such as deep Neural Networks, SVMs,
-HMMs, which are behind current impressive achievements in text-to-speech,
-speech perception, machine translation, image description generation, and
-semantic interpretation. I believe that these methods can offer insights into
-human perception and cognition including the processing and accessing
-information.&lt;/p&gt;
-
-&lt;p&gt;Specifically, in an article, which has been published in \emph{Speech
-Communication} (Themistocleous, 2017), I provide a classification model of two
-Modern Greek dialects, namely Athenian Greek and Cypriot Greek, using
-information from formant dynamics of $F1, F2, F3, F4$ and vowel duration. The
-measurements were employed in classification experiments, using three
-classifiers: Linear Discriminant Analysis, Flexible Discriminant Analysis, and
-C5.0. The latter outperformed the other classification models, resulting in a
-higher classification accuracy of dialects, namely Athenian Greek and Cypriot
-Greek. C5.0 classification shows that the duration and the zeroth coefficient of
-$F2$, $F3$, and $F4$ contribute more to the classification of the dialect than
-the other measurements; it also shows that formant dynamics are important for
-the classification of dialect. An important contribution of this work is that it
-demonstrates how acoustic properties are fined-tuned to convey both linguistic
-and non-linguistic information.&lt;/p&gt;
-
-&lt;p&gt;In an article, which was published in \emph{Phonetica} (Themistocleous 2017b),
-I investigated the acoustic properties of vowels of Standard Modern Greek (SMG)
-and Cypriot Greek (CG). The study shows that the two varieties differ in their
-vowels. The findings show that Greek stressed vowels are more peripheral than
-unstressed vowels, (2) SMG unstressed /i u/ vowels are more raised than CG
-vowels, (3) SMG unstressed vowels are shorter than CG unstressed vowels, and
-(4) SMG /i o u/ are more rounded than the corresponding CG vowels. Moreover, it
-shows that variation applies to specific subsystems, as it is the unstressed
-vowels depending on the dialect whereas the stressed vowels display only minor
-differences between varieties. The sociolinguistic implications of these
-findings with respect to vowel raising and vowel reduction are discussed in the
-paper. That study is the first to provide acoustic evidence of Cypriot Greek
-vowels and the first to provide acoustic evidence on the sociophonetic
-differences of southern Greek dialects.&lt;/p&gt;
-
-&lt;p&gt;\begin{figure}
- \includegraphics[width= 1\linewidth]{./images/dynamics.jpg}
- \caption{Mean relative positions of SMG and CG vowels in the $F1
- \times F2$ plane and their formant movement measured at seven equidistant
- points (20-30-40-50-60-70-80\%) across the vowel. Shown are stressed and
- unstressed variants. Arrows are located at the 80\%-point of the formant
- movement.}
-\label{dynamics}
-\end{figure}&lt;/p&gt;
-
-&lt;p&gt;In a follow up article to Phonetica (submitted), I am exploring the dynamics of
-vowel formants and how they change during articulation. The findings from vowel
-dynamics are impressive as they show that although Modern Greek vowels are
-considered relatively monothoptongal, their formants change during articulation
-significantly (see Figure \ref{dynamics}). Low and middle vowels shift from low to high; the
-high vowel [i] remains relatively static and the vowel [u] becomes more fronted.
-Most importantly vowel quality, stress, and dialect affect significantly formant
-dynamics. The study argues that the dynamic approaches can constitute a
-significant methodological improvement over static approaches of vowels.&lt;/p&gt;
-
-&lt;p&gt;In an article published in the \emph{Journal of the Acoustical Society of
-America}, I investigated the effects of dialect on the spectral properties of
-stop bursts. An impressing finding is that besides linguistic information,
-i.e., the place of articulation and the stress, bursts, which are extremely
-short segments of speech, can also encode dialectal information. A
-classification model using decision trees showed that skewness and standard
-deviation enable the classification of bursts across dialects.&lt;/p&gt;
-
-&lt;p&gt;\begin{figure}
- \includegraphics[width= 1\linewidth]{./images/a.jpg}
-\caption{Coarticulatory effects of Cypriot Greek fricatives  on the F1
- and F2 of the following vowel.}
- \label{coart}
-\end{figure}&lt;/p&gt;
-
-&lt;p&gt;Several studies have explored the acoustic structure of fricatives, yet there
-has very little acoustic research on the effects of dialects on the production
-of fricatives. In an article that was submitted this June (June 2017) at the
-\emph{Frontiers of Psychology}, I investigate the effects dialect on the
-temporal, spectral, and coarticulatory properties of fricatives and aim to
-determine the acoustic properties that convey information about the dialect
-(Athenian Greek and Cypriot Greek). Productions of voiced and voiceless
-labiodental, dental, alveolar, palatal, and velar fricatives were extracted from
-a speaking task from typically speaking female adult speakers (25 Cypriot Greek
-and 20 Athenian Greek speakers). Measures were made of spectral properties,
-using a spectral moments analysis. The formants of the following vowel were
-measured and second degree polynomials of the formant contours were calculated.
-The findings show that the two dialects differed in their alveolar fricatives.
-Duration, spectral moments, and the starting frequencies of $F1$, $F2$, $F3$,
-and $F4$ contributed the most to the classification of dialect. The measures
-showed effects of the dialect on the acoustic structure of fricatives and on the
-coarticulation of fricatives with the following vowel. These findings provide a
-solid evidence base for the manifestation of dialect information in the acoustic
-structure of fricatives. The study argues that these patterns of features
-provide the foundation for the emergence of sociophonetic shibboleths
-distinguishing the speakers of one variety from the speakers of another variety.&lt;/p&gt;</content><author><name></name></author><summary type="html">Vowels and Consonants</summary></entry></feed>
+&lt;p&gt;Prosodic structure refers to the phonological constituents of prosodic hierarchy, such as the syllable, the foot, the phonological words and intermediate and intonational phrase. These phonological constituents account for various phenomena that take place at their edges, one of these phenomena is final lengthening. In Themistocleous (2014), I conducted two experiments that investigate the interaction of edge-tones and final lengthening. The study shows that in Cypriot Greek the following occur: (a) lengthening applies primarily on the syllable nucleus not the syllable onset, which suggests variety specific effects of lengthening; (b) lengthening depends on the edge-tones, namely, polar questions trigger more lengthening than statements and wh-questions; (c) lengthening provides support for at least two distinct prosodic domains over the phonological word, the intonational phrase and the intermediate phrase; greater lengthening associates with the first and shorter lengthening with the latter; (d) finally, syllable duration depends on the syllable distance from the boundary, i.e., lengthening locally applies on penultimate and ultimate syllables whereas antepenultimates are affected the least. Additionally, by pointing to the distinct lengthening effects of edge-tones and domain-boundaries, the findings provide evidence for dinstinct lengthening devices.&lt;/p&gt;</content><author><name></name></author><summary type="html">Goal: Determine the effects of Information Structure on Prosody cross-varietaly.</summary></entry><entry><title type="html">Programming Languages</title><link href="http://localhost:4000/research/project/2017/05/31/programming.html" rel="alternate" type="text/html" title="Programming Languages" /><published>2017-05-31T14:08:38+02:00</published><updated>2017-05-31T14:08:38+02:00</updated><id>http://localhost:4000/research/project/2017/05/31/programming</id><content type="html" xml:base="http://localhost:4000/research/project/2017/05/31/programming.html"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Phonology</title><link href="http://localhost:4000/research/project/2017/05/31/phonology.html" rel="alternate" type="text/html" title="Phonology" /><published>2017-05-31T14:08:38+02:00</published><updated>2017-05-31T14:08:38+02:00</updated><id>http://localhost:4000/research/project/2017/05/31/phonology</id><content type="html" xml:base="http://localhost:4000/research/project/2017/05/31/phonology.html"></content><author><name></name></author><summary type="html"></summary></entry></feed>
