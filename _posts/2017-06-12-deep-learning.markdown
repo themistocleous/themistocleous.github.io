@@ -6,6 +6,9 @@ categories: Research Project
 ---
 ![screenshot](/img/headers/brain.jpg)
 
+* Note: I created a GitHub repository with selected papers, which can be accessed [here](https://github.com/themistocleous/Deep_Learning_Papers).
+
+
 <p style="text-align:justify;">Deep Neural Networks, SVMs, HMMs  constitute the powerhouse of most applications
 in  text-to-speech, speech  perception, machine  translation, image  description
 generation, and  semantic interpretation. They  also offer insights  about human
