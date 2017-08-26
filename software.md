@@ -5,7 +5,9 @@ permalink: /software/
 weight: 2
 ---
 
-# Introduction Several applications can be found in my [GitHub](https://github.com/themistocleous) repositories.
+# Introduction
+
+Please also visit my [GitHub](https://github.com/themistocleous) repositories.
 
 # PhoneticsIPA
 <img src="/img/img_papers/greekipa.png" alt="IPA4" style="width: 400px;"/>
