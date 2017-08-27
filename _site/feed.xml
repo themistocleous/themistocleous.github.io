@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-08-27T22:21:25+02:00</updated><id>http://localhost:4000/</id><title type="html">Charalambos (Haris) Themistocleous</title><subtitle>Charalambos Themistocleous Website</subtitle><entry><title type="html">IPAGreek Application</title><link href="http://localhost:4000/research/project/2017/08/27/IPA.html" rel="alternate" type="text/html" title="IPAGreek Application" /><published>2017-08-27T10:08:38+02:00</published><updated>2017-08-27T10:08:38+02:00</updated><id>http://localhost:4000/research/project/2017/08/27/IPA</id><content type="html" xml:base="http://localhost:4000/research/project/2017/08/27/IPA.html">&lt;p&gt;&lt;img src=&quot;/img/img_papers/englishipa.jpg&quot; alt=&quot;IPA4&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-08-27T22:23:30+02:00</updated><id>http://localhost:4000/</id><title type="html">Charalambos (Haris) Themistocleous</title><subtitle>Charalambos Themistocleous Website</subtitle><entry><title type="html">IPAGreek Application</title><link href="http://localhost:4000/research/project/2017/08/27/IPA.html" rel="alternate" type="text/html" title="IPAGreek Application" /><published>2017-08-27T10:08:38+02:00</published><updated>2017-08-27T10:08:38+02:00</updated><id>http://localhost:4000/research/project/2017/08/27/IPA</id><content type="html" xml:base="http://localhost:4000/research/project/2017/08/27/IPA.html">&lt;p&gt;&lt;img src=&quot;/img/img_papers/englishipa.jpg&quot; alt=&quot;IPA4&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The Phonetics (IPAGreek) is a computational implementation (in a windows text editor) of Standard Modern Greek and Cypriot Greek “phonological grammar”. The application enables users to transcribe text written in Greek orthography into the International Phonetics Alphabet (IPA).&lt;/p&gt;
 
@@ -526,7 +526,7 @@ Class 18 (printer friendly version)&lt;/td&gt;
 &lt;ul&gt;
 	&lt;li&gt;&lt;span style=&quot;color:#000000;&quot;&gt;&lt;a style=&quot;color:#000000;&quot; href=&quot;http://utbildning.gu.se/education/courses-and-programmes/course_detail/?courseid=LT2202&quot;&gt;LT2202 application details in English.&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
 	&lt;li&gt;&lt;span style=&quot;color:#000000;&quot;&gt;&lt;a style=&quot;color:#000000;&quot; href=&quot;http://utbildning.gu.se/kurser/kurs_information/?courseid=LT2202&quot;&gt;LT2202 application details in Swedish.&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Course Plan Course Page Course Plan Course Schedule   Class Topics Materials Code Class 1</summary></entry><entry><title type="html">Statistics</title><link href="http://localhost:4000/research/project/2017/05/31/statistics.html" rel="alternate" type="text/html" title="Statistics" /><published>2017-05-31T14:08:38+02:00</published><updated>2017-05-31T14:08:38+02:00</updated><id>http://localhost:4000/research/project/2017/05/31/statistics</id><content type="html" xml:base="http://localhost:4000/research/project/2017/05/31/statistics.html"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Phonetics</title><link href="http://localhost:4000/research/project/2017/05/31/speechpathology.html" rel="alternate" type="text/html" title="Phonetics" /><published>2017-05-31T14:08:38+02:00</published><updated>2017-05-31T14:08:38+02:00</updated><id>http://localhost:4000/research/project/2017/05/31/speechpathology</id><content type="html" xml:base="http://localhost:4000/research/project/2017/05/31/speechpathology.html">&lt;h1 id=&quot;speech-pathology&quot;&gt;Speech Pathology&lt;/h1&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Course Plan Course Page Course Plan Course Schedule   Class Topics Materials Code Class 1</summary></entry><entry><title type="html">Phonetics</title><link href="http://localhost:4000/research/project/2017/05/31/speechpathology.html" rel="alternate" type="text/html" title="Phonetics" /><published>2017-05-31T14:08:38+02:00</published><updated>2017-05-31T14:08:38+02:00</updated><id>http://localhost:4000/research/project/2017/05/31/speechpathology</id><content type="html" xml:base="http://localhost:4000/research/project/2017/05/31/speechpathology.html">&lt;h1 id=&quot;speech-pathology&quot;&gt;Speech Pathology&lt;/h1&gt;
 
 &lt;p&gt;In a number of studies, my aim has been to determine how atypical speech
 productions differ from typical ones. I consider the first line of research
@@ -5614,4 +5614,209 @@ cross-varietaly.&lt;/p&gt;
 
 &lt;p&gt;Another relevant issue of the phonology of intonation is the formal description of pitch accents that make up the phonemic inventory of a language or dialect. Themistocleous (2011b) provides the first description of Cypriot Greek pitch accents and compares their production with those of Standard Modern Greek. Specifically, Themistocleous (2011) provides a model of prenuclear and nuclear pitch accent accents of Cypriot Greek. He also shows that there is significant dialectal variation in the realization of pitch accents with respect to their alignment and pitch range. Overall, Themistocleous (2011) provided a model about the way pitch accents manifest categories of information structure, namely information focus, topic, contrastive focus, and contrastive topics (see also Themistocleous, 2012).&lt;/p&gt;
 
-&lt;p&gt;Prosodic structure refers to the phonological constituents of prosodic hierarchy, such as the syllable, the foot, the phonological words and intermediate and intonational phrase. These phonological constituents account for various phenomena that take place at their edges, one of these phenomena is final lengthening. In Themistocleous (2014), I conducted two experiments that investigate the interaction of edge-tones and final lengthening. The study shows that in Cypriot Greek the following occur: (a) lengthening applies primarily on the syllable nucleus not the syllable onset, which suggests variety specific effects of lengthening; (b) lengthening depends on the edge-tones, namely, polar questions trigger more lengthening than statements and wh-questions; (c) lengthening provides support for at least two distinct prosodic domains over the phonological word, the intonational phrase and the intermediate phrase; greater lengthening associates with the first and shorter lengthening with the latter; (d) finally, syllable duration depends on the syllable distance from the boundary, i.e., lengthening locally applies on penultimate and ultimate syllables whereas antepenultimates are affected the least. Additionally, by pointing to the distinct lengthening effects of edge-tones and domain-boundaries, the findings provide evidence for dinstinct lengthening devices.&lt;/p&gt;</content><author><name></name></author><summary type="html">Goal: Determine the effects of Information Structure on Prosody cross-varietaly.</summary></entry><entry><title type="html">Programming Languages</title><link href="http://localhost:4000/research/project/2017/05/31/programming.html" rel="alternate" type="text/html" title="Programming Languages" /><published>2017-05-31T14:08:38+02:00</published><updated>2017-05-31T14:08:38+02:00</updated><id>http://localhost:4000/research/project/2017/05/31/programming</id><content type="html" xml:base="http://localhost:4000/research/project/2017/05/31/programming.html"></content><author><name></name></author><summary type="html"></summary></entry></feed>
+&lt;p&gt;Prosodic structure refers to the phonological constituents of prosodic hierarchy, such as the syllable, the foot, the phonological words and intermediate and intonational phrase. These phonological constituents account for various phenomena that take place at their edges, one of these phenomena is final lengthening. In Themistocleous (2014), I conducted two experiments that investigate the interaction of edge-tones and final lengthening. The study shows that in Cypriot Greek the following occur: (a) lengthening applies primarily on the syllable nucleus not the syllable onset, which suggests variety specific effects of lengthening; (b) lengthening depends on the edge-tones, namely, polar questions trigger more lengthening than statements and wh-questions; (c) lengthening provides support for at least two distinct prosodic domains over the phonological word, the intonational phrase and the intermediate phrase; greater lengthening associates with the first and shorter lengthening with the latter; (d) finally, syllable duration depends on the syllable distance from the boundary, i.e., lengthening locally applies on penultimate and ultimate syllables whereas antepenultimates are affected the least. Additionally, by pointing to the distinct lengthening effects of edge-tones and domain-boundaries, the findings provide evidence for dinstinct lengthening devices.&lt;/p&gt;</content><author><name></name></author><summary type="html">Goal: Determine the effects of Information Structure on Prosody cross-varietaly.</summary></entry><entry><title type="html">Phonology</title><link href="http://localhost:4000/research/project/2017/05/31/phonology.html" rel="alternate" type="text/html" title="Phonology" /><published>2017-05-31T14:08:38+02:00</published><updated>2017-05-31T14:08:38+02:00</updated><id>http://localhost:4000/research/project/2017/05/31/phonology</id><content type="html" xml:base="http://localhost:4000/research/project/2017/05/31/phonology.html">&lt;h1 id=&quot;prosodic-phonology&quot;&gt;Prosodic Phonology&lt;/h1&gt;
+&lt;p&gt;Current phonological models aim to determine the
+structure of the &lt;em&gt;linguistic&lt;/em&gt; representation of speech melody. These models
+capture aspects of speech melody related to linguistic prominence (a.k.a.,
+tonicity), phrasing (a.k.a., tonality), and tune (questions, statements,
+commands etc.). The sociolinguistic and interactional aspects that speech
+melody conveys are considered &lt;em&gt;non-linguistic&lt;/em&gt; which is another way to say
+that they are outside the scope of phonological analysis. Even though this
+distinction has served the purposes of phonological theory, it does not capture
+all information encoded in speech signals during communication. In several
+works, my aim is to determine the linguistic and non-linguistic factors that
+influence prosodic production and its manifestation in speech signals.&lt;/p&gt;
+
+&lt;p&gt;In my PhD thesis (Themistocleous, 2011), I provided the first description of
+Cypriot Greek pitch accents and compared their production with those of Standard
+Modern Greek/Athenian Greek. An important contribution of the thesis is that it
+determines the effects of dialect on pitch accent production and perception. The
+two dialects differ in the alignment and pitch range of pitch accents, which
+result in dialectal differences in the realization of new information focus,
+contrastive focus, and contrastive topic. The thesis provides a linguistic model
+of the interface of prosody and information structure that captures the prosodic
+manifestation of information structure categories in Standard Modern Greek and
+Cypriot Greek prosody.&lt;/p&gt;
+
+&lt;p&gt;A follow-up study explored a long-standing problem in the phonology of prosody,
+namely how pitch accents align with respect to vowels and consonants. This
+problem is important as its answer determines how we define pitch accents as
+tonal units. Several hypotheses have been proposed that aimed to determine the
+timing of pitch accents with the segmental structure. In an article, which has
+been published in &lt;em&gt;Language and Speech&lt;/em&gt; (Themistocleous 2016), I
+investigated the predictions of three hypotheses of Autosegmental Metrical (AM)
+Phonology, namely those of the &lt;em&gt;invariance hypothesis&lt;/em&gt;, the &lt;em&gt;segmental
+anchoring hypothesis&lt;/em&gt;, and the &lt;em&gt;segmental anchorage hypothesis&lt;/em&gt;. I
+conducted two experiments: in the first, I manipulated the syllable patterns of
+the stressed syllable and in the second, I modified the distance (in number of
+syllables from one to six) of the prenuclear low and high (L&lt;em&gt;+H) pitch accent
+from the following pitch accent. The findings on the alignment of the low tone
+(L) corroborate the predictions of the *segmental anchoring hypothesis&lt;/em&gt;:
+the L persistently aligns inside the onset consonant, a few milliseconds before
+the stressed vowel. However, one unanticipated finding was that the alignment of
+the H depends on the number of unstressed syllables that follow the prenuclear
+pitch accent. What is important is that the ``wandering’’ of the H over multiple
+syllables is extremely rare among languages. This finding casts doubt on the
+&lt;em&gt;invariance hypothesis&lt;/em&gt; and the &lt;em&gt;segmental anchoring hypothesis&lt;/em&gt;, as
+well as indicating the need for a modified version of the &lt;em&gt;segmental
+anchorage hypothesis&lt;/em&gt;. To address the alignment of the H, I suggested that the H
+aligns within a segmental anchorage–the area that follows the prenuclear pitch
+accent–in such a way as to preserve the paradigmatic contrast between the L&lt;em&gt;+H
+prenuclear pitch accent and the L+H&lt;/em&gt; nuclear pitch accent.&lt;/p&gt;
+
+&lt;p&gt;The findings of this article make an important contribution to the field, as
+they challenge the existing timing criteria that determine pitch accents as
+phonological units. This combination of findings—along with the lingering
+issue of phonological descriptions that they do not capture non-linguistic
+meanings—gave support to a distinct approach of tonal structure.
+Specifically, in a current study presented in &lt;em&gt;Exling 2017&lt;/em&gt;, we provided a
+classification model of prosodic F0 contours of questions and statements
+(Bernardi and Themistocleous 2017) using state-of-the-art classification models
+based on two deep neural network architectures: a convolutional neural network
+(ConvNet) and a Long Short-Term memory (LSTM) neural network. We showed that
+ConvNets outperform LSTMs in learning and classifying polar questions and
+statements. The classification resulted in 96% accuracy, which is an extremely
+high classification accuracy. Essentially, the neural network learns the
+important patterns from the structure of $F0$ contours that enable the neural
+network to classify questions and statements. This line of research has the
+potential of capturing more information about prosody than any other current
+approach of prosodic structure, it can take into consideration global and local
+aspects of the $F0$ contour (that may or may not correspond to what
+phonological theories identify as pitch accents and boundary tones), and can
+capture both linguistic and non-linguistic meanings conveyed by speech melody.
+I believe that this line of research, using deep neural network architectures
+can potentially open new horizons towards understanding the relationship
+between speech production and meaning.&lt;/p&gt;
+
+&lt;p&gt;The temporal aspects of the utterance constitute another aspect of prosody.
+Especially, final lengthening can shed light on the hierarchy of prosodic
+domains and on the turn-taking exchanges. Higher order prosodic domains—such
+as the intonational phrase and the intermediate phase—are marked with greater
+final lengthening than lower order prosodic domains, such as the phonological
+word. In my MA thesis (Themistocleous 2008), I explored final lengthening and
+showed that differences in the duration of final lengthening depend on the
+prosodic structure of the utterance and on the dialect of the speaker. I
+explored this issue further in a study which was published in &lt;em&gt;Linguistic
+Variation&lt;/em&gt; (Themistocleous, 2014). Specifically, in that study, I conducted two
+experiments that investigate the interaction of edge-tones and final
+lengthening.&lt;/p&gt;
+
+&lt;p&gt;The study showed that in Cypriot Greek the following occur: (a) lengthening
+applies primarily on the syllable nucleus not on the syllable onset; (b)
+lengthening depends on the edge-tones, namely, polar questions trigger more
+lengthening than statements, and wh-questions; (c) lengthening provides support
+for at least two distinct prosodic domains over the phonological word: the
+intonational phrase and the intermediate phrase, greater lengthening associates
+with the first and shorter lengthening with the latter; (d) finally, syllable
+duration depends on the syllable distance from the boundary, i.e., lengthening
+applies locally on penultimate and ultimate syllables whereas antepenultimates
+are affected the least. An important finding of this study is that by pointing
+to the distinct lengthening effects of edge-tones and domain-boundaries, it
+provides evidence for two different sources of final lengthening: tonal
+lengthening and domain specific lengthening. This research on prosody is an
+ongoing one. Currently, I explore the relationship of prosody and turn-taking in
+conversations (see also my early studies: Themistocleous 2007, Botinis, Bakakou,
+Themistocleous 2007).&lt;/p&gt;</content><author><name></name></author><summary type="html">Prosodic Phonology Current phonological models aim to determine the structure of the linguistic representation of speech melody. These models capture aspects of speech melody related to linguistic prominence (a.k.a., tonicity), phrasing (a.k.a., tonality), and tune (questions, statements, commands etc.). The sociolinguistic and interactional aspects that speech melody conveys are considered non-linguistic which is another way to say that they are outside the scope of phonological analysis. Even though this distinction has served the purposes of phonological theory, it does not capture all information encoded in speech signals during communication. In several works, my aim is to determine the linguistic and non-linguistic factors that influence prosodic production and its manifestation in speech signals.</summary></entry><entry><title type="html">Phonetics</title><link href="http://localhost:4000/research/project/2017/05/31/phonetics.html" rel="alternate" type="text/html" title="Phonetics" /><published>2017-05-31T14:08:38+02:00</published><updated>2017-05-31T14:08:38+02:00</updated><id>http://localhost:4000/research/project/2017/05/31/phonetics</id><content type="html" xml:base="http://localhost:4000/research/project/2017/05/31/phonetics.html">&lt;p&gt;\textbf&lt;em&gt;\textsc&lt;/em&gt;Vowels and Consonants** The past sixty years have seen
+increasingly rapid advances in the field of phonetics and speech acoustics,
+which established the acoustic properties of vowels and consonants. Many
+studies within this research paradigm were guided primarily by the urge to
+identify the invariant features of speech that realize speech sounds. The
+invariant features were considered as the ``actual’’ properties of vowels and
+consonants whereas the non-invariant features were thought to be insignificant.
+For instance, vowels were identified by the first two—and in some cases
+three—formant frequencies, which were measured once in the middle of each
+formant frequency. Along with this line of research, however, there has been an
+increasing interest over the effects of factors, such as speaker physiology,
+sociolinguistic properties, emotional state etc. on the acoustic structure of
+vowels and consonants. Following this line of research, in a number of studies,
+I attempt to determine how vowel and consonant spectra convey both linguistic
+and non-linguistic information. To understand these patterns, I employ methods
+from signal processing and machine learning. Especially, I am extremely
+interested in machine learning methods, such as deep Neural Networks, SVMs,
+HMMs, which are behind current impressive achievements in text-to-speech,
+speech perception, machine translation, image description generation, and
+semantic interpretation. I believe that these methods can offer insights into
+human perception and cognition including the processing and accessing
+information.&lt;/p&gt;
+
+&lt;p&gt;Specifically, in an article, which has been published in &lt;em&gt;Speech
+Communication&lt;/em&gt; (Themistocleous, 2017), I provide a classification model of two
+Modern Greek dialects, namely Athenian Greek and Cypriot Greek, using
+information from formant dynamics of $F1, F2, F3, F4$ and vowel duration. The
+measurements were employed in classification experiments, using three
+classifiers: Linear Discriminant Analysis, Flexible Discriminant Analysis, and
+C5.0. The latter outperformed the other classification models, resulting in a
+higher classification accuracy of dialects, namely Athenian Greek and Cypriot
+Greek. C5.0 classification shows that the duration and the zeroth coefficient of
+$F2$, $F3$, and $F4$ contribute more to the classification of the dialect than
+the other measurements; it also shows that formant dynamics are important for
+the classification of dialect. An important contribution of this work is that it
+demonstrates how acoustic properties are fined-tuned to convey both linguistic
+and non-linguistic information.&lt;/p&gt;
+
+&lt;p&gt;In an article, which was published in &lt;em&gt;Phonetica&lt;/em&gt; (Themistocleous 2017b),
+I investigated the acoustic properties of vowels of Standard Modern Greek (SMG)
+and Cypriot Greek (CG). The study shows that the two varieties differ in their
+vowels. The findings show that Greek stressed vowels are more peripheral than
+unstressed vowels, (2) SMG unstressed /i u/ vowels are more raised than CG
+vowels, (3) SMG unstressed vowels are shorter than CG unstressed vowels, and
+(4) SMG /i o u/ are more rounded than the corresponding CG vowels. Moreover, it
+shows that variation applies to specific subsystems, as it is the unstressed
+vowels depending on the dialect whereas the stressed vowels display only minor
+differences between varieties. The sociolinguistic implications of these
+findings with respect to vowel raising and vowel reduction are discussed in the
+paper. That study is the first to provide acoustic evidence of Cypriot Greek
+vowels and the first to provide acoustic evidence on the sociophonetic
+differences of southern Greek dialects.&lt;/p&gt;
+
+&lt;p&gt;\begin&lt;em&gt;figure&lt;/em&gt;
+ \includegraphics[width= 1\linewidth]&lt;em&gt;./images/dynamics.jpg&lt;/em&gt;
+Mean relative positions of SMG and CG vowels in the F1
+ x F2 plane and their formant movement measured at seven equidistant
+ points (20-30-40-50-60-70-80\%) across the vowel. Shown are stressed and
+ unstressed variants. Arrows are located at the 80\%-point of the formant
+ movement.&lt;/p&gt;
+
+&lt;p&gt;In a follow up article to Phonetica (submitted). I am exploring the dynamics of
+vowel formants and how they change during articulation. The findings from vowel
+dynamics are impressive as they show that although Modern Greek vowels are
+considered relatively monothoptongal, their formants change during articulation
+significantly (see Figure \ref&lt;em&gt;dynamics&lt;/em&gt;). Low and middle vowels shift from low to high; the
+high vowel [i] remains relatively static and the vowel [u] becomes more fronted.
+Most importantly vowel quality, stress, and dialect affect significantly formant
+dynamics. The study argues that the dynamic approaches can constitute a
+significant methodological improvement over static approaches of vowels.&lt;/p&gt;
+
+&lt;p&gt;In an article published in the &lt;em&gt;Journal of the Acoustical Society of
+America&lt;/em&gt;, I investigated the effects of dialect on the spectral properties of
+stop bursts. An impressing finding is that besides linguistic information,
+i.e., the place of articulation and the stress, bursts, which are extremely
+short segments of speech, can also encode dialectal information. A
+classification model using decision trees showed that skewness and standard
+deviation enable the classification of bursts across dialects.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;\img\img_papers\a.jpg&quot;&gt;vowel&lt;/a&gt;
+Coarticulatory effects of Cypriot Greek fricatives  on the F1
+ and F2 of the following vowel.&lt;/p&gt;
+
+&lt;p&gt;Several studies have explored the acoustic structure of fricatives, yet there
+has very little acoustic research on the effects of dialects on the production
+of fricatives. In an article that was submitted this June (June 2017) at the
+&lt;em&gt;Frontiers of Psychology&lt;/em&gt;, I investigate the effects dialect on the
+temporal, spectral, and coarticulatory properties of fricatives and aim to
+determine the acoustic properties that convey information about the dialect
+(Athenian Greek and Cypriot Greek). Productions of voiced and voiceless
+labiodental, dental, alveolar, palatal, and velar fricatives were extracted from
+a speaking task from typically speaking female adult speakers (25 Cypriot Greek
+and 20 Athenian Greek speakers). Measures were made of spectral properties,
+using a spectral moments analysis. The formants of the following vowel were
+measured and second degree polynomials of the formant contours were calculated.
+The findings show that the two dialects differed in their alveolar fricatives.
+Duration, spectral moments, and the starting frequencies of $F1$, $F2$, $F3$,
+and $F4$ contributed the most to the classification of dialect. The measures
+showed effects of the dialect on the acoustic structure of fricatives and on the
+coarticulation of fricatives with the following vowel. These findings provide a
+solid evidence base for the manifestation of dialect information in the acoustic
+structure of fricatives. The study argues that these patterns of features
+provide the foundation for the emergence of sociophonetic shibboleths
+distinguishing the speakers of one variety from the speakers of another variety.&lt;/p&gt;</content><author><name></name></author><summary type="html">\textbf\textscVowels and Consonants** The past sixty years have seen increasingly rapid advances in the field of phonetics and speech acoustics, which established the acoustic properties of vowels and consonants. Many studies within this research paradigm were guided primarily by the urge to identify the invariant features of speech that realize speech sounds. The invariant features were considered as the ``actual’’ properties of vowels and consonants whereas the non-invariant features were thought to be insignificant. For instance, vowels were identified by the first two—and in some cases three—formant frequencies, which were measured once in the middle of each formant frequency. Along with this line of research, however, there has been an increasing interest over the effects of factors, such as speaker physiology, sociolinguistic properties, emotional state etc. on the acoustic structure of vowels and consonants. Following this line of research, in a number of studies, I attempt to determine how vowel and consonant spectra convey both linguistic and non-linguistic information. To understand these patterns, I employ methods from signal processing and machine learning. Especially, I am extremely interested in machine learning methods, such as deep Neural Networks, SVMs, HMMs, which are behind current impressive achievements in text-to-speech, speech perception, machine translation, image description generation, and semantic interpretation. I believe that these methods can offer insights into human perception and cognition including the processing and accessing information.</summary></entry></feed>
