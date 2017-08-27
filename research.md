@@ -21,8 +21,6 @@ some ideas for future research.
 #### [Phonology]({% post_url 2017-06-12-phonology %})
 #### [Phonetics]({% post_url 2017-06-12-phonetics %})
 #### [Speech and Writing]({% post_url 2017-06-12-speech_writing %})
-#### [Statistical Analysis]({% post_url 2017-06-12-statistics %})
-#### [Programming Languages]({% post_url 2017-06-12-programming %})
 #### [Introduction to R]({% post_url 2017-06-12-r %})
 This is a short introduction to R programming language for linguists who want to grasp an idea of how this language works.
 #### [Introduction to Python]({% post_url 2017-06-12-python %})

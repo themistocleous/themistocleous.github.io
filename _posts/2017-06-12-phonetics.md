@@ -4,12 +4,10 @@ title:  "Phonetics"
 date:   2017-05-31 14:08:38 +0200
 categories: Research Project
 ---
-## Vowels and Consonants
-
-There have been
-important advances in the field of phonetics and speech acoustics,
+\textbf*\textsc*Vowels and Consonants** The past sixty years have seen
+increasingly rapid advances in the field of phonetics and speech acoustics,
 which established the acoustic properties of vowels and consonants. Many
-studies  were guided primarily by the urge to
+studies within this research paradigm were guided primarily by the urge to
 identify the invariant features of speech that realize speech sounds. The
 invariant features were considered as the ``actual'' properties of vowels and
 consonants whereas the non-invariant features were thought to be insignificant.
@@ -29,8 +27,8 @@ semantic interpretation. I believe that these methods can offer insights into
 human perception and cognition including the processing and accessing
 information.
 
-Specifically, in an article, which has been published in \emph{Speech
-Communication} (Themistocleous, 2017), I provide a classification model of two
+Specifically, in an article, which has been published in *Speech
+Communication* (Themistocleous, 2017), I provide a classification model of two
 Modern Greek dialects, namely Athenian Greek and Cypriot Greek, using
 information from formant dynamics of $F1, F2, F3, F4$ and vowel duration. The
 measurements were employed in classification experiments, using three
@@ -44,7 +42,7 @@ the classification of dialect. An important contribution of this work is that it
 demonstrates how acoustic properties are fined-tuned to convey both linguistic
 and non-linguistic information.
 
-In an article, which was published in \emph{Phonetica} (Themistocleous 2017b),
+In an article, which was published in *Phonetica* (Themistocleous 2017b),
 I investigated the acoustic properties of vowels of Standard Modern Greek (SMG)
 and Cypriot Greek (CG). The study shows that the two varieties differ in their
 vowels. The findings show that Greek stressed vowels are more peripheral than
@@ -59,45 +57,42 @@ paper. That study is the first to provide acoustic evidence of Cypriot Greek
 vowels and the first to provide acoustic evidence on the sociophonetic
 differences of southern Greek dialects.
 
-\begin{figure}
- \includegraphics[width= 1\linewidth]{./images/dynamics.jpg}
- \caption{Mean relative positions of SMG and CG vowels in the $F1
- \times F2$ plane and their formant movement measured at seven equidistant
+\begin*figure*
+ \includegraphics[width= 1\linewidth]*./images/dynamics.jpg*
+Mean relative positions of SMG and CG vowels in the F1
+ x F2 plane and their formant movement measured at seven equidistant
  points (20-30-40-50-60-70-80\%) across the vowel. Shown are stressed and
  unstressed variants. Arrows are located at the 80\%-point of the formant
- movement.}
-\label{dynamics}
-\end{figure}
+ movement.
 
-In a follow up article to Phonetica (submitted), I am exploring the dynamics of
+
+In a follow up article to Phonetica (submitted). I am exploring the dynamics of
 vowel formants and how they change during articulation. The findings from vowel
 dynamics are impressive as they show that although Modern Greek vowels are
 considered relatively monothoptongal, their formants change during articulation
-significantly (see Figure \ref{dynamics}). Low and middle vowels shift from low to high; the
+significantly (see Figure \ref*dynamics*). Low and middle vowels shift from low to high; the
 high vowel [i] remains relatively static and the vowel [u] becomes more fronted.
 Most importantly vowel quality, stress, and dialect affect significantly formant
 dynamics. The study argues that the dynamic approaches can constitute a
 significant methodological improvement over static approaches of vowels.
 
-In an article published in the \emph{Journal of the Acoustical Society of
-America}, I investigated the effects of dialect on the spectral properties of
+In an article published in the *Journal of the Acoustical Society of
+America*, I investigated the effects of dialect on the spectral properties of
 stop bursts. An impressing finding is that besides linguistic information,
 i.e., the place of articulation and the stress, bursts, which are extremely
 short segments of speech, can also encode dialectal information. A
 classification model using decision trees showed that skewness and standard
 deviation enable the classification of bursts across dialects.
 
-\begin{figure}
- \includegraphics[width= 1\linewidth]{./images/a.jpg}
-\caption{Coarticulatory effects of Cypriot Greek fricatives  on the F1
- and F2 of the following vowel.}
- \label{coart}
-\end{figure}
+[vowel](\img\img_papers\a.jpg)
+Coarticulatory effects of Cypriot Greek fricatives  on the F1
+ and F2 of the following vowel.
+
 
 Several studies have explored the acoustic structure of fricatives, yet there
 has very little acoustic research on the effects of dialects on the production
 of fricatives. In an article that was submitted this June (June 2017) at the
-\emph{Frontiers of Psychology}, I investigate the effects dialect on the
+*Frontiers of Psychology*, I investigate the effects dialect on the
 temporal, spectral, and coarticulatory properties of fricatives and aim to
 determine the acoustic properties that convey information about the dialect
 (Athenian Greek and Cypriot Greek). Productions of voiced and voiceless
