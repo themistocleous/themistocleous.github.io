@@ -22,8 +22,8 @@ The Phonetics (IPAGreek) is a computational implementation (in a windows text ed
 The application can help phoneticians, sociolinguistics, lexicographers etc. to automatically transcribe their data.  The application is now open sourced and you may download from GitHub. See details below:
 
 ## Download
-[English Version: Download the current Windows version here.](https://github.com/themistocleous/IPA_English/raw/master/IPA4.zip)
-[Greek Version: Download the current windows version here.](https://github.com/themistocleous/IPA_Greek/raw/master/IPA4.zip)
+- [English Version: Download the current Windows version here.](https://github.com/themistocleous/IPA_English/raw/master/IPA4.zip)
+- [Greek Version: Download the current windows version here.](https://github.com/themistocleous/IPA_Greek/raw/master/IPA4.zip)
 ## Cite:
 You may cite the software as follows:
 
