@@ -4,7 +4,6 @@ title: Applications
 permalink: /software/
 weight: 2
 ---
-
 # Introduction
 
 Please also visit my [GitHub](https://github.com/themistocleous) repositories.
@@ -53,13 +52,14 @@ iii. Open Terminal and run the command qlmanage -r If you want to copy text from
 ```
 defaults write com.apple.finder QLEnableTextSelection -bool true; killall Finder S
 ```
-# Keyboard layout windows
+# Keyboard layouts for Windows OS
+You may find more updated information about Keyboard layouts [here](https://github.com/themistocleous/Keyboard_Layouts). 
 
-- IPA Keyboard Layout allows you to type IPA symbols fast and easy. You can download it from here (click here for help).
+- *Cypriot Greek Keyboard:* A keyboard layout that facilitates writing Cypriot Greek text. [Click here to download](https://github.com/themistocleous/Keyboard_Layouts/raw/master/CypriotGreekMonotonic.zip).
 
-- Keyboard for paleographers: This keyboard software includes special symbols used in paleography (Windows systems). You can download this from here or by e-mailing me.
+- *IPA Keyboard Layout:* A keyboard layout that facilitates writing texts with IPA symbols (mainly for Greek). [Click here to download](https://github.com/themistocleous/Keyboard_Layouts/blob/master/KeyboardLayout_IPAGreek.zip).
 
-- Greek Keyboard (for Greek Dialects) (including Polytonic Greek) There are two dialectal keyboards (a) Monotonic and (b) Polytonic (Windows systems). You can download these from here else you can e-mail me.
+- *Keyboard for paleographers:* This keyboard layout includes special symbols used in paleography. [Click here to download](https://github.com/themistocleous/Keyboard_Layouts/blob/master/KeyboardLayout_Paleographic.zip).
 
 # Webpages
 
