@@ -24,6 +24,7 @@ The application can help phoneticians, sociolinguistics, lexicographers etc. to 
 ## Download
 - [English Version: Download the current Windows version here.](https://github.com/themistocleous/IPA_English/raw/master/IPA4.zip)
 - [Greek Version: Download the current windows version here.](https://github.com/themistocleous/IPA_Greek/raw/master/IPA4.zip)
+
 ## Cite:
 You may cite the software as follows:
 
