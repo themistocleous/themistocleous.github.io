@@ -1,4 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-08-28T03:50:36+02:00</updated><id>http://localhost:4000/</id><title type="html">Charalambos (Haris) Themistocleous</title><subtitle>(c) 2017 Charalambos Themistocleous.</subtitle><entry><title type="html">IPAGreek Application</title><link href="http://localhost:4000/research/project/2017/08/27/IPA.html" rel="alternate" type="text/html" title="IPAGreek Application" /><published>2017-08-27T10:08:38+02:00</published><updated>2017-08-27T10:08:38+02:00</updated><id>http://localhost:4000/research/project/2017/08/27/IPA</id><content type="html" xml:base="http://localhost:4000/research/project/2017/08/27/IPA.html">&lt;p&gt;&lt;img src=&quot;/img/img_papers/englishipa.jpg&quot; alt=&quot;IPA4&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-08-28T09:08:37+02:00</updated><id>http://localhost:4000/</id><title type="html">Charalambos (Haris) Themistocleous</title><subtitle>(c) 2017 Charalambos Themistocleous.</subtitle><entry><title type="html">Keyboard Layouts</title><link href="http://localhost:4000/research/project/2017/08/28/Keyboard.html" rel="alternate" type="text/html" title="Keyboard Layouts" /><published>2017-08-28T04:01:01+02:00</published><updated>2017-08-28T04:01:01+02:00</updated><id>http://localhost:4000/research/project/2017/08/28/Keyboard</id><content type="html" xml:base="http://localhost:4000/research/project/2017/08/28/Keyboard.html">&lt;h1 id=&quot;keyboard-layouts-for-windows-os&quot;&gt;Keyboard Layouts for Windows OS&lt;/h1&gt;
+&lt;p&gt;Often we need to type symbols that do not exist in the standard keyboard layouts. One way to solve this issue is to assign specific symbols in several applications, such as Microsoft Word or LibreOffice Writer but with most applications this is not even an option. The best way to address this issue is by installing a specified keyboard layout. I created three keyboard layouts: one for writing Cypriot Greek and includes the characters that are needed to produce the post-alveolars,  a layout for accessing IPA symbols, and a layout for adding symbols when working with historical manuscripts (paleography).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/themistocleous/Keyboard_Layouts/raw/master/CG1.jpg&quot; alt=&quot;CG1&quot; /&gt;
+&lt;img src=&quot;https://github.com/themistocleous/Keyboard_Layouts/raw/master/CG2.jpg&quot; alt=&quot;CG2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/themistocleous/Keyboard_Layouts&quot;&gt;Visit the GitHub repository for more information.&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;download&quot;&gt;Download&lt;/h1&gt;
+&lt;p&gt;Download the zip file and right click to unzip. There are instructions inside the zip of how to install and use the keyboard layouts.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Cypriot Greek Keyboard:&lt;/strong&gt; A keyboard layout that facilitates writing Cypriot Greek text. &lt;a href=&quot;https://github.com/themistocleous/Keyboard_Layouts/raw/master/CypriotGreekMonotonic.zip&quot;&gt;Click here to download&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;IPA Keyboard Layout:&lt;/strong&gt; A keyboard layout that facilitates writing texts with IPA symbols (mainly for Greek). &lt;a href=&quot;https://github.com/themistocleous/Keyboard_Layouts/blob/master/KeyboardLayout_IPAGreek.zip&quot;&gt;Click here to download&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Keyboard for paleographers:&lt;/strong&gt; This keyboard layout includes special symbols used in paleography. &lt;a href=&quot;https://github.com/themistocleous/Keyboard_Layouts/blob/master/KeyboardLayout_Paleographic.zip&quot;&gt;Click here to download&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Keyboard Layouts for Windows OS Often we need to type symbols that do not exist in the standard keyboard layouts. One way to solve this issue is to assign specific symbols in several applications, such as Microsoft Word or LibreOffice Writer but with most applications this is not even an option. The best way to address this issue is by installing a specified keyboard layout. I created three keyboard layouts: one for writing Cypriot Greek and includes the characters that are needed to produce the post-alveolars, a layout for accessing IPA symbols, and a layout for adding symbols when working with historical manuscripts (paleography).</summary></entry><entry><title type="html">IPAGreek Application</title><link href="http://localhost:4000/research/project/2017/08/27/IPA.html" rel="alternate" type="text/html" title="IPAGreek Application" /><published>2017-08-27T10:08:38+02:00</published><updated>2017-08-27T10:08:38+02:00</updated><id>http://localhost:4000/research/project/2017/08/27/IPA</id><content type="html" xml:base="http://localhost:4000/research/project/2017/08/27/IPA.html">&lt;p&gt;&lt;img src=&quot;/img/img_papers/englishipa.jpg&quot; alt=&quot;IPA4&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The Phonetics (IPAGreek) is a computational implementation (in a windows text editor) of Standard Modern Greek and Cypriot Greek “phonological grammar”. The application enables users to transcribe text written in Greek orthography into the International Phonetics Alphabet (IPA).&lt;/p&gt;
 
@@ -5716,107 +5736,4 @@ provides evidence for two different sources of final lengthening: tonal
 lengthening and domain specific lengthening. This research on prosody is an
 ongoing one. Currently, I explore the relationship of prosody and turn-taking in
 conversations (see also my early studies: Themistocleous 2007, Botinis, Bakakou,
-Themistocleous 2007).&lt;/p&gt;</content><author><name></name></author><summary type="html">Prosodic Phonology Current phonological models aim to determine the structure of the linguistic representation of speech melody. These models capture aspects of speech melody related to linguistic prominence (a.k.a., tonicity), phrasing (a.k.a., tonality), and tune (questions, statements, commands etc.). The sociolinguistic and interactional aspects that speech melody conveys are considered non-linguistic which is another way to say that they are outside the scope of phonological analysis. Even though this distinction has served the purposes of phonological theory, it does not capture all information encoded in speech signals during communication. In several works, my aim is to determine the linguistic and non-linguistic factors that influence prosodic production and its manifestation in speech signals.</summary></entry><entry><title type="html">Phonetics</title><link href="http://localhost:4000/research/project/2017/05/31/phonetics.html" rel="alternate" type="text/html" title="Phonetics" /><published>2017-05-31T14:08:38+02:00</published><updated>2017-05-31T14:08:38+02:00</updated><id>http://localhost:4000/research/project/2017/05/31/phonetics</id><content type="html" xml:base="http://localhost:4000/research/project/2017/05/31/phonetics.html">&lt;p&gt;\textbf&lt;em&gt;\textsc&lt;/em&gt;Vowels and Consonants** The past sixty years have seen
-increasingly rapid advances in the field of phonetics and speech acoustics,
-which established the acoustic properties of vowels and consonants. Many
-studies within this research paradigm were guided primarily by the urge to
-identify the invariant features of speech that realize speech sounds. The
-invariant features were considered as the ``actual’’ properties of vowels and
-consonants whereas the non-invariant features were thought to be insignificant.
-For instance, vowels were identified by the first two—and in some cases
-three—formant frequencies, which were measured once in the middle of each
-formant frequency. Along with this line of research, however, there has been an
-increasing interest over the effects of factors, such as speaker physiology,
-sociolinguistic properties, emotional state etc. on the acoustic structure of
-vowels and consonants. Following this line of research, in a number of studies,
-I attempt to determine how vowel and consonant spectra convey both linguistic
-and non-linguistic information. To understand these patterns, I employ methods
-from signal processing and machine learning. Especially, I am extremely
-interested in machine learning methods, such as deep Neural Networks, SVMs,
-HMMs, which are behind current impressive achievements in text-to-speech,
-speech perception, machine translation, image description generation, and
-semantic interpretation. I believe that these methods can offer insights into
-human perception and cognition including the processing and accessing
-information.&lt;/p&gt;
-
-&lt;p&gt;Specifically, in an article, which has been published in &lt;em&gt;Speech
-Communication&lt;/em&gt; (Themistocleous, 2017), I provide a classification model of two
-Modern Greek dialects, namely Athenian Greek and Cypriot Greek, using
-information from formant dynamics of $F1, F2, F3, F4$ and vowel duration. The
-measurements were employed in classification experiments, using three
-classifiers: Linear Discriminant Analysis, Flexible Discriminant Analysis, and
-C5.0. The latter outperformed the other classification models, resulting in a
-higher classification accuracy of dialects, namely Athenian Greek and Cypriot
-Greek. C5.0 classification shows that the duration and the zeroth coefficient of
-$F2$, $F3$, and $F4$ contribute more to the classification of the dialect than
-the other measurements; it also shows that formant dynamics are important for
-the classification of dialect. An important contribution of this work is that it
-demonstrates how acoustic properties are fined-tuned to convey both linguistic
-and non-linguistic information.&lt;/p&gt;
-
-&lt;p&gt;In an article, which was published in &lt;em&gt;Phonetica&lt;/em&gt; (Themistocleous 2017b),
-I investigated the acoustic properties of vowels of Standard Modern Greek (SMG)
-and Cypriot Greek (CG). The study shows that the two varieties differ in their
-vowels. The findings show that Greek stressed vowels are more peripheral than
-unstressed vowels, (2) SMG unstressed /i u/ vowels are more raised than CG
-vowels, (3) SMG unstressed vowels are shorter than CG unstressed vowels, and
-(4) SMG /i o u/ are more rounded than the corresponding CG vowels. Moreover, it
-shows that variation applies to specific subsystems, as it is the unstressed
-vowels depending on the dialect whereas the stressed vowels display only minor
-differences between varieties. The sociolinguistic implications of these
-findings with respect to vowel raising and vowel reduction are discussed in the
-paper. That study is the first to provide acoustic evidence of Cypriot Greek
-vowels and the first to provide acoustic evidence on the sociophonetic
-differences of southern Greek dialects.&lt;/p&gt;
-
-&lt;p&gt;\begin&lt;em&gt;figure&lt;/em&gt;
- \includegraphics[width= 1\linewidth]&lt;em&gt;./images/dynamics.jpg&lt;/em&gt;
-Mean relative positions of SMG and CG vowels in the F1
- x F2 plane and their formant movement measured at seven equidistant
- points (20-30-40-50-60-70-80\%) across the vowel. Shown are stressed and
- unstressed variants. Arrows are located at the 80\%-point of the formant
- movement.&lt;/p&gt;
-
-&lt;p&gt;In a follow up article to Phonetica (submitted). I am exploring the dynamics of
-vowel formants and how they change during articulation. The findings from vowel
-dynamics are impressive as they show that although Modern Greek vowels are
-considered relatively monothoptongal, their formants change during articulation
-significantly (see Figure \ref&lt;em&gt;dynamics&lt;/em&gt;). Low and middle vowels shift from low to high; the
-high vowel [i] remains relatively static and the vowel [u] becomes more fronted.
-Most importantly vowel quality, stress, and dialect affect significantly formant
-dynamics. The study argues that the dynamic approaches can constitute a
-significant methodological improvement over static approaches of vowels.&lt;/p&gt;
-
-&lt;p&gt;In an article published in the &lt;em&gt;Journal of the Acoustical Society of
-America&lt;/em&gt;, I investigated the effects of dialect on the spectral properties of
-stop bursts. An impressing finding is that besides linguistic information,
-i.e., the place of articulation and the stress, bursts, which are extremely
-short segments of speech, can also encode dialectal information. A
-classification model using decision trees showed that skewness and standard
-deviation enable the classification of bursts across dialects.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;\img\img_papers\a.jpg&quot;&gt;vowel&lt;/a&gt;
-Coarticulatory effects of Cypriot Greek fricatives  on the F1
- and F2 of the following vowel.&lt;/p&gt;
-
-&lt;p&gt;Several studies have explored the acoustic structure of fricatives, yet there
-has very little acoustic research on the effects of dialects on the production
-of fricatives. In an article that was submitted this June (June 2017) at the
-&lt;em&gt;Frontiers of Psychology&lt;/em&gt;, I investigate the effects dialect on the
-temporal, spectral, and coarticulatory properties of fricatives and aim to
-determine the acoustic properties that convey information about the dialect
-(Athenian Greek and Cypriot Greek). Productions of voiced and voiceless
-labiodental, dental, alveolar, palatal, and velar fricatives were extracted from
-a speaking task from typically speaking female adult speakers (25 Cypriot Greek
-and 20 Athenian Greek speakers). Measures were made of spectral properties,
-using a spectral moments analysis. The formants of the following vowel were
-measured and second degree polynomials of the formant contours were calculated.
-The findings show that the two dialects differed in their alveolar fricatives.
-Duration, spectral moments, and the starting frequencies of $F1$, $F2$, $F3$,
-and $F4$ contributed the most to the classification of dialect. The measures
-showed effects of the dialect on the acoustic structure of fricatives and on the
-coarticulation of fricatives with the following vowel. These findings provide a
-solid evidence base for the manifestation of dialect information in the acoustic
-structure of fricatives. The study argues that these patterns of features
-provide the foundation for the emergence of sociophonetic shibboleths
-distinguishing the speakers of one variety from the speakers of another variety.&lt;/p&gt;</content><author><name></name></author><summary type="html">\textbf\textscVowels and Consonants** The past sixty years have seen increasingly rapid advances in the field of phonetics and speech acoustics, which established the acoustic properties of vowels and consonants. Many studies within this research paradigm were guided primarily by the urge to identify the invariant features of speech that realize speech sounds. The invariant features were considered as the ``actual’’ properties of vowels and consonants whereas the non-invariant features were thought to be insignificant. For instance, vowels were identified by the first two—and in some cases three—formant frequencies, which were measured once in the middle of each formant frequency. Along with this line of research, however, there has been an increasing interest over the effects of factors, such as speaker physiology, sociolinguistic properties, emotional state etc. on the acoustic structure of vowels and consonants. Following this line of research, in a number of studies, I attempt to determine how vowel and consonant spectra convey both linguistic and non-linguistic information. To understand these patterns, I employ methods from signal processing and machine learning. Especially, I am extremely interested in machine learning methods, such as deep Neural Networks, SVMs, HMMs, which are behind current impressive achievements in text-to-speech, speech perception, machine translation, image description generation, and semantic interpretation. I believe that these methods can offer insights into human perception and cognition including the processing and accessing information.</summary></entry></feed>
+Themistocleous 2007).&lt;/p&gt;</content><author><name></name></author><summary type="html">Prosodic Phonology Current phonological models aim to determine the structure of the linguistic representation of speech melody. These models capture aspects of speech melody related to linguistic prominence (a.k.a., tonicity), phrasing (a.k.a., tonality), and tune (questions, statements, commands etc.). The sociolinguistic and interactional aspects that speech melody conveys are considered non-linguistic which is another way to say that they are outside the scope of phonological analysis. Even though this distinction has served the purposes of phonological theory, it does not capture all information encoded in speech signals during communication. In several works, my aim is to determine the linguistic and non-linguistic factors that influence prosodic production and its manifestation in speech signals.</summary></entry></feed>
