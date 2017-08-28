@@ -31,6 +31,19 @@ Themistocleous Charalambos (2017).  IPAGreek: Computational Greek Phonology. [Co
 
 Themistocleous, Charalambos (2011). Computational Greek Phonology: IPAGreek. The 10th International Conference of Greek Linguistics. Komotini, Greece.
 
+# Keyboard layouts for Windows OS
+![CG2](https://github.com/themistocleous/Keyboard_Layouts/raw/master/CG2.jpg)
+
+Often we need to type symbols that do not exist in the standard keyboard layouts. One way to solve this issue is to assign specific symbols in several applications, such as Microsoft Word or LibreOffice Writer but with most applications this is not even an option. The best way to address this issue is by installing a specified keyboard layout. I created three keyboard layouts: one for writing Cypriot Greek and includes the characters that are needed to produce the post-alveolars,  a layout for accessing IPA symbols, and a layout for adding symbols when working with historical manuscripts (paleography).
+
+You may find more updated information about Keyboard layouts [here](https://github.com/themistocleous/Keyboard_Layouts).
+
+- **Cypriot Greek Keyboard:** A keyboard layout that facilitates writing Cypriot Greek text. [Click here to download](https://github.com/themistocleous/Keyboard_Layouts/raw/master/CypriotGreekMonotonic.zip).
+
+- **IPA Keyboard Layout:** A keyboard layout that facilitates writing texts with IPA symbols (mainly for Greek). [Click here to download](https://github.com/themistocleous/Keyboard_Layouts/blob/master/KeyboardLayout_IPAGreek.zip).
+
+- **Keyboard for paleographers:** This keyboard layout includes special symbols used in paleography. [Click here to download](https://github.com/themistocleous/Keyboard_Layouts/blob/master/KeyboardLayout_Paleographic.zip).
+
 # Part of Speech Taggers
 Taggers allow the automatic labelling of corpora with Part of Speech labels.:
 - Ancient Greek Tagger for tagging (adding POS labels) on Ancient Greek Texts and creating Ancient Greek corpora.
@@ -52,14 +65,6 @@ iii. Open Terminal and run the command qlmanage -r If you want to copy text from
 ```
 defaults write com.apple.finder QLEnableTextSelection -bool true; killall Finder S
 ```
-# Keyboard layouts for Windows OS
-You may find more updated information about Keyboard layouts [here](https://github.com/themistocleous/Keyboard_Layouts).
-
-- *Cypriot Greek Keyboard:* A keyboard layout that facilitates writing Cypriot Greek text. [Click here to download](https://github.com/themistocleous/Keyboard_Layouts/raw/master/CypriotGreekMonotonic.zip).
-
-- *IPA Keyboard Layout:* A keyboard layout that facilitates writing texts with IPA symbols (mainly for Greek). [Click here to download](https://github.com/themistocleous/Keyboard_Layouts/blob/master/KeyboardLayout_IPAGreek.zip).
-
-- *Keyboard for paleographers:* This keyboard layout includes special symbols used in paleography. [Click here to download](https://github.com/themistocleous/Keyboard_Layouts/blob/master/KeyboardLayout_Paleographic.zip).
 
 # Webpages
 
