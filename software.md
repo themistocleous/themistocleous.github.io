@@ -59,9 +59,9 @@ These include Graphical User Interphases (GUIs) for creating and viewing electro
 
 Praat Quick Look Plugin for viewing Praat script files and TextGrids in OS X  The Praat Quick Look Plugin allows you to view Praat files such as Praat Script Files and TextGrids.
 
-i. Download the [Quick Look Plugin](https://app.box.com/s/lm332l44ouv6rkc5gmeh) (it is a zip file so unzip it first).
-ii. Copy it to /Library/QuickLook/
-iii. Open Terminal and run the command qlmanage -r If you want to copy text from quick look you may run in Terminal the command:
+- i. Download the [Quick Look Plugin](https://app.box.com/s/lm332l44ouv6rkc5gmeh) (it is a zip file so unzip it first).
+- ii. Copy it to /Library/QuickLook/
+- iii. Open Terminal and run the command qlmanage -r If you want to copy text from quick look you may run in Terminal the command:
 ```
 defaults write com.apple.finder QLEnableTextSelection -bool true; killall Finder S
 ```
