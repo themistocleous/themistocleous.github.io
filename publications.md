@@ -150,7 +150,7 @@ Glosson tou Panepistimiou Athinon, Filosoﬁki Scholi, 9-11/12/2005.</span></p>
 <p style="text-align:justify;"><span >2010</span></p>
 <p style="text-align:justify;"><span >Vrynioti Eleni, Georgakopoulos Athanasios, <strong>Themistocleous, Charalambos</strong>, Kontonikolis Christophoros, Kousoulini Vasiliki, Papadopoulou Angeliki, Stamatelopoulos Nikitas, Fragaki Georgia, Fragouli Nandia (eds) (2010). <i>Proceedings of the 5th Athens Postgraduate Conference of the Faculty of Philology National and Kapodistrian University of Athens 29-31 May 2009</i>. Athens: UOA. |<em><a  href="http://athenslinguistics.web.officelive.com/Documents/Proceedings5.rar" target="_blank" rel="noopener noreferrer">Link</a></em>|<em><a  href="http://athenslinguistics.web.officelive.com/Documents/Suppl.pdf" target="_blank" rel="noopener noreferrer">Link</a></em>|</span></p>
 
-[see also](https://sites.google.com/site/athenspostgraduateconference/)
+[Visit Athens Postgraduate Conferences Website](https://sites.google.com/site/athenspostgraduateconference/)
 
 
 <p style="text-align:justify;"><span ><b><i>MANUSCRIPTS</i></b></span></p>
