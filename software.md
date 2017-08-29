@@ -40,11 +40,11 @@ You may find more updated information about Keyboard layouts [here](https://gith
 
 - **Cypriot Greek Keyboard (MACOS):** A keyboard layout that facilitates writing Cypriot Greek text. [Click here to download](https://github.com/themistocleous/Keyboard_Layouts/raw/master/CypriotGreek_MAC.zip).
 
-- **Cypriot Greek Keyboard:** A keyboard layout that facilitates writing Cypriot Greek text. [Click here to download](https://github.com/themistocleous/Keyboard_Layouts/raw/master/CypriotGreekMonotonic.zip).
+- **Cypriot Greek Keyboard (Windows):** A keyboard layout that facilitates writing Cypriot Greek text. [Click here to download](https://github.com/themistocleous/Keyboard_Layouts/raw/master/CypriotGreekMonotonic.zip).
 
-- **IPA Keyboard Layout:** A keyboard layout that facilitates writing texts with IPA symbols (mainly for Greek). [Click here to download](https://github.com/themistocleous/Keyboard_Layouts/blob/master/KeyboardLayout_IPAGreek.zip).
+- **IPA Keyboard Layout (Windows):** A keyboard layout that facilitates writing texts with IPA symbols (mainly for Greek). [Click here to download](https://github.com/themistocleous/Keyboard_Layouts/blob/master/KeyboardLayout_IPAGreek.zip).
 
-- **Keyboard for paleographers:** This keyboard layout includes special symbols used in paleography. [Click here to download](https://github.com/themistocleous/Keyboard_Layouts/blob/master/KeyboardLayout_Paleographic.zip).
+- **Keyboard for paleographers (Windows):** This keyboard layout includes special symbols used in paleography. [Click here to download](https://github.com/themistocleous/Keyboard_Layouts/blob/master/KeyboardLayout_Paleographic.zip).
 
 # Part of Speech Taggers
 Taggers allow the automatic labelling of corpora with Part of Speech labels.:
