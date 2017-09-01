@@ -21,7 +21,7 @@ some ideas for future research.
 #### [Phonology]({% post_url 2017-06-12-phonology %})
 #### [Phonetics]({% post_url 2017-06-12-phonetics %})
 #### [Speech and Writing]({% post_url 2017-06-12-speech_writing %})
-#### [Introduction to R]({% post_url 2017-06-12-r %})
+#### [Introduction to R]({{site.url}}/assets/RIntroCover.pdf)
 This is a short introduction to R programming language for linguists who want to grasp an idea of how this language works.
 #### [Introduction to Python]({% post_url 2017-06-12-python %})
 This is a short introduction to Python programming language for linguists who want to grasp an idea of how this language works.

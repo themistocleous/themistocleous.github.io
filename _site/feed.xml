@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-08-30T16:25:05+02:00</updated><id>http://localhost:4000/</id><title type="html">Charalambos (Haris) Themistocleous</title><subtitle>(c) 2017 Charalambos Themistocleous.</subtitle><entry><title type="html">Keyboard Layouts</title><link href="http://localhost:4000/research/project/2017/08/28/Keyboard.html" rel="alternate" type="text/html" title="Keyboard Layouts" /><published>2017-08-28T04:01:01+02:00</published><updated>2017-08-28T04:01:01+02:00</updated><id>http://localhost:4000/research/project/2017/08/28/Keyboard</id><content type="html" xml:base="http://localhost:4000/research/project/2017/08/28/Keyboard.html">&lt;h1 id=&quot;keyboard-layouts-for-windows-and-macos&quot;&gt;Keyboard Layouts for Windows and MACOS&lt;/h1&gt;
-&lt;p&gt;I am very pleased to announce the release of four keyboard layouts that can be useful to those working on phonetics, phonology, sociophonetics, etc. These keyboard layouts provide access to symbols that do not exist in the standard keyboard layouts. One way to solve this issue is to assign specific symbols in several applications, such as Microsoft Word or LibreOffice Writer but with most applications this is not even an option. The best way to address this issue is by installing a specified keyboard layout. I created three keyboard layouts: one for writing Cypriot Greek and includes the characters that are needed to produce the post-alveolars,  a layout for accessing IPA symbols, and a layout for adding symbols when working with historical manuscripts (paleography).&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-09-01T11:26:03+02:00</updated><id>http://localhost:4000/</id><title type="html">Charalambos (Haris) Themistocleous</title><subtitle>(c) 2017 Charalambos Themistocleous.</subtitle><entry><title type="html">Keyboard Layouts</title><link href="http://localhost:4000/research/project/2017/08/28/Keyboard.html" rel="alternate" type="text/html" title="Keyboard Layouts" /><published>2017-08-28T04:01:01+02:00</published><updated>2017-08-28T04:01:01+02:00</updated><id>http://localhost:4000/research/project/2017/08/28/Keyboard</id><content type="html" xml:base="http://localhost:4000/research/project/2017/08/28/Keyboard.html">&lt;h1 id=&quot;keyboard-layouts-for-windows-and-macos&quot;&gt;Keyboard Layouts for Windows and macOS&lt;/h1&gt;
+&lt;p&gt;Often we need to type symbols that do not exist in the standard keyboard layouts. One way to solve this issue is to assign specific symbols in several applications, such as Microsoft Word or LibreOffice Writer but with most applications this is not even an option. The best way to address this issue is by installing a specified keyboard layout. I created three keyboard layouts: one for writing Cypriot Greek and includes the characters that are needed to produce the post-alveolars,  a layout for accessing IPA symbols, and a layout for adding symbols when working with historical manuscripts (paleography).&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://github.com/themistocleous/Keyboard_Layouts/raw/master/CG1.jpg&quot; alt=&quot;CG1&quot; /&gt;
 &lt;img src=&quot;https://github.com/themistocleous/Keyboard_Layouts/raw/master/CG2.jpg&quot; alt=&quot;CG2&quot; /&gt;&lt;/p&gt;
@@ -10,7 +10,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Cypriot Greek Keyboard (MACOS):&lt;/strong&gt; A keyboard layout that facilitates writing Cypriot Greek text. &lt;a href=&quot;https://github.com/themistocleous/Keyboard_Layouts/raw/master/CypriotGreek_MAC.zip&quot;&gt;Click here to download&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Cypriot Greek Keyboard (macOS):&lt;/strong&gt; A keyboard layout that facilitates writing Cypriot Greek text. &lt;a href=&quot;https://github.com/themistocleous/Keyboard_Layouts/raw/master/CypriotGreek_MAC.zip&quot;&gt;Click here to download&lt;/a&gt;.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;Cypriot Greek Keyboard (Windows):&lt;/strong&gt; A keyboard layout that facilitates writing Cypriot Greek text. &lt;a href=&quot;https://github.com/themistocleous/Keyboard_Layouts/raw/master/CypriotGreekMonotonic.zip&quot;&gt;Click here to download&lt;/a&gt;.&lt;/p&gt;
@@ -21,7 +21,7 @@
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;Keyboard for paleographers (Windows):&lt;/strong&gt; This keyboard layout includes special symbols used in paleography. &lt;a href=&quot;https://github.com/themistocleous/Keyboard_Layouts/blob/master/KeyboardLayout_Paleographic.zip&quot;&gt;Click here to download&lt;/a&gt;.&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Keyboard Layouts for Windows and MACOS I am very pleased to announce the release of four keyboard layouts that can be useful to those working on phonetics, phonology, sociophonetics, etc. These keyboard layouts provide access to symbols that do not exist in the standard keyboard layouts. One way to solve this issue is to assign specific symbols in several applications, such as Microsoft Word or LibreOffice Writer but with most applications this is not even an option. The best way to address this issue is by installing a specified keyboard layout. I created three keyboard layouts: one for writing Cypriot Greek and includes the characters that are needed to produce the post-alveolars, a layout for accessing IPA symbols, and a layout for adding symbols when working with historical manuscripts (paleography).</summary></entry><entry><title type="html">IPAGreek Application</title><link href="http://localhost:4000/research/project/2017/08/27/IPA.html" rel="alternate" type="text/html" title="IPAGreek Application" /><published>2017-08-27T10:08:38+02:00</published><updated>2017-08-27T10:08:38+02:00</updated><id>http://localhost:4000/research/project/2017/08/27/IPA</id><content type="html" xml:base="http://localhost:4000/research/project/2017/08/27/IPA.html">&lt;p&gt;&lt;img src=&quot;/img/img_papers/englishipa.jpg&quot; alt=&quot;IPA4&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Keyboard Layouts for Windows and macOS Often we need to type symbols that do not exist in the standard keyboard layouts. One way to solve this issue is to assign specific symbols in several applications, such as Microsoft Word or LibreOffice Writer but with most applications this is not even an option. The best way to address this issue is by installing a specified keyboard layout. I created three keyboard layouts: one for writing Cypriot Greek and includes the characters that are needed to produce the post-alveolars, a layout for accessing IPA symbols, and a layout for adding symbols when working with historical manuscripts (paleography).</summary></entry><entry><title type="html">IPAGreek Application</title><link href="http://localhost:4000/research/project/2017/08/27/IPA.html" rel="alternate" type="text/html" title="IPAGreek Application" /><published>2017-08-27T10:08:38+02:00</published><updated>2017-08-27T10:08:38+02:00</updated><id>http://localhost:4000/research/project/2017/08/27/IPA</id><content type="html" xml:base="http://localhost:4000/research/project/2017/08/27/IPA.html">&lt;p&gt;&lt;img src=&quot;/img/img_papers/englishipa.jpg&quot; alt=&quot;IPA4&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The Phonetics (IPAGreek) is a computational implementation (in a windows text editor) of Standard Modern Greek and Cypriot Greek “phonological grammar”. The application enables users to transcribe text written in Greek orthography into the International Phonetics Alphabet (IPA).&lt;/p&gt;
 
@@ -744,62 +744,36 @@ some of the most common help functions.&lt;/p&gt;
 &lt;div class=&quot;table&quot;&gt;
 
 []{#x1-40011}
-
+Help functions in R.
 ------------------------------------------------------------------------
+|Help function |Interpretation|
+|--------------|---------------|
+|  ?function or help(function) | e.g., ?plot or help(plot), it provides help for the plot() function.|
+|  apropos(term) | it provides all the functions that contain a term.|
+|  example(plot) | provides examples, if available, for a certain function.|
+|--------------|---------------|
+Also, do not forget that there are plenty of resources available on the
+web.
 
-&lt;div class=&quot;float&quot;&gt;
+#### R packages
+R consists of the main system—the base—and its packages. The base
+includes:
 
-&lt;div class=&quot;caption&quot;&gt;
+-   functions for data management and storage,
+-   a number of operators for performing calculations,
+-   basic data analysis tools,
+-   chart creation functions,
+-   all components that are necessary in a programming language, such as
+    conditions of choice, epanadromikes conditions , conditions of
+    interaction with the computing environment etc .
 
-[Table1: ]{.id}[Help functions in R.]{.content}
-
-&lt;/div&gt;
-
-&lt;div class=&quot;tabular&quot;&gt;
-
-  -------------------------------------------------------------------------- --------------------------------------------------------------------------
-  ------------------------------------------------------------------------   ------------------------------------------------------------------------
-  Help function                                                              Interpretation
-  ------------------------------------------------------------------------   ------------------------------------------------------------------------
-  ?function or help(function)                                                e.g., ?plot or help(plot), it provides help for the plot() function.
-  apropos(term)                                                              it provides all the functions that contain a term.
-  example(plot)                                                              provides examples, if available, for a certain function.
-  ------------------------------------------------------------------------   ------------------------------------------------------------------------
-
-  -------------------------------------------------------------------------- --------------------------------------------------------------------------
-
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-------------------------------------------------------------------------
-
-&lt;/div&gt;
-
-&lt;p&gt;Also, do not forget that there are plenty of resources avaible on the
-web.&lt;/p&gt;
-
-&lt;h4 id=&quot;r-packages&quot;&gt;R packages&lt;/h4&gt;
-&lt;p&gt;R consists of the main system—the base—and its packages. The base
-includes:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;functions for data management and storage,&lt;/li&gt;
-  &lt;li&gt;a number of operators for performing calculations,&lt;/li&gt;
-  &lt;li&gt;basic data analysis tools,&lt;/li&gt;
-  &lt;li&gt;chart creation functions,&lt;/li&gt;
-  &lt;li&gt;all components that are necessary in a programming language, such as
-conditions of choice, epanadromikes conditions , conditions of
-interaction with the computing environment etc .&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The base can be expanded with several packages, which enable the user to
+The base can be expanded with several packages, which enable the user to
 access code created by other users. The number of R packages is really
 impressive. At the time of writing this document there were 9488
 available packages. The main program of the R and the RStudio have
 options on their menu to automatically install packages. A packages can
 be installed by using the install.packages() function. For example, the
-following code, install the ggplot2 package in your system:&lt;/p&gt;
+following code, install the ggplot2 package in your system:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -807,12 +781,13 @@ following code, install the ggplot2 package in your system:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
  install.packages (&quot;ggplot2&quot;)
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;Several packages have been grouped into categories, a.k.a., Task Views:&lt;/p&gt;
+Several packages have been grouped into categories, a.k.a., Task Views:
 
 &lt;div class=&quot;table&quot;&gt;
 
@@ -860,101 +835,87 @@ following code, install the ggplot2 package in your system:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;h4 id=&quot;the-r-environment&quot;&gt;The R environment&lt;/h4&gt;
+#### The R environment
 
-&lt;p&gt;In R every interaction with the environment is performed using commands,
+In R every interaction with the environment is performed using commands,
 which can be written directly in the terminal, in Rstudio, or in our
 favorite text editor, such as Emacs. To access R from the terminal
-simply type R in the terminal. To exit R, type q().&lt;/p&gt;
+simply type R in the terminal. To exit R, type q().
 
-&lt;p&gt;However, instead of the terminal, it is much more convinient to use
+However, instead of the terminal, it is much more convinient to use
 RStudio for writing and execuding R code. It is also a good idea to take
 some time and familiarize yourself with Rstudio. To start writing code,
-select from the File menu in Rstudio New $&amp;gt;$ R Script.&lt;/p&gt;
+select from the File menu in Rstudio New $&amp;gt;$ R Script.
 
-&lt;h3 id=&quot;expressions&quot;&gt;Expressions&lt;/h3&gt;
+### Expressions
 
-&lt;p&gt;An expression in R is a combination of&lt;/p&gt;
+An expression in R is a combination of
 
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;div id=&quot;x1-7002x1&quot;&gt;
+1.  &lt;div id=&quot;x1-7002x1&quot;&gt;
 
-&lt;/div&gt;
+    &lt;/div&gt;
 
-    &lt;p&gt;values&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;div id=&quot;x1-7004x2&quot;&gt;
+    values
+2.  &lt;div id=&quot;x1-7004x2&quot;&gt;
 
-&lt;/div&gt;
+    &lt;/div&gt;
 
-    &lt;p&gt;variables&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;div id=&quot;x1-7006x3&quot;&gt;
+    variables
+3.  &lt;div id=&quot;x1-7006x3&quot;&gt;
 
-&lt;/div&gt;
+    &lt;/div&gt;
 
-    &lt;p&gt;constants&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;div id=&quot;x1-7008x4&quot;&gt;
+    constants
+4.  &lt;div id=&quot;x1-7008x4&quot;&gt;
 
-&lt;/div&gt;
+    &lt;/div&gt;
 
-    &lt;p&gt;numbers&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;div id=&quot;x1-7010x5&quot;&gt;
+    numbers
+5.  &lt;div id=&quot;x1-7010x5&quot;&gt;
 
-&lt;/div&gt;
+    &lt;/div&gt;
 
-    &lt;p&gt;operators&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;div id=&quot;x1-7012x6&quot;&gt;
+    operators
+6.  &lt;div id=&quot;x1-7012x6&quot;&gt;
 
-&lt;/div&gt;
+    &lt;/div&gt;
 
-    &lt;p&gt;functions&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+    functions
 
-&lt;p&gt;Speciﬁc reference is made hereinafter.&lt;/p&gt;
+Speciﬁc reference is made hereinafter.
 
-&lt;h4 id=&quot;variables&quot;&gt;Variables&lt;/h4&gt;
+#### Variables
 
-&lt;p&gt;The variable is a symbolic name, which can take diﬀerent values. The
+The variable is a symbolic name, which can take diﬀerent values. The
 variable becomes concrete when a value (numeric, alphanumeric, logic,
-etc.) is stored in it. The symbols $x$ and $y$ in &lt;a href=&quot;#x1-90001&quot;&gt;2.1.1&lt;/a&gt; are
+etc.) is stored in it. The symbols $x$ and $y$ in [2.1.1](#x1-90001) are
 variables. The number to the right is the value assigned to the
-variable. []{#x1-8001r1}&lt;/p&gt;
+variable. []{#x1-8001r1}
 
-&lt;p&gt;[[]{#x1-90001}[Example2.1.1]{.rm-lmbx-10x-x-109}]{.paragraphHead} (i)
-$x = 30$ (ii) $y = 45$&lt;/p&gt;
+[[]{#x1-90001}[Example2.1.1]{.rm-lmbx-10x-x-109}]{.paragraphHead} (i)
+$x = 30$ (ii) $y = 45$
 
-&lt;p&gt;Note that R can assign values to a variable with the symbol = like most
+Note that R can assign values to a variable with the symbol = like most
 other programming languages but the symbol $&amp;lt;$- is more common in R and
 it is the one that we are using. Note that the symbol -$&amp;gt;$ to reverse
-yield, examples are provided in &lt;a href=&quot;#x1-100002&quot;&gt;2.1.2&lt;/a&gt;. []{#x1-9003r2}&lt;/p&gt;
+yield, examples are provided in [2.1.2](#x1-100002). []{#x1-9003r2}
 
-&lt;p&gt;[[]{#x1-100002}[Example2.1.2]{.rm-lmbx-10x-x-109}]{.paragraphHead} a =
-20 + sqrt (9) # returns the value of the transaction 20 + sqrt (9) in
-the variable a. b $&amp;lt;$- 20 + sqrt (9) # returns the value of the
-transaction 20 + sqrt (9) in the variable b. 20 + sqrt (9) -$&amp;gt;$ c #
-attributes the value of the transaction 20 + sqrt (9) in the variable c.&lt;/p&gt;
+[[]{#x1-100002}[Example2.1.2]{.rm-lmbx-10x-x-109}]{.paragraphHead} a =
+20 + sqrt (9) \# returns the value of the transaction 20 + sqrt (9) in
+the variable a. b $&amp;lt;$- 20 + sqrt (9) \# returns the value of the
+transaction 20 + sqrt (9) in the variable b. 20 + sqrt (9) -$&amp;gt;$ c \#
+attributes the value of the transaction 20 + sqrt (9) in the variable c.
 
-&lt;p&gt;Also, the informal style manual for R provided by Google (Chambers,
+Also, the informal style manual for R provided by Google (Chambers,
 2008, p. 16) suggests the use of the symbol ( $&amp;lt;$- ) for associating
-values to a variable. For example, &lt;a href=&quot;#x1-110003&quot;&gt;2.1.3&lt;/a&gt; generates a
-vector from a 1 to 20. []{#x1-10001r3}&lt;/p&gt;
+values to a variable. For example, [2.1.3](#x1-110003) generates a
+vector from a 1 to 20. []{#x1-10001r3}
 
-&lt;p&gt;[[]{#x1-110003}[Example2.1.3]{.rm-lmbx-10x-x-109}]{.paragraphHead} a
-$&amp;lt;$- 1:20 # generates a vector from 1 to 20&lt;/p&gt;
+[[]{#x1-110003}[Example2.1.3]{.rm-lmbx-10x-x-109}]{.paragraphHead} a
+$&amp;lt;$- 1:20 \# generates a vector from 1 to 20
 
-&lt;p&gt;To call a variable use its name. So when asked a variable environment R
-given the result (4).&lt;/p&gt;
+To call a variable use its name. So when asked a variable environment R
+given the result (4).
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -962,14 +923,15 @@ given the result (4).&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 a 
 [1] 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;We can assign in a variable, data consisting of characters, logical
-values, dates, etc.&lt;/p&gt;
+We can assign in a variable, data consisting of characters, logical
+values, dates, etc.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -977,16 +939,17 @@ values, dates, etc.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 name &amp;lt;- &quot;Maria&quot;
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;h4 id=&quot;constant&quot;&gt;Constant&lt;/h4&gt;
+#### Constant
 
-&lt;p&gt;a constant is a value that cannot be altered by the program during
+a constant is a value that cannot be altered by the program during
 normal execution. For example, the constant [letters
-]includes the letter of the English alphabet.&lt;/p&gt;
+]includes the letter of the English alphabet.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -994,14 +957,15 @@ normal execution. For example, the constant [letters
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
   letters # produces the series of letters of the English alphabet. 
 [1] &quot;a&quot; &quot;b&quot; &quot;c&quot; &quot;d&quot; &quot;e&quot; &quot;f&quot; &quot;g&quot; &quot;h&quot; &quot;i&quot; &quot;j&quot; &quot;k&quot; &quot;l&quot; &quot;m&quot; 
 [2] &quot;n&quot; &quot;o&quot; &quot;p&quot; &quot;q&quot; &quot;r&quot; &quot;s&quot; &quot;t&quot; &quot;u&quot; &quot;v&quot; &quot;w&quot; &quot;x&quot; &quot;y&quot; &quot;z&quot;
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;The assignment of a constant to another variable is as follows:&lt;/p&gt;
+The assignment of a constant to another variable is as follows:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1009,16 +973,17 @@ normal execution. For example, the constant [letters
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 latin.letters &amp;lt;- letters # performance series of letters to the variable a, 
                  producing the same result as the previous one. 
 latin.letters 
 [1] &quot;a&quot; &quot;b&quot; &quot;c&quot; &quot;d&quot; &quot;e&quot; &quot;f&quot; &quot;g&quot; &quot;h&quot; &quot;i&quot; &quot;j&quot; &quot;k&quot; &quot;l&quot; 
 [2] &quot;m&quot; &quot;n&quot; &quot;o&quot; &quot;p&quot; &quot;q&quot; &quot;r&quot; &quot;s&quot; &quot;t&quot; &quot;u&quot; &quot;v&quot; &quot;w&quot; &quot;x&quot; &quot;y&quot; &quot;z&quot;
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;We can use variables to perform mathematical operations.&lt;/p&gt;
+We can use variables to perform mathematical operations.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1026,21 +991,22 @@ latin.letters 
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 a &amp;lt;- 3 
 b &amp;lt;- 4 
 c &amp;lt;- a + b 
 c 
 [1] 7
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;Caution! You may use any name for a variable, yet, when one prepares an
+Caution! You may use any name for a variable, yet, when one prepares an
 extensive statistical analysis, it is good to provide names to variables
 that make sense, so as to avoid ambiguity. For instance names such as
 [a, b, c ]should be avoided. For example, in clear
 from the names of the variable what one is attempting to achieve with
-the following code:&lt;/p&gt;
+the following code:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1048,23 +1014,24 @@ the following code:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 length &amp;lt;- 30 
 width &amp;lt;- 40 
 area  &amp;lt;- length * width
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;Note! If you are familiar with another programming language such as C, C
-++, C# or Java, you might have noticed that the type of the variable,
+Note! If you are familiar with another programming language such as C, C
+++, C\# or Java, you might have noticed that the type of the variable,
 like [int ]for integers, [string
-]for characters, etc., is not required in R.&lt;/p&gt;
+]for characters, etc., is not required in R.
 
-&lt;h4 id=&quot;numbers&quot;&gt;Numbers&lt;/h4&gt;
+#### Numbers
 
-&lt;p&gt;R employs standard notation to declare numbers and operations. For
+R employs standard notation to declare numbers and operations. For
 scientiﬁc notation uses the letter e to specify a range in the power of
-four.&lt;/p&gt;
+four.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1072,16 +1039,17 @@ four.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 1/10000 
 [1] 1e-04
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;To read the scientiﬁc notation 1e-04 simply add 4 zeros before 1, i.e.,
+To read the scientiﬁc notation 1e-04 simply add 4 zeros before 1, i.e.,
 0.0001. To convert the scientiﬁc notation to standard you can use the
 function format as follows: format(1e-04, scientiﬁc=FALSE). The
-imaginary numbers are deﬁned using i as a suﬃx.&lt;/p&gt;
+imaginary numbers are deﬁned using i as a suﬃx.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1089,13 +1057,14 @@ imaginary numbers are deﬁned using i as a suﬃx.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 12i * 3 
 [1] 0 + 36i
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;Also, the symbol for inﬁnity is [inf ]:&lt;/p&gt;
+Also, the symbol for inﬁnity is [inf ]:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1103,15 +1072,16 @@ imaginary numbers are deﬁned using i as a suﬃx.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 1/0 
 [1] Inf 
 -1 / 0 
 [1] -Inf
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;In some cases, certain components of a vector may be unknown, there i.e.
+In some cases, certain components of a vector may be unknown, there i.e.
 missing values. This can happen when you have not answered some
 participants, for example, all the questions of a questionnaire or do
 not succeed all the controls in other experimental conditions. In R, the
@@ -1119,7 +1089,7 @@ missing values are indicated by the symbol NA (not available).
 Generally, R converts any act of missing values in TO. The is.na
 function (x) gives a logical vector, ie. A vector which contains two
 values, the True (TRUE value) and the False value (FALSE) equal to the
-size of x. Where is the vector TO attributed the True value.&lt;/p&gt;
+size of x. Where is the vector TO attributed the True value.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1127,16 +1097,17 @@ size of x. Where is the vector TO attributed the True value.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 x &amp;lt;- c (1: 3, NA) 
 nas &amp;lt;- is.na (x)
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;There is also another kind of absence values derived by numerical
+There is also another kind of absence values derived by numerical
 calculation. These values are called non numbers (Not a Number) and
 denoted by the letters NaN, as when the zero division by zero or remove
-the plus inﬁnity to minus inﬁnity (+ $\inf$ - $\inf$)&lt;/p&gt;
+the plus inﬁnity to minus inﬁnity (+ $\inf$ - $\inf$)
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1144,18 +1115,19 @@ the plus inﬁnity to minus inﬁnity (+ $\inf$ - $\inf$)&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 0/0 
 [1] NaN 
 Inf - Inf 
 [1] NaN
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;h4 id=&quot;operators&quot;&gt;Operators&lt;/h4&gt;
+#### Operators
 
-&lt;p&gt;Operators are expressions that are used in arithmetic and logic. The
-Table 5.2 presents the key operators in R.&lt;/p&gt;
+Operators are expressions that are used in arithmetic and logic. The
+Table 5.2 presents the key operators in R.
 
 &lt;div class=&quot;table&quot;&gt;
 
@@ -1194,8 +1166,8 @@ Table 5.2 presents the key operators in R.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;p&gt;To perform addition, multiplication, etc., you simply type the
-expressions in the terminal.&lt;/p&gt;
+To perform addition, multiplication, etc., you simply type the
+expressions in the terminal.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1203,12 +1175,13 @@ expressions in the terminal.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 1 + 5
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;**&lt;/p&gt;
+**
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1216,16 +1189,17 @@ expressions in the terminal.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 [1] 6
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;The result 6 follows a number in square brackets [1]; the number in
+The result 6 follows a number in square brackets \[1\]; the number in
 the brackets deﬁnes the position of the data in the output to assist
-with the reading of the data. For example, number [11] in the second
+with the reading of the data. For example, number \[11\] in the second
 raw of the output in [??]{.rm-lmbx-10x-x-109} says that the numbering
-continues from the eleventh position.&lt;/p&gt;
+continues from the eleventh position.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1233,7 +1207,8 @@ continues from the eleventh position.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 series &amp;lt;- 1:15 # create vector with the numbers 1-15. 
 # series of vector slope 
  
@@ -1241,9 +1216,9 @@ series &amp;lt;- 1:15 # create vector with the numbers 1-15. 
 [1] 1 2 3 4 5 6 7 8 9 10 
 [11] 11 12 13 14 15
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;Other simple actions you can perform in R are the following:&lt;/p&gt;
+Other simple actions you can perform in R are the following:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1251,7 +1226,8 @@ series &amp;lt;- 1:15 # create vector with the numbers 1-15. 
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 2-3 # removal 
 [1] -1 
 2 * 3 # proliferation 
@@ -1263,15 +1239,15 @@ series &amp;lt;- 1:15 # create vector with the numbers 1-15. 
 (3 * 3) ^ 0.5 # square root 
 [1] 3
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;In the last example, the use of brackets allows control of the hierarchy
-of acts. Otherwise we would have other answers.&lt;/p&gt;
+In the last example, the use of brackets allows control of the hierarchy
+of acts. Otherwise we would have other answers.
 
-&lt;h4 id=&quot;functions&quot;&gt;Functions&lt;/h4&gt;
+#### Functions
 
-&lt;p&gt;The R provides a large number of mathematical functions that allow
-carrying out various mathematical operations:&lt;/p&gt;
+The R provides a large number of mathematical functions that allow
+carrying out various mathematical operations:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1279,19 +1255,20 @@ carrying out various mathematical operations:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 sqrt (3 * 3) # square root 
 [1] 3
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;Caution! Functions are case-sensitive in R, so we need to pay attention
+Caution! Functions are case-sensitive in R, so we need to pay attention
 and distinguish between capital and small letters: the sqrt(), Sqrt(),
 and SQRT() are considered by R as diﬀerent functions. This distinction
 applies to variable names as well. So the variables [aVariable
 ]and [avriable]are the diﬀerent
-variables. Table &lt;a href=&quot;#x1-150002.5&quot;&gt;2.5&lt;/a&gt; shows the most important of
-arithmetic operations including the R shown in the following table.&lt;/p&gt;
+variables. Table [2.5](#x1-150002.5) shows the most important of
+arithmetic operations including the R shown in the following table.
 
 &lt;div class=&quot;table&quot;&gt;
 
@@ -1338,10 +1315,10 @@ arithmetic operations including the R shown in the following table.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;p&gt;In R a function can take as an input other functions. For example, one
+In R a function can take as an input other functions. For example, one
 can take the square root of the absolute value of the vector sum of -30,
 -20, 34, 45, -21 using a single expression, the boxing operations
-sqrt(), abs(), sum() and c().&lt;/p&gt;
+sqrt(), abs(), sum() and c().
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1349,12 +1326,13 @@ sqrt(), abs(), sum() and c().&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 sqrt (abs (sum (c (-30, -20,34,45, -21))))
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;A function in R is deﬁned as follows:&lt;/p&gt;
+A function in R is deﬁned as follows:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1362,17 +1340,18 @@ sqrt (abs (sum (c (-30, -20,34,45, -21))))
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 myfunction &amp;lt;- function (arg1, arg2, ...) { 
   expressions 
   return (object) 
 }
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;For instance, if we want to write a function that calculates the area of
+For instance, if we want to write a function that calculates the area of
 a rectangular, we simply write the following (see
-[??]{.rm-lmbx-10x-x-109}):&lt;/p&gt;
+[??]{.rm-lmbx-10x-x-109}):
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1380,16 +1359,17 @@ a rectangular, we simply write the following (see
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 area &amp;lt;- function (length, width) { 
 e = length * width 
 return (paste (&quot;The␣area␣is&quot; e)) 
 }
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;Now every time we use the area() function we take the area of a
-rectangle:&lt;/p&gt;
+Now every time we use the area() function we take the area of a
+rectangle:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1397,15 +1377,16 @@ rectangle:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 area (5, 6) 
 &quot;The␣area␣is␣30&quot;
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;The ﬁrst number corresponds to the length and the second width of the
+The ﬁrst number corresponds to the length and the second width of the
 rectangular. To provide these values in reverse order we must explicitly
-state the values as follows:&lt;/p&gt;
+state the values as follows:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1413,13 +1394,14 @@ state the values as follows:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 area(width = 6, Length = 5) 
 &quot;To␣area␣is␣30&quot;
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;We can use the same function with multiple arguments.&lt;/p&gt;
+We can use the same function with multiple arguments.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1427,64 +1409,57 @@ area(width = 6, Length = 5) 
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 a &amp;lt;- c (20, 30, 50, 23) 
 b &amp;lt;- c (10, 14, 19, 9) 
  
 area (a, b)
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;We get the following response:&lt;/p&gt;
+We get the following response:
 
-&lt;p&gt;[1] ”The area is 200” ”The area is 420” ”The area is 950” ”The area is
+\[1\] ”The area is 200” ”The area is 420” ”The area is 950” ”The area is
 207” In this case the R computes for each pair of values in the vectors
-a and b the size 20 * 10 30 * 14 etc.&lt;/p&gt;
+a and b the size 20 \* 10 30 \* 14 etc.
 
-&lt;p&gt;Writing functions instead of a list of unconnected commands, we have
+Writing functions instead of a list of unconnected commands, we have
 more eﬃcient code, programming becomes faster and easier, and our code
-becomes more readable.&lt;/p&gt;
+becomes more readable.
 
-&lt;h3 id=&quot;objects&quot;&gt;Objects&lt;/h3&gt;
+### Objects
 
-&lt;p&gt;Beyond the basic expressions we considered the preceding section, R has
+Beyond the basic expressions we considered the preceding section, R has
 a number of objects, namely vectors, matrices , the arrays, lists, and
 dataframes. These objects enable the creation, the processing, and the
 storage of items. We can also use them to perform mathematical
-operations with the use of objects of R.&lt;/p&gt;
+operations with the use of objects of R.
 
-&lt;h4 id=&quot;vectors&quot;&gt;Vectors&lt;/h4&gt;
+#### Vectors
 
-&lt;p&gt;Vectors are quantities that are characterized by one dimension. This
+Vectors are quantities that are characterized by one dimension. This
 means that a vector is simply a series of data, such as a row or a
-column in a data table. The following rows are vectors:&lt;/p&gt;
+column in a data table. The following rows are vectors:
 
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;div id=&quot;x1-17002x1&quot;&gt;
+1.  &lt;div id=&quot;x1-17002x1&quot;&gt;
 
-&lt;/div&gt;
+    &lt;/div&gt;
 
-    &lt;p&gt;1, 2, 5.3, 6, -2, 4&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;div id=&quot;x1-17004x2&quot;&gt;
+    1, 2, 5.3, 6, -2, 4
+2.  &lt;div id=&quot;x1-17004x2&quot;&gt;
 
-&lt;/div&gt;
+    &lt;/div&gt;
 
-    &lt;p&gt;”Dog”, ”cat”, ”mouse”, ”ﬁsh”&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;div id=&quot;x1-17006x3&quot;&gt;
+    ”Dog”, ”cat”, ”mouse”, ”ﬁsh”
+3.  &lt;div id=&quot;x1-17006x3&quot;&gt;
 
-&lt;/div&gt;
+    &lt;/div&gt;
 
-    &lt;p&gt;TRUE, TRUE, TRUE, FALSE, TRUE, FALSE&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+    TRUE, TRUE, TRUE, FALSE, TRUE, FALSE
 
-&lt;p&gt;These vectors can be stored in the R variables, so we can deﬁne three
-variables: mynumbers, mypets, and timesiamcorrect to store the vectors.&lt;/p&gt;
+These vectors can be stored in the R variables, so we can deﬁne three
+variables: mynumbers, mypets, and timesiamcorrect to store the vectors.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1492,21 +1467,22 @@ variables: mynumbers, mypets, and timesiamcorrect to store the vectors.&lt;/p&gt
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 mynumbers &amp;lt;-  c (1,  2, 5.3,  6, -2,  4) #  numeric vector. 
 mypets &amp;lt;-  c ( &quot;dog&quot;, &quot;cat&quot;,  &quot;mouse&quot;, &quot;fish␣of␣glass&quot;)  # vector of characters. 
 timesiamcorrect   &amp;lt;- c  (TRUE, TRUE, TRUE,  FALSE, TRUE,  FALSE) # logical vector.
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;Each constituent is written within the function c()—c stands for
+Each constituent is written within the function c()—c stands for
 [concatenate]—separated by commas. Note, that items
 included in the vector [mypets ]are within quotation
 marks “” because the items are strings; without the quotations R will
-read them as variable names.&lt;/p&gt;
+read them as variable names.
 
-&lt;p&gt;If you write the name of the variable, then R presents the contents of
-the variable:&lt;/p&gt;
+If you write the name of the variable, then R presents the contents of
+the variable:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1514,16 +1490,17 @@ the variable:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 mynumbers 
 [1] 1.0 2.0 5.3 6.0 -2.0 4.0 
  
 mypets 
 [1] &quot;dog&quot; &quot;cat&quot; &quot;mouse&quot; &quot;smelt␣of␣glass&quot;
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;**&lt;/p&gt;
+**
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1531,18 +1508,19 @@ mypets 
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 timesiamcorrect 
 [1] TRUE TRUE TRUE FALSE TRUE FALSE
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;h5 id=&quot;select-values-from-vectors&quot;&gt;Select values from vectors&lt;/h5&gt;
+##### Select values from vectors
 
-&lt;p&gt;To refer to the items inside a vector, we use subvectors. Take for
+To refer to the items inside a vector, we use subvectors. Take for
 example the vector [mynumbers ]that we deﬁned above.
 R assigns to each item in this vector a serial number, which serves as
-the address of the item in the memory, as shown in following:&lt;/p&gt;
+the address of the item in the memory, as shown in following:
 
 &lt;div class=&quot;table&quot;&gt;
 
@@ -1568,13 +1546,13 @@ the address of the item in the memory, as shown in following:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;p&gt;To take the $2^{nd}$ number, we type the name of the variable followed
-by the position of the value in square brackets: mynumbers[2].&lt;/p&gt;
+To take the $2^{nd}$ number, we type the name of the variable followed
+by the position of the value in square brackets: mynumbers\[2\].
 
-&lt;p&gt;To extract the values at the $2^{nd}$ and $5^{th}$ position of the
+To extract the values at the $2^{nd}$ and $5^{th}$ position of the
 vector [mynumbers], we write the positions in
-rectangular brackets [] as vectors, that is with the c() function
-(see. [??]{.rm-lmbx-10x-x-109}):&lt;/p&gt;
+rectangular brackets \[\] as vectors, that is with the c() function
+(see. [??]{.rm-lmbx-10x-x-109}):
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1582,15 +1560,16 @@ rectangular brackets [] as vectors, that is with the c() function
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 mynumbers[c (2,5)] # the 2nd and 5th price vector mynumbers 
 [1] 2 -2
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;(A) To select the items in the $2^{nd}$, $3^{rd}$ and $4^{th}$ position
-we can write [2:4], : means 2 to 4. The following expressions are
-equivalent.&lt;/p&gt;
+\(A) To select the items in the $2^{nd}$, $3^{rd}$ and $4^{th}$ position
+we can write \[2:4\], : means 2 to 4. The following expressions are
+equivalent.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1598,13 +1577,14 @@ equivalent.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 vector.a [2: 4] 
 [1] 2.0 5.3 6.0
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;or&lt;/p&gt;
+or
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1612,15 +1592,16 @@ vector.a [2: 4] 
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 vector.a [c (2,3,4)] 
 [1] 2.0 5.3 6.0
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;(B) to select all other values except those which are in $3^{r}d$ and
+\(B) to select all other values except those which are in $3^{r}d$ and
 $5^{th}$ position of the vector [mynumbers], we add
-the minus symbol before the number.&lt;/p&gt;
+the minus symbol before the number.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1628,15 +1609,16 @@ the minus symbol before the number.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 mynumbers[c(-3, -5)] 
 [1] 1 2 6 4
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;In the same way, we can selects items from character vectors. To, select
+In the same way, we can selects items from character vectors. To, select
 all the items except the “dog” and “mouse” from vector
-[mypets], we type the following.&lt;/p&gt;
+[mypets], we type the following.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1644,18 +1626,19 @@ all the items except the “dog” and “mouse” from vector
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 &amp;gt; mypets[c (-1, -3)] 
 [1] &quot;cat&quot; &quot;fish&quot;
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;(C) To select items that satisfy a condition and exclude items that do
+\(C) To select items that satisfy a condition and exclude items that do
 not satisfy a condition, we can employ logical operators (greater (¿),
 smaller (¡), equal to (==), not equal (! =) etc.). For example, to
 select all numbers in [mynumbers ]who are greater
 than ﬁve, we will have to provide the following command
-mynumbers[mynumbers ¿ 5]:&lt;/p&gt;
+mynumbers\[mynumbers ¿ 5\]:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1663,21 +1646,22 @@ mynumbers[mynumbers ¿ 5]:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 mynumbers[mynumbers &amp;gt; 5] 
 [1] 5.3 6.0
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;Caution! The square brackets perform a diﬀerent function from
+Caution! The square brackets perform a diﬀerent function from
 parentheses. Parentheses are used in R for determining the order of
 operations, and in functions e.g., c(1, 3, 4). The square brackets are
-utilized for accessing items in vectors and other objects.&lt;/p&gt;
+utilized for accessing items in vectors and other objects.
 
-&lt;h5 id=&quot;arithmetic-operations-with-vectors&quot;&gt;Arithmetic operations with vectors&lt;/h5&gt;
+##### Arithmetic operations with vectors
 
-&lt;p&gt;In R, we employ vectors to perform calculations. Let us take for
-instance the following vectors:&lt;/p&gt;
+In R, we employ vectors to perform calculations. Let us take for
+instance the following vectors:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1685,19 +1669,20 @@ instance the following vectors:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 vector.a &amp;lt;- c (1,2,3,4,5) 
 vector.b &amp;lt;- c (6,7,8,9,10) 
 vector.c &amp;lt;- vector.a + vector.b # Add vectors
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;[vector.c ]contains the values from adding [vector.b
+[vector.c ]contains the values from adding [vector.b
 ]and [vector.c]. Speciﬁcally,
 vector.c contains the sum of the ﬁrst value of the [vector.a
 ]and [vector.b], the second
 value of vector.a and vector.b, etc., so, the output of [vector.c
-]is the following:&lt;/p&gt;
+]is the following:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1705,20 +1690,19 @@ value of vector.a and vector.b, etc., so, the output of [vector.c
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 [1] 7 9 11 13 15
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;If the vectors have a diﬀerent number of components, are will perform
-the addition but it will throw the following error message “In vector.a&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;vector.b: longer object length is not a multiple of shorter object
+If the vectors have a diﬀerent number of components, are will perform
+the addition but it will throw the following error message “In vector.a
++ vector.b: longer object length is not a multiple of shorter object
 length”. This means that result might not be the one we want. To
 understand the output, let us change [vector.b ]by
 adding two more numbers at the end of the vector, as in
-[??]{.rm-lmbx-10x-x-109}.&lt;/li&gt;
-&lt;/ul&gt;
+[??]{.rm-lmbx-10x-x-109}.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1726,12 +1710,13 @@ adding two more numbers at the end of the vector, as in
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 vector.b = c (6, 7, 8, 9, 10, 11, 12)
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;and try to add $vector.a + vector.b$, the result will be the following:&lt;/p&gt;
+and try to add $vector.a + vector.b$, the result will be the following:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1739,7 +1724,8 @@ vector.b = c (6, 7, 8, 9, 10, 11, 12)
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 vector.a &amp;lt;- c (1, 2, 3, 4, 5) 
 vector.b &amp;lt;- c (6, 7, 8, 9, 10, 11, 12) 
 vector.c &amp;lt;- vector.a + vector.b 
@@ -1749,13 +1735,13 @@ In vector.a + vector.b : 
 &amp;gt; vector.c 
 [1]  7  9 11 13 15 12 14
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;Note that in the output 7 9 11 13 15 12 14, the numbers 11 and 12 were
+Note that in the output 7 9 11 13 15 12 14, the numbers 11 and 12 were
 added to the ﬁrst two values of vector.a (i.e., 1 and 2). So, we need to
 pay attention to this kind of messages. Overall, R performs all possible
 operations with numeric vectors (such as subtraction, multiplication,
-and division).&lt;/p&gt;
+and division).
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1763,14 +1749,15 @@ and division).&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 vector.a &amp;lt;- c (1,2,3,4,5) 
 vector.b &amp;lt;- c (6,7,8,9,10) 
 vector.d &amp;lt;- a - b # Remove
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;The result obtained is shown in refsubtractionresults.&lt;/p&gt;
+The result obtained is shown in refsubtractionresults.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1778,13 +1765,14 @@ vector.d &amp;lt;- a - b # Remove
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 vector.d 
 [1] -5 -5 -5 -5 -5
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;Multiplication of vectors is performed as follows:&lt;/p&gt;
+Multiplication of vectors is performed as follows:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1792,12 +1780,13 @@ vector.d 
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 vector.e = vector.a * vector.b # Multiplication
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;The result of multiplication is shown in [??]{.rm-lmbx-10x-x-109}.&lt;/p&gt;
+The result of multiplication is shown in [??]{.rm-lmbx-10x-x-109}.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1805,13 +1794,14 @@ vector.e = vector.a * vector.b # Multiplication
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 vector.e 
 [1] 6 14 24 36 50
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;Finally, the division result shown in [??]{.rm-lmbx-10x-x-109}.&lt;/p&gt;
+Finally, the division result shown in [??]{.rm-lmbx-10x-x-109}.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1819,14 +1809,15 @@ vector.e 
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 vector.f = vector.a / vector.b # Division 
 vector.f 
 [1] 0.1666667 0.2857143 0.3750000 0.4444444 0.5000000
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;Dividing by zero (0) provides the following results:&lt;/p&gt;
+Dividing by zero (0) provides the following results:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1834,7 +1825,8 @@ vector.f 
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 vector.a &amp;lt;- c (0, 1, 2, 3, 4) 
 vector.b &amp;lt;- c (6, 0, 8, 9, 10) 
 vector.f = vector.a / vector.b 
@@ -1842,12 +1834,12 @@ vector.f 
  
 [1] 0.0000000 Inf 0.2500000 0.3333333 0.4000000
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;h5 id=&quot;character-vectors&quot;&gt;Character vectors&lt;/h5&gt;
+##### Character vectors
 
-&lt;p&gt;Operations can be performed with vectors containing characters, as in
-the following:&lt;/p&gt;
+Operations can be performed with vectors containing characters, as in
+the following:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1855,15 +1847,16 @@ the following:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 vector.a &amp;lt;- c ( &quot;one&quot;, &quot;two&quot;, &quot;three&quot;) 
 vector.b &amp;lt;- c ( &quot;one&quot;, &quot;two&quot;, &quot;three&quot;) 
 vector.c &amp;lt;- c (vector.a, vector.b)
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;This creates a new vector comprised of the values of vector.a vector.b,
-as shown below:&lt;/p&gt;
+This creates a new vector comprised of the values of vector.a vector.b,
+as shown below:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1871,19 +1864,20 @@ as shown below:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 vector.c 
 &quot;one&quot; &quot;two&quot; &quot;three&quot; &quot;one&quot; &quot;two&quot; &quot;three&quot;
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;Note that in this case the two vectors are brought together; in other
-words they have been concatenated.&lt;/p&gt;
+Note that in this case the two vectors are brought together; in other
+words they have been concatenated.
 
-&lt;h5 id=&quot;vectors-with-logical-values&quot;&gt;Vectors with logical values&lt;/h5&gt;
+##### Vectors with logical values
 
-&lt;p&gt;To perform logical operations, e.g., see [??]{.rm-lmbx-10x-x-109}, we
-employ logical operators, see the Table &lt;a href=&quot;#x1-210075&quot;&gt;5&lt;/a&gt;.&lt;/p&gt;
+To perform logical operations, e.g., see [??]{.rm-lmbx-10x-x-109}, we
+employ logical operators, see the Table [5](#x1-210075).
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1891,14 +1885,15 @@ employ logical operators, see the Table &lt;a href=&quot;#x1-210075&quot;&gt;5&l
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 logic.a &amp;lt;- c (TRUE, FALSE, TRUE) 
 logic.b &amp;lt;- c (TRUE, FALSE, FALSE) 
 logic.c &amp;lt;- logic.a + logic.b 
 logic.c 
 [1] 0 2 1
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
 &lt;div class=&quot;table&quot;&gt;
 
@@ -1943,7 +1938,7 @@ logic.c 
 
 &lt;/div&gt;
 
-&lt;p&gt;**&lt;/p&gt;
+**
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1951,14 +1946,15 @@ logic.c 
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 vector.a &amp;lt;- c (1:10) # Generates a vector with numbers from 1 to 10. 
 vector.a 
 [1] 1 2 3 4 5 6 7 8 9 10
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;**&lt;/p&gt;
+**
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1966,14 +1962,15 @@ vector.a 
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 vector.a &amp;lt; 4 #  this shows which values are less than 4. 
 [1] TRUE TRUE TRUE FALSE FALSE FALSE FALSE FALSE FALSE FALSE
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;To show values correspond to TRUE, you can use the output in the
-following way:&lt;/p&gt;
+To show values correspond to TRUE, you can use the output in the
+following way:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1981,12 +1978,13 @@ following way:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 vector.a [c (TRUE, TRUE, TRUE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE)]
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;or&lt;/p&gt;
+or
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -1994,13 +1992,14 @@ vector.a [c (TRUE, TRUE, TRUE, FALSE, FALSE, FALSE, FALSE, FALSE, FALS
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 vector.a [c (T, T, T, F, F, F, F, F, F, F)] 
 [1] 1 2 3
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;**&lt;/p&gt;
+**
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2008,16 +2007,17 @@ vector.a [c (T, T, T, F, F, F, F, F, F, F)] 
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 vector.a [(vector.a&amp;gt; 7) | (vector.a &amp;lt;4)] # This selects values greater than 7 and less than 4. 
 [1] 1 2 3 8 9 10
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;Let us show how to display the diﬀerences between two vectors containing
+Let us show how to display the diﬀerences between two vectors containing
 letters of the English alphabet. To achieve this let us ﬁrst create a
 vector that includes letters “e” to “o” and compare it with another
-vector that contains random letters. This is done in the following way.&lt;/p&gt;
+vector that contains random letters. This is done in the following way.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2025,15 +2025,16 @@ vector that contains random letters. This is done in the following way.&lt;/p&gt
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
   englishletters &amp;lt;- letters[5:15]  # This will select  the letters of 
   the English alphabet in positions 5-15  and add them to the variable 
   englishletters
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;Note, that we can also create vectors by manually typing them but this
-is much easier. The output is the following:&lt;/p&gt;
+Note, that we can also create vectors by manually typing them but this
+is much easier. The output is the following:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2041,14 +2042,15 @@ is much easier. The output is the following:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 englishletters 
 [1] &quot;e&quot; &quot;f&quot; &quot;g&quot; &quot;h&quot; &quot;i&quot; &quot;j&quot; &quot;k&quot; &quot;l&quot; &quot;m&quot; &quot;n&quot; &quot;o&quot;
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;To select random letters from the constant [letters
-]we will use the function sample().&lt;/p&gt;
+To select random letters from the constant [letters
+]we will use the function sample().
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2056,17 +2058,18 @@ englishletters 
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 randomenglishletters &amp;lt;-  sample(letters [5:15])  # letters of the  English alphabet 
 from position 5-15 in random order
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;The output of randomenglishletters is [1] ”k” ”h” ”g” ”j” ”e” ”o” ”n”
+The output of randomenglishletters is \[1\] ”k” ”h” ”g” ”j” ”e” ”o” ”n”
 ”m” ”f” ”l” ”i”. Now, to compare the two vectors, namely
 [randomenglishletters ]and [englishletters
 ]we use the logical operator (==) in the following
-way:&lt;/p&gt;
+way:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2074,17 +2077,18 @@ way:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 randomenglishletters  == englishletters 
 [1] FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE TRUE FALSE
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;TRUE indicates the positions where the letters are identical and FALSE
+TRUE indicates the positions where the letters are identical and FALSE
 indicates the positions that they diﬀer. The table() function shows the
-sum of all the TRUE and FALSE correspondences.&lt;/p&gt;
+sum of all the TRUE and FALSE correspondences.
 
-&lt;p&gt;table(englishletters == randomenglishletters)&lt;/p&gt;
+table(englishletters == randomenglishletters)
 
 &lt;div class=&quot;table&quot;&gt;
 
@@ -2109,7 +2113,7 @@ sum of all the TRUE and FALSE correspondences.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;p&gt;The sum() can be employed to show how many letters are identical&lt;/p&gt;
+The sum() can be employed to show how many letters are identical
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2117,17 +2121,18 @@ sum of all the TRUE and FALSE correspondences.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 sum(englishletters  == randomenglishletters) 
 [1] 1
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;To view how many letters diﬀer you may change the operator (==) to (!=)
+To view how many letters diﬀer you may change the operator (==) to (!=)
 as sum(englishletters != randomenglishletters). The result in
 [??]{.rm-lmbx-10x-x-109} displays the number of identical letters in the
 two vectors. To see which letters are identical we have to express it in
-the following way:&lt;/p&gt;
+the following way:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2135,19 +2140,20 @@ the following way:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
  englishletters[ englishletters  == randomenglishletters] 
 &quot;g&quot;
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;What this expression says is the following, report from vector
+What this expression says is the following, report from vector
 [englishletters], the letter that are identical with
 those in vector [randmenglishletters]. Note that
 this expression is particularly important and will be used many times
 when you try to ﬁnd data in other R objects such as tables and
 dataframes. The which() function can be employed to show the location of
-the letter ”g”. This is expressed as follows:&lt;/p&gt;
+the letter ”g”. This is expressed as follows:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2155,20 +2161,21 @@ the letter ”g”. This is expressed as follows:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 which(englishletters  == &quot;g&quot;) 
 [1] 3
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;To declare a vector of characters as a factor, for instance, as an
+To declare a vector of characters as a factor, for instance, as an
 independent variable in an experiment, we use the function factor().
 That is, to create the independent variable [gender
 ]with two levels: [girls ]and
 [boys ]consisting of 25 girls and 25 boys we ﬁrst
 create a character vector the rep() function in rep(”girls”, 25) and
 rep(”boys”, 35) simply repeats the strings “girls” and “boys” 25 times.
-The function factor() converts the character vector to a factor vector.&lt;/p&gt;
+The function factor() converts the character vector to a factor vector.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2176,16 +2183,17 @@ The function factor() converts the character vector to a factor vector.&lt;/p&gt
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 gender &amp;lt;- c (rep ( &quot;girls&quot;, 25), rep ( &quot;boys&quot;, 25)) 
 fgender &amp;lt;- factor (gender)
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;With the factor vectors R knows that there items are not unordered sets
+With the factor vectors R knows that there items are not unordered sets
 but there is a speciﬁc relationship between them. For instance, fgender
 does not simply have 50 items but there is a certain relationship in
-these items, namely they are grouped into two levels.&lt;/p&gt;
+these items, namely they are grouped into two levels.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2193,14 +2201,15 @@ these items, namely they are grouped into two levels.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 levels (fgender) 
 [1] &quot;Boys&quot; &quot;Girls&quot;
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;The summary () provides a report of how many ingredients exist in each
-level of the factor [fgender]:&lt;/p&gt;
+The summary () provides a report of how many ingredients exist in each
+level of the factor [fgender]:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2208,15 +2217,16 @@ level of the factor [fgender]:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 summary (fgender) 
 boys girls 
 25 25
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;Beyond numbers and characters, R can also represent dates. The as.Date
-() function converts a character vector into a date vector:&lt;/p&gt;
+Beyond numbers and characters, R can also represent dates. The as.Date
+() function converts a character vector into a date vector:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2224,13 +2234,14 @@ boys girls 
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 date &amp;lt;- as.Date (c ( &quot;2011-05-30&quot;, &quot;2012-06-07&quot;))
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;To number the days between 2011-05-30 and 2012-06-07 you can simply
-subtract them:&lt;/p&gt;
+To number the days between 2011-05-30 and 2012-06-07 you can simply
+subtract them:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2238,12 +2249,13 @@ subtract them:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 days &amp;lt;- date[2] - date[1]
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;The result is the following:&lt;/p&gt;
+The result is the following:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2251,32 +2263,32 @@ days &amp;lt;- date[2] - date[1]
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 days 
 Time difference of 374 days
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;h4 id=&quot;matrices&quot;&gt;Matrices&lt;/h4&gt;
+#### Matrices
 
-&lt;p&gt;Matrices are basic objects, they represent a collection of data, which
+Matrices are basic objects, they represent a collection of data, which
 are organized in rows and columns, as Table A below (see
-&lt;a href=&quot;#x1-22001r1&quot;&gt;1&lt;/a&gt;).&lt;/p&gt;
+[1](#x1-22001r1)).
 
-&lt;hr /&gt;
-&lt;p&gt;[]{#x1-22001r1} &lt;script type=&quot;math/tex&quot;&gt;% &lt;![CDATA[
-A = \left\lbrack \begin{array}{llllllllll}   (1)
-  {43} &amp; {44} &amp; {33} &amp; &amp; &amp; &amp; &amp; &amp; &amp; \\                            
-   &amp; &amp; &amp; &amp; &amp; &amp; &amp; &amp; &amp; \\                                          
-  {34} &amp; {33} &amp; {34} &amp; &amp; &amp; &amp; &amp; &amp; &amp; \\                            
-   &amp; &amp; &amp; &amp; &amp; &amp; &amp; &amp; &amp; \\                                          
-   &amp; &amp; &amp; &amp; &amp; &amp; &amp; &amp; &amp; \\                                          
-  \end{array} \right\rbrack %]]&gt;&lt;/script&gt;                                  &lt;br /&gt;
-  ————————————————————– —–&lt;/p&gt;
+  -------------------------------------------------------------- -----
+  []{#x1-22001r1} $$A = \left\lbrack \begin{array}{llllllllll}   (1)
+  {43} &amp;amp; {44} &amp;amp; {33} &amp;amp; &amp;amp; &amp;amp; &amp;amp; &amp;amp; &amp;amp; &amp;amp; \\                            
+   &amp;amp; &amp;amp; &amp;amp; &amp;amp; &amp;amp; &amp;amp; &amp;amp; &amp;amp; &amp;amp; \\                                          
+  {34} &amp;amp; {33} &amp;amp; {34} &amp;amp; &amp;amp; &amp;amp; &amp;amp; &amp;amp; &amp;amp; &amp;amp; \\                            
+   &amp;amp; &amp;amp; &amp;amp; &amp;amp; &amp;amp; &amp;amp; &amp;amp; &amp;amp; &amp;amp; \\                                          
+   &amp;amp; &amp;amp; &amp;amp; &amp;amp; &amp;amp; &amp;amp; &amp;amp; &amp;amp; &amp;amp; \\                                          
+  \end{array} \right\rbrack$$                                    
+  -------------------------------------------------------------- -----
 
-&lt;p&gt;The columns in a table must be in the same category (characters,
+The columns in a table must be in the same category (characters,
 numbers, etc.) and have the same length. The general form for the
-creation of a matrix is the following:&lt;/p&gt;
+creation of a matrix is the following:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2284,33 +2296,28 @@ creation of a matrix is the following:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 mymatrix &amp;lt;- matrix (vector , nrow = r, ncol = c, byrow = FALSE , 
 dimnames = list(row.names, column.names))
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;div id=&quot;x1-22006x1&quot;&gt;
+1.  &lt;div id=&quot;x1-22006x1&quot;&gt;
 
-&lt;/div&gt;
+    &lt;/div&gt;
 
-    &lt;p&gt;byrow = TRUE: this option indicates that the table must be ﬁlled
-with rows whereas the standard option for this is byrow = FALSE,
-which indicates that the matrix must be full of columns.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;div id=&quot;x1-22008x2&quot;&gt;
+    byrow = TRUE: this option indicates that the table must be ﬁlled
+    with rows whereas the standard option for this is byrow = FALSE,
+    which indicates that the matrix must be full of columns.
+2.  &lt;div id=&quot;x1-22008x2&quot;&gt;
 
-&lt;/div&gt;
+    &lt;/div&gt;
 
-    &lt;p&gt;the dimnames is used to provide names for the columns and the rows.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+    the dimnames is used to provide names for the columns and the rows.
 
-&lt;p&gt;There are many ways to create a table. One can start with a vector and
-organize the vector into columns and rows as in (43) .&lt;/p&gt;
+There are many ways to create a table. One can start with a vector and
+organize the vector into columns and rows as in (43) .
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2318,15 +2325,16 @@ organize the vector into columns and rows as in (43) .&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 vector.a &amp;lt;- 1:20 # create a vector with 20 numbers. 
 # Create a numerical table 4 x 5 
 matrix.a &amp;lt;-matrix (vector.a, nrow = 4, ncol = 5) 
 The result is the following:
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;**&lt;/p&gt;
+**
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2334,7 +2342,8 @@ The result is the following:
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 matrix.a 
  
 [, 1] [2] [3] [4] [5] 
@@ -2343,9 +2352,9 @@ matrix.a 
 [3] 3 7 11 15 19 
 [4] 4 8 12 16 20
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;The creation of a table with only two rows can be formulated as follows:&lt;/p&gt;
+The creation of a table with only two rows can be formulated as follows:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2353,15 +2362,16 @@ matrix.a 
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 matrix.b &amp;lt;-matrix (vector.a, nrow = 2)
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;The number of rows of the table are determined by the operator
+The number of rows of the table are determined by the operator
 [nrow]; the operator [ncol ]can
 deﬁne the number of columns. The result of the matrix.b is the
-following:&lt;/p&gt;
+following:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2369,18 +2379,19 @@ following:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 matrix.b 
  
 [, 1] [2] [3] [4] [5] [6] [7] [8] [9] [10] 
 [1] 1 3 5 7 9 11 13 15 17 19 
 [2] 2 4 6 8 10 12 14 16 18 20
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;In the matrices, the operator [dimnames ]can be
+In the matrices, the operator [dimnames ]can be
 employed to provide names for columns and rows. This is accomplished in
-the following way:&lt;/p&gt;
+the following way:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2388,16 +2399,17 @@ the following way:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 # Explicit definition 
 Cells &amp;lt;- c (35,46,23,67,31,33,25,55) 
 row.names &amp;lt;- c ( &quot;Row1&quot; &quot;Row2&quot; &quot;Row3&quot; &quot;Row4&quot;) 
 column.names &amp;lt;- c ( &quot;Height&quot;, &quot;Series&quot;) 
 heights &amp;lt;- matrix (cells, nrow = 4, ncol = 2, byrow = TRUE, dimnames = list (row.names, column.names))
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;The result obtained is displayed in the following table:&lt;/p&gt;
+The result obtained is displayed in the following table:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2405,10 +2417,11 @@ heights &amp;lt;- matrix (cells, nrow = 4, ncol = 2, byrow = TRUE, 
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 heights
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
 &lt;div class=&quot;table&quot;&gt;
 
@@ -2438,14 +2451,14 @@ heights
 
 &lt;/div&gt;
 
-&lt;h5 id=&quot;selecting-values-in-matrices&quot;&gt;Selecting Values in matrices&lt;/h5&gt;
+##### Selecting Values in matrices
 
-&lt;p&gt;To select items from a matrix we employ square brackets in way which
+To select items from a matrix we employ square brackets in way which
 very similar to the one we used to select items in vectors. They only
 diﬀerence is that we have to deﬁne two dimensions this time not one.
 Speciﬁcally, to select an item from the second row of the ﬁfth column we
-deﬁne it as [2,5]. The general form that we deﬁne the selection is the
-following.&lt;/p&gt;
+deﬁne it as \[2,5\]. The general form that we deﬁne the selection is the
+following.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2453,13 +2466,14 @@ following.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 table [row, column]
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;That is ﬁrst we provide the number of row(s) and then the number of
-column(s). Some examples are provided below.&lt;/p&gt;
+That is ﬁrst we provide the number of row(s) and then the number of
+column(s). Some examples are provided below.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2467,7 +2481,8 @@ column(s). Some examples are provided below.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 matrix.a [, 2] # all rows of the second column of  matrix.a 
 matrix.a [4,] # 4th row of the table matrix.a 
 matrix.a [1: 3,1: 3] # rows 1-3 of columns 1-3. 
@@ -2475,18 +2490,18 @@ matrix.a [c (2,3), 1: 3] #  rows 2 and 3 of columns 1 to 3. 
 matrix.a [1: 3,] # rows 1 to 3 of all columns in matrix.a 
 matrix.a [-1: -3,] # take all rows and columns exempt from 1 to 3.
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;The absence of number before or after the comma or both before and after
+The absence of number before or after the comma or both before and after
 indicates the selection of all items. The minus sign minus (-) shows all
-data other than those speciﬁed in the minuses.&lt;/p&gt;
+data other than those speciﬁed in the minuses.
 
-&lt;h5 id=&quot;mathematical-operations-with-matrices&quot;&gt;Mathematical operations with matrices&lt;/h5&gt;
+##### Mathematical operations with matrices
 
-&lt;p&gt;In R performing mathematical operations, such as matrix addition, matrix
+In R performing mathematical operations, such as matrix addition, matrix
 multiplication, etc., is extremely easy. In [??]{.rm-lmbx-10x-x-109},
 two tables were created with 20 random numbers each consisting of four
-rows and ﬁve columns.&lt;/p&gt;
+rows and ﬁve columns.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2494,16 +2509,17 @@ rows and ﬁve columns.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 random.numbers.a &amp;lt;- runif (20, 1,10) 
 random.numbers.v &amp;lt;- runif (20, 1,10) 
 matrix.a &amp;lt;-matrix (random.numbers.a, nrow = 4, ncol = 5) 
 matrix.v &amp;lt;-matrix (random.numbers.v, nrow = 4, ncol = 5)
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;The runif function (20, 1, 10) 20 generates random numbers from a
-uniform distribution on interval between 1 and 10.&lt;/p&gt;
+The runif function (20, 1, 10) 20 generates random numbers from a
+uniform distribution on interval between 1 and 10.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2511,7 +2527,8 @@ uniform distribution on interval between 1 and 10.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 matrix.a 
  
 [, 1] [2] [3] [4] [5] 
@@ -2520,9 +2537,9 @@ matrix.a 
 [3] 9.642593 4.101409 3.427884 1.068980 6.605213 
 [4] 7.396233 5.121680 8.193945 7.627636 6.460386
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;**&lt;/p&gt;
+**
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2530,7 +2547,8 @@ matrix.a 
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 matrix.v 
 [, 1] [2] [3] [4] [5] 
 [1] 6.847156 2.088490 9.285601 6.876831 4.970435 
@@ -2538,9 +2556,9 @@ matrix.v 
 [3] 2.121085 6.380238 6.322597 7.422863 9.066266 
 [4] 3.373487 7.329575 5.864051 1.524884 2.604839
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;The addition of these two tables can be made as follows:&lt;/p&gt;
+The addition of these two tables can be made as follows:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2548,7 +2566,8 @@ matrix.v 
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 &amp;gt; matrix.a + matrix.v 
 [, 1] [2] [3] [4] [5] 
 [1] 9.468027 5.818373 13.507099 15.564588 11.709284 
@@ -2556,10 +2575,10 @@ matrix.v 
 [3] 11.763678 10.481647 9.750481 8.491842 15.671479 
 [4] 10.769720 12.451255 14.057996 9.152520 9.065225
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;Multiplication and division table matrix.a with Table matrix.v carried
-out as follows.&lt;/p&gt;
+Multiplication and division table matrix.a with Table matrix.v carried
+out as follows.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2567,7 +2586,8 @@ out as follows.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 matrix.a * matrix.v 
 [, 1] [2] [3] [4] [5] 
 [1] 17.94551 7.789824 39.19914 59.744236 33.49501 
@@ -2575,9 +2595,9 @@ matrix.a * matrix.v 
 [3] 20.45276 26.167965 21.67313 59.88462 7.934889 
 [4] 24.95110 37.539739 48.04971 11.631258 16.82827
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;**&lt;/p&gt;
+**
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2585,7 +2605,8 @@ matrix.a * matrix.v 
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 &amp;gt; matrix.division &amp;lt;- matrix.a / matrix.v 
 &amp;gt; round(matrix.division, 2) 
 [, 1] [2] [3] [4] [5] 
@@ -2594,15 +2615,15 @@ matrix.a * matrix.v 
 [3] 4.55 0.64 0.54 0.14 0.73 
 [4] 2.19 0.70 1.40 5.00 2.48
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;The round(matrix.division, 2) function rounds the values in two decimal
-places.&lt;/p&gt;
+The round(matrix.division, 2) function rounds the values in two decimal
+places.
 
-&lt;p&gt;R includes basic functions that enable us to permit quick calculations
+R includes basic functions that enable us to permit quick calculations
 with matrices. For example, to average values in all columns of a matrix
 we can use the function colMeans(x), to calculate the sum of all rows,
-we can employ the rowSums() function.&lt;/p&gt;
+we can employ the rowSums() function.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2610,13 +2631,14 @@ we can employ the rowSums() function.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 colMeans (matrix.a) # get the mean values of  columns. 
 [1] 7.331025 5.445296 4.251697 5.812481 6.408081
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;**&lt;/p&gt;
+**
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2624,14 +2646,15 @@ colMeans (matrix.a) # get the mean values of  columns. 
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 colSums (matrix.a) # get the sum values of columns. 
 [1] 29.32410 21.78118 17.00679 23.24992 25.63233
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;The Table &lt;a href=&quot;#x1-240003.2.2&quot;&gt;3.2.2&lt;/a&gt; common mathematical operations in R
-objects.&lt;/p&gt;
+The Table [3.2.2](#x1-240003.2.2) common mathematical operations in R
+objects.
 
 &lt;div class=&quot;table&quot;&gt;
 
@@ -2683,9 +2706,9 @@ objects.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;p&gt;Finally, to transpose a matrix, we employ the function t(), which
+Finally, to transpose a matrix, we employ the function t(), which
 returns the matrix transposed. The following shows an example of
-transposing a matrix in R.&lt;/p&gt;
+transposing a matrix in R.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2693,7 +2716,8 @@ transposing a matrix in R.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 matrix.a 
 [, 1] [2] [3] [4] [5] 
 [1] 2.620871 3.729884 4.221497 8.687757 6.738848 
@@ -2701,9 +2725,9 @@ matrix.a 
 [3] 9.642593 4.101409 3.427884 1.068980 6.605213 
 [4] 7.396233 5.121680 8.193945 7.627636 6.460386
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;**&lt;/p&gt;
+**
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2711,7 +2735,8 @@ matrix.a 
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 t(matrix.a) 
 [, 1] [2] [3] [4] 
 [1] 2.620871 9.664402 9.642593 7.396233 
@@ -2720,18 +2745,18 @@ t(matrix.a) 
 [4] 8.687757 5.865550 1.068980 7.627636 
 [5] 6.738848 5.827878 6.605213 6.460386
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;h4 id=&quot;arrays&quot;&gt;Arrays&lt;/h4&gt;
+#### Arrays
 
-&lt;p&gt;array ()&lt;/p&gt;
+array ()
 
-&lt;p&gt;An array is a vector that is stored with some additional properties,
+An array is a vector that is stored with some additional properties,
 such as dimensions (speciﬁed using the operator dim”) and names for
 these dimensions (speciﬁed using the operator “dimnames”). A sequence is
 identical to a table, but may have more dimensions. In operand “dim” is
 deﬁned as a numeric vector containing non-negative values, the eﬀect of
-these prices should correspond to the length of the series.&lt;/p&gt;
+these prices should correspond to the length of the series.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2739,7 +2764,8 @@ these prices should correspond to the length of the series.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 array.a &amp;lt;- array (1:48, dim = c (3,4,2)) 
 array.a 
  
@@ -2763,9 +2789,9 @@ array.a 
 [5] 29 35 41 47 
 [6] 30 36 42 48
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;An alternative way of creating an array is by modifying a vector.&lt;/p&gt;
+An alternative way of creating an array is by modifying a vector.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2773,12 +2799,13 @@ array.a 
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 vector. a &amp;lt;- 1:48 # create a vector.
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;**&lt;/p&gt;
+**
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2786,13 +2813,14 @@ vector. a &amp;lt;- 1:48 # create a vector.
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 dim (vector.a) &amp;lt;- c ( 6,4,2) # create two rows with three numbers rows and four columns.
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;Now array.a and vector.a are the same, which can be tested by using the
-function identical() in the following:&lt;/p&gt;
+Now array.a and vector.a are the same, which can be tested by using the
+function identical() in the following:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2800,18 +2828,17 @@ function identical() in the following:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 identical(array.a, vector.a) 
 TRUE
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;To select values in array we employ square brackets, like in vectors and
+To select values in array we employ square brackets, like in vectors and
 matrices. However, as arrays can be multidimensional, we have to deﬁne
-three values in the square bracket, which correspond to the following:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;row, 2. column, and 3. matrix.&lt;/li&gt;
-&lt;/ol&gt;
+three values in the square bracket, which correspond to the following:
+1. row, 2. column, and 3. matrix.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2819,7 +2846,8 @@ three values in the square bracket, which correspond to the following:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 array.a [1 ,,] 
 array.a [1 ,,] 
 [, 1] [2] 
@@ -2828,10 +2856,10 @@ array.a [1 ,,] 
 [3] 13 37 
 [4] 19 43
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;The deﬁnition of the operator ”dimnames” is optional and it is employed
-to set the names in rows. An example is provided in the following:&lt;/p&gt;
+The deﬁnition of the operator ”dimnames” is optional and it is employed
+to set the names in rows. An example is provided in the following:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2839,7 +2867,8 @@ to set the names in rows. An example is provided in the following:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 dimnames (array.a) &amp;lt;- list (c ( &quot;A&quot;, &quot;B&quot;, &quot;C&quot;), c ( &quot;S1&quot;, &quot;S2&quot;, &quot;S3&quot;, &quot;S4&quot;), c ( &quot;Group␣A&quot; &quot;Group␣B&quot;)) 
 array.a 
 ,, Group A 
@@ -2856,13 +2885,13 @@ A 13 16 19 22 
 B 14 17 20 23 
 C 15 18 21 24
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;h4 id=&quot;lists&quot;&gt;Lists&lt;/h4&gt;
+#### Lists
 
-&lt;p&gt;list () Lists are collections of objects or components. The list allows
+list () Lists are collections of objects or components. The list allows
 the assembly of components of diﬀerent categories, vectors, tables,
-sets, lists, etc., which are not necessarily connected.&lt;/p&gt;
+sets, lists, etc., which are not necessarily connected.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2870,7 +2899,8 @@ sets, lists, etc., which are not necessarily connected.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 my.vector &amp;lt;- 1:10 
 list.a &amp;lt;- list ( 
 number.a = 1, 
@@ -2914,20 +2944,18 @@ $ matrix.a 
 [4] 8 2 4 6 10 
 $
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;The following three functions provide information about the items in the
-list&lt;/p&gt;
+The following three functions provide information about the items in the
+list
 
-&lt;ul&gt;
-  &lt;li&gt;names (x) function returns the names of the components of the list.&lt;/li&gt;
-  &lt;li&gt;length (x) function returns the number of items in the list.&lt;/li&gt;
-  &lt;li&gt;unlist (x) functions converts the list into single vectors.&lt;/li&gt;
-&lt;/ul&gt;
+-   names (x) function returns the names of the components of the list.
+-   length (x) function returns the number of items in the list.
+-   unlist (x) functions converts the list into single vectors.
 
-&lt;p&gt;To select items from lists, we employ square brackets of this form
-[[]]. In the square brackets we place a numeric index or the name of
-the object. This is shown in [??]{.rm-lmbx-10x-x-109}.&lt;/p&gt;
+To select items from lists, we employ square brackets of this form
+\[\[\]\]. In the square brackets we place a numeric index or the name of
+the object. This is shown in [??]{.rm-lmbx-10x-x-109}.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2935,16 +2963,17 @@ the object. This is shown in [??]{.rm-lmbx-10x-x-109}.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 list.a [[3]] # The third component of the list. 
 [1] 1 2 3 4 5 6 7 8 9 10 
 list.a [[ &quot;character.title&quot;]] # Refer to character.title component. 
 [1] &quot;corpora␣for␣analysis&quot;
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;Also, the $ symbol followed by the name of the object can employed to
-access items in a list.&lt;/p&gt;
+Also, the \$ symbol followed by the name of the object can employed to
+access items in a list.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -2952,27 +2981,28 @@ access items in a list.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 list.a $ character.title 
 [1] &quot;corpora␣for␣analysis&quot; 
 $
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;h4 id=&quot;data-frames&quot;&gt;Data frames&lt;/h4&gt;
+#### Data frames
 
-&lt;p&gt;The data frames are tables which can accept values with diﬀerent
+The data frames are tables which can accept values with diﬀerent
 characteristics such as numbers, characters, logical values (TRUE or
 FALSE), dates etc. Unlike tables, dataframes do not require the columns
 to have the same length. Dataframes are similar in their characteristics
 with worksheets, such as those in Microsoft Excel or Libreoﬃce Calc, and
 therefore they are very suitable to store data is imported from these
-programs.&lt;/p&gt;
+programs.
 
-&lt;h5 id=&quot;creating-dataframes&quot;&gt;Creating dataframes&lt;/h5&gt;
+##### Creating dataframes
 
-&lt;p&gt;Table &lt;a href=&quot;#x1-280017&quot;&gt;7&lt;/a&gt; is a dataframe with data of the participants in an
-experimental design.&lt;/p&gt;
+Table [7](#x1-280017) is a dataframe with data of the participants in an
+experimental design.
 
 &lt;div class=&quot;table&quot;&gt;
 
@@ -3019,13 +3049,13 @@ design.]{.content}
 
 &lt;/div&gt;
 
-&lt;p&gt;We can create a dataframe manually by inserting the values in R or as it
+We can create a dataframe manually by inserting the values in R or as it
 is often the case we can import a table into R for analysis. The latter
 is what happens when we get results from an experiment or data from
 other applications. First, we will see how to create manually a
 dataframe in R manually and then how we import data into dataframes from
 other sources. To create a dataframe we employ the function
-data.frame(), as shown below.&lt;/p&gt;
+data.frame(), as shown below.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3033,7 +3063,8 @@ data.frame(), as shown below.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 # Vector with values for the serial number. 
 vector.aa &amp;lt;- 1:10 
 # Vector with values for the sex of participants: five men and five women. 
@@ -3047,18 +3078,18 @@ sex = factor.gender, 
 age = vector.age 
 )
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;The dataframe has been created by a vector containing the serial numbers
+The dataframe has been created by a vector containing the serial numbers
 of items, a factor containing the gender with two levels “man” and
 “woman”, and a vector containing the age of the participants. Note that
 when you prepare a table in R or in Excel / Calc to add a column with
 the serial numbers of item. The serial number works as an element for
 data identiﬁcation and can help we need to restore the table to its
-original state if the layout changed.&lt;/p&gt;
+original state if the layout changed.
 
-&lt;p&gt;To create the factor for gender we employed the function gl(), which has
-the following structure:&lt;/p&gt;
+To create the factor for gender we employed the function gl(), which has
+the following structure:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3066,12 +3097,13 @@ the following structure:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 gl (n, k, length = n * k, labels = 1: n, ordered = FALSE)
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;Speciﬁcally, the parameters of gl() are explicitly deﬁned as follows:&lt;/p&gt;
+Speciﬁcally, the parameters of gl() are explicitly deﬁned as follows:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3079,23 +3111,24 @@ gl (n, k, length = n * k, labels = 1: n, ordered = FALSE)
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 gl (n = 2, k = 5, labels = c ( &quot;male&quot;, &quot;female&quot;)) 
  [1] male   male   male   male   male   female female female female female 
 Levels: male female
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;In this case n = 2, k = 5 the like. The n is a number of levels of the
+In this case n = 2, k = 5 the like. The n is a number of levels of the
 factor; k is the of items assigned to each level. Therefore, the
-operator length has a predetermined value n * k. Next, the labels of
-the two labels are provided: c(”man”, ”woman”).&lt;/p&gt;
+operator length has a predetermined value n \* k. Next, the labels of
+the two labels are provided: c(”man”, ”woman”).
 
-&lt;p&gt;Finally, the three vectors vector.aa, factor.gender, and vector.age are
+Finally, the three vectors vector.aa, factor.gender, and vector.age are
 used to generate a dataframe titled
 [dataframe.data]. After we create the dataframe, we
 can remove the objects we employed to construct the dataframe from
-memory, by deleting them as follows:&lt;/p&gt;
+memory, by deleting them as follows:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3103,17 +3136,18 @@ memory, by deleting them as follows:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 rm (vector.aa) 
 rm (factor.gender) 
 rm (vector.age)
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;h5 id=&quot;presentation-of-the-data-frame&quot;&gt;Presentation of the data frame&lt;/h5&gt;
+##### Presentation of the data frame
 
-&lt;p&gt;To see the contents of a dataframe simply write the name of the
-dataframe in the console:&lt;/p&gt;
+To see the contents of a dataframe simply write the name of the
+dataframe in the console:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3121,13 +3155,14 @@ dataframe in the console:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 dataframe.data
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;Alternatively, the View() function can be used to present the data in a
-tabular form:&lt;/p&gt;
+Alternatively, the View() function can be used to present the data in a
+tabular form:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3135,12 +3170,13 @@ tabular form:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
   View(dataframe.data)
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;The dim() function indicates the dimensions of the data frame.&lt;/p&gt;
+The dim() function indicates the dimensions of the data frame.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3148,12 +3184,13 @@ tabular form:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 dim (dataframe.data)
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;The names() function shows the variables are within dataframe.data data.&lt;/p&gt;
+The names() function shows the variables are within dataframe.data data.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3161,15 +3198,16 @@ dim (dataframe.data)
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 names (dataframe.data) 
 The result is the following: 
 [1] &quot;aa&quot; &quot;sex&quot; &quot;age&quot;
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;The str() function shows the structure of an object. For dataframe.data
-data frame the result of the operation is as follows:&lt;/p&gt;
+The str() function shows the structure of an object. For dataframe.data
+data frame the result of the operation is as follows:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3177,20 +3215,21 @@ data frame the result of the operation is as follows:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 str (dataframe.data) 
 ’Data.frame’: 10 obs. of 3 variables: 
 $ aa: int 1 2 3 4 5 6 7 8 9 10 
 $ sex: Factor w / 2 levels &quot;man&quot;, &quot;woman&quot;: 1 1 1 1 1 2 2 2 2 2 
 $ age: num 22 22 24 25 23 22 23 23 22 23
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;Speciﬁcally, the str() function reports the that [dataframe.data
+Speciﬁcally, the str() function reports the that [dataframe.data
 ]is a dataframe with 10 rows and 3 columns. For each
 column, it provides the class of the data, e.g., integer, number, and
 factor. In general, to ask R about the class of an object, we employ the
-class() function.&lt;/p&gt;
+class() function.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3198,14 +3237,15 @@ class() function.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 class (dataframe.data) 
 [1] &quot;data.frame&quot;
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;The Table &lt;a href=&quot;#x1-290003.5.2&quot;&gt;3.5.2&lt;/a&gt; presents useful functions of R for
-data analysis.&lt;/p&gt;
+The Table [3.5.2](#x1-290003.5.2) presents useful functions of R for
+data analysis.
 
 &lt;div class=&quot;table&quot;&gt;
 
@@ -3252,13 +3292,13 @@ data analysis.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;h5 id=&quot;select-values-in-dataframes&quot;&gt;Select values in dataframes&lt;/h5&gt;
+##### Select values in dataframes
 
-&lt;p&gt;Selecting values in dataframes is very similar to the way we select
+Selecting values in dataframes is very similar to the way we select
 items in other objects, such as vectors and matrices. We deﬁne the
 position of the object in square brackets, by providing an index of the
 rows in the left part and in the right part an index of the columns,
-separated by a comma:&lt;/p&gt;
+separated by a comma:
 
 &lt;div class=&quot;center&quot;&gt;
 
@@ -3266,8 +3306,8 @@ separated by a comma:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;p&gt;Table &lt;a href=&quot;#x1-300003.5.3&quot;&gt;3.5.3&lt;/a&gt; provides indexes of each cell in a 4
-$\times$ 4 table.&lt;/p&gt;
+Table [3.5.3](#x1-300003.5.3) provides indexes of each cell in a 4
+$\times$ 4 table.
 
 &lt;div class=&quot;table&quot;&gt;
 
@@ -3298,9 +3338,9 @@ $\times$ 4 table.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;p&gt;To select the value of the cell in the address [2, 2] in the
+To select the value of the cell in the address \[2, 2\] in the
 dataframe, we provide the name of the dataframe and the position in
-square brackets:&lt;/p&gt;
+square brackets:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3308,12 +3348,13 @@ square brackets:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 dataframe.data [2, 2]
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;The R output is the following:&lt;/p&gt;
+The R output is the following:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3321,22 +3362,23 @@ dataframe.data [2, 2]
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 [1] man 
 Levels: man woman
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;Therefore, to select rows from 1 to 2, we type: dataframe.data [1:
-2,]. Since, we do not deﬁne a column index after the comma, R we select
-all columns. Consequently, the selection dataframe.data[, 1: 2], will
+Therefore, to select rows from 1 to 2, we type: dataframe.data \[1:
+2,\]. Since, we do not deﬁne a column index after the comma, R we select
+all columns. Consequently, the selection dataframe.data\[, 1: 2\], will
 return all rows in columns from 1 to 2, since in this case only the
-column index is speciﬁed. Finally, dataframe.data[c (1,3,4),2] returns
-rows 1, 3, and 4 of column 2.&lt;/p&gt;
+column index is speciﬁed. Finally, dataframe.data\[c (1,3,4),2\] returns
+rows 1, 3, and 4 of column 2.
 
-&lt;p&gt;The minus sign (-) before the index of the row or column is used to
+The minus sign (-) before the index of the row or column is used to
 exclude values. So to select all data in a table except the data in the
-third row, we type the following:&lt;/p&gt;
+third row, we type the following:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3344,15 +3386,16 @@ third row, we type the following:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 dataframe.data [-3,] # option all data except row 3.
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;Another way to refer to columns of a dataframe is by using the name of
+Another way to refer to columns of a dataframe is by using the name of
 the column. So, ﬁrst we type the name of the dataframe and after that
-the dollar sign ($), and then the name of the column, as in
-[??]{.rm-lmbx-10x-x-109}.&lt;/p&gt;
+the dollar sign (\$), and then the name of the column, as in
+[??]{.rm-lmbx-10x-x-109}.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3360,13 +3403,14 @@ the dollar sign ($), and then the name of the column, as in
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 dataframe.data$Sex 
 dataframe.data$Age
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;The function levels () shows the levels of a factor.&lt;/p&gt;
+The function levels () shows the levels of a factor.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3374,12 +3418,13 @@ dataframe.data$Age
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 levels (dataframe.data$Sex)
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;Of course, we can assign the column to a variable.&lt;/p&gt;
+Of course, we can assign the column to a variable.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3387,15 +3432,16 @@ levels (dataframe.data$Sex)
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 a &amp;lt;- dataframe.data$Sex 
 b &amp;lt;- dataframe.data$Age
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;To select values from a dataframe based on conditions, we employ logical
+To select values from a dataframe based on conditions, we employ logical
 operators. For example, the selection of all participants whose age is
-23 in the dataframe, we use the (==) operator:&lt;/p&gt;
+23 in the dataframe, we use the (==) operator:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3403,7 +3449,8 @@ operators. For example, the selection of all participants whose age is
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 dataframe.data [dataframe.data $ Age == 23,] 
  
 AA Sex Age 
@@ -3412,10 +3459,10 @@ AA Sex Age 
 8 8 woman 23 
 Woman 10 10 23
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;Similarly, to select all “male” participants, we provide the following
-command.&lt;/p&gt;
+Similarly, to select all “male” participants, we provide the following
+command.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3423,17 +3470,18 @@ command.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 dataframe.data [dataframe.data $ Sex == &quot;man&quot; ,]
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;Note that because in this case the value is not number but a character,
+Note that because in this case the value is not number but a character,
 we need to type the value in double or single quotes). Other logical
 operators that are commonly employed for data selection are the
 operators less than (¡) and greater than (¿), as in the example
-[??]{.rm-lmbx-10x-x-109} (see Table &lt;a href=&quot;#x1-210075&quot;&gt;5&lt;/a&gt; for more information
-on logical operators).&lt;/p&gt;
+[??]{.rm-lmbx-10x-x-109} (see Table [5](#x1-210075) for more information
+on logical operators).
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3441,12 +3489,13 @@ on logical operators).&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 over23 &amp;lt;- dataframe.data [dataframe.data $ age &amp;lt;23,]
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;In this case, the new table is assigned in the variable over23.&lt;/p&gt;
+In this case, the new table is assigned in the variable over23.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3454,7 +3503,8 @@ over23 &amp;lt;- dataframe.data [dataframe.data $ age &amp;lt;23,]
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 new.data 
  
 AA Sex Age 
@@ -3463,13 +3513,13 @@ AA Sex Age 
 6 6 22 woman 
 9 9 woman 22
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;More complicated data selections are possible by combining conditions.
+More complicated data selections are possible by combining conditions.
 For instance, to select participants whose age is less than or equal to
 25 or higher than 22 we can use the logical OR operator (—) to connect
-these two conditions as in [dataframe.data $ age ¿= 25 —
-dataframe.data $ age == 22,]:&lt;/p&gt;
+these two conditions as in \[dataframe.data \$ age ¿= 25 —
+dataframe.data \$ age == 22,\]:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3477,7 +3527,8 @@ dataframe.data $ age == 22,]:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
  dataframe.data [dataframe.data $ age &amp;gt;= 25 | dataframe.data $ age == 22,] 
 AA Sex Age 
 1 1 man 22 
@@ -3486,13 +3537,13 @@ AA Sex Age 
 6 6 22 woman 
 9 9 woman 22
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;Another useful logical operation for combining conditions is the Logical
+Another useful logical operation for combining conditions is the Logical
 AND operator, which combines each element of the ﬁrst vector with the
 corresponding element of the second vector as in
 [??]{.rm-lmbx-10x-x-109}. This selection returns all female participants
-whose age is less than 24.&lt;/p&gt;
+whose age is less than 24.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3500,7 +3551,8 @@ whose age is less than 24.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 dataframe.data [dataframe.data $ Age &amp;lt;24 &amp;amp; dataframe.data $ Sex == &quot;woman&quot;, ] 
 AA Sex Age 
 6 6 22 woman 
@@ -3509,13 +3561,13 @@ AA Sex Age 
 9 9 woman 22 
 Woman 10 10 23
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;Logical operators can be employed along with the subset () function,
+Logical operators can be employed along with the subset () function,
 which provides additional options, for selecting data. For instance,
 subset(dataframe.data, age $&amp;lt;$ 24 &amp;amp; sex == ”woman”, select = aa: age)
 selects the data of participants from columns AA to Age, whose Age is
-less than 24 and their Sex is “woman”.&lt;/p&gt;
+less than 24 and their Sex is “woman”.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3523,7 +3575,8 @@ less than 24 and their Sex is “woman”.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
  
 AA Sex Age 
 6 6 22 woman 
@@ -3532,10 +3585,10 @@ AA Sex Age 
 9 9 woman 22 
 10 10 woman 23
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;The choice of three random sequences from the table obtained by the
-sample () function (see. (91)).&lt;/p&gt;
+The choice of three random sequences from the table obtained by the
+sample () function (see. (91)).
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3543,7 +3596,8 @@ sample () function (see. (91)).&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 sample.table &amp;lt;- dataframe.data[sample(1:nrow(dataframe.data), 3,replace=F),] 
 sample.table 
  
@@ -3552,10 +3606,10 @@ AA Sex Age 
 4 4 man 25 
 6 6 22 woman
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;The head () function shows the ﬁrst ﬁve rows of a dataframe and the
-tail() function displays the last ﬁve rows of a dataframe.&lt;/p&gt;
+The head () function shows the ﬁrst ﬁve rows of a dataframe and the
+tail() function displays the last ﬁve rows of a dataframe.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3563,15 +3617,16 @@ tail() function displays the last ﬁve rows of a dataframe.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 head (data) 
 This function is equivalent to the following option 
         93 
 Data [1: 5]
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;**&lt;/p&gt;
+**
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3579,17 +3634,18 @@ Data [1: 5]
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 tail (mydata)
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;Notice, that there is some ﬂexibility in how to structure the commands
-in R, as the same results can be achieved in many ways.&lt;/p&gt;
+Notice, that there is some ﬂexibility in how to structure the commands
+in R, as the same results can be achieved in many ways.
 
-&lt;h5 id=&quot;changing-values-in-data-frames&quot;&gt;Changing values in data frames&lt;/h5&gt;
+##### Changing values in data frames
 
-&lt;p&gt;We provided a relatively lengthy description on data selection because
+We provided a relatively lengthy description on data selection because
 it is the foundation for many other operations. In this section, we
 discuss they way we change values in a dataframe. Let us begin with the
 following example. We found that there was a mistake in the reports and
@@ -3599,7 +3655,7 @@ one or use a condition. The latter is of course more economical in terms
 of eﬀort and time, especially when the data are big. To change the
 values, we need to select the values that we want to change and then
 using the assignment operator to assign a new value as in the following
-example:&lt;/p&gt;
+example:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3607,12 +3663,13 @@ example:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 dataframe.data $ Age [dataframe.data $ Age &amp;lt;= 22] &amp;lt;- 19
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;The result of the change is the following:&lt;/p&gt;
+The result of the change is the following:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3620,7 +3677,8 @@ dataframe.data $ Age [dataframe.data $ Age &amp;lt;= 22] &amp;lt;- 19
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 dataframe.data 
 AA Sex Age 
 1 1 man 19 
@@ -3634,11 +3692,11 @@ AA Sex Age 
 9 9 woman 19 
 Woman 10 10 23
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;Often when we make changes we want to store them in a new table instead
+Often when we make changes we want to store them in a new table instead
 of changing the original dataframe. This can be achieved very easily by
-making a copy of the dataframe in the following way.&lt;/p&gt;
+making a copy of the dataframe in the following way.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3646,17 +3704,18 @@ making a copy of the dataframe in the following way.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 changed.data &amp;lt;- dataframe.data 
 changed.data$Age[changed.data$Age &amp;lt;= 22] &amp;lt;- 19
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;h5 id=&quot;change-of-column-names&quot;&gt;Change of column names&lt;/h5&gt;
+##### Change of column names
 
-&lt;p&gt;The function names () is used when need to change the column-names of
+The function names () is used when need to change the column-names of
 the dataframe; names() returns the names of the columns as in the
-following example:&lt;/p&gt;
+following example:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3664,14 +3723,15 @@ following example:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 names(dataframe.data) 
 [1] &quot;AA&quot; &quot;Sex&quot; &quot;Age&quot;
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;To change of the names of columns, we have to assign the new values in
-the following way:&lt;/p&gt;
+To change of the names of columns, we have to assign the new values in
+the following way:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3679,7 +3739,8 @@ the following way:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 names (dataframe.data) [2: 3] &amp;lt;- c (&quot;Gender&quot;, &quot;Age&quot;) 
  
  
@@ -3704,11 +3765,11 @@ Woman 10 10 23 
 3 3 man 24 
 4 4 man 25
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;The minus symbol can be used to sort Age in decreasing order,
-alternatively we can deﬁne this [order(dataframe.data$Age, decreasing=
-TRUE),].&lt;/p&gt;
+The minus symbol can be used to sort Age in decreasing order,
+alternatively we can deﬁne this \[order(dataframe.data\$Age, decreasing=
+TRUE),\].
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3716,7 +3777,8 @@ TRUE),].&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 revorder.d &amp;lt;- dataframe.data [order (-dataframe.data$Age),] 
 revorder.d 
 AA Sex Age 
@@ -3731,18 +3793,18 @@ Woman 10 10 23 
 6 6 22 woman 
 9 9 woman 22
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;h3 id=&quot;missing-values&quot;&gt;Missing Values&lt;/h3&gt;
+### Missing Values
 
-&lt;p&gt;In R, missing values are indicated by the symbol NA. The undeﬁned or
+In R, missing values are indicated by the symbol NA. The undeﬁned or
 unrepresentable values, especially in ﬂoating-point calculations are
 represented by the symbol NaN (not a number). To check for missing
 values, we employ the is.na () function. Its outcome is a data frame in
-which the missing values are identiﬁed as TRUE.&lt;/p&gt;
+which the missing values are identiﬁed as TRUE.
 
-&lt;p&gt;If we change in the missing values 2, 3, and 9 to NA and use the is.na()
-function the output will be the following.&lt;/p&gt;
+If we change in the missing values 2, 3, and 9 to NA and use the is.na()
+function the output will be the following.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3750,7 +3812,8 @@ function the output will be the following.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
   dataframe.data 
   $ Age [c (2,3,9)]  &amp;lt;- NA # Change values of  rows 
   2, 3, and 9 in column Age and check for NA values. 
@@ -3768,10 +3831,10 @@ AA Sex Age 
 [9,] FALSE FALSE TRUE 
 [10,] FALSE FALSE FALSE
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;Another useful function for detecting NA values the complete.cases()
-function.&lt;/p&gt;
+Another useful function for detecting NA values the complete.cases()
+function.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3779,7 +3842,8 @@ function.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 dataframe.data [complete.cases (dataframe.data),] 
 AA Sex Age 
 1 1 man 22 
@@ -3790,9 +3854,9 @@ AA Sex Age 
 8 8 woman 23 
 Woman 10 10 23
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;The same eﬀect can be obtained with the help of na.omit function().&lt;/p&gt;
+The same eﬀect can be obtained with the help of na.omit function().
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3800,7 +3864,8 @@ Woman 10 10 23
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 na.omit (dataframe.data) 
 Instead, the selection of data with missing values is the following: 
  
@@ -3810,12 +3875,12 @@ AA Sex Age 
 3 3 man NA 
 9 9 NA woman
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;h3 id=&quot;functions-attach-and-detach&quot;&gt;Functions attach and detach&lt;/h3&gt;
+### Functions attach and detach
 
-&lt;p&gt;The attach () converts column names into variables, so that it is
-possible to refer to them explicitly using the name of the dataframe:&lt;/p&gt;
+The attach () converts column names into variables, so that it is
+possible to refer to them explicitly using the name of the dataframe:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3823,13 +3888,14 @@ possible to refer to them explicitly using the name of the dataframe:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 attach (dataframe.data)
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;In this way, it is possible to refer to the statement of column names as
-follows:&lt;/p&gt;
+In this way, it is possible to refer to the statement of column names as
+follows:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3837,17 +3903,18 @@ follows:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 Sex 
 Age
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;However, the use of the attach function () can cause problems when there
+However, the use of the attach function () can cause problems when there
 are other objects with the same name in R memory. To avoid the risk of
 ambiguity, it is better to explicitly set the column name using the
-symbol $. The opposite of the attach function () is the detach ()
-function.&lt;/p&gt;
+symbol \$. The opposite of the attach function () is the detach ()
+function.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3855,51 +3922,44 @@ function.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 detach (data)
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;In this section we introduced the R objects. We have seen how to create
+In this section we introduced the R objects. We have seen how to create
 vectors, tables, sets, lists, and dataframes. Also, we have seen how to
 choose values of these objects, delete or change values. In the next
-section we will see how to import data in R.&lt;/p&gt;
+section we will see how to import data in R.
 
-&lt;h3 id=&quot;importing-data-in-r&quot;&gt;Importing data in R&lt;/h3&gt;
+### Importing data in R
 
-&lt;p&gt;Instead of typing the data into variables and creating the dataframe
+Instead of typing the data into variables and creating the dataframe
 using these elements, we usually import data from other applications
-such as Excel or Calc. There are three options.&lt;/p&gt;
+such as Excel or Calc. There are three options.
 
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;div id=&quot;x1-35002x1&quot;&gt;
+1.  &lt;div id=&quot;x1-35002x1&quot;&gt;
 
-&lt;/div&gt;
+    &lt;/div&gt;
 
-    &lt;p&gt;Type data directly in an R input window.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;div id=&quot;x1-35004x2&quot;&gt;
+    Type data directly in an R input window.
+2.  &lt;div id=&quot;x1-35004x2&quot;&gt;
 
-&lt;/div&gt;
+    &lt;/div&gt;
 
-    &lt;p&gt;Import data from external ﬁles of text.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;div id=&quot;x1-35006x3&quot;&gt;
+    Import data from external ﬁles of text.
+3.  &lt;div id=&quot;x1-35006x3&quot;&gt;
 
-&lt;/div&gt;
+    &lt;/div&gt;
 
-    &lt;p&gt;Import data Excel or Calc tables.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+    Import data Excel or Calc tables.
 
-&lt;h4 id=&quot;import-data-from-the-r-input-window&quot;&gt;Import data from the R input window&lt;/h4&gt;
+#### Import data from the R input window
 
-&lt;p&gt;One way to input data is by using the R data entry window, which
+One way to input data is by using the R data entry window, which
 activated using the edit() function. Speciﬁcally, the edit() function
-displays a window similar to spreadsheet (see Figure &lt;a href=&quot;#x1-360032&quot;&gt;2&lt;/a&gt;).&lt;/p&gt;
+displays a window similar to spreadsheet (see Figure [2](#x1-360032)).
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3907,39 +3967,42 @@ displays a window similar to spreadsheet (see Figure &lt;a href=&quot;#x1-360032
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 data &amp;lt;- edit (as.data.frame (NULL))
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;hr /&gt;
+------------------------------------------------------------------------
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/img_papers/figuresR/image03.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Figure 2: R Data Editor.&lt;/p&gt;
+![screenshot](http://localhost:4000/img/img_papers/figuresR/image03.png)
 
-&lt;hr /&gt;
 
-&lt;p&gt;However, the data input window does not provide the ﬂexibility oﬀered by
-applications, such as Calc and Excel.&lt;/p&gt;
+Figure 2: R Data Editor.
 
-&lt;h4 id=&quot;import-data-from-text-files&quot;&gt;Import data from text files&lt;/h4&gt;
+------------------------------------------------------------------------
 
-&lt;p&gt;Data are often created in applications (such as Praat, DMDX, and
+However, the data input window does not provide the ﬂexibility oﬀered by
+applications, such as Calc and Excel.
+
+#### Import data from text files
+
+Data are often created in applications (such as Praat, DMDX, and
 PsychoPy) and electronic questionnaires (such as SurveyMonkey or Google
-Forms) in diﬀerent formats such as excel sheets (*.xls), simple text
-ﬁles (*.txt), and comma separated values (*.csv) From these the csv
+Forms) in diﬀerent formats such as excel sheets (\*.xls), simple text
+ﬁles (\*.txt), and comma separated values (\*.csv) From these the csv
 ﬁles are the most commonly used when importing data in R because they
 are simple text ﬁles and their format can be accessed by all
-applications.&lt;/p&gt;
+applications.
 
-&lt;hr /&gt;
+------------------------------------------------------------------------
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/img_papers/figuresR/image02.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+![screenshot](http://localhost:4000/img/img_papers/figuresR/image02.png)
 
-&lt;hr /&gt;
+------------------------------------------------------------------------
 
-&lt;p&gt;To open a csv ﬁle you can use the function read.table() or read.csv().&lt;/p&gt;
+To open a csv ﬁle you can use the function read.table() or read.csv().
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -3947,65 +4010,57 @@ applications.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
   read.table (path,  header = TRUE, sep  = &quot;,&quot;)
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;This function accepts three main parameters:&lt;/p&gt;
+This function accepts three main parameters:
 
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;div id=&quot;x1-37005x1&quot;&gt;
+1.  &lt;div id=&quot;x1-37005x1&quot;&gt;
 
-&lt;/div&gt;
+    &lt;/div&gt;
 
-    &lt;p&gt;The path to the ﬁle. It should be entered in quotes. The import
-method diﬀers depending on the operating system:&lt;/p&gt;
-    &lt;ul&gt;
-      &lt;li&gt;On Windows the path, the path locations are separated by two
-backward slashes\
-e.g.,
-[[C:\\Users\\Research\\Desktop\\]{.rm-lmtt-10x-x-109}[ ]{.rm-lmtt-10x-x-109}[ ]{.rm-lmtt-10x-x-109}[ ]{.rm-lmtt-10x-x-109}[ ]{.rm-lmtt-10x-x-109}[ mydata.csv]{.rm-lmtt-10x-x-109}]{.path}.&lt;/li&gt;
-      &lt;li&gt;On Mac OS X or Linux, the path locations are separated by
-forward slashes:
-[[/Users/Research/Documents/RData/mydata.]{.rm-lmtt-10x-x-109}
-[csv]{.rm-lmtt-10x-x-109}]{.path}.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;div id=&quot;x1-37007x2&quot;&gt;
+    The path to the ﬁle. It should be entered in quotes. The import
+    method diﬀers depending on the operating system:
+    -   On Windows the path, the path locations are separated by two
+        backward slashes\
+        e.g.,
+        [[C:\\\\Users\\\\Research\\\\Desktop\\\\]{.rm-lmtt-10x-x-109}[ ]{.rm-lmtt-10x-x-109}[ ]{.rm-lmtt-10x-x-109}[ ]{.rm-lmtt-10x-x-109}[ ]{.rm-lmtt-10x-x-109}[ mydata.csv]{.rm-lmtt-10x-x-109}]{.path}.
+    -   On Mac OS X or Linux, the path locations are separated by
+        forward slashes:
+        [[/Users/Research/Documents/RData/mydata.]{.rm-lmtt-10x-x-109}
+        [csv]{.rm-lmtt-10x-x-109}]{.path}.
 
-&lt;/div&gt;
+2.  &lt;div id=&quot;x1-37007x2&quot;&gt;
 
-    &lt;p&gt;header = FALSE: Indicates whether the ﬁrst column of the table
-contains names of columns. If there are column names in your table
-then the header parameter should be set to true (header = TRUE); if
-there are no column names, then the header parameter is set to false
-(header = FALSE) (if it is false and can be left blank since the
-base price of the header parameter is FALSE).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;div id=&quot;x1-37009x3&quot;&gt;
+    &lt;/div&gt;
 
-&lt;/div&gt;
+    header = FALSE: Indicates whether the ﬁrst column of the table
+    contains names of columns. If there are column names in your table
+    then the header parameter should be set to true (header = TRUE); if
+    there are no column names, then the header parameter is set to false
+    (header = FALSE) (if it is false and can be left blank since the
+    base price of the header parameter is FALSE).
+3.  &lt;div id=&quot;x1-37009x3&quot;&gt;
 
-    &lt;p&gt;sep = “” deﬁnes if the ﬁle has columns separated by commas (sep =
-“,”), or semicolon (sep = “;”) or tab sep = “$n$t”.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+    &lt;/div&gt;
 
-&lt;p&gt;Sometimes, you open a ﬁle but R does not identify the columns and puts
+    sep = “” deﬁnes if the ﬁle has columns separated by commas (sep =
+    “,”), or semicolon (sep = “;”) or tab sep = “$n$t”.
+
+Sometimes, you open a ﬁle but R does not identify the columns and puts
 everything in one column. This means that the separator your chose in
 the option sep is not the correct one. You might have selected a comma
 but your data are separated by tabs. To see how your data are separated
 in a csv ﬁle you can either open the ﬁle using a text editor or simply
-try diﬀerent options of separators.&lt;/p&gt;
+try diﬀerent options of separators.
 
-&lt;p&gt;Optionally, you must determine how to separate decimals. Depending on
+Optionally, you must determine how to separate decimals. Depending on
 the locale of your operating system it is possible that the decimal data
 values are separated by a period (.) or comma (,). So, you might need to
-deﬁne in R how decimal values are separated using the dec operator.&lt;/p&gt;
+deﬁne in R how decimal values are separated using the dec operator.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -4013,16 +4068,17 @@ deﬁne in R how decimal values are separated using the dec operator.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
   data &amp;lt;- read.table  ( &quot;C://Users//Research//Desktop//Duration.csv&quot;, 
   header = TRUE, sep = &quot;;&quot;, na.strings = &quot;NA&quot;, dec =. &quot;&quot;)
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;h4 id=&quot;63-titlemark-x1-3800063save-ﬁles-save-ﬁles-subsectionhead&quot;&gt;[6.3 ]{.titlemark} []{#x1-380006.3}Save ﬁles {#save-ﬁles .subsectionHead}&lt;/h4&gt;
+#### [6.3 ]{.titlemark} []{#x1-380006.3}Save ﬁles {#save-ﬁles .subsectionHead}
 
-&lt;p&gt;The data stored in a text ﬁle separated by commas * .csv or * .txt is
-the write.table () function:&lt;/p&gt;
+The data stored in a text ﬁle separated by commas \* .csv or \* .txt is
+the write.table () function:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -4030,13 +4086,14 @@ the write.table () function:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 write.table (data, &quot;c:\\data.txt&quot;, sep = &quot;,&quot;)
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;The data can be stored in many formats. To save a dataframe as an Excel
-Work Sheet (*.xls) we can use the [xlsReadWrite].&lt;/p&gt;
+The data can be stored in many formats. To save a dataframe as an Excel
+Work Sheet (\*.xls) we can use the [xlsReadWrite].
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -4044,14 +4101,15 @@ Work Sheet (*.xls) we can use the [xlsReadWrite].&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 library (&quot;xlsReadWrite&quot;) 
 write.xls (Data, &quot;c:\\data.xls&quot;)
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;To save the dataframe in SPSS format you can use the [foreign
-]package.&lt;/p&gt;
+To save the dataframe in SPSS format you can use the [foreign
+]package.
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -4059,19 +4117,20 @@ write.xls (Data, &quot;c:\\data.xls&quot;)
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 # Write out text datafile and an SPSS program to read it 
 library (foreign) 
 write.foreign (Data, &quot;c:/mydata.txt&quot;, &quot;c:/mydata.sps&quot;, package = &quot;SPSS&quot;)
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;h3 id=&quot;workﬂow-in-r&quot;&gt;Workﬂow in R&lt;/h3&gt;
+### Workﬂow in R
 
-&lt;p&gt;Before we close this chapter it is important to note that the R script
+Before we close this chapter it is important to note that the R script
 should have a clear structure to allow the researcher or someone else to
 understand and reproduce the analysis. An example of a structured script
-is the following:&lt;/p&gt;
+is the following:
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -4079,7 +4138,8 @@ is the following:&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
+``` {.listings}
+ 
 rm (list  = ls  (all =  TRUE)) #clear memory 
 # Packages ----- 
 &amp;lt;load packages&amp;gt; 
@@ -4092,9 +4152,9 @@ Descriptive  statistics 
 #  Statistical  analysis ----- 
 &amp;lt;Code of statistical analysis&amp;gt;
  
-&lt;/code&gt;&lt;/pre&gt;
+```
 
-&lt;p&gt;At the beginning of the ﬁle, I add the function&lt;/p&gt;
+At the beginning of the ﬁle, I add the function
 
 &lt;div class=&quot;flushright&quot;&gt;
 
@@ -4102,14 +4162,16 @@ Descriptive  statistics 
 
 &lt;/div&gt;
 
-&lt;pre&gt;&lt;code class=&quot;language-{.listings}&quot;&gt; 
-&lt;/code&gt;&lt;/pre&gt;
+``` {.listings}
+ 
+```
 
-&lt;p&gt;this function clears all objects in memory when starting a new analysis.&lt;/p&gt;
+this function clears all objects in memory when starting a new analysis.
 
-&lt;p&gt;It is always a good practive to provide comments next to the code and
+It is always a good practive to provide comments next to the code and
 clarify what you are doing for future reference or when you share code
-with other people. In R comments are introduced with the # symbol.&lt;/p&gt;</content><author><name></name></author><summary type="html">Charalambos Themistocleous</summary></entry><entry><title type="html">Introduction to Python</title><link href="http://localhost:4000/research/project/2017/05/31/python.html" rel="alternate" type="text/html" title="Introduction to Python" /><published>2017-05-31T14:08:38+02:00</published><updated>2017-05-31T14:08:38+02:00</updated><id>http://localhost:4000/research/project/2017/05/31/python</id><content type="html" xml:base="http://localhost:4000/research/project/2017/05/31/python.html">&lt;p&gt;Charalambos Themistocleous&lt;/p&gt;
+with other people. In R comments are introduced with the \# symbol.
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Charalambos Themistocleous</summary></entry><entry><title type="html">Introduction to Python</title><link href="http://localhost:4000/research/project/2017/05/31/python.html" rel="alternate" type="text/html" title="Introduction to Python" /><published>2017-05-31T14:08:38+02:00</published><updated>2017-05-31T14:08:38+02:00</updated><id>http://localhost:4000/research/project/2017/05/31/python</id><content type="html" xml:base="http://localhost:4000/research/project/2017/05/31/python.html">&lt;p&gt;Charalambos Themistocleous&lt;/p&gt;
 
 &lt;h3 id=&quot;contents&quot;&gt;Contents&lt;/h3&gt;
 
