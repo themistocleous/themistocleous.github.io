@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 weight: 2
 ---
+<p style="text-align:right;"><span >  <a  href="{{ site.url }}/bib/themistocleous_all.bib">References [bib]</a></span></p>
+
 <span >BOOKS</span>
 <p style="text-align:justify;"><span ><strong>Themistocleous, Charalambos</strong> (2015). Research Design and Statistics in Linguistics. Using R (In Greek). Athens: Ion. ISBN: 978-960-508-187- 4.
   <a  href="http://www.iwn.gr/product.asp?catid=17589">|Link|</a>
