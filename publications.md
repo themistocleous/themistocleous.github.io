@@ -28,7 +28,7 @@ weight: 2
 <p style="text-align:justify;"><span >Grohmann Kleanthes, Papadopoulou Elena and Themistocleous Charalambos (2017). Acquiring Clitic Placement in Bilectal Settings: Interactions between Social Factors. <i>Frontiers in Communication.</i> <b>2</b>:5. doi: 10.3389/fcomm.2017.00005 |<a  href="http://journal.frontiersin.org/article/10.3389/fcomm.2017.00005/full"><em>Link</em></a>|
       <a  href="{{ site.url }}/bib/Grohmann-2017aa.bib">|bib|</a></span></p>
 
-<p style="text-align:justify;"><span ><strong>Themistocleous, Charalambos</strong>(2017). Modern Greek vowels and the nature of acoustic gradience. <em>Phonetica, 74, 157 – 172. </em><em> </em><em><a  href="http://www.karger.com/DOI/10.1159/000450554" rel="nofollow">http://www.karger.com/DOI/10.1159/000450554</a> |<a  href="https://www.ncbi.nlm.nih.gov/pubmed/28268213">Link</a>|</em>
+<p style="text-align:justify;"><span ><strong>Themistocleous, Charalambos</strong> (2017). Modern Greek vowels and the nature of acoustic gradience. <em>Phonetica, 74, 157 – 172. </em><em> </em><em><a  href="http://www.karger.com/DOI/10.1159/000450554" rel="nofollow">http://www.karger.com/DOI/10.1159/000450554</a> |<a  href="https://www.ncbi.nlm.nih.gov/pubmed/28268213">Link</a>|</em>
     <a  href="{{ site.url }}/bib/Themistocleous-2017aa.bib">|bib|</a></span></p>
 
 
