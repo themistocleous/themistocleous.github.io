@@ -28,6 +28,8 @@ Charalambos </strong> (2015). Research Design and Statistics in Linguistics. Usi
 <span ></span>
 <p style="text-align:justify;"><span >2017</span></p>
 
+<p style="text-align:justify;"><span ><strong>Themistocleous, Charalambos  </strong>(forthcoming). Effects of two linguistically proximal varieties on the spectral and coarticulatory properties of fricatives: Evidence from Athenian Greek and Cypriot Greek. <em>Frontiers in Psychology.</em>
+
 <p style="text-align:justify;"><span ><strong>Themistocleous,
   Charalambos </strong> (2017). Classifying linguistic and dialectal information from vowel acoustic parameters. <em>Speech Communication</em>, 94, 13 – 22. 10.1016/j.specom.2017.05.003.
   <a  href="http://www.sciencedirect.com/science/article/pii/S0167639316303132">|Link|</a>
