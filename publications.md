@@ -20,15 +20,17 @@ Charalambos </strong> (2015). Research Design and Statistics in Linguistics. Usi
   <a  href="{{ site.url }}/bib/Fragaki-2012aa.bib">|bib|</a></span></p>
 
 <p></p>
-![screenshot](/img/img_papers/bookstats.png)
-![screenshot](/img/img_papers/bookgreek.jpg)
+<img src="/img/img_papers/bookstats.png" alt="Statistics" height="200" width="150">
+<img src="/img/img_papers/bookgreek.jpg" alt="Themistocleous" height="200" width="150">
 <p></p>
 
 <span ><strong>ARTICLES</strong></span>
 <span ></span>
 <p style="text-align:justify;"><span >2017</span></p>
 
-<p style="text-align:justify;"><span ><strong>Themistocleous, Charalambos  </strong>(forthcoming). Effects of two linguistically proximal varieties on the spectral and coarticulatory properties of fricatives: Evidence from Athenian Greek and Cypriot Greek. <em>Frontiers in Psychology.</em>
+<p style="text-align:justify;"><span ><strong>Themistocleous, Charalambos  </strong>(2017). Effects of two linguistically proximal varieties on the spectral and coarticulatory properties of fricatives: Evidence from Athenian Greek and Cypriot Greek. <em>Frontiers in Psychology.</em> DOI: 10.3389/fpsyg.2017.01945
+  <a  href="https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01945/full">|Link|</a>
+    <a  href="{{ site.url }}/bib/Themistocleous-2017ac.bib">|bib|</a></span></p>
 
 <p style="text-align:justify;"><span ><strong>Themistocleous,
   Charalambos </strong> (2017). Classifying linguistic and dialectal information from vowel acoustic parameters. <em>Speech Communication</em>, 94, 13 – 22. 10.1016/j.specom.2017.05.003.
