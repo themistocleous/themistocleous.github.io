@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-11-27T18:34:13+01:00</updated><id>http://localhost:4000/</id><title type="html">Charalambos (Haris) Themistocleous</title><subtitle>(c) 2017 Charalambos Themistocleous.</subtitle><entry><title type="html">Keyboard Layouts</title><link href="http://localhost:4000/research/project/2017/08/28/Keyboard.html" rel="alternate" type="text/html" title="Keyboard Layouts" /><published>2017-08-28T04:01:01+02:00</published><updated>2017-08-28T04:01:01+02:00</updated><id>http://localhost:4000/research/project/2017/08/28/Keyboard</id><content type="html" xml:base="http://localhost:4000/research/project/2017/08/28/Keyboard.html">&lt;h1 id=&quot;keyboard-layouts-for-windows-and-macos&quot;&gt;Keyboard Layouts for Windows and macOS&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-12-10T11:42:11+01:00</updated><id>http://localhost:4000/</id><title type="html">Charalambos (Haris) Themistocleous</title><subtitle>(c) 2017 Charalambos Themistocleous.</subtitle><entry><title type="html">Praat Scripts</title><link href="http://localhost:4000/research/project/2017/12/09/praat_scripts.html" rel="alternate" type="text/html" title="Praat Scripts" /><published>2017-12-09T03:01:01+01:00</published><updated>2017-12-09T03:01:01+01:00</updated><id>http://localhost:4000/research/project/2017/12/09/praat_scripts</id><content type="html" xml:base="http://localhost:4000/research/project/2017/12/09/praat_scripts.html">&lt;p&gt;I have created a new GitHub repository where you may find some Praat scripts from my own collection. I will be updating this repository as soon as I have something new to add.&lt;/p&gt;
+
+&lt;h2 id=&quot;opening-and-saving-files&quot;&gt;Opening and Saving Files&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/themistocleous/praat_scripts/blob/master/open_all.praat&quot;&gt;open_all:&lt;/a&gt; its main purpose is to open all objects in Objects’ window.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/themistocleous/praat_scripts/blob/master/save_raw.praat&quot;&gt;save_raw:&lt;/a&gt; saves all sound files in object’s window as raw 16-bit little-endian files.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/themistocleous/praat_scripts/blob/master/save_all.praat&quot;&gt;save_all:&lt;/a&gt; saves all objects in the object window.&lt;/p&gt;
+
+&lt;h2 id=&quot;view-and-edit-files&quot;&gt;View and Edit Files&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/themistocleous/praat_scripts/blob/master/view_edit_all.praat&quot;&gt;view_edit_all:&lt;/a&gt; This script opens all wav files in the Praat Objects’ window. If you want to open the files with their associated TextGrid, I have found &lt;a href=&quot;https://github.com/themistocleous/praat_scripts/blob/master/check2.praat&quot;&gt;this script&lt;/a&gt; created by Pauline Welby extremely useful.&lt;/p&gt;</content><author><name></name></author><summary type="html">I have created a new GitHub repository where you may find some Praat scripts from my own collection. I will be updating this repository as soon as I have something new to add.</summary></entry><entry><title type="html">Keyboard Layouts</title><link href="http://localhost:4000/research/project/2017/08/28/Keyboard.html" rel="alternate" type="text/html" title="Keyboard Layouts" /><published>2017-08-28T04:01:01+02:00</published><updated>2017-08-28T04:01:01+02:00</updated><id>http://localhost:4000/research/project/2017/08/28/Keyboard</id><content type="html" xml:base="http://localhost:4000/research/project/2017/08/28/Keyboard.html">&lt;h1 id=&quot;keyboard-layouts-for-windows-and-macos&quot;&gt;Keyboard Layouts for Windows and macOS&lt;/h1&gt;
 &lt;p&gt;Often we need to type symbols that do not exist in the standard keyboard layouts. One way to solve this issue is to assign specific symbols in several applications, such as Microsoft Word or LibreOffice Writer but with most applications this is not even an option. The best way to address this issue is by installing a specified keyboard layout. I created three keyboard layouts: one for writing Cypriot Greek and includes the characters that are needed to produce the post-alveolars,  a layout for accessing IPA symbols, and a layout for adding symbols when working with historical manuscripts (paleography).&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://github.com/themistocleous/Keyboard_Layouts/raw/master/CG1.jpg&quot; alt=&quot;CG1&quot; /&gt;
@@ -5699,106 +5709,4 @@ cross-varietaly.&lt;/p&gt;
 
 &lt;p&gt;Another relevant issue of the phonology of intonation is the formal description of pitch accents that make up the phonemic inventory of a language or dialect. Themistocleous (2011b) provides the first description of Cypriot Greek pitch accents and compares their production with those of Standard Modern Greek. Specifically, Themistocleous (2011) provides a model of prenuclear and nuclear pitch accent accents of Cypriot Greek. He also shows that there is significant dialectal variation in the realization of pitch accents with respect to their alignment and pitch range. Overall, Themistocleous (2011) provided a model about the way pitch accents manifest categories of information structure, namely information focus, topic, contrastive focus, and contrastive topics (see also Themistocleous, 2012).&lt;/p&gt;
 
-&lt;p&gt;Prosodic structure refers to the phonological constituents of prosodic hierarchy, such as the syllable, the foot, the phonological words and intermediate and intonational phrase. These phonological constituents account for various phenomena that take place at their edges, one of these phenomena is final lengthening. In Themistocleous (2014), I conducted two experiments that investigate the interaction of edge-tones and final lengthening. The study shows that in Cypriot Greek the following occur: (a) lengthening applies primarily on the syllable nucleus not the syllable onset, which suggests variety specific effects of lengthening; (b) lengthening depends on the edge-tones, namely, polar questions trigger more lengthening than statements and wh-questions; (c) lengthening provides support for at least two distinct prosodic domains over the phonological word, the intonational phrase and the intermediate phrase; greater lengthening associates with the first and shorter lengthening with the latter; (d) finally, syllable duration depends on the syllable distance from the boundary, i.e., lengthening locally applies on penultimate and ultimate syllables whereas antepenultimates are affected the least. Additionally, by pointing to the distinct lengthening effects of edge-tones and domain-boundaries, the findings provide evidence for dinstinct lengthening devices.&lt;/p&gt;</content><author><name></name></author><summary type="html">Goal: Determine the effects of Information Structure on Prosody cross-varietaly.</summary></entry><entry><title type="html">Phonology</title><link href="http://localhost:4000/research/project/2017/05/31/phonology.html" rel="alternate" type="text/html" title="Phonology" /><published>2017-05-31T14:08:38+02:00</published><updated>2017-05-31T14:08:38+02:00</updated><id>http://localhost:4000/research/project/2017/05/31/phonology</id><content type="html" xml:base="http://localhost:4000/research/project/2017/05/31/phonology.html">&lt;h1 id=&quot;prosodic-phonology&quot;&gt;Prosodic Phonology&lt;/h1&gt;
-&lt;p&gt;Current phonological models aim to determine the
-structure of the &lt;em&gt;linguistic&lt;/em&gt; representation of speech melody. These models
-capture aspects of speech melody related to linguistic prominence (a.k.a.,
-tonicity), phrasing (a.k.a., tonality), and tune (questions, statements,
-commands etc.). The sociolinguistic and interactional aspects that speech
-melody conveys are considered &lt;em&gt;non-linguistic&lt;/em&gt; which is another way to say
-that they are outside the scope of phonological analysis. Even though this
-distinction has served the purposes of phonological theory, it does not capture
-all information encoded in speech signals during communication. In several
-works, my aim is to determine the linguistic and non-linguistic factors that
-influence prosodic production and its manifestation in speech signals.&lt;/p&gt;
-
-&lt;p&gt;In my PhD thesis (Themistocleous, 2011), I provided the first description of
-Cypriot Greek pitch accents and compared their production with those of Standard
-Modern Greek/Athenian Greek. An important contribution of the thesis is that it
-determines the effects of dialect on pitch accent production and perception. The
-two dialects differ in the alignment and pitch range of pitch accents, which
-result in dialectal differences in the realization of new information focus,
-contrastive focus, and contrastive topic. The thesis provides a linguistic model
-of the interface of prosody and information structure that captures the prosodic
-manifestation of information structure categories in Standard Modern Greek and
-Cypriot Greek prosody.&lt;/p&gt;
-
-&lt;p&gt;A follow-up study explored a long-standing problem in the phonology of prosody,
-namely how pitch accents align with respect to vowels and consonants. This
-problem is important as its answer determines how we define pitch accents as
-tonal units. Several hypotheses have been proposed that aimed to determine the
-timing of pitch accents with the segmental structure. In an article, which has
-been published in &lt;em&gt;Language and Speech&lt;/em&gt; (Themistocleous 2016), I
-investigated the predictions of three hypotheses of Autosegmental Metrical (AM)
-Phonology, namely those of the &lt;em&gt;invariance hypothesis&lt;/em&gt;, the &lt;em&gt;segmental
-anchoring hypothesis&lt;/em&gt;, and the &lt;em&gt;segmental anchorage hypothesis&lt;/em&gt;. I
-conducted two experiments: in the first, I manipulated the syllable patterns of
-the stressed syllable and in the second, I modified the distance (in number of
-syllables from one to six) of the prenuclear low and high (L&lt;em&gt;+H) pitch accent
-from the following pitch accent. The findings on the alignment of the low tone
-(L) corroborate the predictions of the *segmental anchoring hypothesis&lt;/em&gt;:
-the L persistently aligns inside the onset consonant, a few milliseconds before
-the stressed vowel. However, one unanticipated finding was that the alignment of
-the H depends on the number of unstressed syllables that follow the prenuclear
-pitch accent. What is important is that the ``wandering’’ of the H over multiple
-syllables is extremely rare among languages. This finding casts doubt on the
-&lt;em&gt;invariance hypothesis&lt;/em&gt; and the &lt;em&gt;segmental anchoring hypothesis&lt;/em&gt;, as
-well as indicating the need for a modified version of the &lt;em&gt;segmental
-anchorage hypothesis&lt;/em&gt;. To address the alignment of the H, I suggested that the H
-aligns within a segmental anchorage–the area that follows the prenuclear pitch
-accent–in such a way as to preserve the paradigmatic contrast between the L&lt;em&gt;+H
-prenuclear pitch accent and the L+H&lt;/em&gt; nuclear pitch accent.&lt;/p&gt;
-
-&lt;p&gt;The findings of this article make an important contribution to the field, as
-they challenge the existing timing criteria that determine pitch accents as
-phonological units. This combination of findings—along with the lingering
-issue of phonological descriptions that they do not capture non-linguistic
-meanings—gave support to a distinct approach of tonal structure.
-Specifically, in a current study presented in &lt;em&gt;Exling 2017&lt;/em&gt;, we provided a
-classification model of prosodic F0 contours of questions and statements
-(Bernardi and Themistocleous 2017) using state-of-the-art classification models
-based on two deep neural network architectures: a convolutional neural network
-(ConvNet) and a Long Short-Term memory (LSTM) neural network. We showed that
-ConvNets outperform LSTMs in learning and classifying polar questions and
-statements. The classification resulted in 96% accuracy, which is an extremely
-high classification accuracy. Essentially, the neural network learns the
-important patterns from the structure of $F0$ contours that enable the neural
-network to classify questions and statements. This line of research has the
-potential of capturing more information about prosody than any other current
-approach of prosodic structure, it can take into consideration global and local
-aspects of the $F0$ contour (that may or may not correspond to what
-phonological theories identify as pitch accents and boundary tones), and can
-capture both linguistic and non-linguistic meanings conveyed by speech melody.
-I believe that this line of research, using deep neural network architectures
-can potentially open new horizons towards understanding the relationship
-between speech production and meaning.&lt;/p&gt;
-
-&lt;p&gt;The temporal aspects of the utterance constitute another aspect of prosody.
-Especially, final lengthening can shed light on the hierarchy of prosodic
-domains and on the turn-taking exchanges. Higher order prosodic domains—such
-as the intonational phrase and the intermediate phase—are marked with greater
-final lengthening than lower order prosodic domains, such as the phonological
-word. In my MA thesis (Themistocleous 2008), I explored final lengthening and
-showed that differences in the duration of final lengthening depend on the
-prosodic structure of the utterance and on the dialect of the speaker. I
-explored this issue further in a study which was published in &lt;em&gt;Linguistic
-Variation&lt;/em&gt; (Themistocleous, 2014). Specifically, in that study, I conducted two
-experiments that investigate the interaction of edge-tones and final
-lengthening.&lt;/p&gt;
-
-&lt;p&gt;The study showed that in Cypriot Greek the following occur: (a) lengthening
-applies primarily on the syllable nucleus not on the syllable onset; (b)
-lengthening depends on the edge-tones, namely, polar questions trigger more
-lengthening than statements, and wh-questions; (c) lengthening provides support
-for at least two distinct prosodic domains over the phonological word: the
-intonational phrase and the intermediate phrase, greater lengthening associates
-with the first and shorter lengthening with the latter; (d) finally, syllable
-duration depends on the syllable distance from the boundary, i.e., lengthening
-applies locally on penultimate and ultimate syllables whereas antepenultimates
-are affected the least. An important finding of this study is that by pointing
-to the distinct lengthening effects of edge-tones and domain-boundaries, it
-provides evidence for two different sources of final lengthening: tonal
-lengthening and domain specific lengthening. This research on prosody is an
-ongoing one. Currently, I explore the relationship of prosody and turn-taking in
-conversations (see also my early studies: Themistocleous 2007, Botinis, Bakakou,
-Themistocleous 2007).&lt;/p&gt;</content><author><name></name></author><summary type="html">Prosodic Phonology Current phonological models aim to determine the structure of the linguistic representation of speech melody. These models capture aspects of speech melody related to linguistic prominence (a.k.a., tonicity), phrasing (a.k.a., tonality), and tune (questions, statements, commands etc.). The sociolinguistic and interactional aspects that speech melody conveys are considered non-linguistic which is another way to say that they are outside the scope of phonological analysis. Even though this distinction has served the purposes of phonological theory, it does not capture all information encoded in speech signals during communication. In several works, my aim is to determine the linguistic and non-linguistic factors that influence prosodic production and its manifestation in speech signals.</summary></entry></feed>
+&lt;p&gt;Prosodic structure refers to the phonological constituents of prosodic hierarchy, such as the syllable, the foot, the phonological words and intermediate and intonational phrase. These phonological constituents account for various phenomena that take place at their edges, one of these phenomena is final lengthening. In Themistocleous (2014), I conducted two experiments that investigate the interaction of edge-tones and final lengthening. The study shows that in Cypriot Greek the following occur: (a) lengthening applies primarily on the syllable nucleus not the syllable onset, which suggests variety specific effects of lengthening; (b) lengthening depends on the edge-tones, namely, polar questions trigger more lengthening than statements and wh-questions; (c) lengthening provides support for at least two distinct prosodic domains over the phonological word, the intonational phrase and the intermediate phrase; greater lengthening associates with the first and shorter lengthening with the latter; (d) finally, syllable duration depends on the syllable distance from the boundary, i.e., lengthening locally applies on penultimate and ultimate syllables whereas antepenultimates are affected the least. Additionally, by pointing to the distinct lengthening effects of edge-tones and domain-boundaries, the findings provide evidence for dinstinct lengthening devices.&lt;/p&gt;</content><author><name></name></author><summary type="html">Goal: Determine the effects of Information Structure on Prosody cross-varietaly.</summary></entry></feed>
