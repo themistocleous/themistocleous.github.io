@@ -70,8 +70,8 @@ defaults write com.apple.finder QLEnableTextSelection -bool true; killall Finder
 
 # Webpages
 
-*Cypriot Greek Dictionary*. The online dictionary environment has been developed as part of the ‘Syntychies’ research program. ‘Syntychies’ online environment is a pioneering web-service for Greek dialectal lexicography and it is the first of its kind for Cypriot Greek.  The website is written in C#.
+*[Cypriot Greek Dictionary](http://lexcy.library.ucy.ac.cy)*. The online dictionary environment has been developed as part of the ‘Syntychies’ research program. ‘Syntychies’ online environment is a pioneering web-service for Greek dialectal lexicography and it is the first of its kind for Cypriot Greek.  The website is written in C#.
 
 # Praat Scripts
 
-You may find several Praat scripts in my [GitHub repository](https://github.com/themistocleous/praat_scripts). These are scripts for opening, saving, and manipulating sounds and Praat objects. I will be updating this repository as soon as I have something new to add. 
+You may find several Praat scripts in my [GitHub repository](https://github.com/themistocleous/praat_scripts). These are scripts for opening, saving, and manipulating sounds and Praat objects. I will be updating this repository as soon as I have something new to add.
