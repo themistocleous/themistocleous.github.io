@@ -74,4 +74,4 @@ defaults write com.apple.finder QLEnableTextSelection -bool true; killall Finder
 
 # Praat Scripts
 
-I have several scripts for opening, saving multiple files, renaming files, tagging etc. If interested do not hesitate to contact me. See also my Praat Manual (in Greek).
+You may find several Praat scripts in my [GitHub repository](https://github.com/themistocleous/praat_scripts). These are scripts for opening, saving, and manipulating sounds and Praat objects. I will be updating this repository as soon as I have something new to add. 

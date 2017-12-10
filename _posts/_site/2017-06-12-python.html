@@ -1,0 +1,1519 @@
+<p>Charalambos Themistocleous</p>
+
+<h3 id="contents">Contents</h3>
+
+<p>1 <a href="#introduction-to-python">Introduction to Python</a></p>
+
+<p>2 <a href="#data-manipulation-with-pandas">Data Manipulation with Pandas</a></p>
+
+<p>2.1 <a href="#series">Series</a></p>
+
+<p>2.2 <a href="#dataframe">DataFrame</a></p>
+
+<p>2.3 <a href="#merging-dataframes">Merging DataFrames</a></p>
+
+<p>2.4 <a href="#date-and-time">Date and Time</a></p>
+
+<p>2.5 <a href="#importing-data">Importing data</a></p>
+
+<p>2.6 <a href="#save-data">Save Data</a></p>
+
+<p>3 <a href="#creating-plots">Creating Plots</a></p>
+
+<p>4 <a href="#basic-descriptive-statistics-using-pandas">Basic Descriptive Statistics using Pandas</a></p>
+
+<h3 id="introduction-to-python">Introduction to Python</h3>
+
+<p>This chapter provides and introduction to Python.</p>
+
+<ol>
+  <li>
+    <div id="x1-2002x1">
+
+</div>
+
+    <p>Python 2.7 (or higher)  (including Python 3)</p>
+  </li>
+  <li>
+    <div id="x1-2004x2">
+
+</div>
+
+    <p>pandas 0.11.1 (or higher) and its dependencies</p>
+  </li>
+  <li>
+    <div id="x1-2006x3">
+
+</div>
+
+    <p>NumPy 1.6.1 (or higher)</p>
+  </li>
+  <li>
+    <div id="x1-2008x4">
+
+</div>
+
+    <p>matplotlib 1.0.0 (or higher)</p>
+  </li>
+  <li>
+    <div id="x1-2010x5">
+
+</div>
+
+    <p>IPython 0.12 (or higher)</p>
+  </li>
+  <li>
+    <div id="x1-2012x6">
+
+</div>
+
+    <p>NLTK</p>
+  </li>
+</ol>
+
+<ul>
+  <li>Pandas, is a package that provides functionality for analyzing data
+in the form of tables, such as those we have in Excel, LibreOﬃce
+Calc. The most important data structure is the DataFrame which is
+very similar to R dataframes. Pandas also provide functionality for
+reshaping, sorting, manipulating, etc., data.</li>
+  <li>The second library we will be using is NumPy, which oﬀers the basic
+functionality for conducting mathematics, including statistics,
+linear algebra, and Fourier transformations.</li>
+  <li>Matplotlib provides functionality for creating plots and graphs.</li>
+  <li>NLTK is a Natural Language Toolkit implemented in Python.</li>
+  <li>So, to start an analysis add the following code on your code ﬁle.
+The code imports the libraries and provide a designated name for
+each library. So, we will be calling pandas for instance we will use
+the name pd followed by a period and the name of a function. This
+will become more clear soon.</li>
+</ul>
+
+<p>**</p>
+
+<div class="flushright">
+
+[Python code:1.0.0.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+import pandas as pd 
+import numpy as np 
+import matplotlib.pyplot as plt 
+import nltk
+ 
+</code></pre>
+
+<h3 id="data-manipulation-with-pandas">Data Manipulation with Pandas</h3>
+
+<h4 id="series">Series</h4>
+
+<p>A Series is a single vector of data with an index for each element. A
+similar structure in numpy is the array.</p>
+
+<div class="flushright">
+
+[Python code:2.1.0.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+measurements = pd.Series([328259, 22781, 30857, 4164, 328387]) 
+measurements
+ 
+</code></pre>
+
+<p>The printed output is the following:</p>
+
+<div class="flushright">
+
+[Python code:2.1.1.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+Out[1]: 
+0    328259 
+1     22781 
+2     30857 
+3      4164 
+4    328387 
+dtype: int64
+ 
+</code></pre>
+
+<p>Series consist of [values ]and
+[indexes], we can call them separately in the
+following manner:</p>
+
+<div class="flushright">
+
+[Python code:2.1.2.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+measurements.values 
+Out[2]: 
+array([328259,  22781,  30857,   4164, 328387])
+ 
+</code></pre>
+
+<p>**</p>
+
+<div class="flushright">
+
+[Python code:2.1.3.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+measurements.index 
+Out[3]: 
+RangeIndex(start=0, stop=5, step=1)
+ 
+</code></pre>
+
+<p>This says that we have numbers from 0 to 5. The following selects the
+number in position [3]:</p>
+
+<div class="flushright">
+
+[Python code:2.1.4.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+measurements[3] 
+Out[4]: 
+4164
+ 
+</code></pre>
+
+<p>We can select values based on logical operations as well</p>
+
+<div class="flushright">
+
+[Python code:2.1.5.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+measurements[measurements &lt; 20000] 
+Out[5]: 
+Ecuador    4164 
+dtype: int64
+ 
+</code></pre>
+
+<p>or</p>
+
+<div class="flushright">
+
+[Python code:2.1.6.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+measurements[measurements == 22781] 
+Out[6]: 
+Argentina    22781 
+dtype: int64
+ 
+</code></pre>
+
+<p>These numbers are not very informative so we want to provide labels. So,
+if we know that these numbers represent the number of books published in
+2010 we might want to provide the name of the country as an index.</p>
+
+<div class="flushright">
+
+[Python code:2.1.7.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+measurements = pd.Series([328259, 22781, 30857, 4164, 328387], 
+    index=[’USA’, ’Argentina’, ’Sweden’, ’Ecuador’, ’China’]) 
+ 
+measurements 
+Out[7]: 
+USA          328259 
+Argentina     22781 
+Sweden        30857 
+Ecuador        4164 
+China        328387 
+dtype: int64
+ 
+</code></pre>
+
+<p>We can use these names to select the value.</p>
+
+<div class="flushright">
+
+[Python code:2.1.8.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+measurements[’USA’] 
+328259
+ 
+</code></pre>
+
+<p>Also, we can provide both the array of values and the index the own
+labels:</p>
+
+<div class="flushright">
+
+[Python code:2.1.9.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+measurements.name = ’Book␣Counts’ 
+measurements.index.name = ’Countries’ 
+measurements 
+Out[71]: 
+Countries 
+USA          328259 
+Argentina     22781 
+Sweden        30857 
+Ecuador        4164 
+China        328387 
+Name: Book Counts, dtype: int64
+ 
+</code></pre>
+
+<p>We might be interested to select only the countries whose name ends in
+letter ’a’:</p>
+
+<div class="flushright">
+
+[Python code:2.1.10.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+measurements[[name.endswith(’a’) or name.endswith(’A’) for name in measurements.index]] 
+USA          328259 
+Argentina     22781 
+China        328387 
+dtype: int64
+ 
+</code></pre>
+
+<p>The following provides information about the position of these numbers:</p>
+
+<div class="flushright">
+
+[Python code:2.1.11.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+[name.endswith(’a’) or name.endswith(’A’) for name in measurements.index] 
+ 
+[True, True, False, False, True]
+ 
+</code></pre>
+
+<p>NumPy’s math functions and statistics can be applied to Series, e.g.,</p>
+
+<div class="flushright">
+
+[Python code:2.1.12.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+np.mean(measurements) 
+142889.6
+ 
+</code></pre>
+
+<p>Series are very common objects to standard dictionaries (dict) in
+Python:</p>
+
+<div class="flushright">
+
+[Python code:2.1.13.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+Bookpublications = ({’Italy’:59743, ’Argentina’:22781, ’Poland’: 31500, ’Vietnam’: 24589, ’Indonesia’: 24000}) 
+ 
+pd.Series(Bookpublications) 
+Argentina    22781 
+Indonesia    24000 
+Italy        59743 
+Poland       31500 
+Vietnam      24589 
+dtype: int64
+ 
+</code></pre>
+
+<h4 id="dataframe">DataFrame</h4>
+
+<p>**</p>
+
+<div class="flushright">
+
+[Python code:2.2.0.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+data = pd.DataFrame( 
+({’counts’:[ 328259, 22781, 30857, 4164, 328387, 59743,  31500, 24589], 
+ ’year’:[2010, 2010, 2010, 2010, 2010, 2005, 2010, 2009], 
+’country’:[’USA’,  ’Argentina’, ’Sweden’, ’Ecuador’, ’China’, ’Italy’, 
+         ’Poland’, ’Vietnam’]})) 
+data
+ 
+</code></pre>
+
+<p>The output now is a table as we expect it to be:</p>
+
+<div class="flushright">
+
+[Python code:2.2.1.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+     country  counts  year 
+0        USA  328259  2010 
+1  Argentina   22781  2010 
+2     Sweden   30857  2010 
+3    Ecuador    4164  2010 
+4      China  328387  2010 
+5      Italy   59743  2005 
+6     Poland   31500  2010 
+7    Vietnam   24589  2009
+ 
+</code></pre>
+
+<p>To select the values of the column, we can use its name:</p>
+
+<div class="flushright">
+
+[Python code:2.2.2.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+data[’counts’] 
+ 
+0    328259 
+1     22781 
+2     30857 
+3      4164 
+4    328387 
+5     59743 
+6     31500 
+7     24589 
+Name: counts, dtype: int64
+ 
+</code></pre>
+
+<p>or</p>
+
+<div class="flushright">
+
+[Python code:2.2.3.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+data.counts 
+Out[95]: 
+0    328259 
+1     22781 
+2     30857 
+3      4164 
+4    328387 
+5     59743 
+6     31500 
+7     24589 
+Name: counts, dtype: int64
+ 
+</code></pre>
+
+<p>By using the order of the columns, we can use their names again:</p>
+
+<div class="flushright">
+
+[Python code:2.2.4.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+data[[’country’, ’year’, ’counts’]]
+ 
+</code></pre>
+
+<p>The index of columns is provided by the following:</p>
+
+<div class="flushright">
+
+[Python code:2.2.5.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+data.columns 
+Out[91]: 
+Index([’country’, ’counts’, ’year’], dtype=’object’)
+ 
+</code></pre>
+
+<p>Types and selections:</p>
+
+<div class="flushright">
+
+[Python code:2.2.6.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+type(data.counts) 
+pandas.core.series.Series
+ 
+</code></pre>
+
+<p>**</p>
+
+<div class="flushright">
+
+[Python code:2.2.7.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+type(data[[’counts’]]) 
+pandas.core.frame.DataFrame
+ 
+</code></pre>
+
+<p>To select a row in a DataFrame, we index its [ix
+]attribute in the following way:</p>
+
+<div class="flushright">
+
+[Python code:2.2.8.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+data.ix[3] 
+Out[98]: 
+country    Ecuador 
+counts        4164 
+year          2010 
+Name: 3, dtype: object
+ 
+</code></pre>
+
+<p>We might create DataFrames using dictionaries</p>
+
+<div class="flushright">
+
+[Python code:2.2.9.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+Alternatively, we can create a DataFrame with a dict of dicts: 
+In [111]: 
+ 
+data = pd.DataFrame( 
+({0:({’AA’: 1, ’gender’: ’Male’, ’height’: 168}), 
+1: ({’AA’: 2, ’gender’: ’Male’, ’height’: 180}), 
+2: ({’AA’: 3, ’gender’: ’Female’, ’height’: 170}), 
+3: ({’AA’: 4, ’gender’: ’Female’, ’height’: 169}), 
+4: ({’AA’: 5, ’gender’: ’Female’, ’height’: 170}), 
+5: ({’AA’: 6, ’gender’: ’Male’, ’height’: 165})}))​ 
+ 
+In [112]: 
+ 
+data 
+Out[112]: 
+           0     1       2       3       4     5 
+AA         1     2       3       4       5     6 
+gender  Male  Male  Female  Female  Female  Male 
+height   168   180     170     169     170   165
+ 
+</code></pre>
+
+<p>To get a similar output we need to transpose the code:</p>
+
+<div class="flushright">
+
+[Python code:2.2.10.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+data = data.T 
+data 
+Out[113]: 
+  AA  gender height 
+0  1    Male    168 
+1  2    Male    180 
+2  3  Female    170 
+3  4  Female    169 
+4  5  Female    170 
+5  6    Male    165
+ 
+</code></pre>
+
+<p>Series and DataFrames have indexes and values which are called in the
+following way:</p>
+
+<div class="flushright">
+
+[Python code:2.2.11.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+data.values
+ 
+</code></pre>
+
+<p>The output is following</p>
+
+<div class="flushright">
+
+[Python code:2.2.12.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+array([[1, 2, 3, 4, 5, 6], 
+       [’Male’, ’Male’, ’Female’, ’Female’, ’Female’, ’Male’], 
+       [168, 180, 170, 169, 170, 165]], dtype=object)
+ 
+</code></pre>
+
+<p>and the index is called by <a href="{.rm-lmtt-10x-x-109}">data.index </a>and the
+result is:</p>
+
+<div class="flushright">
+
+[Python code:2.2.13.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+ Index([’AA’, ’gender’, ’height’], dtype=’object’)
+ 
+</code></pre>
+
+<p>We cannot change the index, if we try, e.g., data.index[1] = 5 Python
+will provide the following message: “Index does not support mutable
+operations”.</p>
+
+<p>To select a column:</p>
+
+<div class="flushright">
+
+[Python code:2.2.14.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+heights = data.height 
+heights 
+Out[116]: 
+0    168 
+1    180 
+2    170 
+3    169 
+4    170 
+5    165 
+Name: height, dtype: object
+ 
+</code></pre>
+
+<p>To change a value</p>
+
+<div class="flushright">
+
+[Python code:2.2.15.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+heights[5] = 191 
+heights 
+Out[117]: 
+0    168 
+1    180 
+2    170 
+3    169 
+4    170 
+5    191 
+Name: height, dtype: object
+ 
+</code></pre>
+
+<p>**</p>
+
+<div class="flushright">
+
+[Python code:2.2.16.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+data 
+Out[118]: 
+  AA  gender height 
+0  1    Male    168 
+1  2    Male    180 
+2  3  Female    170 
+3  4  Female    169 
+4  5  Female    170 
+5  6    Male    191
+ 
+</code></pre>
+
+<p>**</p>
+
+<div class="flushright">
+
+[Python code:2.2.17.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+ht = data.height.copy() 
+ht[5] = 180 
+data 
+Out[141]: 
+  AA  gender height 
+0  1    Male    168 
+1  2    Male    180 
+2  3  Female    177 
+3  4  Female    169 
+4  5  Female    170 
+5  6    Male    191
+ 
+</code></pre>
+
+<p>Create/ modify columns by assignment:</p>
+
+<div class="flushright">
+
+[Python code:2.2.18.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+data.height[2] = 177 
+data 
+Out[122]: 
+  AA  gender height 
+0  1    Male    168 
+1  2    Male    180 
+2  3  Female    177 
+3  4  Female    169 
+4  5  Female    170 
+5  6    Male    180
+ 
+</code></pre>
+
+<p>**</p>
+
+<div class="flushright">
+
+[Python code:2.2.19.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+data[’Status’] = ’Printed’ 
+data 
+Out[143]: 
+  AA  gender height   Status 
+0  1    Male    168  Printed 
+1  2    Male    180  Printed 
+2  3  Female    177  Printed 
+3  4  Female    169  Printed 
+4  5  Female    170  Printed 
+5  6    Male    191  Printed
+ 
+</code></pre>
+
+<p>The following method does not create a column:</p>
+
+<div class="flushright">
+
+[Python code:2.2.20.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+data.libraryNo = 999 
+data 
+Out[146]: 
+  AA  gender height   Status 
+0  1    Male    168  Printed 
+1  2    Male    180  Printed 
+2  3  Female    177  Printed 
+3  4  Female    169  Printed 
+4  5  Female    170  Printed 
+5  6    Male    191  Printed
+ 
+</code></pre>
+
+<p>**</p>
+
+<div class="flushright">
+
+[Python code:2.2.21.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+data.libraryNo 
+999
+ 
+</code></pre>
+
+<p>We can deﬁne a Series object as column in a DataFrame</p>
+
+<div class="flushright">
+
+[Python code:2.2.22.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+test = pd.Series([0]*2 + [3]*2) 
+test 
+ 
+data[’test’] = test 
+data
+ 
+</code></pre>
+
+<p>We created a Series of 4 numbers. Note however that the DataFrame
+contains six rows. This is not a problem when we use numbers because
+Python automatically add NaN to ﬁll the empty rows. Nevertheless, when
+we employ other data structures such as strings Python will show an
+error message: ValueError: Length of values does not match length of
+index.</p>
+
+<div class="flushright">
+
+[Python code:2.2.23.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+# Popular Authors 
+authors = [’Stephen␣King’, ’J.K.␣Rowling’, ’Mark␣Twain’, ’George␣R.␣R.␣Martin’] 
+data[’authors’] = authors
+ 
+</code></pre>
+
+<p>To correct the error, we simply add a string Series that has the same
+length as the DataFrame</p>
+
+<div class="flushright">
+
+[Python code:2.2.24.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+authors = [’Stephen␣King’, ’J.K.␣Rowling’, ’Mark␣Twain’, ’George␣R.␣R.␣Martin’, ’Charles␣Dickens’, ’Arthur␣Conan␣Doyle’] 
+data[’favorite_authors’] = authors
+ 
+</code></pre>
+
+<p>This time the output is correct:</p>
+
+<div class="flushright">
+
+[Python code:2.2.25.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+data 
+  AA  gender height   Status  test        favorite_authors 
+0  1    Male    168  Printed   0.0         Stephen King 
+1  2    Male    180  Printed   0.0         J.K. Rowling 
+2  3  Female    177  Printed   3.0           Mark Twain 
+3  4  Female    169  Printed   3.0  George R. R. Martin 
+4  5  Female    170  Printed   NaN      Charles Dickens 
+5  6    Male    165  Printed   NaN   Arthur Conan Doyle
+ 
+</code></pre>
+
+<p>To delete the column test from the DataFrame data</p>
+
+<div class="flushright">
+
+[Python code:2.2.26.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+del data[’test’] 
+data 
+  AA  gender height   Status              authors 
+0  1    Male    168  Printed         Stephen King 
+1  2    Male    180  Printed         J.K. Rowling 
+2  3  Female    177  Printed           Mark Twain 
+3  4  Female    169  Printed  George R. R. Martin 
+4  5  Female    170  Printed      Charles Dickens 
+5  6    Male    165  Printed   Arthur Conan Doyle
+ 
+</code></pre>
+
+<p>To get the data as a simple <a href="{.rm-lmtt-10x-x-109}">narray </a>we need to
+employ the attribute <a href="{.rm-lmtt-10x-x-109}">values</a>.</p>
+
+<div class="flushright">
+
+[Python code:2.2.27.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+array([[1, ’Male’, 168, ’Printed’, ’Stephen␣King’], 
+       [2, ’Male’, 180, ’Printed’, ’J.K.␣Rowling’], 
+       [3, ’Female’, 177, ’Printed’, ’Mark␣Twain’], 
+       [4, ’Female’, 169, ’Printed’, ’George␣R.␣R.␣Martin’], 
+       [5, ’Female’, 170, ’Printed’, ’Charles␣Dickens’], 
+       [6, ’Male’, 165, ’Printed’, ’Arthur␣Conan␣Doyle’]], dtype=object)
+ 
+</code></pre>
+
+<p>The dtype here is object because we have numeric and string data and
+diﬀers when we have numeric or other type of data.</p>
+
+<h4 id="merging-dataframes">Merging DataFrames</h4>
+
+<p>df1 = pd.DataFrame(’A’: [’A0’, ’A1’, ’A2’, ’A3’], ’B’: [’B0’, ’B1’,
+’B2’, ’B3’], ’C’: [’C0’, ’C1’, ’C2’, ’C3’], ’D’: [’D0’, ’D1’, ’D2’,
+’D3’], index=[0, 1, 2, 3])</p>
+
+<hr />
+
+<p><img src="http://localhost:4000/img/img_papers/figuresR/merging_concat.png" alt="screenshot" /></p>
+
+<p>Figure1: Example from
+http://pandas.pydata.org/pandas-docs/stable/merging.html</p>
+
+<hr />
+
+<p>For more information see
+http://pandas.pydata.org/pandas-docs/stable/merging.html.</p>
+
+<h4 id="date-and-time">Date and Time</h4>
+
+<p>Python can manipulate date and time objects using the
+<a href="{.rm-lmtt-10x-x-109}">datetime</a> module. It allows the production of
+calculations using time and date objects and also provides classes for
+controlling the output (see also,
+https://docs.python.org/2/library/datetime.html)</p>
+
+<div class="flushright">
+
+[Python code:2.4.0.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+from datetime import datetime 
+#%% 
+now = datetime.now() 
+now
+ 
+</code></pre>
+
+<p>and the result is</p>
+
+<div class="flushright">
+
+[Python code:2.4.1.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+</code></pre>
+
+<p>To get the date only</p>
+
+<div class="flushright">
+
+[Python code:2.4.2.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+now.date()
+ 
+</code></pre>
+
+<p>and the output in this case is datetime.date(2017, 1, 6). To ﬁnd the day</p>
+
+<div class="flushright">
+
+[Python code:2.4.3.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+now.day
+ 
+</code></pre>
+
+<p>and the output is 6. Also, for the time</p>
+
+<div class="flushright">
+
+[Python code:2.4.4.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+now.time()
+ 
+</code></pre>
+
+<p>and the output is datetime.time(14, 41, 4, 481168). We can also ask
+which is the week day:</p>
+
+<div class="flushright">
+
+[Python code:2.4.5.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+now.weekday()
+ 
+</code></pre>
+
+<p>that will generate the output 4</p>
+
+<div class="flushright">
+
+[Python code:2.4.6.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+from datetime import date, time
+ 
+</code></pre>
+
+<p>**</p>
+
+<div class="flushright">
+
+[Python code:2.4.7.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+time(3, 24)
+ 
+</code></pre>
+
+<p>**</p>
+
+<div class="flushright">
+
+[Python code:2.4.8.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+age = now - datetime(1980, 8, 16) 
+age/365
+ 
+</code></pre>
+
+<p>**</p>
+
+<div class="flushright">
+
+[Python code:2.4.9.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+days=(datetime(2017, 3, 10) - datetime(2017, 8, 16)) 
+days.days
+ 
+</code></pre>
+
+<h4 id="importing-data">Importing data</h4>
+
+<p>We suggest that you use comma-separated value or CSV ﬁles when
+interacting with Python and other statistical software. In computing,
+CSV ﬁles stores tabular data (numbers and text) in plain text. Columns
+are separated by commas; rows are terminated by newlines. This ﬁle
+format is not proprietary, the ﬁles can be edited in text editors and
+spreadsheet software, such as Excel and Calc.</p>
+
+<div class="flushright">
+
+[Python code:2.5.0.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+dur = pd.read_csv("data/duration.csv", sep=";") 
+dur 
+Out[153]: 
+    experiment  duration 
+0            A       199 
+1            A       184 
+2            A       242 
+3            A       236 
+4            A       216 
+5            A       176 
+6            A       223 
+7            A       186 
+8            A       210 
+9            A       220 
+..         ...       ... 
+95           C       221 
+96           C       239 
+97           C       235 
+98           C       248 
+99           C       204 
+100          C       226 
+101          C       206 
+102          C       194 
+103          C       205 
+104          C       182 
+ 
+[105 rows x 2 columns]
+ 
+</code></pre>
+
+<p>We can also import another dataframe and add a column titled AA.</p>
+
+<div class="flushright">
+
+[Python code:2.5.1.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+fricative = pd.read_table("data/fricatives.csv", sep=’,’) 
+fricative[’AA’] = pd.Series(range(1,8827))
+ 
+</code></pre>
+
+<p>**</p>
+
+<div class="flushright">
+
+[Python code:2.5.2.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+fricative.head() 
+# %%
+ 
+</code></pre>
+
+<p>**</p>
+
+<div class="flushright">
+
+[Python code:2.5.3.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+0   1  0.060398  32.671794   757.605236  1104.704765  13.835014  210.523631 
+1   2  0.045656  38.906220   732.582945  1065.089424  12.654465  186.856393 
+2   3  0.050907  47.209304   647.696728  1627.357767   7.647966   61.615315 
+3   4  0.051049  41.703970  1017.179353  2318.797907   5.570367   33.783925 
+4   5  0.028408  44.345609  1132.524942   848.894793   7.105495  108.453910 
+ 
+  Segment Vowel Variety      Stress   Voice Position   AA 
+0       d     a      CG  Unstressed  Voiced   Middle  1.0 
+1       d     a      CG  Unstressed  Voiced   Middle  2.0 
+2       d     a      CG  Unstressed  Voiced   Middle  3.0 
+3       d     a      CG  Unstressed  Voiced   Middle  4.0 
+4       d     a      CG  Unstressed  Voiced   Middle  5.0
+ 
+</code></pre>
+
+<p>**</p>
+
+<div class="flushright">
+
+[Python code:2.5.4.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+list(range(1,len(fricative.index)))
+ 
+</code></pre>
+
+<p>We can skip rows if we do not want them in the analysis:</p>
+
+<div class="flushright">
+
+[Python code:2.5.5.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+testfric=pd.read_csv("data/fricatives.csv", skiprows=[2,3,4,5,6]) 
+len(testfric.index)
+ 
+</code></pre>
+
+<p>To import a small number of rows from, we can use
+<a href="{.rm-lmtt-10x-x-109}">nrows</a>:</p>
+
+<div class="flushright">
+
+[Python code:2.5.6.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+pd.read_csv("data/fricatives.csv", nrows=4)
+ 
+</code></pre>
+
+<p>**</p>
+
+<div class="flushright">
+
+[Python code:2.5.7.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+get_ipython().system(’cat␣data/fricatives.csv’)
+ 
+</code></pre>
+
+<p>**</p>
+
+<div class="flushright">
+
+[Python code:2.5.8.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+pd.read_csv("data/fricatives.csv").head(20)
+ 
+</code></pre>
+
+<p>**</p>
+
+<div class="flushright">
+
+[Python code:2.5.9.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+pd.isnull(pd.read_csv("data/fricatives.csv")).head(20)
+ 
+</code></pre>
+
+<p>When we import data Python identiﬁes empty cells, or NA values as NA
+data; to designated that speciﬁc values or symbols should be considered
+NA values, we can specify this as follows</p>
+
+<div class="flushright">
+
+[Python code:2.5.10.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+pd.read_csv("data/fricatives.csv", na_values=[’?’, -9999999]).head(20)
+ 
+</code></pre>
+
+<h4 id="save-data">Save Data</h4>
+
+<p>There are diﬀerent methods to save data. To save data in CSV format</p>
+
+<div class="flushright">
+
+[Python code:2.6.0.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+# ## Writing Data to Files 
+fricative.to_csv("fricative-01.csv")
+ 
+</code></pre>
+
+<h3 id="creating-plots">Creating Plots</h3>
+
+<p>Using pandas we can also make some basic plotting.</p>
+
+<div class="flushright">
+
+[Python code:3.0.0.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+ 
+fricative[’duration’].plot()
+ 
+</code></pre>
+
+<p>**</p>
+
+<div class="flushright">
+
+[Python code:3.0.1.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+############################################################## 
+ 
+ 
+# %% 
+fricative = pd.read_csv("data/fricatives.csv", sep=’,’) 
+fricative[’duration’].plot() 
+# %% 
+fricative[’duration’].plot(kind=’hist’) 
+ 
+# %% 
+fricative[’duration’].plot(kind=’box’,showfliers=False)
+ 
+</code></pre>
+
+<hr />
+<p>Duration</p>
+
+<p><img src="http://localhost:4000/img/img_papers/figuresR/PythonIntro_duration.png" alt="screenshot" />
+Figure2: Duration in sec.</p>
+
+<hr />
+
+<hr />
+<p><img src="http://localhost:4000/img/img_papers/figuresR/Duration.png" alt="screenshot" />
+————————————————————————</p>
+
+<hr />
+
+<p><img src="http://localhost:4000/img/img_papers/figuresR/boxduration.png" alt="screenshot" /></p>
+
+<hr />
+
+<p>import matplotlib.pyplot as plt plt.plot([1,2,3,4]) plt.ylabel(’some
+numbers’) plt.show()</p>
+
+<h3 id="basic-descriptive-statistics-using-pandas">Basic Descriptive Statistics using Pandas</h3>
+
+<p>**</p>
+
+<div class="flushright">
+
+[Python code:4.0.0.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+In [208]: 
+ 
+fricative.sum() 
+Out[208]: 
+duration                                               827.811 
+intensity                                               346024 
+cog                                                5.05981e+07 
+sdev                                               2.40776e+07 
+skew                                                   21699.9 
+kurt                                                    328392 
+Segment      dddddddddddddddddddddddddddddddddddddddddddddd... 
+Vowel        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa... 
+Variety      CGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCG... 
+Stress       UnstressedUnstressedUnstressedUnstressedUnstre... 
+Voice        VoicedVoicedVoicedVoicedVoicedVoicedVoicedVoic... 
+Position     MiddleMiddleMiddleMiddleMiddleMiddleMiddleMidd... 
+AA                                                 3.89536e+07 
+dtype: object
+ 
+</code></pre>
+
+<p>**</p>
+
+<div class="flushright">
+
+[Python code:4.0.1.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+In [209]: 
+ 
+fricative.mean() 
+Out[209]: 
+duration        0.093782 
+intensity      39.254023 
+cog          5732.200660 
+sdev         2727.724598 
+skew            2.458354 
+kurt           37.203150 
+AA           4413.500000 
+dtype: float64
+ 
+</code></pre>
+
+<p>**</p>
+
+<div class="flushright">
+
+[Python code:4.0.2.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+In [211]: 
+ 
+fricative.std() 
+Out[211]: 
+duration        0.031759 
+intensity       8.272744 
+cog          3425.508087 
+sdev         1339.636724 
+skew            4.785687 
+kurt          138.622132 
+AA           2547.991071 
+dtype: float64
+ 
+</code></pre>
+
+<p>**</p>
+
+<div class="flushright">
+
+[Python code:4.0.3.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+In [212]: 
+ 
+fricative.count() 
+Out[212]: 
+duration     8827 
+intensity    8815 
+cog          8827 
+sdev         8827 
+skew         8827 
+kurt         8827 
+Segment      8827 
+Vowel        8827 
+Variety      8827 
+Stress       8827 
+Voice        8827 
+Position     8827 
+AA           8826 
+dtype: int64
+ 
+</code></pre>
+
+<p>**</p>
+
+<div class="flushright">
+
+[Python code:4.0.4.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+fricative.intensity.hasnans 
+Out[215]: 
+True 
+In [221]: 
+ 
+fricative.intensity.isnull().sum() 
+Out[221]: 
+12
+ 
+</code></pre>
+
+<p>Describe:</p>
+
+<div class="flushright">
+
+[Python code:4.0.5.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+In [222]: 
+ 
+fricative.describe() 
+/Users/haristhemistocleous/anaconda3/lib/python3.5/site-packages/numpy/lib/function_base.py:3834: RuntimeWarning: Invalid value encountered in percentile 
+  RuntimeWarning) 
+Out[222]: 
+          duration    intensity           cog         sdev         skew  \ 
+count  8827.000000  8815.000000   8827.000000  8827.000000  8827.000000 
+mean      0.093782    39.254023   5732.200660  2727.724598     2.458354 
+std       0.031759     8.272744   3425.508087  1339.636724     4.785687 
+min       0.020333     5.278827    419.757883   228.697624    -5.250996 
+25%       0.071596          NaN   2385.869561  1771.421219    -0.113557 
+50%       0.091452          NaN   6175.724355  2368.203536     0.925865 
+75%       0.112412          NaN   8344.008050  3595.757817     2.953676 
+max       0.316844    69.455969  18606.542539  9253.436646    59.853567 
+ 
+              kurt           AA 
+count  8827.000000  8826.000000 
+mean     37.203150  4413.500000 
+std     138.622132  2547.991071 
+min      -1.892874     1.000000 
+25%       0.512395          NaN 
+50%       3.432032          NaN 
+75%      12.453753          NaN 
+max    3999.613892  8826.000000 
+describe can detect non-numeric data and sometimes yield useful information about it.
+ 
+</code></pre>
+
+<p>**</p>
+
+<div class="flushright">
+
+[Python code:4.0.6.]
+
+</div>
+
+<pre><code class="language-({.listings})"> 
+fricative.sdev.describe() 
+Out[224]: 
+count    8827.000000 
+mean     2727.724598 
+std      1339.636724 
+min       228.697624 
+25%      1771.421219 
+50%      2368.203536 
+75%      3595.757817 
+max      9253.436646 
+Name: sdev, dtype: float64
+ 
+</code></pre>
