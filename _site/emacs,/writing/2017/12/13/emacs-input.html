@@ -1,0 +1,925 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-18654498-3', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Available input methods in Emacs</title>
+  <meta name="description" content="Emacs offers several functionalities for inserting special symbols in documents, (e.g., latex and org-mode documents). One easy way to access the different i...">
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="canonical" href="http://localhost:4000/emacs,/writing/2017/12/13/emacs-input.html">
+  <link rel="alternate" type="application/rss+xml" title="Charalambos (Haris) Themistocleous" href="/feed.xml">
+</head>
+
+
+  <body>
+    
+    <header class="site-header" role="banner">
+
+  <div class="wrapper">
+    
+    
+    <a class="site-title" href="/">Charalambos (Haris) Themistocleous</a>
+  
+    
+      <nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+              <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+              <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger">
+          
+            
+            
+            <a class="page-link" href="/about/">Home</a>
+            
+          
+            
+            
+            <a class="page-link" href="/blog/">Blog</a>
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+            <a class="page-link" href="/publications/">Publications</a>
+            
+          
+            
+            
+            <a class="page-link" href="/research/">Research</a>
+            
+          
+            
+            
+            <a class="page-link" href="/software/">Applications</a>
+            
+          
+            
+            
+            <a class="page-link" href="/teaching/">Teaching</a>
+            
+          
+            
+            
+          
+        </div>
+      </nav>
+    
+  </div>
+</header>
+
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">Available input methods in Emacs</h1>
+    <p class="post-meta">
+      <time datetime="2017-12-13T13:00:00+01:00" itemprop="datePublished">
+        
+        Dec 13, 2017
+      </time>
+      </p>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    <p><img src="/img/img_papers/typewriter.jpg" alt="screenshot" />
+Emacs offers several functionalities  for inserting special symbols in
+documents, (e.g., latex and org-mode documents). One easy way to
+access  the  different input  modes  is  by  typing <strong>C-\</strong>  and  then
+selecting an  input method.  The following functions are also useful:</p>
+
+<p><strong>M-x</strong> : list-input-methods -it provides the list of input methods.</p>
+
+<p><strong>M-x</strong> : describe-input-methods - it  shows the key sequences and the
+corresponding input characters for a specific input method.</p>
+
+<p><strong>C-h I</strong>  : the same.</p>
+
+<h1 id="phonetics">Phonetics</h1>
+<p>There are  several input  functions for  IPA symbols  two of  the most
+common ones  are the  <strong>ipa-praat</strong> and  <strong>ipa-x-sampa</strong>.  If  you are
+transcribing English, French, German and  Italian you may find the IPA
+convenient. For Greek someone might  want to download the IPA keyboard
+from
+my
+<a href="https://github.com/themistocleous/Keyboard_Layouts.">GitHub account</a>,
+which works with all applications across a system.</p>
+
+<h1 id="semanticslogic">Semantics/Logic</h1>
+<p>The  <strong>Tex</strong> input  set provides  several symbols  that are  useful, e.g.,
+Greek letters, unary operators,  relation operators, binary operators,
+negated  binary  operators,  set and/or  logic  notation,  delimiters,
+arrows, etc.</p>
+
+<h1 id="languages">Languages</h1>
+<p>There are input methods that provide graphemes for most languages.</p>
+
+<h1 id="input-methods">Input Methods</h1>
+<p>The  list  of  the  available   input  methods  available  are  listed
+below.</p>
+
+<h2 id="arabic">Arabic</h2>
+<p>arabic (‘ع’ in mode line)
+    Arabic input method.</p>
+
+<h2 id="assamese">Assamese</h2>
+<ul>
+  <li>assamese-inscript (‘AsmIS’ in mode line)
+ Assamese keyboard Inscript</li>
+  <li>assamese-itrans (‘AsmIT’ in mode line)
+ Assamese ITRANS</li>
+</ul>
+
+<h2 id="belarusian">Belarusian</h2>
+<ul>
+  <li>belarusian (‘BE’ in mode line)
+ ЙЦУКЕН keyboard layout registered as STB955-94 Belarusian standard.</li>
+</ul>
+
+<h2 id="bengali">Bengali</h2>
+<ul>
+  <li>bengali-probhat (‘BngPB’ in mode line)
+Probhat keyboard for Bengali/Bangla</li>
+  <li>bengali-inscript (‘BngIS’ in mode line)
+Bengali keyboard Inscript</li>
+  <li>bengali-itrans (‘BngIT’ in mode line)
+Bengali ITRANS</li>
+</ul>
+
+<h2 id="bulgarian">Bulgarian</h2>
+<ul>
+  <li>bulgarian-bds (‘БДС’ in mode line)
+Bulgarian standard keyboard layout (BDS)</li>
+  <li>bulgarian-phonetic (‘ЖБФ’ in mode line)
+Bulgarian Phonetic keyboard layout, producing Unicode.</li>
+  <li>bulgarian-alt-phonetic (‘БНФ’ in mode line)
+Bulgarian alternative Phonetic keyboard layout, producing Unicode.</li>
+</ul>
+
+<h2 id="chinese">Chinese</h2>
+<ul>
+  <li>chinese-sisheng (‘ǚ’ in mode line)
+Sìshēng input method for pīnyīn transliteration of Chinese.</li>
+</ul>
+
+<h2 id="chinese-big5">Chinese-BIG5</h2>
+<ul>
+  <li>chinese-zozy (‘零注’ in mode line)
+中文輸入【零壹注音】</li>
+  <li>chinese-b5-quick (‘簡B’ in mode line)
+中文輸入【簡易】BIG5</li>
+  <li>chinese-punct-b5 (‘標B’ in mode line)
+中文輸入【標點符號】</li>
+  <li>chinese-array30 (‘３０’ in mode line)
+中文【行列３０】</li>
+  <li>chinese-py-b5 (‘拼B’ in mode line)
+漢字輸入::拼音::</li>
+  <li>chinese-ecdict (‘英漢’ in mode line)
+中文輸入【英漢辭典】</li>
+  <li>chinese-b5-tsangchi (‘倉B’ in mode line)
+中文輸入【倉頡】BIG5</li>
+  <li>chinese-4corner (‘四角’ in mode line)
+四角號碼::</li>
+  <li>chinese-py-punct-b5 (‘拼符’ in mode line)
+中文輸入【拼音】 and ‘v’ for 標點符號輸入</li>
+  <li>chinese-qj-b5 (‘全B’ in mode line)
+漢字輸入::全角::</li>
+  <li>chinese-etzy (‘倚注’ in mode line)
+中文輸入【倚天注音】</li>
+  <li>chinese-ctlaub (‘劉粵’ in mode line)
+漢字輸入：劉錫祥式粵音：</li>
+</ul>
+
+<h2 id="chinese-cns">Chinese-CNS</h2>
+<ul>
+  <li>chinese-cns-quick (‘簡C’ in mode line)
+中文輸入【簡易】CNS</li>
+  <li>chinese-cns-tsangchi (‘倉C’ in mode line)
+中文輸入【倉頡】CNS</li>
+</ul>
+
+<h2 id="chinese-gb">Chinese-GB</h2>
+<ul>
+  <li>chinese-tonepy (‘调拼’ in mode line)
+汉字输入∷带调拼音∷</li>
+  <li>chinese-ctlau (‘刘粤’ in mode line)
+汉字输入∷刘锡祥式粤音∷</li>
+  <li>chinese-py (‘拼G’ in mode line)
+汉字输入∷拼音∷</li>
+  <li>chinese-qj (‘全G’ in mode line)
+汉字输入∷全角∷</li>
+  <li>chinese-tonepy-punct (‘拼符’ in mode line)
+ 汉字输入 带调拼音方案 and ‘v’ for 标点符号输入</li>
+  <li>chinese-py-punct (‘拼符’ in mode line)
+汉字输入 拼音方案 and ‘v’ for 标点符号输入</li>
+  <li>chinese-ziranma (‘自然’ in mode line)
+汉字输入∷【自然】∷</li>
+  <li>chinese-punct (‘标G’ in mode line)
+汉字输入∷标点符号∷\243\240</li>
+  <li>chinese-ccdospy (‘缩拼’ in mode line)
+汉字输入∷缩写拼音∷</li>
+  <li>chinese-sw (‘首尾’ in mode line)
+汉字输入∷首尾∷</li>
+</ul>
+
+<h2 id="croatian">Croatian</h2>
+<ul>
+  <li>croatian-cc (‘HR’ in mode line)
+Another alternative Croatian input method.</li>
+  <li>croatian-xy (‘HR’ in mode line)
+An alternative Croatian input method.</li>
+  <li>croatian-postfix (‘HR’ in mode line)
+ Croatian input method, postfix.</li>
+  <li>croatian-prefix (‘HR’ in mode line)
+ Croatian input method, prefix.</li>
+  <li>croatian-qwerty (‘HR’ in mode line)
+ Croatian keyboard without the y/z swap.</li>
+  <li>croatian (‘HR’ in mode line)
+ “Standard” Croatian keyboard.</li>
+</ul>
+
+<h2 id="cyrillic">Cyrillic</h2>
+<ul>
+  <li>cyrillic-translit (‘Жt’ in mode line)
+ Intuitively transliterated keyboard layout.</li>
+  <li>cyrillic-yawerty (‘ЖЯ’ in mode line)
+ ЯВЕРТЫ Roman transcription</li>
+  <li>cyrillic-serbian (‘ЖS’ in mode line)
+ ЉЊЕРТЗ-ЂЋ keyboard layout based on JUS.I.K1.005</li>
+  <li>cyrillic-macedonian (‘ЖM’ in mode line)
+ ЉЊЕРТЗ-ЃЌ keyboard layout based on JUS.I.K1.004</li>
+  <li>cyrillic-jis-russian (‘ЖЙ’ in mode line)
+ ЙЦУКЕН keyboard layout same as JCUKEN (JIS X0208.1983 encoding)
+    <h2 id="czech">Czech</h2>
+  </li>
+  <li>czech-prog-3 (‘CZ’ in mode line)
+ Czech (non-standard) keyboard for programmers compatible with the default</li>
+  <li>czech-prog-2 (‘CZ’ in mode line)
+ Czech (non-standard) keyboard for programmers #2.</li>
+  <li>czech-prog-1 (‘CZ’ in mode line)
+ Czech (non-standard) keyboard for programmers #1.</li>
+  <li>czech-qwerty (‘CZ’ in mode line)
+ “Standard” Czech keyboard in the Windows NT 105 keys version, QWERTY layout.</li>
+  <li>czech (‘CZ’ in mode line)
+ “Standard” Czech keyboard in the Windows NT 105 keys version.</li>
+</ul>
+
+<h2 id="devanagari">Devanagari</h2>
+<ul>
+  <li>devanagari-inscript (‘DevIS’ in mode line)
+ Devanagari keyboard Inscript</li>
+  <li>devanagari-aiba (‘DevAB’ in mode line)
+ Devanagari Aiba</li>
+  <li>devanagari-kyoto-harvard (‘DevKH’ in mode line)
+ Devanagari Kyoto-Harvard</li>
+  <li>devanagari-itrans (‘DevIT’ in mode line)
+ Devanagari ITRANS</li>
+</ul>
+
+<h2 id="dutch">Dutch</h2>
+<ul>
+  <li>dutch (‘NL’ in mode line)
+ Dutch character mixfix input method.</li>
+</ul>
+
+<h2 id="english">English</h2>
+<ul>
+  <li>english-dvorak (‘DV@’ in mode line)
+ English (ASCII) input method simulating Dvorak keyboard</li>
+  <li>programmer-dvorak (‘DVP@’ in mode line)
+An English (ASCII) dvorak layout optimized for programming, with for example</li>
+</ul>
+
+<h2 id="ethiopic">Ethiopic</h2>
+<ul>
+  <li>ethiopic (‘ፊደል ’ in mode line)
+   Quail package for Ethiopic (Tigrigna and Amharic)</li>
+</ul>
+
+<h2 id="french">French</h2>
+<ul>
+  <li>french-azerty (‘AZ@’ in mode line)
+French (Français) input method simulating Azerty keyboard</li>
+  <li>french-keyboard (‘FR@’ in mode line)
+French (Français) input method simulating some French keyboard</li>
+  <li>french-postfix (‘FR&lt;’ in mode line)
+French (Français) input method with postfix modifiers</li>
+  <li>french-alt-postfix (‘FR&lt;’ in mode line)
+French (Français) input method with postfix modifiers</li>
+  <li>french-prefix (‘FR&gt;’ in mode line)
+French (Français) input method with prefix modifiers</li>
+</ul>
+
+<h2 id="georgian">Georgian</h2>
+<ul>
+  <li>georgian (‘გ’ in mode line)
+A common Georgian transliteration (using Unicode)</li>
+</ul>
+
+<h2 id="german">German</h2>
+<ul>
+  <li>german (‘DE@’ in mode line)
+German (Deutsch) input method simulating SUN German keyboard</li>
+  <li>german-postfix (‘DE&lt;’ in mode line)
+German (Deutsch) input method</li>
+  <li>german-prefix (‘DE&gt;’ in mode line)
+German (Deutsch) input method with prefix modifiers</li>
+</ul>
+
+<h2 id="greek">Greek</h2>
+<ul>
+  <li>greek (‘Ω’ in mode line)
+Ελληνικά: Greek keyboard layout (ISO 8859-7)</li>
+  <li>greek-ibycus4 (‘IB’ in mode line)
+The Ibycus4 input method for Classical Greek using mule-unicode-0100-24ff.</li>
+  <li>greek-babel (‘BG’ in mode line)
+The TeX Babel input method for Classical Greek using mule-unicode-0100-24ff.</li>
+  <li>greek-mizuochi (‘CG’ in mode line)
+The Mizuochi input method for Classical Greek using mule-unicode-0100-24ff.</li>
+  <li>greek-jis (‘Ω’ in mode line)
+Ελληνικα: Greek keyboard layout (JIS X0208.1983)</li>
+</ul>
+
+<h2 id="greekpost">GreekPost</h2>
+<ul>
+  <li>greek-postfix (‘Ψ’ in mode line)
+Ελληνικά: Greek keyboard layout with postfix accents (ISO 8859-7)</li>
+</ul>
+
+<h2 id="gujarati">Gujarati</h2>
+<ul>
+  <li>gujarati-inscript (‘GjrIS’ in mode line)
+Gujarati keyboard Inscript</li>
+  <li>gujarati-itrans (‘GjrIT’ in mode line)
+Gujarati ITRANS</li>
+</ul>
+
+<h2 id="hebrew">Hebrew</h2>
+<ul>
+  <li>yiddish-keyman (‘ײק’ in mode line)
+Yiddish Keyman input method.</li>
+  <li>yiddish-royal (‘ײר’ in mode line)
+Yiddish Royal input method.</li>
+  <li>hebrew-biblical-sil (‘סִל’ in mode line)
+Biblical Hebrew SIL input method.</li>
+  <li>hebrew-biblical-tiro (‘תִרֹ’ in mode line)
+Biblical Hebrew Tiro input method.</li>
+  <li>hebrew-full (‘עִ֫’ in mode line)
+Hebrew Full method.</li>
+  <li>hebrew-lyx (‘לִ’ in mode line)
+Hebrew LyX input method.</li>
+  <li>hebrew-new (‘ע’ in mode line)
+Hebrew SI-1452 new draft input method.</li>
+  <li>hebrew (‘ע’ in mode line)
+Hebrew SI-1452 input method.</li>
+</ul>
+
+<h2 id="ipa">IPA</h2>
+<ul>
+  <li>ipa-x-sampa (‘IPA-X’ in mode line)
+  The International Phonetic Alphabet, using J.C. Wells’ X-SAMPA.</li>
+  <li>ipa-kirshenbaum (‘IPA-K’ in mode line)
+  The International Phonetic Alphabet, using Kirshenbaum ASCII translit.</li>
+  <li>ipa (‘IPA’ in mode line)
+  International Phonetic Alphabet for English, French, German and Italian</li>
+  <li>
+    <p>ipa-praat (‘IPAP’ in mode line)
+  International Phonetic Alphabet input method.
+  This follows the input method of the phonetic analysis program
+  Praat (http://www.fon.hum.uva.nl/praat/).</p>
+
+    <ul>
+      <li>
+        <p>Vowels</p>
+      </li>
+      <li>
+        <p>Unrounded
+           | front | centr. | back
+  ————-+——-+——–+——
+  close        | i i   | ɨ \i-  | ɯ \mt
+  close centr. | ɪ \ic |        |
+  close-mid    | e e   | ɘ \e-  | ɤ \rh
+           |       | ə \sw  |
+  open-mid     | ɛ \ef | ɜ \er  | ʌ \vt
+           | æ \ae | ɐ \at  |
+  open         | a a   |        | ɑ \as</p>
+      </li>
+      <li>
+        <p>Rounded
+           | front | centr. | back
+  ————-+——-+——–+——-
+  close        | y y   | ʉ \u-  | u u
+  close centr. | ʏ \yc |        | ʊ \hs
+  close-mid    | ø \o/ | ɵ \o-  | o o
+  open-mid     | œ \oe | ɞ \kb  | ɔ \ct
+  open         | ɶ \Oe |        | ɒ  \ab</p>
+      </li>
+    </ul>
+
+    <p>For most of the codes, the first letter tells you the most
+  similar letter of the English alphabet.  The second letter can be
+  t (turned), c (capital), s (script), r (reversed), - (barred or
+  retracted), or / (slashed).  One symbol (ɛ) is a phonetic version
+  of a Greek letter.  The codes for ə, ɤ, ʊ and ɞ are abbreviations
+  for schwa, ram’s horn, horseshoe, and kidney bean.</p>
+
+    <ul>
+      <li>
+        <p>Consonants</p>
+      </li>
+      <li>
+        <p>Pulmonic</p>
+
+        <div class="highlighter-rouge"><pre class="highlight"><code>     | plos. | nasal | fric. | approx. | trill | tap/flap | l. appr.   -----------+-------+-------+-------+---------+-------+----------+---------   bilabial   | p p   | m m   | ɸ \ff |         |       |          |
+     | b b   |       | β \bf | ʋ \vs   | ʙ \bc |          |   labiodent. |       | ɱ \mj | f f   |         |       |          |
+     |       |       | v v   |         |       |          |   dental     |       |       | θ \tf |         |       |          |
+     |       |       | ð \dh |         |       |          |   alveolar   | t t   | n n   | s s   |         |       | ɾ \fh    |
+     | d d   |       | z z   | ɹ \rt   | r r   |          | l l   alv. lat.  |       |       | ɬ \l- |         |       | ɺ \rl    |
+     |       |       | ɮ \lz | l l     |       |          | l l   postalv.   |       |       | ʃ \sh |         |       |          |
+     |       |       | ʒ \zh |         |       |          |   retroflex  | ʈ \t. | ɳ \n. | ʂ \s. |         |       | ɽ \f.    |
+     | ɖ \d. |       | ʐ \z. | ɻ \r.   |       |          | ɭ \l.   alv.-pala. |       |       | ɕ \cc |         |       |          |
+     |       |       | ʑ \zc |         |       |          |   palatal    | c c   | ɲ \nj | ç \c, |         |       |          |
+     | ɟ \j. |       | ʝ \jc | j j     |       |          | ʎ \yt   lab.-pal.  |       |       |       |         |       |          |
+     |       |       |       | ɥ \ht   |       |          |   lab.-vela. |       |       | ʍ \wt |         |       |          |
+     |       |       |       | w w     |       |          |   velar      | k k   | ŋ \ng | x x   |         |       |          | ʟ \lc
+     | ɡ \gs |       | ɣ \gf | ɰ \ml   |       |          |   uvular     | q q   | ɴ \nc | χ \cf |         |       |          |
+     | ɢ \gc |       | ʁ \ri |         | ʀ \rc |          |   pharyngeal |       |       | ħ \h- |         |       |          |
+     |       |       | ʕ \9e |         |       |          |   epiglottal | ʡ \?- |       | ʜ \hc |         |       |          |
+     |       |       | ʢ \9- |         |       |          |   glottal    | ʔ     |       | h h   |         |       |          |
+     |       |       | ɦ \h^ |         |       |          |
+</code></pre>
+        </div>
+      </li>
+      <li>
+        <p>Nonpulmonic</p>
+
+        <div class="highlighter-rouge"><pre class="highlight"><code>    | implosive | click   ----------+-----------+------   bilabial  | ɓ \b^     | ʘ \O.   dental    |           | ǀ \|1   alveolar  | ɗ \d^     |   alv.-lat. |           | ǁ \|2   postalv.  |           | ǂ \|-   retrofl.  |           | ! !   palatal   | ʄ \j^     |   velar     | ɠ \g^     |   uvular    | ʛ \G^     |
+</code></pre>
+        </div>
+      </li>
+    </ul>
+
+    <p>For most of the codes, the first letter tells you the most
+  similar letter of the English alphabet.  The second letter can
+  be t (turned), c (capital or curled), s (script), - (barred),
+  l (with leg), i (inverted), or j (left tail).  Some phonetic
+  symbols are similar to Greek letters but have special
+  phonetic (f) versions with serifs (ɸ, β, ɣ) or are otherwise
+  slightly different (θ, χ).  The codes for ŋ (engma), ð (eth),
+  ʃ (esh), and ʒ (yogh) are traditional alternative spellings.
+  The retroflexes have a period in the second place, because an
+  alternative traditional spelling is to write a dot under
+  them.  The code for ɾ is an abbreviation for fishhook.</p>
+
+    <ul>
+      <li>
+        <p>Diacritics</p>
+      </li>
+      <li>
+        <p>In line</p>
+      </li>
+    </ul>
+
+    <p>input | example | description
+  ——+———+———————
+  :f   | ː       | phonetic length sign
+  \’1   | ˈ       | primary stress
+  \’2   | ˌ       | secondary stress
+  \cn   | t̚       | unreleased plosive
+  \rh   | ɜ˞      | rhotacized vowel</p>
+
+    <ul>
+      <li>Understrikes</li>
+    </ul>
+
+    <p>input | example | description
+  ——+———+——————————–
+  |v   | n̩       | syllabic consonant
+  \0v   | b̥       | voiceless
+  \Tv   | o̞       | lowered
+  \T^   | o̝       | raised
+  \T(   | o̘       | advanced tongue root
+  \T)   | o̙       | retracted tongue root
+  -v   | e̱       | backed
+  +v   | o̟       | fronted
+  :v   | o̤       | breathy voice
+  ~v   | o̰       | creaky voice
+  \Nv   | d̪       | dental (as opposed to alveolar)
+  \Uv   | d̺       | apical
+  \Dv   | d̻       | laminal
+  \nv   | u̯       | nonsyllabic
+  \e3v  | e̹       | slightly rounded
+  \cv   | u̜       | slightly unrounded</p>
+
+    <ul>
+      <li>Overstrikes</li>
+    </ul>
+
+    <p>input | example | description
+  ——+———+——————————————–
+  \0^   | ɣ̊       | voiceless
+  \’^   |         | high tone
+  \‘^   |         | low tone
+  -^   |         | mid tone
+  ~^   |         | nasalized
+  \v^   |         | rising tone
+  \^^   |         | falling tone
+  :^   |         | centralized
+  \N^   |         | short
+  \li   | k͡p      | simultaneous articulation or single segment</p>
+  </li>
+</ul>
+
+<h2 id="japanese">Japanese</h2>
+<ul>
+  <li>japanese-katakana (‘ア’ in mode line)
+Japanese katakana input method by Roman transliteration.</li>
+  <li>japanese-hiragana (‘あ’ in mode line)
+Japanese hiragana input method by Roman transliteration.</li>
+  <li>japanese-hankaku-kana (‘ｱ’ in mode line)
+Japanese hankaku katakana input method by Roman transliteration.</li>
+  <li>japanese-zenkaku (‘Ａ’ in mode line)
+Japanese zenkaku alpha numeric character input method.</li>
+  <li>japanese-ascii (‘Aa’ in mode line)
+Temporary ASCII input mode used within the input method ‘japanese’.</li>
+  <li>japanese (‘Aあ’ in mode line)
+Japanese input method by Roman transliteration and Kana-Kanji conversion.</li>
+</ul>
+
+<h2 id="kannada">Kannada</h2>
+<ul>
+  <li>kannada-inscript (‘KndIS’ in mode line)
+Kannada keyboard Inscript</li>
+  <li>kannada-itrans (‘KndIT’ in mode line)
+Kannada ITRANS</li>
+</ul>
+
+<h2 id="korean">Korean</h2>
+<ul>
+  <li>korean-hanja-jis (‘漢2’ in mode line)
+2벌식JIS漢字: 該當하는 漢字의 韻을 한글2벌式으로 呼出하여 選擇</li>
+  <li>korean-hanja3 (‘漢3’ in mode line)
+ 3벌식KSC漢字: 該當하는 漢字의 韻을 한글3벌式으로 呼出하여 選擇</li>
+  <li>korean-symbol (‘심벌’ in mode line)
+ 한글심벌입력표:</li>
+  <li>korean-hanja (‘漢2’ in mode line)
+2벌식KSC漢字: 該當하는 漢字의 韻을 한글2벌式으로 呼出하여 選擇</li>
+</ul>
+
+<h2 id="lao">Lao</h2>
+<ul>
+  <li>lao-lrt (‘ລR’ in mode line)
+Lao input method using LRT (Lao Roman Transcription).</li>
+  <li>lao (‘ລ’ in mode line)
+Lao input method simulating Lao keyboard layout based on Thai TIS620</li>
+</ul>
+
+<h2 id="latin">Latin</h2>
+<ul>
+  <li>latin-postfix (‘L&lt;’ in mode line)
+Latin character input method with postfix modifiers.</li>
+  <li>latin-alt-postfix (‘L&lt;’ in mode line)
+Latin character input method with postfix modifiers.</li>
+  <li>latin-prefix (‘L&gt;’ in mode line)
+Latin characters input method with prefix modifiers.</li>
+</ul>
+
+<h2 id="latin-1">Latin-1</h2>
+<ul>
+  <li>italian-keyboard (‘IT@’ in mode line)
+Italian (Italiano) input method simulating SUN Italian keyboard</li>
+  <li>finnish-keyboard (‘FI@’ in mode line)
+Finnish input method simulating SUN Finnish/Swedish keyboard</li>
+  <li>swedish-keyboard (‘SV@’ in mode line)
+Swedish (Svenska) input method simulating SUN Swedish/Finnish keyboard</li>
+  <li>norwegian-keyboard (‘NO@’ in mode line)
+Norwegian (Norsk) input method simulating SUN Norwegian keyboard</li>
+  <li>danish-keyboard (‘DA@’ in mode line)
+Danish input method simulating SUN Danish keyboard</li>
+  <li>icelandic-keyboard (‘IS@’ in mode line)
+Icelandic (Íslenska) input method simulating some Icelandic keyboard</li>
+  <li>british (‘£@’ in mode line)
+British English input method with Latin-1 character £ (# -&gt; £)</li>
+  <li>swedish-postfix (‘SV&lt;’ in mode line)
+Swedish (Svenska) input method (rule: AA -&gt; Å   AE -&gt; Ä   OE -&gt; Ö   E’ -&gt; É)</li>
+  <li>scandinavian-postfix (‘SC&lt;’ in mode line)
+Scandinavian input method with postfix modifiers</li>
+  <li>norwegian-postfix (‘NO&lt;’ in mode line)
+Norwegian (Norsk) input method (rule: AE-&gt;Æ   OE-&gt;Ø   AA-&gt;Å   E’-&gt;É)</li>
+  <li>italian-postfix (‘IT&lt;’ in mode line)
+Italian (Italiano) input method with postfix modifiers</li>
+  <li>icelandic-postfix (‘IS&lt;’ in mode line)
+Icelandic (Íslenska) input method with postfix modifiers</li>
+  <li>finnish-postfix (‘FI&lt;’ in mode line)
+Finnish (Suomi) input method</li>
+  <li>danish-postfix (‘DA&lt;’ in mode line)
+Danish input method (rule: AE -&gt; Æ, OE -&gt; Ø, AA -&gt; Å, E’ -&gt; É)</li>
+  <li>latin-1-postfix (‘1&lt;’ in mode line)
+Latin-1 character input method with postfix modifiers</li>
+  <li>italian-alt-postfix (‘IT&lt;’ in mode line)
+Italian (Italiano) input method with postfix modifiers</li>
+  <li>latin-1-alt-postfix (‘1&lt;’ in mode line)
+Latin-1 character input method with postfix modifiers</li>
+  <li>portuguese-prefix (‘PT&gt;’ in mode line)
+Portuguese input method with prefix modifiers</li>
+  <li>irish-prefix (‘GA&gt;’ in mode line)
+Irish input method with prefix modifiers</li>
+  <li>catalan-prefix (‘CA&gt;’ in mode line)
+Catalan and Spanish input method with prefix modifiers</li>
+  <li>latin-1-prefix (‘1&gt;’ in mode line)
+Latin-1 characters input method with prefix modifiers</li>
+</ul>
+
+<h2 id="latin-2">Latin-2</h2>
+<ul>
+  <li>latin-2-postfix (‘2&lt;’ in mode line)
+Latin-2 character input method with postfix modifiers</li>
+  <li>latin-2-alt-postfix (‘2&lt;’ in mode line)
+Latin-2 character input method with postfix modifiers</li>
+  <li>latin-2-prefix (‘2&gt;’ in mode line)
+Latin-2 characters input method with prefix modifiers</li>
+</ul>
+
+<h2 id="latin-3">Latin-3</h2>
+<ul>
+  <li>esperanto-postfix (‘EO&lt;’ in mode line)
+Esperanto input method with postfix modifiers</li>
+  <li>latin-3-postfix (‘3&lt;’ in mode line)
+Latin-3 character input method with postfix modifiers</li>
+  <li>latin-3-alt-postfix (‘3&lt;’ in mode line)
+Latin-3 character input method with postfix modifiers</li>
+  <li>latin-3-prefix (‘3&gt;’ in mode line)
+Latin-3 characters input method with prefix modifiers</li>
+  <li>esperanto-prefix (‘EO&gt;’ in mode line)
+Esperanto input method with prefix modifiers</li>
+</ul>
+
+<h2 id="latin-4">Latin-4</h2>
+<ul>
+  <li>latin-4-postfix (‘4&lt;’ in mode line)
+Latin-4 characters input method with postfix modifiers</li>
+  <li>latin-4-alt-postfix (‘4&lt;’ in mode line)
+Latin-4 characters input method with postfix modifiers</li>
+</ul>
+
+<h2 id="latin-5">Latin-5</h2>
+<ul>
+  <li>latin-5-postfix (‘5&lt;’ in mode line)
+Latin-5 characters input method with postfix modifiers</li>
+  <li>latin-5-alt-postfix (‘5&lt;’ in mode line)
+Latin-5 characters input method with postfix modifiers</li>
+</ul>
+
+<h2 id="latin-8">Latin-8</h2>
+<ul>
+  <li>latin-8-prefix (‘8&gt;’ in mode line)
+Latin-8 characters input method with prefix modifiers</li>
+</ul>
+
+<h2 id="latin-9">Latin-9</h2>
+<ul>
+  <li>latin-9-prefix (‘0&gt;’ in mode line)
+Latin-9 characters input method with prefix modifiers</li>
+</ul>
+
+<h2 id="latvian">Latvian</h2>
+<ul>
+  <li>latvian-keyboard (‘Lv’ in mode line)
+Latvian standard keyboard input method.</li>
+</ul>
+
+<h2 id="lithuanian">Lithuanian</h2>
+<ul>
+  <li>lithuanian-keyboard (‘Lt’ in mode line)
+Lithuanian standard keyboard input method.</li>
+  <li>lithuanian-numeric (‘LtN’ in mode line)
+Lithuanian numeric input method.</li>
+</ul>
+
+<h2 id="malayalam">Malayalam</h2>
+<ul>
+  <li>malayalam-inscript (‘MlmIS’ in mode line)
+Malayalam keyboard Inscript</li>
+  <li>malayalam-itrans (‘MlmIT’ in mode line)
+Malayalam ITRANS</li>
+</ul>
+
+<h2 id="oriya">Oriya</h2>
+<ul>
+  <li>oriya-inscript (‘OriIS’ in mode line)
+Oriya keyboard Inscript</li>
+  <li>oriya-itrans (‘OriIT’ in mode line)
+Oriya ITRANS</li>
+</ul>
+
+<h2 id="persian">Persian</h2>
+<ul>
+  <li>farsi-transliterate-banan (‘ب’ in mode line)
+Intuitive transliteration keyboard layout for persian/farsi.</li>
+  <li>farsi-isiri-9147 (‘ ف’ in mode line)
+Farsi keyboard based on ISIRI-9147.</li>
+</ul>
+
+<h2 id="polish">Polish</h2>
+<ul>
+  <li>polish-slash (‘PL&gt;’ in mode line)
+Polish diacritics and slash character are input as ‘/[acelnosxzACELNOSXZ/]’.</li>
+</ul>
+
+<h2 id="punjabi">Punjabi</h2>
+<ul>
+  <li>punjabi-inscript (‘PnjIS’ in mode line)
+Punjabi keyboard Inscript</li>
+  <li>punjabi-itrans (‘PnjIT’ in mode line)
+Punjabi ITRANS</li>
+</ul>
+
+<h2 id="romanian">Romanian</h2>
+<ul>
+  <li>romanian-alt-prefix (‘RO&gt;’ in mode line)
+Alternative Romanian (româneşte) input method with prefix modifiers</li>
+  <li>romanian-prefix (‘RO&gt;’ in mode line)
+Romanian (româneşte) input method with prefix modifiers</li>
+</ul>
+
+<h2 id="russian">Russian</h2>
+<ul>
+  <li>russian-computer (‘RU’ in mode line)
+ЙЦУКЕН Russian computer layout</li>
+  <li>cyrillic-jcuken (‘ЖЙ’ in mode line)
+ЙЦУКЕН Russian typewriter layout (ISO 8859-5 encoding).</li>
+  <li>russian-typewriter (‘ЖЙ’ in mode line)
+ЙЦУКЕН Russian typewriter layout (ISO 8859-5 encoding).</li>
+</ul>
+
+<h2 id="slovak">Slovak</h2>
+<ul>
+  <li>slovak-prog-3 (‘SK’ in mode line)
+Slovak (non-standard) keyboard for programmers #3.</li>
+  <li>slovak-prog-2 (‘SK’ in mode line)
+Slovak (non-standard) keyboard for programmers #2.</li>
+  <li>slovak-prog-1 (‘SK’ in mode line)
+Slovak (non-standard) keyboard for programmers #1.</li>
+  <li>slovak (‘SK’ in mode line)
+Standard Slovak keyboard.</li>
+</ul>
+
+<h2 id="slovenian">Slovenian</h2>
+<ul>
+  <li>slovenian (‘Sl’ in mode line)
+Slovenian postfix input.</li>
+</ul>
+
+<h2 id="spanish">Spanish</h2>
+<ul>
+  <li>spanish-keyboard (‘ES@’ in mode line)
+Spanish (Español) input method simulating SUN Spanish keyboard</li>
+  <li>spanish-postfix (‘ES&lt;’ in mode line)
+Spanish (Español) input method with postfix modifiers</li>
+  <li>spanish-prefix (‘ES&gt;’ in mode line)
+Spanish (Español) input method with prefix modifiers</li>
+</ul>
+
+<h2 id="tamil">Tamil</h2>
+<ul>
+  <li>tamil-inscript (‘TmlIS’ in mode line)
+Tamil keyboard Inscript</li>
+  <li>tamil-itrans (‘TmlIT’ in mode line)
+Tamil ITRANS</li>
+  <li>tamil-dvorak (‘யளனக’ in mode line)
+யளனக Tamil keyboard layout for use with Unicode (UTF-8 encoding)</li>
+</ul>
+
+<h2 id="telugu">Telugu</h2>
+<ul>
+  <li>telugu-inscript (‘TlgIS’ in mode line)
+Telugu keyboard Inscript</li>
+  <li>telugu-itrans (‘TlgIT’ in mode line)
+Telugu ITRANS</li>
+</ul>
+
+<h2 id="thai">Thai</h2>
+<ul>
+  <li>thai-pattachote (‘กป&gt;’ in mode line)
+Thai Pattachote input method with TIS620 keyboard layout</li>
+  <li>thai-kesmanee (‘กก&gt;’ in mode line)
+Thai Kesmanee input method with TIS620 keyboard layout</li>
+</ul>
+
+<h2 id="tibetan">Tibetan</h2>
+<ul>
+  <li>tibetan-tibkey (‘TIBt’ in mode line)
+Tibetan character input by TibKey key assignment.</li>
+  <li>tibetan-wylie (‘TIBw’ in mode line)
+Tibetan character input by Extended Wylie key assignment.</li>
+</ul>
+
+<h2 id="turkish">Turkish</h2>
+<ul>
+  <li>turkish-postfix (‘TR&lt;’ in mode line)
+ Turkish (Türkçe) input method with postfix modifiers.</li>
+  <li>turkish-alt-postfix (‘TR«’ in mode line)
+Turkish (Türkçe) input method with postfix modifiers.</li>
+</ul>
+
+<h2 id="utf-8">UTF-8</h2>
+<ul>
+  <li>korean-hangul3 (‘한390’ in mode line)
+Hangul 3-Bulsik 390 Input</li>
+  <li>korean-hangul390 (‘한390’ in mode line)
+Hangul 3-Bulsik 390 Input</li>
+  <li>korean-hangul3f (‘한3f’ in mode line)
+Hangul 3-Bulsik final Input</li>
+  <li>korean-hangul (‘한2’ in mode line)
+Hangul 2-Bulsik Input</li>
+  <li>ucs (‘U+’ in mode line)
+Unicode input as hex in the form Uxxxx.</li>
+  <li>TeX (‘\’ in mode line)
+LaTeX-like input method for many characters.
+These characters are from the charsets used by the ‘utf-8’ coding
+system, including many technical ones.  Examples:
+ 'a -&gt; á  `{a} -&gt; à
+ \pi -&gt; π  \int -&gt; ∫  ^1 -&gt; ¹</li>
+  <li>rfc1345 (‘m’ in mode line)
+Unicode characters input method using RFC1345 mnemonics (non-ASCII only).</li>
+  <li>sgml (‘&amp;’ in mode line)
+Unicode characters input method using SGML entities.</li>
+</ul>
+
+<h2 id="ukrainian">Ukrainian</h2>
+<ul>
+  <li>ukrainian-computer (‘UK’ in mode line)
+ЙЦУКЕН Ukrainian (Unicode-based for use with KOI8-U encoding).</li>
+  <li>cyrillic-ukrainian (‘ЖU’ in mode line)
+ЄЇЕРТЗ-ІЎ UKRAINIAN</li>
+</ul>
+
+<h2 id="vietnamese">Vietnamese</h2>
+<ul>
+  <li>vietnamese-vni (‘VV’ in mode line)
+Vietnamese VNI input method</li>
+  <li>vietnamese-viqr (‘VQ’ in mode line)
+Vietnamese input method with VIQR mnemonic system</li>
+  <li>vietnamese-telex (‘VT’ in mode line)
+Vietnamese telex input method</li>
+</ul>
+
+<h2 id="welsh">Welsh</h2>
+<ul>
+  <li>welsh (‘Ŵ’ in mode line)
+Welsh postfix input method</li>
+</ul>
+
+  </div>
+
+  
+</article>
+
+      </div>
+    </main>
+
+    <footer class="site-footer">
+    <div class="wrapper">
+      <ul class="contact-list">
+        <li>
+          <li>
+            
+            (c) 2017 Charalambos Themistocleous.
+            
+          </li>
+    </div>
+</footer>
+
+
+  </body>
+
+</html>
