@@ -5,7 +5,6 @@ date:   2017-12-13 14:00:00 +0200
 categories: Emacs, Writing
 ---
 
-![screenshot](/img/img_papers/typewriter.jpg)
 Emacs offers several functionalities  for inserting special symbols in
 documents, (e.g., latex and org-mode documents). One easy way to
 access  the  different input  modes  is  by  typing __C-\\__  and  then
@@ -268,155 +267,1006 @@ below.
   (http://www.fon.hum.uva.nl/praat/).
 
 
-    * Vowels
 
-    - Unrounded
-    |              | front | centr. | back  |
-    |--------------+-------+--------+-------|
-    | close        | i i   | ɨ \i-  | ɯ \mt |
-    | close centr. | ɪ \ic |        |       |
-    | close-mid    | e e   | ɘ \e-  | ɤ \rh |
-    |              |       | ə \sw  |       |
-    | open-mid     | ɛ \ef | ɜ \er  | ʌ \vt |
-    |              | æ \ae | ɐ \at  |       |
-    | open         | a a   |        | ɑ \as |
+### Vowels
+#### Unrounded
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
-    - Rounded
-    |              | front | centr. | back            |        |       |       |
-    |--------------+-------+--------+-----------------+--------+-------+-------|
-    | close centr. | ʏ \yc |        | ʊ \hs close-mid | ø  \o/ | ɵ \o- | o o   |
-    | open-mid     | œ \oe | ɞ \kb  | ɔ \ct open      | ɶ \Oe  |       | ɒ \ab |
-    |              |       |        |                 |        |       |       |
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">front</th>
+<th scope="col" class="org-left">centr.</th>
+<th scope="col" class="org-left">back</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">close</td>
+<td class="org-left">i i</td>
+<td class="org-left">ɨ \i-</td>
+<td class="org-left">ɯ \mt</td>
+</tr>
 
 
-
-    For most of the codes, the first letter tells you the most
-    similar letter of the English alphabet.  The second letter can be
-    t (turned), c (capital), s (script), r (reversed), - (barred or
-    retracted), or / (slashed).  One symbol (ɛ) is a phonetic version
-    of a Greek letter.  The codes for ə, ɤ, ʊ and ɞ are abbreviations
-    for schwa, ram’s horn, horseshoe, and kidney bean.
-
-
-    * Consonants
-
-    - Pulmonic
-
-    |            | plos. | nasal | fric. | approx. | trill | tap/flap | l. appr. |
-    |------------+-------+-------+-------+---------+-------+----------+----------|
-    | bilabial   | p p   | m m   | ɸ \ff |         |       |          |          |
-    |            | b b   |       | β \bf | ʋ \vs   | ʙ \bc |          |          |
-    | labiodent. |       | ɱ \mj | f f   |         |       |          |          |
-    |            |       |       | v v   |         |       |          |          |
-    | dental     |       |       | θ \tf |         |       |          |          |
-    |            |       |       | ð \dh |         |       |          |          |
-    | alveolar   | t t   | n n   | s s   |         |       | ɾ \fh    |          |
-    |            | d d   |       | z z   | ɹ \rt   | r r   |          | l l      |
-    | alv. lat.  |       |       | ɬ \l- |         |       | ɺ \rl    |          |
-    |            |       |       | ɮ \lz | l l     |       |          | l l      |
-    | postalv.   |       |       | ʃ \sh |         |       |          |          |
-    |            |       |       | ʒ \zh |         |       |          |          |
-    | retroflex  | ʈ \t. | ɳ \n. | ʂ \s. |         |       | ɽ \f.    |          |
-    |            | ɖ \d. |       | ʐ \z. | ɻ \r.   |       |          | ɭ \l.    |
-    | alv.-pala. |       |       | ɕ \cc |         |       |          |          |
-    |            |       |       | ʑ \zc |         |       |          |          |
-    | palatal    | c c   | ɲ \nj | ç \c, |         |       |          |          |
-    |            | ɟ \j. |       | ʝ \jc | j j     |       |          | ʎ \yt    |
-    | lab.-pal.  |       |       |       |         |       |          |          |
-    |            |       |       |       | ɥ \ht   |       |          |          |
-    | lab.-vela. |       |       | ʍ \wt |         |       |          |          |
-    |            |       |       |       | w w     |       |          |          |
-    | velar      | k k   | ŋ \ng | x x   |         |       |          | ʟ \lc    |
-    |            | ɡ \gs |       | ɣ \gf | ɰ \ml   |       |          |          |
-    | uvular     | q q   | ɴ \nc | χ \cf |         |       |          |          |
-    |            | ɢ \gc |       | ʁ \ri |         | ʀ \rc |          |          |
-    | pharyngeal |       |       | ħ \h- |         |       |          |          |
-    |            |       |       | ʕ \9e |         |       |          |          |
-    | epiglottal | ʡ \?- |       | ʜ \hc |         |       |          |          |
-    |            |       |       | ʢ \9- |         |       |          |          |
-    | glottal    | ʔ     |       | h h   |         |       |          |          |
-    |            |       |       | ɦ \h^ |         |       |          |          |
-    |------------+-------+-------+-------+---------+-------+----------+----------|
+<tr>
+<td class="org-left">close centr.</td>
+<td class="org-left">ɪ \ic</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-    - Nonpulmonic
-
-    |           | implosive | click |   |
-    |-----------+-----------+-------+---|
-    |           |           |       |   |
-    | bilabial  | ɓ \b^     | ʘ \O. |   |
-    | dental    |           | ǀ \   | 1 |
-    | alveolar  | ɗ \d^     |       |   |
-    | alv.-lat. |           | ǁ \   | 2 |
-    | postalv.  |           | ǂ \   | - |
-    | retrofl.  |           | ! !   |   |
-    | palatal   | ʄ \j^     |       |   |
-    | velar     | ɠ \g^     |       |   |
-    | uvular    | ʛ \G^     |       |   |
-
-    For most of the codes, the first letter tells you the most
-    similar letter of the English alphabet.  The second letter can
-    be t (turned), c (capital or curled), s (script), - (barred),
-    l (with leg), i (inverted), or j (left tail).  Some phonetic
-    symbols are similar to Greek letters but have special
-    phonetic (f) versions with serifs (ɸ, β, ɣ) or are otherwise
-    slightly different (θ, χ).  The codes for ŋ (engma), ð (eth),
-    ʃ (esh), and ʒ (yogh) are traditional alternative spellings.
-    The retroflexes have a period in the second place, because an
-    alternative traditional spelling is to write a dot under
-    them.  The code for ɾ is an abbreviation for fishhook.
+<tr>
+<td class="org-left">close-mid</td>
+<td class="org-left">e e</td>
+<td class="org-left">ɘ \e-</td>
+<td class="org-left">ɤ \rh</td>
+</tr>
 
 
-    * Diacritics
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ə \sw</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
-    - In line
 
-    input | example | description
-    ------+---------+---------------------
-    \:f   | ː       | phonetic length sign
-    \’1   | ˈ       | primary stress
-    \’2   | ˌ       | secondary stress
-    \cn   | t̚       | unreleased plosive
-    \rh   | ɜ˞      | rhotacized vowel
+<tr>
+<td class="org-left">open-mid</td>
+<td class="org-left">ɛ \ef</td>
+<td class="org-left">ɜ \er</td>
+<td class="org-left">ʌ \vt</td>
+</tr>
 
-    - Understrikes
 
-    | input | example | description                     |                    |
-    |-------+---------+---------------------------------+--------------------|
-    | \     | v       | n̩                               | syllabic consonant |
-    | \0v   | b̥       | voiceless                       |                    |
-    | \Tv   | o̞       | lowered                         |                    |
-    | \T^   | o̝       | raised                          |                    |
-    | \T(   | o̘       | advanced tongue root            |                    |
-    | \T)   | o̙       | retracted tongue root           |                    |
-    | \-v   | e̱       | backed                          |                    |
-    | \+v   | o̟       | fronted                         |                    |
-    | \:v   | o̤       | breathy voice                   |                    |
-    | \~v   | o̰       | creaky voice                    |                    |
-    | \Nv   | d̪       | dental (as opposed to alveolar) |                    |
-    | \Uv   | d̺       | apical                          |                    |
-    | \Dv   | d̻       | laminal                         |                    |
-    | \nv   | u̯       | nonsyllabic                     |                    |
-    | \e3v  | e̹       | slightly rounded                |                    |
-    | \cv   | u̜       | slightly unrounded              |                    |
-   
-    - Overstrikes
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">æ \ae</td>
+<td class="org-left">ɐ \at</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
-   | input | example | description                                 |
-   |-------+---------+---------------------------------------------|
-   | \0^   | ɣ̊       | voiceless                                   |
-   | \’^   |         | high tone                                   |
-   | \‘^   |         | low tone                                    |
-   | \-^   |         | mid tone                                    |
-   | \~^   |         | nasalized                                   |
-   | \v^   |         | rising tone                                 |
-   | \^^   |         | falling tone                                |
-   | \:^   |         | centralized                                 |
-   | \N^   |         | short                                       |
-   | \li   | k͡p      | simultaneous articulation or single segment |
-   |-------+---------+---------------------------------------------|
-   
+
+<tr>
+<td class="org-left">open</td>
+<td class="org-left">a a</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ɑ \as</td>
+</tr>
+</tbody>
+</table>
+
+####   Rounded
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">front</th>
+<th scope="col" class="org-left">centr.</th>
+<th scope="col" class="org-left">back</th>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">&#xa0;</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">close centr.</td>
+<td class="org-left">ʏ \yc</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ʊ \hs close-mid</td>
+<td class="org-left">ø  \o/</td>
+<td class="org-left">ɵ \o-</td>
+<td class="org-left">o o</td>
+</tr>
+
+
+<tr>
+<td class="org-left">open-mid</td>
+<td class="org-left">œ \oe</td>
+<td class="org-left">ɞ \kb</td>
+<td class="org-left">ɔ \ct open</td>
+<td class="org-left">ɶ \Oe</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ɒ \ab</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+
+For most of the codes, the first letter tells you the most
+similar letter of the English alphabet.  The second letter can be
+t (turned), c (capital), s (script), r (reversed), - (barred or
+retracted), or / (slashed).  One symbol (ɛ) is a phonetic version
+of a Greek letter.  The codes for ə, ɤ, ʊ and ɞ are abbreviations
+for schwa, ram’s horn, horseshoe, and kidney bean.
+
+###   Consonants
+####   Pulmonic
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">plos.</th>
+<th scope="col" class="org-left">nasal</th>
+<th scope="col" class="org-left">fric.</th>
+<th scope="col" class="org-left">approx.</th>
+<th scope="col" class="org-left">trill</th>
+<th scope="col" class="org-left">tap/flap</th>
+<th scope="col" class="org-left">l. appr.</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">bilabial</td>
+<td class="org-left">p p</td>
+<td class="org-left">m m</td>
+<td class="org-left">ɸ \ff</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">b b</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">β \bf</td>
+<td class="org-left">ʋ \vs</td>
+<td class="org-left">ʙ \bc</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">labiodent.</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ɱ \mj</td>
+<td class="org-left">f f</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">v v</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">dental</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">θ \tf</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ð \dh</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">alveolar</td>
+<td class="org-left">t t</td>
+<td class="org-left">n n</td>
+<td class="org-left">s s</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ɾ \fh</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">d d</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">z z</td>
+<td class="org-left">ɹ \rt</td>
+<td class="org-left">r r</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">l l</td>
+</tr>
+
+
+<tr>
+<td class="org-left">alv. lat.</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ɬ \l-</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ɺ \rl</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ɮ \lz</td>
+<td class="org-left">l l</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">l l</td>
+</tr>
+
+
+<tr>
+<td class="org-left">postalv.</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ʃ \sh</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ʒ \zh</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">retroflex</td>
+<td class="org-left">ʈ \t.</td>
+<td class="org-left">ɳ \n.</td>
+<td class="org-left">ʂ \s.</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ɽ \f.</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ɖ \d.</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ʐ \z.</td>
+<td class="org-left">ɻ \r.</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ɭ \l.</td>
+</tr>
+
+
+<tr>
+<td class="org-left">alv.-pala.</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ɕ \cc</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ʑ \zc</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">palatal</td>
+<td class="org-left">c c</td>
+<td class="org-left">ɲ \nj</td>
+<td class="org-left">ç \c,</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ɟ \j.</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ʝ \jc</td>
+<td class="org-left">j j</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ʎ \yt</td>
+</tr>
+
+
+<tr>
+<td class="org-left">lab.-pal.</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ɥ \ht</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">lab.-vela.</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ʍ \wt</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">w w</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">velar</td>
+<td class="org-left">k k</td>
+<td class="org-left">ŋ \ng</td>
+<td class="org-left">x x</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ʟ \lc</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ɡ \gs</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ɣ \gf</td>
+<td class="org-left">ɰ \ml</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">uvular</td>
+<td class="org-left">q q</td>
+<td class="org-left">ɴ \nc</td>
+<td class="org-left">χ \cf</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ɢ \gc</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ʁ \ri</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ʀ \rc</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">pharyngeal</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ħ \h-</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ʕ \9e</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">epiglottal</td>
+<td class="org-left">ʡ \?-</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ʜ \hc</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ʢ \9-</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">glottal</td>
+<td class="org-left">ʔ</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">h h</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ɦ \h^</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+
+#### Nonpulmonic
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">implosive</th>
+<th scope="col" class="org-left">click</th>
+<th scope="col" class="org-left">&#xa0;</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">bilabial</td>
+<td class="org-left">ɓ \b^</td>
+<td class="org-left">ʘ \O.</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">dental</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ǀ \</td>
+<td class="org-left">1</td>
+</tr>
+
+
+<tr>
+<td class="org-left">alveolar</td>
+<td class="org-left">ɗ \d^</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">alv.-lat.</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ǁ \</td>
+<td class="org-left">2</td>
+</tr>
+
+
+<tr>
+<td class="org-left">postalv.</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ǂ \</td>
+<td class="org-left">-</td>
+</tr>
+
+
+<tr>
+<td class="org-left">retrofl.</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">! !</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">palatal</td>
+<td class="org-left">ʄ \j^</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">velar</td>
+<td class="org-left">ɠ \g^</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">uvular</td>
+<td class="org-left">ʛ \G^</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+
+For most of the codes, the first letter tells you the most
+similar letter of the English alphabet.  The second letter can
+be t (turned), c (capital or curled), s (script), - (barred),
+l (with leg), i (inverted), or j (left tail).  Some phonetic
+symbols are similar to Greek letters but have special
+phonetic (f) versions with serifs (ɸ, β, ɣ) or are otherwise
+slightly different (θ, χ).  The codes for ŋ (engma), ð (eth),
+ʃ (esh), and ʒ (yogh) are traditional alternative spellings.
+The retroflexes have a period in the second place, because an
+alternative traditional spelling is to write a dot under
+them.  The code for ɾ is an abbreviation for fishhook.
+
+###   Diacritics
+
+####   In line
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">input</th>
+<th scope="col" class="org-left">example</th>
+<th scope="col" class="org-left">description</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">\:f</td>
+<td class="org-left">ː</td>
+<td class="org-left">phonetic length sign</td>
+</tr>
+
+
+<tr>
+<td class="org-left">\’1</td>
+<td class="org-left">ˈ</td>
+<td class="org-left">primary stress</td>
+</tr>
+
+
+<tr>
+<td class="org-left">\’2</td>
+<td class="org-left">ˌ</td>
+<td class="org-left">secondary stress</td>
+</tr>
+
+
+<tr>
+<td class="org-left">\cn</td>
+<td class="org-left">t̚</td>
+<td class="org-left">unreleased plosive</td>
+</tr>
+
+
+<tr>
+<td class="org-left">\rh</td>
+<td class="org-left">ɜ˞</td>
+<td class="org-left">rhotacized vowel</td>
+</tr>
+</tbody>
+</table>
+
+####   Understrikes
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">input</th>
+<th scope="col" class="org-left">example</th>
+<th scope="col" class="org-left">description</th>
+<th scope="col" class="org-left">&#xa0;</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">\</td>
+<td class="org-left">v</td>
+<td class="org-left">n̩</td>
+<td class="org-left">syllabic consonant</td>
+</tr>
+
+
+<tr>
+<td class="org-left">\0v</td>
+<td class="org-left">b̥</td>
+<td class="org-left">voiceless</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">\Tv</td>
+<td class="org-left">o̞</td>
+<td class="org-left">lowered</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">\T^</td>
+<td class="org-left">o̝</td>
+<td class="org-left">raised</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">\T(</td>
+<td class="org-left">o̘</td>
+<td class="org-left">advanced tongue root</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">\T)</td>
+<td class="org-left">o̙</td>
+<td class="org-left">retracted tongue root</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">\&#x00ad;v</td>
+<td class="org-left">e̱</td>
+<td class="org-left">backed</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">\+v</td>
+<td class="org-left">o̟</td>
+<td class="org-left">fronted</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">\:v</td>
+<td class="org-left">o̤</td>
+<td class="org-left">breathy voice</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">\~v</td>
+<td class="org-left">o̰</td>
+<td class="org-left">creaky voice</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">\Nv</td>
+<td class="org-left">d̪</td>
+<td class="org-left">dental (as opposed to alveolar)</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">\Uv</td>
+<td class="org-left">d̺</td>
+<td class="org-left">apical</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">\Dv</td>
+<td class="org-left">d̻</td>
+<td class="org-left">laminal</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">\nv</td>
+<td class="org-left">u̯</td>
+<td class="org-left">nonsyllabic</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">\e3v</td>
+<td class="org-left">e̹</td>
+<td class="org-left">slightly rounded</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">\cv</td>
+<td class="org-left">u̜</td>
+<td class="org-left">slightly unrounded</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+
+#### Overstrikes
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">input</th>
+<th scope="col" class="org-left">example</th>
+<th scope="col" class="org-left">description</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">\0^</td>
+<td class="org-left">ɣ̊</td>
+<td class="org-left">voiceless</td>
+</tr>
+
+
+<tr>
+<td class="org-left">\’^</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">high tone</td>
+</tr>
+
+
+<tr>
+<td class="org-left">\‘^</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">low tone</td>
+</tr>
+
+
+<tr>
+<td class="org-left">\&#x00ad;^</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">mid tone</td>
+</tr>
+
+
+<tr>
+<td class="org-left">\~^</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">nasalized</td>
+</tr>
+
+
+<tr>
+<td class="org-left">\v^</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">rising tone</td>
+</tr>
+
+
+<tr>
+<td class="org-left">\^^</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">falling tone</td>
+</tr>
+
+
+<tr>
+<td class="org-left">\:^</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">centralized</td>
+</tr>
+
+
+<tr>
+<td class="org-left">\N^</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">short</td>
+</tr>
+
+
+<tr>
+<td class="org-left">\li</td>
+<td class="org-left">k͡p</td>
+<td class="org-left">simultaneous articulation or single segment</td>
+</tr>
+</tbody>
+</table>
+
 
 ## Japanese
   - japanese-katakana (‘ア’ in mode line)

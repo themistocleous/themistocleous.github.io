@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-12-14T13:19:16+01:00</updated><id>http://localhost:4000/</id><title type="html">Charalambos (Haris) Themistocleous</title><subtitle>(c) 2017 Charalambos Themistocleous.</subtitle><entry><title type="html">Available input methods in Emacs</title><link href="http://localhost:4000/emacs,/writing/2017/12/13/emacs-input.html" rel="alternate" type="text/html" title="Available input methods in Emacs" /><published>2017-12-13T13:00:00+01:00</published><updated>2017-12-13T13:00:00+01:00</updated><id>http://localhost:4000/emacs,/writing/2017/12/13/emacs-input</id><content type="html" xml:base="http://localhost:4000/emacs,/writing/2017/12/13/emacs-input.html">&lt;p&gt;&lt;img src=&quot;/img/img_papers/typewriter.jpg&quot; alt=&quot;screenshot&quot; /&gt;
-Emacs offers several functionalities  for inserting special symbols in
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-12-14T14:55:51+01:00</updated><id>http://localhost:4000/</id><title type="html">Charalambos (Haris) Themistocleous</title><subtitle>(c) 2017 Charalambos Themistocleous.</subtitle><entry><title type="html">Available input methods in Emacs</title><link href="http://localhost:4000/emacs,/writing/2017/12/13/emacs-input.html" rel="alternate" type="text/html" title="Available input methods in Emacs" /><published>2017-12-13T13:00:00+01:00</published><updated>2017-12-13T13:00:00+01:00</updated><id>http://localhost:4000/emacs,/writing/2017/12/13/emacs-input</id><content type="html" xml:base="http://localhost:4000/emacs,/writing/2017/12/13/emacs-input.html">&lt;p&gt;Emacs offers several functionalities  for inserting special symbols in
 documents, (e.g., latex and org-mode documents). One easy way to
 access  the  different input  modes  is  by  typing &lt;strong&gt;C-\&lt;/strong&gt;  and  then
 selecting an  input method.  The following functions are also useful:&lt;/p&gt;
@@ -12,11 +11,11 @@ corresponding input characters for a specific input method.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;C-h I&lt;/strong&gt;  : the same.&lt;/p&gt;
 
 &lt;h1 id=&quot;phonetics&quot;&gt;Phonetics&lt;/h1&gt;
-&lt;p&gt;There are  several input  functions for  IPA symbols  two of  the most
-common ones  are the  &lt;strong&gt;ipa-praat&lt;/strong&gt; and  &lt;strong&gt;ipa-x-sampa&lt;/strong&gt;.  If  you are
-transcribing English, French, German and  Italian you may find the IPA
-convenient. For Greek someone might  want to download the IPA keyboard
-from
+&lt;p&gt;There are several input functions for inserting IPA symbols two of the
+most common  ones are the  &lt;strong&gt;ipa-praat&lt;/strong&gt; and &lt;strong&gt;ipa-x-sampa&lt;/strong&gt;.   If you
+are transcribing English, French, German  and Italian you may find the
+&lt;strong&gt;IPA&lt;/strong&gt; convenient. For  Greek someone might want to  download the IPA
+keyboard                                                          from
 my
 &lt;a href=&quot;https://github.com/themistocleous/Keyboard_Layouts.&quot;&gt;GitHub account&lt;/a&gt;,
 which works with all applications across a system.&lt;/p&gt;
@@ -300,153 +299,1010 @@ Hebrew SI-1452 input method.&lt;/li&gt;
   The International Phonetic Alphabet, using Kirshenbaum ASCII translit.&lt;/li&gt;
   &lt;li&gt;ipa (‘IPA’ in mode line)
   International Phonetic Alphabet for English, French, German and Italian&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;ipa-praat (‘IPAP’ in mode line)
-  International Phonetic Alphabet input method.
-  This follows the input method of the phonetic analysis program
-  Praat (http://www.fon.hum.uva.nl/praat/).&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;
-        &lt;p&gt;Vowels&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Unrounded
-           | front | centr. | back
-  ————-+——-+——–+——
-  close        | i i   | ɨ \i-  | ɯ \mt
-  close centr. | ɪ \ic |        |
-  close-mid    | e e   | ɘ \e-  | ɤ \rh
-           |       | ə \sw  |
-  open-mid     | ɛ \ef | ɜ \er  | ʌ \vt
-           | æ \ae | ɐ \at  |
-  open         | a a   |        | ɑ \as&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Rounded
-           | front | centr. | back
-  ————-+——-+——–+——-
-  close        | y y   | ʉ \u-  | u u
-  close centr. | ʏ \yc |        | ʊ \hs
-  close-mid    | ø \o/ | ɵ \o-  | o o
-  open-mid     | œ \oe | ɞ \kb  | ɔ \ct
-  open         | ɶ \Oe |        | ɒ  \ab&lt;/p&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;p&gt;For most of the codes, the first letter tells you the most
-  similar letter of the English alphabet.  The second letter can be
-  t (turned), c (capital), s (script), r (reversed), - (barred or
-  retracted), or / (slashed).  One symbol (ɛ) is a phonetic version
-  of a Greek letter.  The codes for ə, ɤ, ʊ and ɞ are abbreviations
-  for schwa, ram’s horn, horseshoe, and kidney bean.&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;
-        &lt;p&gt;Consonants&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Pulmonic&lt;/p&gt;
-
-        &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;     | plos. | nasal | fric. | approx. | trill | tap/flap | l. appr.   -----------+-------+-------+-------+---------+-------+----------+---------   bilabial   | p p   | m m   | ɸ \ff |         |       |          |
-     | b b   |       | β \bf | ʋ \vs   | ʙ \bc |          |   labiodent. |       | ɱ \mj | f f   |         |       |          |
-     |       |       | v v   |         |       |          |   dental     |       |       | θ \tf |         |       |          |
-     |       |       | ð \dh |         |       |          |   alveolar   | t t   | n n   | s s   |         |       | ɾ \fh    |
-     | d d   |       | z z   | ɹ \rt   | r r   |          | l l   alv. lat.  |       |       | ɬ \l- |         |       | ɺ \rl    |
-     |       |       | ɮ \lz | l l     |       |          | l l   postalv.   |       |       | ʃ \sh |         |       |          |
-     |       |       | ʒ \zh |         |       |          |   retroflex  | ʈ \t. | ɳ \n. | ʂ \s. |         |       | ɽ \f.    |
-     | ɖ \d. |       | ʐ \z. | ɻ \r.   |       |          | ɭ \l.   alv.-pala. |       |       | ɕ \cc |         |       |          |
-     |       |       | ʑ \zc |         |       |          |   palatal    | c c   | ɲ \nj | ç \c, |         |       |          |
-     | ɟ \j. |       | ʝ \jc | j j     |       |          | ʎ \yt   lab.-pal.  |       |       |       |         |       |          |
-     |       |       |       | ɥ \ht   |       |          |   lab.-vela. |       |       | ʍ \wt |         |       |          |
-     |       |       |       | w w     |       |          |   velar      | k k   | ŋ \ng | x x   |         |       |          | ʟ \lc
-     | ɡ \gs |       | ɣ \gf | ɰ \ml   |       |          |   uvular     | q q   | ɴ \nc | χ \cf |         |       |          |
-     | ɢ \gc |       | ʁ \ri |         | ʀ \rc |          |   pharyngeal |       |       | ħ \h- |         |       |          |
-     |       |       | ʕ \9e |         |       |          |   epiglottal | ʡ \?- |       | ʜ \hc |         |       |          |
-     |       |       | ʢ \9- |         |       |          |   glottal    | ʔ     |       | h h   |         |       |          |
-     |       |       | ɦ \h^ |         |       |          |
-&lt;/code&gt;&lt;/pre&gt;
-        &lt;/div&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Nonpulmonic&lt;/p&gt;
-
-        &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    | implosive | click   ----------+-----------+------   bilabial  | ɓ \b^     | ʘ \O.   dental    |           | ǀ \|1   alveolar  | ɗ \d^     |   alv.-lat. |           | ǁ \|2   postalv.  |           | ǂ \|-   retrofl.  |           | ! !   palatal   | ʄ \j^     |   velar     | ɠ \g^     |   uvular    | ʛ \G^     |
-&lt;/code&gt;&lt;/pre&gt;
-        &lt;/div&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;p&gt;For most of the codes, the first letter tells you the most
-  similar letter of the English alphabet.  The second letter can
-  be t (turned), c (capital or curled), s (script), - (barred),
-  l (with leg), i (inverted), or j (left tail).  Some phonetic
-  symbols are similar to Greek letters but have special
-  phonetic (f) versions with serifs (ɸ, β, ɣ) or are otherwise
-  slightly different (θ, χ).  The codes for ŋ (engma), ð (eth),
-  ʃ (esh), and ʒ (yogh) are traditional alternative spellings.
-  The retroflexes have a period in the second place, because an
-  alternative traditional spelling is to write a dot under
-  them.  The code for ɾ is an abbreviation for fishhook.&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;
-        &lt;p&gt;Diacritics&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;In line&lt;/p&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;p&gt;input | example | description
-  ——+———+———————
-  :f   | ː       | phonetic length sign
-  \’1   | ˈ       | primary stress
-  \’2   | ˌ       | secondary stress
-  \cn   | t̚       | unreleased plosive
-  \rh   | ɜ˞      | rhotacized vowel&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;Understrikes&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;p&gt;input | example | description
-  ——+———+——————————–
-  |v   | n̩       | syllabic consonant
-  \0v   | b̥       | voiceless
-  \Tv   | o̞       | lowered
-  \T^   | o̝       | raised
-  \T(   | o̘       | advanced tongue root
-  \T)   | o̙       | retracted tongue root
-  -v   | e̱       | backed
-  +v   | o̟       | fronted
-  :v   | o̤       | breathy voice
-  ~v   | o̰       | creaky voice
-  \Nv   | d̪       | dental (as opposed to alveolar)
-  \Uv   | d̺       | apical
-  \Dv   | d̻       | laminal
-  \nv   | u̯       | nonsyllabic
-  \e3v  | e̹       | slightly rounded
-  \cv   | u̜       | slightly unrounded&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;Overstrikes&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;p&gt;input | example | description
-  ——+———+——————————————–
-  \0^   | ɣ̊       | voiceless
-  \’^   |         | high tone
-  \‘^   |         | low tone
-  -^   |         | mid tone
-  ~^   |         | nasalized
-  \v^   |         | rising tone
-  \^^   |         | falling tone
-  :^   |         | centralized
-  \N^   |         | short
-  \li   | k͡p      | simultaneous articulation or single segment&lt;/p&gt;
-  &lt;/li&gt;
+  &lt;li&gt;ipa-praat (‘IPAP’ in mode line)
+  International Phonetic  Alphabet input  method.  This  follows the
+input   method    of   the    phonetic   analysis    program   Praat
+(http://www.fon.hum.uva.nl/praat/).&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h3 id=&quot;vowels&quot;&gt;Vowels&lt;/h3&gt;
+&lt;h4 id=&quot;unrounded&quot;&gt;Unrounded&lt;/h4&gt;
+
+&lt;table border=&quot;2&quot; cellspacing=&quot;0&quot; cellpadding=&quot;6&quot; rules=&quot;groups&quot; frame=&quot;hsides&quot;&gt;
+
+
+&lt;colgroup&gt;
+&lt;col class=&quot;org-left&quot; /&gt;
+
+&lt;col class=&quot;org-left&quot; /&gt;
+
+&lt;col class=&quot;org-left&quot; /&gt;
+
+&lt;col class=&quot;org-left&quot; /&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/th&gt;
+&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;front&lt;/th&gt;
+&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;centr.&lt;/th&gt;
+&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;back&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;close&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;i i&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɨ \i-&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɯ \mt&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;close centr.&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɪ \ic&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;close-mid&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;e e&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɘ \e-&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɤ \rh&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ə \sw&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;open-mid&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɛ \ef&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɜ \er&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ʌ \vt&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;æ \ae&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɐ \at&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;open&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;a a&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɑ \as&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h4 id=&quot;rounded&quot;&gt;Rounded&lt;/h4&gt;
+
+&lt;table border=&quot;2&quot; cellspacing=&quot;0&quot; cellpadding=&quot;6&quot; rules=&quot;groups&quot; frame=&quot;hsides&quot;&gt;
+
+
+&lt;colgroup&gt;
+&lt;col class=&quot;org-left&quot; /&gt;
+
+&lt;col class=&quot;org-left&quot; /&gt;
+
+&lt;col class=&quot;org-left&quot; /&gt;
+
+&lt;col class=&quot;org-left&quot; /&gt;
+
+&lt;col class=&quot;org-left&quot; /&gt;
+
+&lt;col class=&quot;org-left&quot; /&gt;
+
+&lt;col class=&quot;org-left&quot; /&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/th&gt;
+&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;front&lt;/th&gt;
+&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;centr.&lt;/th&gt;
+&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;back&lt;/th&gt;
+&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/th&gt;
+&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/th&gt;
+&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;close centr.&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ʏ \yc&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ʊ \hs close-mid&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ø  \o/&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɵ \o-&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;o o&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;open-mid&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;œ \oe&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɞ \kb&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɔ \ct open&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɶ \Oe&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɒ \ab&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;For most of the codes, the first letter tells you the most
+similar letter of the English alphabet.  The second letter can be
+t (turned), c (capital), s (script), r (reversed), - (barred or
+retracted), or / (slashed).  One symbol (ɛ) is a phonetic version
+of a Greek letter.  The codes for ə, ɤ, ʊ and ɞ are abbreviations
+for schwa, ram’s horn, horseshoe, and kidney bean.&lt;/p&gt;
+
+&lt;h3 id=&quot;consonants&quot;&gt;Consonants&lt;/h3&gt;
+&lt;h4 id=&quot;pulmonic&quot;&gt;Pulmonic&lt;/h4&gt;
+
+&lt;table border=&quot;2&quot; cellspacing=&quot;0&quot; cellpadding=&quot;6&quot; rules=&quot;groups&quot; frame=&quot;hsides&quot;&gt;
+
+
+&lt;colgroup&gt;
+&lt;col class=&quot;org-left&quot; /&gt;
+
+&lt;col class=&quot;org-left&quot; /&gt;
+
+&lt;col class=&quot;org-left&quot; /&gt;
+
+&lt;col class=&quot;org-left&quot; /&gt;
+
+&lt;col class=&quot;org-left&quot; /&gt;
+
+&lt;col class=&quot;org-left&quot; /&gt;
+
+&lt;col class=&quot;org-left&quot; /&gt;
+
+&lt;col class=&quot;org-left&quot; /&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/th&gt;
+&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;plos.&lt;/th&gt;
+&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;nasal&lt;/th&gt;
+&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;fric.&lt;/th&gt;
+&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;approx.&lt;/th&gt;
+&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;trill&lt;/th&gt;
+&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;tap/flap&lt;/th&gt;
+&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;l. appr.&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;bilabial&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;p p&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;m m&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɸ \ff&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;b b&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;β \bf&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ʋ \vs&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ʙ \bc&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;labiodent.&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɱ \mj&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;f f&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;v v&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;dental&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;θ \tf&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ð \dh&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;alveolar&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;t t&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;n n&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;s s&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɾ \fh&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;d d&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;z z&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɹ \rt&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;r r&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;l l&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;alv. lat.&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɬ \l-&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɺ \rl&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɮ \lz&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;l l&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;l l&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;postalv.&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ʃ \sh&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ʒ \zh&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;retroflex&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ʈ \t.&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɳ \n.&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ʂ \s.&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɽ \f.&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɖ \d.&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ʐ \z.&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɻ \r.&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɭ \l.&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;alv.-pala.&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɕ \cc&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ʑ \zc&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;palatal&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;c c&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɲ \nj&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ç \c,&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɟ \j.&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ʝ \jc&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;j j&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ʎ \yt&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;lab.-pal.&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɥ \ht&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;lab.-vela.&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ʍ \wt&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;w w&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;velar&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;k k&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ŋ \ng&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;x x&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ʟ \lc&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɡ \gs&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɣ \gf&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɰ \ml&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;uvular&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;q q&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɴ \nc&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;χ \cf&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɢ \gc&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ʁ \ri&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ʀ \rc&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;pharyngeal&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ħ \h-&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ʕ \9e&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;epiglottal&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ʡ \?-&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ʜ \hc&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ʢ \9-&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;glottal&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ʔ&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;h h&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɦ \h^&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h4 id=&quot;nonpulmonic&quot;&gt;Nonpulmonic&lt;/h4&gt;
+
+&lt;table border=&quot;2&quot; cellspacing=&quot;0&quot; cellpadding=&quot;6&quot; rules=&quot;groups&quot; frame=&quot;hsides&quot;&gt;
+
+
+&lt;colgroup&gt;
+&lt;col class=&quot;org-left&quot; /&gt;
+
+&lt;col class=&quot;org-left&quot; /&gt;
+
+&lt;col class=&quot;org-left&quot; /&gt;
+
+&lt;col class=&quot;org-left&quot; /&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/th&gt;
+&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;implosive&lt;/th&gt;
+&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;click&lt;/th&gt;
+&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;bilabial&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɓ \b^&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ʘ \O.&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;dental&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ǀ \&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;alveolar&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɗ \d^&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;alv.-lat.&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ǁ \&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;postalv.&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ǂ \&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;-&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;retrofl.&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;! !&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;palatal&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ʄ \j^&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;velar&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɠ \g^&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;uvular&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ʛ \G^&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;For most of the codes, the first letter tells you the most
+similar letter of the English alphabet.  The second letter can
+be t (turned), c (capital or curled), s (script), - (barred),
+l (with leg), i (inverted), or j (left tail).  Some phonetic
+symbols are similar to Greek letters but have special
+phonetic (f) versions with serifs (ɸ, β, ɣ) or are otherwise
+slightly different (θ, χ).  The codes for ŋ (engma), ð (eth),
+ʃ (esh), and ʒ (yogh) are traditional alternative spellings.
+The retroflexes have a period in the second place, because an
+alternative traditional spelling is to write a dot under
+them.  The code for ɾ is an abbreviation for fishhook.&lt;/p&gt;
+
+&lt;h3 id=&quot;diacritics&quot;&gt;Diacritics&lt;/h3&gt;
+
+&lt;h4 id=&quot;in-line&quot;&gt;In line&lt;/h4&gt;
+
+&lt;table border=&quot;2&quot; cellspacing=&quot;0&quot; cellpadding=&quot;6&quot; rules=&quot;groups&quot; frame=&quot;hsides&quot;&gt;
+
+
+&lt;colgroup&gt;
+&lt;col class=&quot;org-left&quot; /&gt;
+
+&lt;col class=&quot;org-left&quot; /&gt;
+
+&lt;col class=&quot;org-left&quot; /&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;input&lt;/th&gt;
+&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;example&lt;/th&gt;
+&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;\:f&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ː&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;phonetic length sign&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;\’1&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ˈ&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;primary stress&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;\’2&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ˌ&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;secondary stress&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;\cn&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;t̚&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;unreleased plosive&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;\rh&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɜ˞&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;rhotacized vowel&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h4 id=&quot;understrikes&quot;&gt;Understrikes&lt;/h4&gt;
+
+&lt;table border=&quot;2&quot; cellspacing=&quot;0&quot; cellpadding=&quot;6&quot; rules=&quot;groups&quot; frame=&quot;hsides&quot;&gt;
+
+
+&lt;colgroup&gt;
+&lt;col class=&quot;org-left&quot; /&gt;
+
+&lt;col class=&quot;org-left&quot; /&gt;
+
+&lt;col class=&quot;org-left&quot; /&gt;
+
+&lt;col class=&quot;org-left&quot; /&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;input&lt;/th&gt;
+&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;example&lt;/th&gt;
+&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;description&lt;/th&gt;
+&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;\&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;v&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;n̩&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;syllabic consonant&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;\0v&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;b̥&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;voiceless&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;\Tv&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;o̞&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;lowered&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;\T^&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;o̝&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;raised&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;\T(&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;o̘&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;advanced tongue root&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;\T)&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;o̙&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;retracted tongue root&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;\&amp;#x00ad;v&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;e̱&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;backed&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;\+v&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;o̟&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;fronted&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;\:v&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;o̤&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;breathy voice&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;\~v&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;o̰&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;creaky voice&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;\Nv&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;d̪&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;dental (as opposed to alveolar)&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;\Uv&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;d̺&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;apical&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;\Dv&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;d̻&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;laminal&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;\nv&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;u̯&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;nonsyllabic&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;\e3v&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;e̹&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;slightly rounded&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;\cv&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;u̜&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;slightly unrounded&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h4 id=&quot;overstrikes&quot;&gt;Overstrikes&lt;/h4&gt;
+
+&lt;table border=&quot;2&quot; cellspacing=&quot;0&quot; cellpadding=&quot;6&quot; rules=&quot;groups&quot; frame=&quot;hsides&quot;&gt;
+
+
+&lt;colgroup&gt;
+&lt;col class=&quot;org-left&quot; /&gt;
+
+&lt;col class=&quot;org-left&quot; /&gt;
+
+&lt;col class=&quot;org-left&quot; /&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;input&lt;/th&gt;
+&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;example&lt;/th&gt;
+&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;\0^&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;ɣ̊&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;voiceless&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;\’^&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;high tone&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;\‘^&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;low tone&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;\&amp;#x00ad;^&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;mid tone&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;\~^&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;nasalized&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;\v^&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;rising tone&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;\^^&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;falling tone&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;\:^&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;centralized&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;\N^&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;short&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;tr&gt;
+&lt;td class=&quot;org-left&quot;&gt;\li&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;k͡p&lt;/td&gt;
+&lt;td class=&quot;org-left&quot;&gt;simultaneous articulation or single segment&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;h2 id=&quot;japanese&quot;&gt;Japanese&lt;/h2&gt;
 &lt;ul&gt;
