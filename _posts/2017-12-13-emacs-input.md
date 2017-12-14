@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Available input methods in Emacs"
+title:  "Input methods in Emacs"
 date:   2017-12-13 14:00:00 +0200
 categories: Emacs, Writing
 ---
