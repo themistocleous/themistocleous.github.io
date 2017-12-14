@@ -4,6 +4,7 @@ title:  "Available input methods in Emacs"
 date:   2017-12-13 14:00:00 +0200
 categories: Emacs, Writing
 ---
+
 ![screenshot](/img/img_papers/typewriter.jpg)
 Emacs offers several functionalities  for inserting special symbols in
 documents, (e.g., latex and org-mode documents). One easy way to
@@ -19,11 +20,11 @@ __C-h I__  : the same.
 
 
 # Phonetics
-There are  several input  functions for  IPA symbols  two of  the most
-common ones  are the  __ipa-praat__ and  __ipa-x-sampa__.  If  you are
-transcribing English, French, German and  Italian you may find the IPA
-convenient. For Greek someone might  want to download the IPA keyboard
-from
+There are several input functions for inserting IPA symbols two of the
+most common  ones are the  __ipa-praat__ and __ipa-x-sampa__.   If you
+are transcribing English, French, German  and Italian you may find the
+__IPA__ convenient. For  Greek someone might want to  download the IPA
+keyboard                                                          from
 my
 [GitHub account](https://github.com/themistocleous/Keyboard_Layouts.),
 which works with all applications across a system.
@@ -42,7 +43,7 @@ The  list  of  the  available   input  methods  available  are  listed
 below.
 
 ## Arabic
-  arabic (‘ع’ in mode line)
+ - arabic (‘ع’ in mode line)
     Arabic input method.
 
 ## Assamese
@@ -262,34 +263,31 @@ below.
 - ipa (‘IPA’ in mode line)
     International Phonetic Alphabet for English, French, German and Italian
 - ipa-praat (‘IPAP’ in mode line)
-    International Phonetic Alphabet input method.
-    This follows the input method of the phonetic analysis program
-    Praat (http://www.fon.hum.uva.nl/praat/).
+    International Phonetic  Alphabet input  method.  This  follows the
+  input   method    of   the    phonetic   analysis    program   Praat
+  (http://www.fon.hum.uva.nl/praat/).
 
 
     * Vowels
 
     - Unrounded
-                 | front | centr. | back
-    -------------+-------+--------+------
-    close        | i i   | ɨ \i-  | ɯ \mt
-    close centr. | ɪ \ic |        |
-    close-mid    | e e   | ɘ \e-  | ɤ \rh
-                 |       | ə \sw  |
-    open-mid     | ɛ \ef | ɜ \er  | ʌ \vt
-                 | æ \ae | ɐ \at  |
-    open         | a a   |        | ɑ \as
-
+    |              | front | centr. | back  |
+    |--------------+-------+--------+-------|
+    | close        | i i   | ɨ \i-  | ɯ \mt |
+    | close centr. | ɪ \ic |        |       |
+    | close-mid    | e e   | ɘ \e-  | ɤ \rh |
+    |              |       | ə \sw  |       |
+    | open-mid     | ɛ \ef | ɜ \er  | ʌ \vt |
+    |              | æ \ae | ɐ \at  |       |
+    | open         | a a   |        | ɑ \as |
 
 
     - Rounded
-                 | front | centr. | back
-    -------------+-------+--------+-------
-    close        | y y   | ʉ \u-  | u u
-    close centr. | ʏ \yc |        | ʊ \hs
-    close-mid    | ø \o/ | ɵ \o-  | o o
-    open-mid     | œ \oe | ɞ \kb  | ɔ \ct
-    open         | ɶ \Oe |        | ɒ  \ab
+    |              | front | centr. | back            |        |       |       |
+    |--------------+-------+--------+-----------------+--------+-------+-------|
+    | close centr. | ʏ \yc |        | ʊ \hs close-mid | ø  \o/ | ɵ \o- | o o   |
+    | open-mid     | œ \oe | ɞ \kb  | ɔ \ct open      | ɶ \Oe  |       | ɒ \ab |
+    |              |       |        |                 |        |       |       |
 
 
 
@@ -305,54 +303,57 @@ below.
 
     - Pulmonic
 
-               | plos. | nasal | fric. | approx. | trill | tap/flap | l. appr.
-    -----------+-------+-------+-------+---------+-------+----------+---------
-    bilabial   | p p   | m m   | ɸ \ff |         |       |          |
-               | b b   |       | β \bf | ʋ \vs   | ʙ \bc |          |
-    labiodent. |       | ɱ \mj | f f   |         |       |          |
-               |       |       | v v   |         |       |          |
-    dental     |       |       | θ \tf |         |       |          |
-               |       |       | ð \dh |         |       |          |
-    alveolar   | t t   | n n   | s s   |         |       | ɾ \fh    |
-               | d d   |       | z z   | ɹ \rt   | r r   |          | l l
-    alv. lat.  |       |       | ɬ \l- |         |       | ɺ \rl    |
-               |       |       | ɮ \lz | l l     |       |          | l l
-    postalv.   |       |       | ʃ \sh |         |       |          |
-               |       |       | ʒ \zh |         |       |          |
-    retroflex  | ʈ \t. | ɳ \n. | ʂ \s. |         |       | ɽ \f.    |
-               | ɖ \d. |       | ʐ \z. | ɻ \r.   |       |          | ɭ \l.
-    alv.-pala. |       |       | ɕ \cc |         |       |          |
-               |       |       | ʑ \zc |         |       |          |
-    palatal    | c c   | ɲ \nj | ç \c, |         |       |          |
-               | ɟ \j. |       | ʝ \jc | j j     |       |          | ʎ \yt
-    lab.-pal.  |       |       |       |         |       |          |
-               |       |       |       | ɥ \ht   |       |          |
-    lab.-vela. |       |       | ʍ \wt |         |       |          |
-               |       |       |       | w w     |       |          |
-    velar      | k k   | ŋ \ng | x x   |         |       |          | ʟ \lc
-               | ɡ \gs |       | ɣ \gf | ɰ \ml   |       |          |
-    uvular     | q q   | ɴ \nc | χ \cf |         |       |          |
-               | ɢ \gc |       | ʁ \ri |         | ʀ \rc |          |
-    pharyngeal |       |       | ħ \h- |         |       |          |
-               |       |       | ʕ \9e |         |       |          |
-    epiglottal | ʡ \?- |       | ʜ \hc |         |       |          |
-               |       |       | ʢ \9- |         |       |          |
-    glottal    | ʔ     |       | h h   |         |       |          |
-               |       |       | ɦ \h^ |         |       |          |
+    |            | plos. | nasal | fric. | approx. | trill | tap/flap | l. appr. |
+    |------------+-------+-------+-------+---------+-------+----------+----------|
+    | bilabial   | p p   | m m   | ɸ \ff |         |       |          |          |
+    |            | b b   |       | β \bf | ʋ \vs   | ʙ \bc |          |          |
+    | labiodent. |       | ɱ \mj | f f   |         |       |          |          |
+    |            |       |       | v v   |         |       |          |          |
+    | dental     |       |       | θ \tf |         |       |          |          |
+    |            |       |       | ð \dh |         |       |          |          |
+    | alveolar   | t t   | n n   | s s   |         |       | ɾ \fh    |          |
+    |            | d d   |       | z z   | ɹ \rt   | r r   |          | l l      |
+    | alv. lat.  |       |       | ɬ \l- |         |       | ɺ \rl    |          |
+    |            |       |       | ɮ \lz | l l     |       |          | l l      |
+    | postalv.   |       |       | ʃ \sh |         |       |          |          |
+    |            |       |       | ʒ \zh |         |       |          |          |
+    | retroflex  | ʈ \t. | ɳ \n. | ʂ \s. |         |       | ɽ \f.    |          |
+    |            | ɖ \d. |       | ʐ \z. | ɻ \r.   |       |          | ɭ \l.    |
+    | alv.-pala. |       |       | ɕ \cc |         |       |          |          |
+    |            |       |       | ʑ \zc |         |       |          |          |
+    | palatal    | c c   | ɲ \nj | ç \c, |         |       |          |          |
+    |            | ɟ \j. |       | ʝ \jc | j j     |       |          | ʎ \yt    |
+    | lab.-pal.  |       |       |       |         |       |          |          |
+    |            |       |       |       | ɥ \ht   |       |          |          |
+    | lab.-vela. |       |       | ʍ \wt |         |       |          |          |
+    |            |       |       |       | w w     |       |          |          |
+    | velar      | k k   | ŋ \ng | x x   |         |       |          | ʟ \lc    |
+    |            | ɡ \gs |       | ɣ \gf | ɰ \ml   |       |          |          |
+    | uvular     | q q   | ɴ \nc | χ \cf |         |       |          |          |
+    |            | ɢ \gc |       | ʁ \ri |         | ʀ \rc |          |          |
+    | pharyngeal |       |       | ħ \h- |         |       |          |          |
+    |            |       |       | ʕ \9e |         |       |          |          |
+    | epiglottal | ʡ \?- |       | ʜ \hc |         |       |          |          |
+    |            |       |       | ʢ \9- |         |       |          |          |
+    | glottal    | ʔ     |       | h h   |         |       |          |          |
+    |            |       |       | ɦ \h^ |         |       |          |          |
+    |------------+-------+-------+-------+---------+-------+----------+----------|
+
 
     - Nonpulmonic
 
-              | implosive | click
-    ----------+-----------+------
-    bilabial  | ɓ \b^     | ʘ \O.
-    dental    |           | ǀ \|1
-    alveolar  | ɗ \d^     |
-    alv.-lat. |           | ǁ \|2
-    postalv.  |           | ǂ \|-
-    retrofl.  |           | ! !
-    palatal   | ʄ \j^     |
-    velar     | ɠ \g^     |
-    uvular    | ʛ \G^     |
+    |           | implosive | click |   |
+    |-----------+-----------+-------+---|
+    |           |           |       |   |
+    | bilabial  | ɓ \b^     | ʘ \O. |   |
+    | dental    |           | ǀ \   | 1 |
+    | alveolar  | ɗ \d^     |       |   |
+    | alv.-lat. |           | ǁ \   | 2 |
+    | postalv.  |           | ǂ \   | - |
+    | retrofl.  |           | ! !   |   |
+    | palatal   | ʄ \j^     |       |   |
+    | velar     | ɠ \g^     |       |   |
+    | uvular    | ʛ \G^     |       |   |
 
     For most of the codes, the first letter tells you the most
     similar letter of the English alphabet.  The second letter can
@@ -381,39 +382,41 @@ below.
 
     - Understrikes
 
-    input | example | description
-    ------+---------+--------------------------------
-    \|v   | n̩       | syllabic consonant
-    \0v   | b̥       | voiceless
-    \Tv   | o̞       | lowered
-    \T^   | o̝       | raised
-    \T(   | o̘       | advanced tongue root
-    \T)   | o̙       | retracted tongue root
-    \-v   | e̱       | backed
-    \+v   | o̟       | fronted
-    \:v   | o̤       | breathy voice
-    \~v   | o̰       | creaky voice
-    \Nv   | d̪       | dental (as opposed to alveolar)
-    \Uv   | d̺       | apical
-    \Dv   | d̻       | laminal
-    \nv   | u̯       | nonsyllabic
-    \e3v  | e̹       | slightly rounded
-    \cv   | u̜       | slightly unrounded
-
+    | input | example | description                     |                    |
+    |-------+---------+---------------------------------+--------------------|
+    | \     | v       | n̩                               | syllabic consonant |
+    | \0v   | b̥       | voiceless                       |                    |
+    | \Tv   | o̞       | lowered                         |                    |
+    | \T^   | o̝       | raised                          |                    |
+    | \T(   | o̘       | advanced tongue root            |                    |
+    | \T)   | o̙       | retracted tongue root           |                    |
+    | \-v   | e̱       | backed                          |                    |
+    | \+v   | o̟       | fronted                         |                    |
+    | \:v   | o̤       | breathy voice                   |                    |
+    | \~v   | o̰       | creaky voice                    |                    |
+    | \Nv   | d̪       | dental (as opposed to alveolar) |                    |
+    | \Uv   | d̺       | apical                          |                    |
+    | \Dv   | d̻       | laminal                         |                    |
+    | \nv   | u̯       | nonsyllabic                     |                    |
+    | \e3v  | e̹       | slightly rounded                |                    |
+    | \cv   | u̜       | slightly unrounded              |                    |
+   
     - Overstrikes
 
-    input | example | description
-    ------+---------+--------------------------------------------
-    \0^   | ɣ̊       | voiceless
-    \’^   |         | high tone
-    \‘^   |         | low tone
-    \-^   |         | mid tone
-    \~^   |         | nasalized
-    \v^   |         | rising tone
-    \^^   |         | falling tone
-    \:^   |         | centralized
-    \N^   |         | short
-    \li   | k͡p      | simultaneous articulation or single segment
+   | input | example | description                                 |
+   |-------+---------+---------------------------------------------|
+   | \0^   | ɣ̊       | voiceless                                   |
+   | \’^   |         | high tone                                   |
+   | \‘^   |         | low tone                                    |
+   | \-^   |         | mid tone                                    |
+   | \~^   |         | nasalized                                   |
+   | \v^   |         | rising tone                                 |
+   | \^^   |         | falling tone                                |
+   | \:^   |         | centralized                                 |
+   | \N^   |         | short                                       |
+   | \li   | k͡p      | simultaneous articulation or single segment |
+   |-------+---------+---------------------------------------------|
+   
 
 ## Japanese
   - japanese-katakana (‘ア’ in mode line)
