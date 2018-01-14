@@ -6,15 +6,9 @@ weight: 1
 ---
 # Research Program
 
-My research program aims to define how physiological and
-sociophonetic properties---dialect, gender, etc.---determine the fine acoustic
-details of speech production. To this purpose, I employ experimental methods and
-methods from signal processing and machine learning. Below, I summarize the main
-trends of my current research: prosody, vowels and consonants, speech pathology,
-language acquisition and diglossia, and writing and speech. I conclude, with
-some ideas for future research.
+Below, I summarize the main trends of my current research.
 
-#### [Deep Learning]({% post_url 2017-06-12-deep-learning %})
+#### [Deep Learning and Natural Language Processing]({% post_url 2017-06-12-deep-learning %})
 #### [Speech Acoustics]({% post_url 2017-06-12-segments %})
 #### [Prosody]({% post_url 2017-06-12-prosody %})
 #### [Speech Pathology]({% post_url 2017-06-12-speechpathology %})
