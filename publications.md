@@ -29,7 +29,33 @@ Fragaki  Georgia,  Georgakopoulos  Athanasios,  <strong>Themistocleous
   href="http://www.cambridgescholars.com/current-trends-in-greek-linguistics-16">|Link|</a>
   <a href="{{ site.url }}/bib/Fragaki-2012aa.bib">|bib|</a>
 
-<strong>ARTICLES</strong>
+<strong>PUBLICATIONS</strong>
+
+<strong>2018</strong>
+
+<strong>Themistocleous  Charalambos</strong> and  Kokkinakis Dimitrios
+(2018). THEMIS-SV: Automatic classification of language disorders from
+speech   signals.   <em>ESOC   2018:   European  Stroke   Organisation
+Conference</em>, Gothenburg.
+
+<strong>Themistocleous  Charalambos</strong>,  Ficek  Bronte,  Webster
+Kimberly, Wendt Haley, Hillis Argye  E., den Ouden Dirk-Bart, Tsapkini
+Kyrana  (2018). A  classification  study of  the  variants of  Primary
+Progressive Aphasia using  Machine Learning.  <em>Clinical Aphasiology
+Conference, CAC 2018</em>, Austin, Texas USA.
+
+den   Ouden   Dirk   B.,   Hutchinson   Angelica,   Tsapkini   Kyrana,
+<strong>Themistocleous  Charalambos</strong>  (2018).   Comparison  of
+Automated Methods  for Vowel  Segmentation and Extraction  of Acoustic
+Variables.   <em>Clinical   Aphasiology  Conference,   CAC  2018</em>,
+Austin, Texas  USA. 
+
+
+Fraser  Kathleen   C.,  Lundholm  Fors  Kristina,   Eckerström  Marie,
+<strong>Themistokleous Charalampos</strong>,  and Kokkinakis Dimitrios
+(2018) Improving the Sensitivity and Specificity of MCI Screening with
+Linguistic Information.  <em>RAPID 2018</em> Tuesday, 8th of May 2018,
+Miyazaki, Japan.
 
 <strong>2017</strong>
 
