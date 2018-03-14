@@ -57,6 +57,10 @@ Fraser  Kathleen   C.,  Lundholm  Fors  Kristina,   Eckerström  Marie,
 Linguistic Information.  <em>RAPID 2018</em> Tuesday, 8th of May 2018,
 Miyazaki, Japan.
 
+ Kokkinakis  Dimitrios, Kristina Lundholm Fors,  Eckerström Marie
+and <strong>Themistocleous, Charalambos</strong>.   (2018).  Kan textforskning
+bidra  till   tidigare  och   säkrare  demensdiagnostik?    Forum  för
+textforskning (FoT) 13.  Lund, Sweden (in Swedish)
 <strong>2017</strong>
 
 <strong>Themistocleous Charalambos  </strong>(2017).  Effects  of two
