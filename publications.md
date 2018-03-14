@@ -53,7 +53,7 @@ Austin, Texas  USA.
 
 Fraser  Kathleen   C.,  Lundholm  Fors  Kristina,   Eckerström  Marie,
 <strong>Themistokleous Charalampos</strong>,  and Kokkinakis Dimitrios
-(2018) Improving the Sensitivity and Specificity of MCI Screening with
+(2018). Improving the Sensitivity and Specificity of MCI Screening with
 Linguistic Information.  <em>RAPID 2018</em> Tuesday, 8th of May 2018,
 Miyazaki, Japan.
 
