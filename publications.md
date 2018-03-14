@@ -61,6 +61,7 @@ Miyazaki, Japan.
 and <strong>Themistocleous, Charalambos</strong>.   (2018).  Kan textforskning
 bidra  till   tidigare  och   säkrare  demensdiagnostik?    Forum  för
 textforskning (FoT) 13.  Lund, Sweden (in Swedish)
+
 <strong>2017</strong>
 
 <strong>Themistocleous Charalambos  </strong>(2017).  Effects  of two
