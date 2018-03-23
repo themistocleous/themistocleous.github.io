@@ -14,13 +14,11 @@ weight: 2
 
 <strong>BOOKS</strong>
 
-<strong>Themistocleous Charalambos </strong> (2015).  <em>Research Design
-and  Statistics in  Linguistics.  Using  R (In  Greek)</em>.  Athens:  Ion.
-ISBN:               978-960-508-187-              4.                <a
+<strong>Themistocleous  Charalambos  </strong>  (2015).   <em>Research
+Design  and  Statistics  in  Linguistics.  Using  R  (In  Greek)</em>.
+Athens:      Ion.        ISBN:      978-960-508-187-       4.       <a
 href="http://www.iwn.gr/product.asp?catid=17589">|Link|</a>         <a
-href="http://charalambosthemistocleous.com/statistics/">|materials|</a>
-<a                          href="{{                          site.url
-}}/bib/Themistocleous-2015aa.bib">|bib|</a>
+href="{{ site.url }}/bib/Themistocleous-2015aa.bib">|bib|</a>
 
 Fragaki  Georgia,  Georgakopoulos  Athanasios,  <strong>Themistocleous
   Charalambos  </strong> (Eds)  (2012).  <em>Current  Trends in  Greek
