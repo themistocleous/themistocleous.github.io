@@ -18,7 +18,7 @@ weight: 2
 and  Statistics in  Linguistics.  Using  R (In  Greek)</em>.  Athens:  Ion.
 ISBN:               978-960-508-187-              4.                <a
 href="http://www.iwn.gr/product.asp?catid=17589">|Link|</a>         <a
-href="https://charalambosthemistocleous.com/statistics/">|materials|</a>
+href="http://charalambosthemistocleous.com/statistics/">|materials|</a>
 <a                          href="{{                          site.url
 }}/bib/Themistocleous-2015aa.bib">|bib|</a>
 
