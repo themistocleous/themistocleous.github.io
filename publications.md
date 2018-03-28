@@ -48,12 +48,17 @@ Automated Methods  for Vowel  Segmentation and Extraction  of Acoustic
 Variables.   <em>Clinical   Aphasiology  Conference,   CAC  2018</em>,
 Austin, Texas  USA. 
 
-
 Fraser  Kathleen   C.,  Lundholm  Fors  Kristina,   Eckerström  Marie,
 <strong>Themistokleous Charalampos</strong>,  and Kokkinakis Dimitrios
 (2018). Improving the Sensitivity and Specificity of MCI Screening with
 Linguistic Information.  <em>RAPID 2018</em> Tuesday, 8th of May 2018,
 Miyazaki, Japan.
+
+Lundholm  Fors Kristina,  Fraser  Kathleen C.,  <strong>Themistocleous
+Charalambos</strong>,  and  Kokkinakis   Dimitrios  (2018).   Prosodic
+Features As  Potential Markers of Linguistic  and Cognitive Deteriora-
+tion  in  Mild  Cognitive  Impairment.   The  Alzheimer’s  Association
+International Conference 2018. Chicago, USA.
 
  Kokkinakis  Dimitrios, Kristina Lundholm Fors,  Eckerström Marie
 and <strong>Themistocleous, Charalambos</strong>.   (2018).  Kan textforskning
