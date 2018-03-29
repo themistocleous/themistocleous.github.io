@@ -22,7 +22,7 @@ href="{{ site.url }}/bib/Themistocleous-2015aa.bib">|bib|</a>
 
 Fragaki  Georgia,  Georgakopoulos  Athanasios,  <strong>Themistocleous
   Charalambos  </strong> (Eds)  (2012).  <em>Current  Trends in  Greek
-  Linguistics.   </em>Newcastle   upon    Tyne:   Cambridge   Scholars
+  Linguistics.    </em>Newcastle   upon   Tyne:   Cambridge   Scholars
   Publishing.                                                       <a
   href="http://www.cambridgescholars.com/current-trends-in-greek-linguistics-16">|Link|</a>
   <a href="{{ site.url }}/bib/Fragaki-2012aa.bib">|bib|</a>
@@ -46,13 +46,13 @@ den   Ouden   Dirk   B.,   Hutchinson   Angelica,   Tsapkini   Kyrana,
 <strong>Themistocleous  Charalambos</strong>  (2018).   Comparison  of
 Automated Methods  for Vowel  Segmentation and Extraction  of Acoustic
 Variables.   <em>Clinical   Aphasiology  Conference,   CAC  2018</em>,
-Austin, Texas  USA. 
+Austin, Texas USA.
 
 Fraser  Kathleen   C.,  Lundholm  Fors  Kristina,   Eckerström  Marie,
 <strong>Themistokleous Charalampos</strong>,  and Kokkinakis Dimitrios
-(2018). Improving the Sensitivity and Specificity of MCI Screening with
-Linguistic Information.  <em>RAPID 2018</em> Tuesday, 8th of May 2018,
-Miyazaki, Japan.
+(2018).  Improving  the Sensitivity  and Specificity of  MCI Screening
+with Linguistic Information.  <em>RAPID  2018</em> Tuesday, 8th of May
+2018, Miyazaki, Japan.
 
 Lundholm  Fors Kristina,  Fraser  Kathleen C.,  <strong>Themistocleous
 Charalambos</strong>,  and  Kokkinakis   Dimitrios  (2018).   Prosodic
@@ -60,10 +60,10 @@ Features As  Potential Markers of Linguistic  and Cognitive Deteriora-
 tion  in  Mild  Cognitive  Impairment.   The  Alzheimer’s  Association
 International Conference 2018. Chicago, USA.
 
- Kokkinakis  Dimitrios, Kristina Lundholm Fors,  Eckerström Marie
-and <strong>Themistocleous, Charalambos</strong>.   (2018).  Kan textforskning
-bidra  till   tidigare  och   säkrare  demensdiagnostik?    Forum  för
-textforskning (FoT) 13.  Lund, Sweden (in Swedish)
+ Kokkinakis Dimitrios,  Kristina Lundholm  Fors, Eckerström  Marie and
+<strong>Themistocleous,     Charalambos</strong>.     (2018).      Kan
+textforskning bidra till tidigare och säkrare demensdiagnostik?  Forum
+för textforskning (FoT) 13.  Lund, Sweden (in Swedish)
 
 <strong>2017</strong>
 
