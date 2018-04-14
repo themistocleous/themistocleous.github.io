@@ -413,14 +413,14 @@ Syllable  Duration in  Cypriot  Greek.  <em>ExLing 2008</em>.  Athens,
 Greece.                 241                 –                 244. |<a
 href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.398.8908"
 target="_blank"                                          rel="noopener
-noreferrer"><em>Link</em></a>|</span></p>
+noreferrer"><em>Link</em></a>|
 
 <strong>2007</strong> 
 
 Botinis,  Antonis   Bakakou  Aikaterini   and  <strong>Themistocleous
 Charalambos   </strong>(2007a).  A   multifactor  Analysis   of  Greek
 Discourse.   <em>16th  International  Congress  of  Phonetic  Sciences
-(ICPhs 2007)</em>, 1341 – 1344.</span></p>
+(ICPhs 2007)</em>, 1341 – 1344.
 
 <strong>2005</strong>
 
@@ -431,13 +431,13 @@ glossas  ton neon:  meleti  vasismeni se  ilektronika somata  keimenon
 </em>(Lexical  and grammatical  aspects  of youth  language: a  corpus
 based study). Praktika Diethnous Synedriou “I glossa se enan kosmo pou
 allazei”,  Didaskaleio   Xenon  Glosson  tou   Panepistimiou  Athinon,
-Filosoﬁki Scholi, 9-11/12/2005.</span></p>
+Filosoﬁki Scholi, 9-11/12/2005.
 
 Botinis,   Antonis,    <strong>Themistocleous   Charalambos</strong>,
 Kostopoulos, Yiannis,  Nikolaenkova, Olga (2005). Syntactic  and tonal
 correlates  of focus  in  Greek and  Russian. <em>Proceedings  Fonetik
 2005,   the   XV</em><em>I</em><em>IIth   </em><em>Swedish   Phonetics
-Conference. </em>Goteborg, Sweden.</span></p>
+Conference. </em>Goteborg, Sweden.
 
 <strong>2004</strong>
 
@@ -445,24 +445,24 @@ Botinis,    Antonis,    Christoﬁ,   Marios,    <strong>Themistocleous
 Charalambos   </strong>and   Kyprianou,  Angeliki   (2004).   Duration
 correlates  of stop  consonants in  Cypriot Greek.  <em>Proceedings of
 Fonetik 2004, the XVIIth Swedish Phonetics Conference</em>. Stockholm,
-Sweden.</span></p>
+Sweden.
 
 <strong>BOOK REVIEWS</strong>
 
 <strong>2015</strong>
 
-<strong>Themistocleous  Charalambos</strong>(2015).   Book  Review of
+<strong>Themistocleous  Charalambos</strong> (2015). Book  Review of
  Caspers,  Johanna,  Chen,  Yiya,  Heeren,  Willemijn,  Pacilly,  Jos,
 Schiller, Niels, & van Santen, Ellen. (2014). <em>Above and beyond the
 segments  : experimental  linguistics  and phonetics.  </em>Amsterdam;
 Philadelphia:  John  Benjamins  Publishing  Company.  <em>LinguistList
-26.5107, 2015</em>.</span></p>
+26.5107, 2015</em>.
 
 <strong>PHD THESIS</strong>
 
 <strong>Themistocleous  Charalambos</strong>  (2011).<i>  </i>Prosody
 and  Information Structure  in  Greek (in  Greek). <i>PhD  Thesis.</i>
-University of Athens Greece.</span></p>
+University of Athens Greece.
 
 
 <strong>2010</strong>
