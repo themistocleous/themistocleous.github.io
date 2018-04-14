@@ -49,7 +49,7 @@ Variables.   <em>Clinical   Aphasiology  Conference,   CAC  2018</em>,
 Austin, Texas USA.
 
 Fraser  Kathleen   C.,  Lundholm  Fors  Kristina,   Eckerström  Marie,
-<strong>Themistokleous Charalampos</strong>,  and Kokkinakis Dimitrios
+<strong>Themistocleous Charalampos</strong>,  and Kokkinakis Dimitrios
 (2018).  Improving  the Sensitivity  and Specificity of  MCI Screening
 with Linguistic Information.  <em>RAPID  2018</em> Tuesday, 8th of May
 2018, Miyazaki, Japan.
@@ -65,6 +65,16 @@ International Conference 2018. Chicago, USA.
 textforskning bidra till tidigare och säkrare demensdiagnostik?  Forum
 för textforskning (FoT) 13.  Lund, Sweden (in Swedish)
 
+Angelopoulou Georgia,  Kiran Swathi, Kasselimis  Dimitrios, Varkanitsa
+Maria,   Meier   Erin  L.,   Pan   Yue   ,  Tsolakopoulos   Dimitrios,
+<strong>Themistocleous   Charalambos</strong>,  Vassilopoulou   Sofia,
+Korompoki Eleni,  Tountopoulou Argyro, Papageorgiou  Georgios, Roussos
+Petros,  Goutsos  Dionysis,  Evdokimidis Ioannis,  Potagas  Constantin
+(2018). Unsuccessful  word retrieval in stroke  patients with aphasia:
+cross-linguistic  evidence  from  connected speech.   European  Stroke
+Conference - ESC, 2018. Athens, Greece.
+
+
 <strong>2017</strong>
 
 <strong>Themistocleous Charalambos  </strong>(2017).  Effects  of two
@@ -75,10 +85,9 @@ för textforskning (FoT) 13.  Lund, Sweden (in Swedish)
   href="https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01945/full">|Link|</a>
   <a href="{{ site.url }}/bib/Themistocleous-2017ac.bib">|bib|</a>
 
-<strong>Themistocleous  Charalambos   </strong>  (2017).  Classifying
-  linguistic   and   dialectal   information   from   vowel   acoustic
-  parameters.    <em>Speech     Communication</em>,    94,     13    –
-  22. 10.1016/j.specom.2017.05.003.                                 <a
+<strong>Themistocleous   Charalambos    </strong>   (2017).    Dialect
+  classification   using   vowel  acoustic   parameters.    <em>Speech
+  Communication</em>, 94,  13 –  22. 10.1016/j.specom.2017.05.003.  <a
   href="http://www.sciencedirect.com/science/article/pii/S0167639316303132">|Link|</a>
   <a href="{{ site.url }}/bib/Themistocleous-2017ab.bib">|bib|</a>
 
@@ -111,7 +120,6 @@ Bernardy,   Jean-Philippe,   &   <strong>Themistocleous   Charalambos
 Neural  Networks. <em>Experimental  Linguistics  2017</em>.  17-20  <a
 href="https://arxiv.org/abs/1706.03952">|Link|</a>     <a     href="{{
 site.url }}/bib/Bernardi-2017aa.bib">|bib|</a>
-
 
 Georgia   Angelopoulou,   Dimitrios  Kasselimis,   Maria   Varkanitsa,
 Panagiotis   Fotiadis,  <strong>Charalambos   Themistocleous</strong>,
