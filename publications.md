@@ -74,7 +74,14 @@ Petros,  Goutsos  Dionysis,  Evdokimidis Ioannis,  Potagas  Constantin
 cross-linguistic  evidence  from  connected speech.   European  Stroke
 Conference - ESC, 2018. Athens, Greece.
 
-
+Angelopoulou Georgia,   Swathi Kiran,  Kasselimis Dimitrios,
+Varkanitsa  Maria,  Erin  Meier,  Yue  Pan,  Tsolakopoulos  Dimitrios,
+<strong>Themistocleous  Charalambos</strong>,  Vassilopoulou Sofia,  Korompoki
+Eleni, Tountopoulou  Argyro, Papageorgiou Georgios,  Goutsos Dionysis,
+Evdokimidis Ioannis,  Potagas Constantin  (2018).  Pause  patterns and
+speech  errors  in  stroke  patients  with  aphasia:  cross-linguistic
+evidence   from   narrative    speech.    \emph{Clinical   Aphasiology
+Conference, CAC 2018}, Austin, Texas USA.
 <strong>2017</strong>
 
 <strong>Themistocleous Charalambos  </strong>(2017).  Effects  of two
