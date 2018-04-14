@@ -82,6 +82,8 @@ Evdokimidis Ioannis,  Potagas Constantin  (2018).  Pause  patterns and
 speech  errors  in  stroke  patients  with  aphasia:  cross-linguistic
 evidence   from   narrative    speech.    \emph{Clinical   Aphasiology
 Conference, CAC 2018}, Austin, Texas USA.
+
+
 <strong>2017</strong>
 
 <strong>Themistocleous Charalambos  </strong>(2017).  Effects  of two
