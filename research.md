@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
-weight: 1
+order: 3
 ---
 I focus  on the acoustic  analysis of speech (vowels,  consonants, and
 prosody),  the sociophonetic  aspects  of speech  production, and  its

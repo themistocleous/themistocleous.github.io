@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
-weight: 2
+order: 2
 ---
 <p style="text-align:right;"><span >  <a  href="{{ site.url }}/bib/themistocleous_all.bib">References [bib]</a></span></p>
 
@@ -415,7 +415,7 @@ href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.398.8908"
 target="_blank"                                          rel="noopener
 noreferrer"><em>Link</em></a>|
 
-<strong>2007</strong> 
+<strong>2007</strong>
 
 Botinis,  Antonis   Bakakou  Aikaterini   and  <strong>Themistocleous
 Charalambos   </strong>(2007a).  A   multifactor  Analysis   of  Greek
@@ -467,7 +467,7 @@ University of Athens Greece.
 
 <strong>2010</strong>
 
-<b>MANUSCRIPTS</b> 
+<b>MANUSCRIPTS</b>
 
 <strong>Themistocleous  Charalambos</strong>  (2011). Introduction  to
 Phonetics  and  Phonology  [in  Greek]. Nicosia:  Open  University  of

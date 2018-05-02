@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 permalink: /teaching/
-weight: 4
+order: 5
 ---
 # Useful Materials
 - ### [Introduction to R]({{site.url}}/assets/RIntroCover.pdf)
