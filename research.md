@@ -4,13 +4,19 @@ title: Research
 permalink: /research/
 order: 3
 ---
-I focus  on the acoustic  analysis of speech (vowels,  consonants, and
-prosody),  the sociophonetic  aspects  of speech  production, and  its
-clinical  applications.   I  also  focus on  the  development  of  new
-methods,  which can  enable  the analysis  and  the classification  of
-speech productions  using machine  learning, such  as state-of-the-art
-neural network models  for the classification of  dialects from vowels
-and consonants, and for the identification of speakers developing mild
-cognitive impairment and Alzheimer's  Disease.  Also, I have published
-work  related to  theoretical  Phonology, especially  with respect  to
-prosodic structure and its interface with information structure.
+
+<h1>Current Research Projects</h1>
+<ol>
+<li> <b>Apr 2018 – March 2019:</b> Department of Neurology, School of Medicine, Johns Hopkins Univer- sity, USA. Postdoctoral Research Fellow. In this project I collaborate with Dr Kyrana Tsapkini and I focus on the analysis of speech data from behavioral tests and interventions in participants with PPA and Alzheimer’s disease.</li>
+
+<li> <b>Dec. 2015 – Jan. 2019:</b> Department of Swedish, University of Gothenburg, Sweden. Researcher. My research aims to identify important linguistic, mainly phonetic and phonological markers in individ- uals with Mild Cognitive Impairment and Alzheimer’s disease, which can be used as a complementary for a timely diagnosis of these conditions (PI Dr Dimitrios Kokkinakis) (earlier I was a post-doctoral researcher at Centre for Linguistic Theory and Studies in Probability (CLASP, PI Prof. Emer. Shalom Lappin): the aim of this research is the multi-factorial study of speech and texts using machine learning applications and natural language processing.</li>
+
+<li><b>Sept. 2015 – Dec. 2015:</b> Research Fellow. The Seeger Center for Hellenic Studies, Princeton University. Princeton University.</li>
+</ol>
+
+
+# Online Manuscripts
+- ### [Introduction to R]({{site.url}}/assets/RIntroCover.pdf)
+This is a short introduction to R programming language for linguists who want to grasp an idea of how R works.
+- ### [Introduction to Python]({% post_url 2017-06-12-python %})
+This is a short introduction to Python programming language for linguists who want to grasp an idea of how Python works.

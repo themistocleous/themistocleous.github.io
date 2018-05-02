@@ -4,13 +4,6 @@ title: Teaching
 permalink: /teaching/
 order: 5
 ---
-# Useful Materials
-- ### [Introduction to R]({{site.url}}/assets/RIntroCover.pdf)
-This is a short introduction to R programming language for linguists who want to grasp an idea of how R works.
-- ### [Introduction to Python]({% post_url 2017-06-12-python %})
-This is a short introduction to Python programming language for linguists who want to grasp an idea of how Python works.
-
-
 ## Courses
 **Statistical Methods for NLP.** Spring 2017. Master’s Programme in Language Technology. *University of Gothenburg*. [Access Course Website]({% post_url 2017-06-31-MLT %})
 
