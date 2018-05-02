@@ -2,7 +2,7 @@
 layout: page
 title: Applications
 permalink: /software/
-weight: 2
+order: 4
 ---
 # Introduction
 
