@@ -4,10 +4,6 @@ title: Applications
 permalink: /software/
 order: 4
 ---
-# Introduction
-
-Please also visit my [GitHub](https://github.com/themistocleous) repositories.
-
 # PhoneticsIPA
 The Phonetics (IPAGreek) is a computational implementation (in a windows text editor) of Standard Modern Greek and Cypriot Greek "phonological grammar". The application enables users to transcribe text written in Greek orthography into the International Phonetics Alphabet (IPA).
 
@@ -73,3 +69,6 @@ defaults write com.apple.finder QLEnableTextSelection -bool true; killall Finder
 # Praat Scripts
 
 You may find several Praat scripts in my [GitHub repository](https://github.com/themistocleous/praat_scripts). These are scripts for opening, saving, and manipulating sounds and Praat objects. I will be updating this repository as soon as I have something new to add.
+
+
+Please also visit my [GitHub](https://github.com/themistocleous) repositories.
