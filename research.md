@@ -13,10 +13,3 @@ order: 3
 
 <li><b>Sept. 2015 – Dec. 2015:</b> Research Fellow. The Seeger Center for Hellenic Studies, Princeton University. Princeton University.</li>
 </ol>
-
-
-# Online Manuscripts
-- ### [Introduction to R]({{site.url}}/assets/RIntroCover.pdf)
-This is a short introduction to R programming language for linguists who want to grasp an idea of how R works.
-- ### [Introduction to Python]({% post_url 2017-06-12-python %})
-This is a short introduction to Python programming language for linguists who want to grasp an idea of how Python works.
