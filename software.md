@@ -49,19 +49,6 @@ Taggers allow the automatic labelling of corpora with Part of Speech labels.:
 # Lexicography Software
 These include Graphical User Interphases (GUIs) for creating and viewing electronic dictionary, reverse algorithms for creating reverse dictionaries. A dictionary environment currently it includes a dictionary I created with Ancient Greek irregular verbs. The taggers and the Lexicography software are currently not freely available from the website.
 
-# Praat Quick Look Plugin
-
-<img src="/img/img_papers/quick_look.png" alt="quick_look" style="width: 400px;"/>
-
-Praat Quick Look Plugin for viewing Praat script files and TextGrids in OS X  The Praat Quick Look Plugin allows you to view Praat files such as Praat Script Files and TextGrids.
-
-- i. Download the [Quick Look Plugin](https://app.box.com/s/lm332l44ouv6rkc5gmeh) (it is a zip file so unzip it first).
-- ii. Copy it to /Library/QuickLook/
-- iii. Open Terminal and run the command qlmanage -r If you want to copy text from quick look you may run in Terminal the command:
-```
-defaults write com.apple.finder QLEnableTextSelection -bool true; killall Finder S
-```
-
 # Webpages
 
 *[Cypriot Greek Dictionary](http://lexcy.library.ucy.ac.cy)*. The online dictionary environment has been developed as part of the ‘Syntychies’ research program. ‘Syntychies’ online environment is a pioneering web-service for Greek dialectal lexicography and it is the first of its kind for Cypriot Greek.  The website is written in C#.
