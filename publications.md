@@ -22,7 +22,7 @@ order: 2
 
 <p></p>
 <h1>Journal Articles</h1>
-<li>Valantis Fyndanis & 	<strong>Charalambos	</strong>	<strong> Themistocleous	</strong> (2018) Are there prototypical associations between time frames and aspectual values? Evidence from Greek aphasia and healthy ageing.  <em>Clinical Linguistics & Phonetics, </em> DOI: 10.1080/02699206.2018.1480657 </li>
+<li>Valantis Fyndanis & 	<strong>Charalambos	</strong>	<strong> Themistocleous	</strong> (2018) Are there prototypical associations between time frames and aspectual values? Evidence from Greek aphasia and healthy ageing.  <em>Clinical Linguistics & Phonetics. </em> DOI: 10.1080/02699206.2018.1480657 </li>
 <li>	<strong>Themistocleous</strong>, <strong>Charalambos</strong> (2017). Effects of two linguistically proximal varieties on the spectral and coarticulatory properties of fricatives: Evidence from Athenian Greek and Cypriot Greek. <em>Frontiers in Psychology</em>. DOI: 10.3389/fpsyg.2017.01945 </li>
 <li>	<strong>Themistocleous</strong>, <strong>Charalambos</strong> (2017). Classifying linguistic and dialectal information from vowel acoustic parameters. <em>Speech Communication</em> 94, 13 – 22. DOI: 10.1016/j.specom.2017.05.003.  </li>
 <li>	Grohmann Kleanthes, Papadopoulou Elena and <strong>Themistocleous</strong> <strong>Charalambos</strong> (2017). Acquiring Clitic Placement in Bilectal Settings: Interactions between Social Factors. <em>Frontiers in Communication</em> 2:5. doi: 10.3389/fcomm. 2017.00005.  </li>
