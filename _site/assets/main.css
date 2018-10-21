@@ -221,6 +221,10 @@ a:hover { color: #111; text-decoration: underline; }
 
 .social-media-list a:hover .username { text-decoration: underline; }
 
+td a { display: inline-block; }
+
+td { padding: 0 8px 0 8px; }
+
 /** Blockquotes */
 blockquote { color: #828282; border-left: 4px solid #e8e8e8; padding-left: 15px; font-size: 18px; letter-spacing: -1px; font-style: italic; }
 
