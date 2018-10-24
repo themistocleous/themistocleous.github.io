@@ -5,11 +5,11 @@ permalink: /research/
 order: 3
 ---
 
-<h1>Current Research Projects</h1>
+<h1>Research Objectives</h1>
 <ol>
-<li> <b>Apr 2018 – March 2019:</b> Department of Neurology, School of Medicine, Johns Hopkins University, USA. Postdoctoral Research Fellow. In this project, I focus on the analysis of speech data from behavioral tests and interventions in participants with PPA and Alzheimer’s disease.</li>
+<li>To determine how invariant and variant acoustic properties encode sociolinguistic categories: e.g., vowels, consonants, prosody, and language varieties.</li>
 
-<li> <b>Dec. 2015 – Jan. 2019:</b> Department of Swedish, University of Gothenburg, Sweden. Researcher. My research aims to identify important linguistic, mainly phonetic and phonological markers in individuals with Mild Cognitive Impairment and Alzheimer’s disease, which can be used as a complementary for a timely diagnosis of these conditions. I was a post-doctoral researcher at Centre for Linguistic Theory and Studies in Probability (CLASP, PI Prof. Emer. Shalom Lappin): the aim of this research is the multi-factorial study of speech and texts using machine learning applications and natural language processing.</li>
+<li>To explain the effects of neurodegenerative conditions, such as Primary Progressive Aphasia, Mild Cognitive Impairment and Alzheimer’s disease, on speech and language.</li>
 
-<li><b>Sept. 2015 – Dec. 2015:</b> Research Fellow. The Seeger Center for Hellenic Studies, Princeton University. Princeton University.</li>
+<li>To develop a multi-technique methodology that combines state-of-the-art neural networks, signal processing, and computational linguistics to model speech production and perception in neurodegenerative conditions.</li>
 </ol>
