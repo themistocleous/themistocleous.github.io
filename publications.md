@@ -33,6 +33,11 @@ order: 2
         <td><h1>Journal Articles</h1></td>
     </tr>
     <tr>
+        <td><img src="/img/img_papers/interspeech.png" border="1" alt="Interspeech"></td>
+        <td><strong>Themistocleous Charalambos</strong>, Eckerström Marie,and Dimitrios Kokkinakis (2018). Identification of Mild Cognitive Impairment from Speech in Swedish using Deep Sequential Neural Networks. <em>Frontiers in Neurology</em> <strong>(in print)</strong>.</td>
+    </tr>
+    <tr>
+    <tr>
         <td><a href="/assets/papers/clp.pdf"><img src="/img/img_papers/clp.jpg" border="1" alt="Themistocleous"></a></td>
         <td>Valantis Fyndanis and	<strong>Charalambos	</strong>	<strong> Themistocleous	</strong> (2018) Are there prototypical associations between time frames and aspectual values? Evidence from Greek aphasia and healthy ageing.  <em>Clinical Linguistics & Phonetics. </em> DOI: 10.1080/02699206.2018.1480657</td>
     </tr>
