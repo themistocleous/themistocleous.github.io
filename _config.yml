@@ -25,9 +25,11 @@ github_username:  themistocleous
 # Build settings
 markdown: kramdown
 theme: minima
-gems:
+plugins:
   - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
 github: [metadata]
+sass:
+    sass_dir: ./_scss
