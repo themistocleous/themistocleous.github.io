@@ -167,3 +167,6 @@ This is a short introduction to R programming language for linguists who want to
         <td><strong>Themistocleous Charalambos</strong>. (2016). Introduction to Python. Unpublished manuscript. Gothenburg.</td>
     </tr>
     <tr>
+        <td><a href="{{ site.url }}/assets/papers/Phonetics_IntroGR.pdf"><img src="/img/img_papers/phonGR.png" border="1" alt="python"></a></td>
+        <td><strong>Themistocleous Charalambos</strong>. (2011). Introduction to Phonetics and Phonology (in Greek). Unpublished manuscript. Nicosia.</td>
+    </tr>
