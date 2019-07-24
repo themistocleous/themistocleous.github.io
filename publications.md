@@ -51,7 +51,7 @@ order: 2
     </tr>
     <tr>
         <td><a href="/assets/papers/phonetica.pdf"><img src="/img/img_papers/gradience.png" border="1" alt="Themistocleous"></a></td>
-        <td><strong>Themistocleous</strong>, <strong>Charalambos</strong> (2017). Modern Greek vowels and the nature of acoustic gradience. <em>Phonetica</em> 74, 157–172. PMID: 28268213, DOI: 10.1159/000450554.<p><a href="https://www.karger.com/Article/Abstract/450554">URL</a></p></td>
+        <td><strong>Themistocleous</strong>, <strong>Charalambos</strong> (2017). The Nature of Phonetic Gradience across a Dialect Continuum: Evidence from Modern Greek Vowels. <em>Phonetica</em> 74, 157–172. PMID: 28268213, DOI: 10.1159/000450554.<p><a href="https://www.karger.com/Article/Abstract/450554">URL</a></p></td>
     </tr>
     <tr>
         <td><a href="/assets/papers/fcomm.pdf"><img src="/img/img_papers/grohmann.png" border="1" alt="Themistocleous"></a></td>
