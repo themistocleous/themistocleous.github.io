@@ -34,3 +34,9 @@ exclude:
 github: [metadata]
 sass:
     sass_dir: ./_scss
+
+docs_list_title: ACME Documentation
+docs:
+
+- title: CG
+  url: ./assets/CV_CHARALAMBOS_THEMISTOCLEOUS.pdf

@@ -4,6 +4,7 @@ title: Teaching
 permalink: /teaching/
 order: 5
 ---
+# Teaching
 * **FLOV, University of Gothenburg, Sweden.**
 
 **2017**. Statistical Methods for Natural Language Processing (NLP). Master’s Programme in Language Technology; teaching and course organizing. <a href="/assets/pages/MLT.html">Website</a>
