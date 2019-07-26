@@ -7,7 +7,10 @@ order: 5
 # Teaching
 * **FLOV, University of Gothenburg, Sweden.**
 
-    * **2017** Statistical Methods for Natural Language Processing (NLP). Master’s Programme in Language Technology; teaching and course organizing. <a href="/assets/pages/MLT.html">Website</a>
+    * **2017** Statistical Methods for Natural Language Processing (NLP). Master’s Programme in Language Technology; teaching and course organizing. 
+    
+        * <a href="/assets/pages/MLT.html">Link to Course's Website</a>
+        * <a href="https://github.com/themistocleous/StatisticalMethodsNLP">Link to Course Materials on GitHub</a>
 
     * **2016** Introduction to Formal Linguistics: Phonetics, Phonology, and Morphology. Master’s Programme in Language Technology.
 
