@@ -4,6 +4,7 @@ title: Applications
 permalink: /software/
 order: 4
 ---
+
 # PhoneticsIPA
 The Phonetics (IPAGreek) is a computational implementation (in a windows text editor) of Standard Modern Greek and Cypriot Greek "phonological grammar". The application enables users to transcribe text written in Greek orthography into the International Phonetics Alphabet (IPA).
 
@@ -25,6 +26,18 @@ Themistocleous Charalambos (2017).  *IPAGreek: Computational Greek Phonology*. [
 
 Themistocleous, Charalambos (2011). Computational Greek Phonology: IPAGreek. *The 10th International Conference of Greek Linguistics*. Komotini, Greece.
 
+---
+
+
+# Praat Scripts
+
+You may find several Praat scripts in my [GitHub repository](https://github.com/themistocleous/praat_scripts). These are scripts for opening, saving, and manipulating sounds and Praat objects. I will be updating this repository as soon as I have something new to add.
+
+
+Please also visit my [GitHub](https://github.com/themistocleous) repositories.
+
+---
+
 # Keyboard layouts for Windows and macOS
 ![CG2](https://github.com/themistocleous/Keyboard_Layouts/raw/master/CG2.jpg)
 
@@ -39,23 +52,3 @@ You may find more updated information about Keyboard layouts [here](https://gith
 - **IPA Keyboard Layout (Windows):** A keyboard layout that facilitates writing texts with IPA symbols (mainly for Greek). [Click here to download](https://github.com/themistocleous/Keyboard_Layouts/raw/master/KeyboardLayout_IPAGreek.zip).
 
 - **Keyboard for paleographers (Windows):** This keyboard layout includes special symbols used in paleography. [Click here to download](https://github.com/themistocleous/Keyboard_Layouts/raw/master/KeyboardLayout_Paleographic.zip).
-
-# Part of Speech Taggers
-Taggers allow the automatic labelling of corpora with Part of Speech labels.:
-- Ancient Greek Tagger for tagging (adding POS labels) on Ancient Greek Texts and creating Ancient Greek corpora.
-- Modern Greek Tagger for tagging a text in Standard Modern Greek.
-- English Tagger that includes a morphological dictionary and a disambiguation algorithm for discriminating nouns and verbs.
-
-# Lexicography Software
-These include Graphical User Interphases (GUIs) for creating and viewing electronic dictionary, reverse algorithms for creating reverse dictionaries. A dictionary environment currently it includes a dictionary I created with Ancient Greek irregular verbs. The taggers and the Lexicography software are currently not freely available from the website.
-
-# Webpages
-
-*[Cypriot Greek Dictionary](http://lexcy.library.ucy.ac.cy)*. The online dictionary environment has been developed as part of the ‘Syntychies’ research program. ‘Syntychies’ online environment is a pioneering web-service for Greek dialectal lexicography and it is the first of its kind for Cypriot Greek.  The website is written in C#.
-
-# Praat Scripts
-
-You may find several Praat scripts in my [GitHub repository](https://github.com/themistocleous/praat_scripts). These are scripts for opening, saving, and manipulating sounds and Praat objects. I will be updating this repository as soon as I have something new to add.
-
-
-Please also visit my [GitHub](https://github.com/themistocleous) repositories.
