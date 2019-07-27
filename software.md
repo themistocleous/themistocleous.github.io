@@ -27,8 +27,10 @@ Themistocleous Charalambos (2017).  *IPAGreek: Computational Greek Phonology*. [
 Themistocleous, Charalambos (2011). Computational Greek Phonology: IPAGreek. *The 10th International Conference of Greek Linguistics*. Komotini, Greece.
 
 ---
+# Project Management - GTD
+[Create Project Template](https://github.com/themistocleous/create_project_template): python code that generates a folder structure for organizing your academic projects (you can modified it according to your needs).
 
-
+---
 # Praat Scripts
 
 You may find several Praat scripts in my [GitHub repository](https://github.com/themistocleous/praat_scripts). These are scripts for opening, saving, and manipulating sounds and Praat objects. I will be updating this repository as soon as I have something new to add.
