@@ -27,6 +27,7 @@ Themistocleous Charalambos (2017).  *IPAGreek: Computational Greek Phonology*. [
 Themistocleous, Charalambos (2011). Computational Greek Phonology: IPAGreek. *The 10th International Conference of Greek Linguistics*. Komotini, Greece.
 
 ---
+
 # Project Management - GTD
 [Create Project Template](https://github.com/themistocleous/create_project_template): python code that generates a folder structure for organizing your academic projects (you can modified it according to your needs).
 
