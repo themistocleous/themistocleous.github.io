@@ -25,6 +25,7 @@ order: 5
     * **2014 Undergraduate Studies**
 
         *  Theoretical Phonology: Suprasegmental Phonology
+            * <a href="https://github.com/themistocleous/course_phonetics">Link to Course Materials on GitHub</a>
         * Sociolinguistics.
 
     * **2013 Undergraduate Studies**
