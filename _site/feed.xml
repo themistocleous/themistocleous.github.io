@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-29T19:00:29-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Charalambos (Haris) Themistocleous</title><subtitle>(c) 2019 Charalambos Themistocleous.</subtitle><entry><title type="html">Input methods in Emacs</title><link href="http://localhost:4000/emacs,/writing/2017/12/13/emacs-input.html" rel="alternate" type="text/html" title="Input methods in Emacs" /><published>2017-12-13T07:00:00-05:00</published><updated>2017-12-13T07:00:00-05:00</updated><id>http://localhost:4000/emacs,/writing/2017/12/13/emacs-input</id><content type="html" xml:base="http://localhost:4000/emacs,/writing/2017/12/13/emacs-input.html">&lt;p&gt;To access multilingual support in Emacs, one easy way is  by  typing &lt;strong&gt;C-\&lt;/strong&gt;  and  then
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-29T19:10:56-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Charalambos (Haris) Themistocleous</title><subtitle>(c) 2019 Charalambos Themistocleous.</subtitle><entry><title type="html">Input methods in Emacs</title><link href="http://localhost:4000/emacs,/writing/2017/12/13/emacs-input.html" rel="alternate" type="text/html" title="Input methods in Emacs" /><published>2017-12-13T07:00:00-05:00</published><updated>2017-12-13T07:00:00-05:00</updated><id>http://localhost:4000/emacs,/writing/2017/12/13/emacs-input</id><content type="html" xml:base="http://localhost:4000/emacs,/writing/2017/12/13/emacs-input.html">&lt;p&gt;To access multilingual support in Emacs, one easy way is  by  typing &lt;strong&gt;C-\&lt;/strong&gt;  and  then
 selecting an  input method.  The following functions are also useful:&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;M-x&lt;/strong&gt; : list-input-methods -it provides the list of input methods.&lt;/p&gt;
@@ -1640,4 +1640,1522 @@ Vietnamese telex input method&lt;/li&gt;
 &lt;ul&gt;
   &lt;li&gt;welsh (‘Ŵ’ in mode line)
 Welsh postfix input method&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">To access multilingual support in Emacs, one easy way is by typing C-\ and then selecting an input method. The following functions are also useful:</summary></entry></feed>
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">To access multilingual support in Emacs, one easy way is by typing C-\ and then selecting an input method. The following functions are also useful:</summary></entry><entry><title type="html">Introduction to Python</title><link href="http://localhost:4000/research/project/2017/05/31/python.html" rel="alternate" type="text/html" title="Introduction to Python" /><published>2017-05-31T08:08:38-04:00</published><updated>2017-05-31T08:08:38-04:00</updated><id>http://localhost:4000/research/project/2017/05/31/python</id><content type="html" xml:base="http://localhost:4000/research/project/2017/05/31/python.html">&lt;p&gt;Charalambos Themistocleous&lt;/p&gt;
+
+&lt;h3 id=&quot;contents&quot;&gt;Contents&lt;/h3&gt;
+
+&lt;p&gt;1 &lt;a href=&quot;#introduction-to-python&quot;&gt;Introduction to Python&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2 &lt;a href=&quot;#data-manipulation-with-pandas&quot;&gt;Data Manipulation with Pandas&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2.1 &lt;a href=&quot;#series&quot;&gt;Series&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2.2 &lt;a href=&quot;#dataframe&quot;&gt;DataFrame&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2.3 &lt;a href=&quot;#merging-dataframes&quot;&gt;Merging DataFrames&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2.4 &lt;a href=&quot;#date-and-time&quot;&gt;Date and Time&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2.5 &lt;a href=&quot;#importing-data&quot;&gt;Importing data&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2.6 &lt;a href=&quot;#save-data&quot;&gt;Save Data&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;3 &lt;a href=&quot;#creating-plots&quot;&gt;Creating Plots&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;4 &lt;a href=&quot;#basic-descriptive-statistics-using-pandas&quot;&gt;Basic Descriptive Statistics using Pandas&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;introduction-to-python&quot;&gt;Introduction to Python&lt;/h3&gt;
+
+&lt;p&gt;This chapter provides and introduction to Python.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;div id=&quot;x1-2002x1&quot;&gt;
+
+&lt;/div&gt;
+
+    &lt;p&gt;Python 2.7 (or higher)  (including Python 3)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div id=&quot;x1-2004x2&quot;&gt;
+
+&lt;/div&gt;
+
+    &lt;p&gt;pandas 0.11.1 (or higher) and its dependencies&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div id=&quot;x1-2006x3&quot;&gt;
+
+&lt;/div&gt;
+
+    &lt;p&gt;NumPy 1.6.1 (or higher)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div id=&quot;x1-2008x4&quot;&gt;
+
+&lt;/div&gt;
+
+    &lt;p&gt;matplotlib 1.0.0 (or higher)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div id=&quot;x1-2010x5&quot;&gt;
+
+&lt;/div&gt;
+
+    &lt;p&gt;IPython 0.12 (or higher)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;div id=&quot;x1-2012x6&quot;&gt;
+
+&lt;/div&gt;
+
+    &lt;p&gt;NLTK&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pandas, is a package that provides functionality for analyzing data
+in the form of tables, such as those we have in Excel, LibreOﬃce
+Calc. The most important data structure is the DataFrame which is
+very similar to R dataframes. Pandas also provide functionality for
+reshaping, sorting, manipulating, etc., data.&lt;/li&gt;
+  &lt;li&gt;The second library we will be using is NumPy, which oﬀers the basic
+functionality for conducting mathematics, including statistics,
+linear algebra, and Fourier transformations.&lt;/li&gt;
+  &lt;li&gt;Matplotlib provides functionality for creating plots and graphs.&lt;/li&gt;
+  &lt;li&gt;NLTK is a Natural Language Toolkit implemented in Python.&lt;/li&gt;
+  &lt;li&gt;So, to start an analysis add the following code on your code ﬁle.
+The code imports the libraries and provide a designated name for
+each library. So, we will be calling pandas for instance we will use
+the name pd followed by a period and the name of a function. This
+will become more clear soon.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;**&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:1.0.0.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+import pandas as pd 
+import numpy as np 
+import matplotlib.pyplot as plt 
+import nltk
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&quot;data-manipulation-with-pandas&quot;&gt;Data Manipulation with Pandas&lt;/h3&gt;
+
+&lt;h4 id=&quot;series&quot;&gt;Series&lt;/h4&gt;
+
+&lt;p&gt;A Series is a single vector of data with an index for each element. A
+similar structure in numpy is the array.&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.1.0.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+measurements = pd.Series([328259, 22781, 30857, 4164, 328387]) 
+measurements
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The printed output is the following:&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.1.1.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+Out[1]: 
+0    328259 
+1     22781 
+2     30857 
+3      4164 
+4    328387 
+dtype: int64
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Series consist of [values ]and
+[indexes], we can call them separately in the
+following manner:&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.1.2.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+measurements.values 
+Out[2]: 
+array([328259,  22781,  30857,   4164, 328387])
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;**&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.1.3.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+measurements.index 
+Out[3]: 
+RangeIndex(start=0, stop=5, step=1)
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This says that we have numbers from 0 to 5. The following selects the
+number in position [3]:&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.1.4.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+measurements[3] 
+Out[4]: 
+4164
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;We can select values based on logical operations as well&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.1.5.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+measurements[measurements &amp;lt; 20000] 
+Out[5]: 
+Ecuador    4164 
+dtype: int64
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;or&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.1.6.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+measurements[measurements == 22781] 
+Out[6]: 
+Argentina    22781 
+dtype: int64
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;These numbers are not very informative so we want to provide labels. So,
+if we know that these numbers represent the number of books published in
+2010 we might want to provide the name of the country as an index.&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.1.7.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+measurements = pd.Series([328259, 22781, 30857, 4164, 328387], 
+    index=[’USA’, ’Argentina’, ’Sweden’, ’Ecuador’, ’China’]) 
+ 
+measurements 
+Out[7]: 
+USA          328259 
+Argentina     22781 
+Sweden        30857 
+Ecuador        4164 
+China        328387 
+dtype: int64
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;We can use these names to select the value.&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.1.8.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+measurements[’USA’] 
+328259
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Also, we can provide both the array of values and the index the own
+labels:&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.1.9.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+measurements.name = ’Book␣Counts’ 
+measurements.index.name = ’Countries’ 
+measurements 
+Out[71]: 
+Countries 
+USA          328259 
+Argentina     22781 
+Sweden        30857 
+Ecuador        4164 
+China        328387 
+Name: Book Counts, dtype: int64
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;We might be interested to select only the countries whose name ends in
+letter ’a’:&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.1.10.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+measurements[[name.endswith(’a’) or name.endswith(’A’) for name in measurements.index]] 
+USA          328259 
+Argentina     22781 
+China        328387 
+dtype: int64
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The following provides information about the position of these numbers:&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.1.11.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+[name.endswith(’a’) or name.endswith(’A’) for name in measurements.index] 
+ 
+[True, True, False, False, True]
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;NumPy’s math functions and statistics can be applied to Series, e.g.,&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.1.12.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+np.mean(measurements) 
+142889.6
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Series are very common objects to standard dictionaries (dict) in
+Python:&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.1.13.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+Bookpublications = ({’Italy’:59743, ’Argentina’:22781, ’Poland’: 31500, ’Vietnam’: 24589, ’Indonesia’: 24000}) 
+ 
+pd.Series(Bookpublications) 
+Argentina    22781 
+Indonesia    24000 
+Italy        59743 
+Poland       31500 
+Vietnam      24589 
+dtype: int64
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&quot;dataframe&quot;&gt;DataFrame&lt;/h4&gt;
+
+&lt;p&gt;**&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.2.0.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+data = pd.DataFrame( 
+({’counts’:[ 328259, 22781, 30857, 4164, 328387, 59743,  31500, 24589], 
+ ’year’:[2010, 2010, 2010, 2010, 2010, 2005, 2010, 2009], 
+’country’:[’USA’,  ’Argentina’, ’Sweden’, ’Ecuador’, ’China’, ’Italy’, 
+         ’Poland’, ’Vietnam’]})) 
+data
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The output now is a table as we expect it to be:&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.2.1.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+     country  counts  year 
+0        USA  328259  2010 
+1  Argentina   22781  2010 
+2     Sweden   30857  2010 
+3    Ecuador    4164  2010 
+4      China  328387  2010 
+5      Italy   59743  2005 
+6     Poland   31500  2010 
+7    Vietnam   24589  2009
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;To select the values of the column, we can use its name:&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.2.2.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+data[’counts’] 
+ 
+0    328259 
+1     22781 
+2     30857 
+3      4164 
+4    328387 
+5     59743 
+6     31500 
+7     24589 
+Name: counts, dtype: int64
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;or&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.2.3.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+data.counts 
+Out[95]: 
+0    328259 
+1     22781 
+2     30857 
+3      4164 
+4    328387 
+5     59743 
+6     31500 
+7     24589 
+Name: counts, dtype: int64
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;By using the order of the columns, we can use their names again:&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.2.4.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+data[[’country’, ’year’, ’counts’]]
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The index of columns is provided by the following:&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.2.5.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+data.columns 
+Out[91]: 
+Index([’country’, ’counts’, ’year’], dtype=’object’)
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Types and selections:&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.2.6.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+type(data.counts) 
+pandas.core.series.Series
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;**&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.2.7.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+type(data[[’counts’]]) 
+pandas.core.frame.DataFrame
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;To select a row in a DataFrame, we index its [ix
+]attribute in the following way:&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.2.8.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+data.ix[3] 
+Out[98]: 
+country    Ecuador 
+counts        4164 
+year          2010 
+Name: 3, dtype: object
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;We might create DataFrames using dictionaries&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.2.9.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+Alternatively, we can create a DataFrame with a dict of dicts: 
+In [111]: 
+ 
+data = pd.DataFrame( 
+({0:({’AA’: 1, ’gender’: ’Male’, ’height’: 168}), 
+1: ({’AA’: 2, ’gender’: ’Male’, ’height’: 180}), 
+2: ({’AA’: 3, ’gender’: ’Female’, ’height’: 170}), 
+3: ({’AA’: 4, ’gender’: ’Female’, ’height’: 169}), 
+4: ({’AA’: 5, ’gender’: ’Female’, ’height’: 170}), 
+5: ({’AA’: 6, ’gender’: ’Male’, ’height’: 165})}))​ 
+ 
+In [112]: 
+ 
+data 
+Out[112]: 
+           0     1       2       3       4     5 
+AA         1     2       3       4       5     6 
+gender  Male  Male  Female  Female  Female  Male 
+height   168   180     170     169     170   165
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;To get a similar output we need to transpose the code:&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.2.10.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+data = data.T 
+data 
+Out[113]: 
+  AA  gender height 
+0  1    Male    168 
+1  2    Male    180 
+2  3  Female    170 
+3  4  Female    169 
+4  5  Female    170 
+5  6    Male    165
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Series and DataFrames have indexes and values which are called in the
+following way:&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.2.11.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+data.values
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The output is following&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.2.12.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+array([[1, 2, 3, 4, 5, 6], 
+       [’Male’, ’Male’, ’Female’, ’Female’, ’Female’, ’Male’], 
+       [168, 180, 170, 169, 170, 165]], dtype=object)
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;and the index is called by &lt;a href=&quot;{.rm-lmtt-10x-x-109}&quot;&gt;data.index &lt;/a&gt;and the
+result is:&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.2.13.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+ Index([’AA’, ’gender’, ’height’], dtype=’object’)
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;We cannot change the index, if we try, e.g., data.index[1] = 5 Python
+will provide the following message: “Index does not support mutable
+operations”.&lt;/p&gt;
+
+&lt;p&gt;To select a column:&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.2.14.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+heights = data.height 
+heights 
+Out[116]: 
+0    168 
+1    180 
+2    170 
+3    169 
+4    170 
+5    165 
+Name: height, dtype: object
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;To change a value&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.2.15.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+heights[5] = 191 
+heights 
+Out[117]: 
+0    168 
+1    180 
+2    170 
+3    169 
+4    170 
+5    191 
+Name: height, dtype: object
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;**&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.2.16.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+data 
+Out[118]: 
+  AA  gender height 
+0  1    Male    168 
+1  2    Male    180 
+2  3  Female    170 
+3  4  Female    169 
+4  5  Female    170 
+5  6    Male    191
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;**&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.2.17.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+ht = data.height.copy() 
+ht[5] = 180 
+data 
+Out[141]: 
+  AA  gender height 
+0  1    Male    168 
+1  2    Male    180 
+2  3  Female    177 
+3  4  Female    169 
+4  5  Female    170 
+5  6    Male    191
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Create/ modify columns by assignment:&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.2.18.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+data.height[2] = 177 
+data 
+Out[122]: 
+  AA  gender height 
+0  1    Male    168 
+1  2    Male    180 
+2  3  Female    177 
+3  4  Female    169 
+4  5  Female    170 
+5  6    Male    180
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;**&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.2.19.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+data[’Status’] = ’Printed’ 
+data 
+Out[143]: 
+  AA  gender height   Status 
+0  1    Male    168  Printed 
+1  2    Male    180  Printed 
+2  3  Female    177  Printed 
+3  4  Female    169  Printed 
+4  5  Female    170  Printed 
+5  6    Male    191  Printed
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The following method does not create a column:&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.2.20.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+data.libraryNo = 999 
+data 
+Out[146]: 
+  AA  gender height   Status 
+0  1    Male    168  Printed 
+1  2    Male    180  Printed 
+2  3  Female    177  Printed 
+3  4  Female    169  Printed 
+4  5  Female    170  Printed 
+5  6    Male    191  Printed
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;**&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.2.21.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+data.libraryNo 
+999
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;We can deﬁne a Series object as column in a DataFrame&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.2.22.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+test = pd.Series([0]*2 + [3]*2) 
+test 
+ 
+data[’test’] = test 
+data
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;We created a Series of 4 numbers. Note however that the DataFrame
+contains six rows. This is not a problem when we use numbers because
+Python automatically add NaN to ﬁll the empty rows. Nevertheless, when
+we employ other data structures such as strings Python will show an
+error message: ValueError: Length of values does not match length of
+index.&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.2.23.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+# Popular Authors 
+authors = [’Stephen␣King’, ’J.K.␣Rowling’, ’Mark␣Twain’, ’George␣R.␣R.␣Martin’] 
+data[’authors’] = authors
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;To correct the error, we simply add a string Series that has the same
+length as the DataFrame&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.2.24.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+authors = [’Stephen␣King’, ’J.K.␣Rowling’, ’Mark␣Twain’, ’George␣R.␣R.␣Martin’, ’Charles␣Dickens’, ’Arthur␣Conan␣Doyle’] 
+data[’favorite_authors’] = authors
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This time the output is correct:&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.2.25.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+data 
+  AA  gender height   Status  test        favorite_authors 
+0  1    Male    168  Printed   0.0         Stephen King 
+1  2    Male    180  Printed   0.0         J.K. Rowling 
+2  3  Female    177  Printed   3.0           Mark Twain 
+3  4  Female    169  Printed   3.0  George R. R. Martin 
+4  5  Female    170  Printed   NaN      Charles Dickens 
+5  6    Male    165  Printed   NaN   Arthur Conan Doyle
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;To delete the column test from the DataFrame data&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.2.26.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+del data[’test’] 
+data 
+  AA  gender height   Status              authors 
+0  1    Male    168  Printed         Stephen King 
+1  2    Male    180  Printed         J.K. Rowling 
+2  3  Female    177  Printed           Mark Twain 
+3  4  Female    169  Printed  George R. R. Martin 
+4  5  Female    170  Printed      Charles Dickens 
+5  6    Male    165  Printed   Arthur Conan Doyle
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;To get the data as a simple &lt;a href=&quot;{.rm-lmtt-10x-x-109}&quot;&gt;narray &lt;/a&gt;we need to
+employ the attribute &lt;a href=&quot;{.rm-lmtt-10x-x-109}&quot;&gt;values&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.2.27.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+array([[1, ’Male’, 168, ’Printed’, ’Stephen␣King’], 
+       [2, ’Male’, 180, ’Printed’, ’J.K.␣Rowling’], 
+       [3, ’Female’, 177, ’Printed’, ’Mark␣Twain’], 
+       [4, ’Female’, 169, ’Printed’, ’George␣R.␣R.␣Martin’], 
+       [5, ’Female’, 170, ’Printed’, ’Charles␣Dickens’], 
+       [6, ’Male’, 165, ’Printed’, ’Arthur␣Conan␣Doyle’]], dtype=object)
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The dtype here is object because we have numeric and string data and
+diﬀers when we have numeric or other type of data.&lt;/p&gt;
+
+&lt;h4 id=&quot;merging-dataframes&quot;&gt;Merging DataFrames&lt;/h4&gt;
+
+&lt;p&gt;df1 = pd.DataFrame(’A’: [’A0’, ’A1’, ’A2’, ’A3’], ’B’: [’B0’, ’B1’,
+’B2’, ’B3’], ’C’: [’C0’, ’C1’, ’C2’, ’C3’], ’D’: [’D0’, ’D1’, ’D2’,
+’D3’], index=[0, 1, 2, 3])&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/img_papers/figuresR/merging_concat.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Figure1: Example from
+http://pandas.pydata.org/pandas-docs/stable/merging.html&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;For more information see
+http://pandas.pydata.org/pandas-docs/stable/merging.html.&lt;/p&gt;
+
+&lt;h4 id=&quot;date-and-time&quot;&gt;Date and Time&lt;/h4&gt;
+
+&lt;p&gt;Python can manipulate date and time objects using the
+&lt;a href=&quot;{.rm-lmtt-10x-x-109}&quot;&gt;datetime&lt;/a&gt; module. It allows the production of
+calculations using time and date objects and also provides classes for
+controlling the output (see also,
+https://docs.python.org/2/library/datetime.html)&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.4.0.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+from datetime import datetime 
+#%% 
+now = datetime.now() 
+now
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;and the result is&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.4.1.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;To get the date only&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.4.2.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+now.date()
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;and the output in this case is datetime.date(2017, 1, 6). To ﬁnd the day&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.4.3.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+now.day
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;and the output is 6. Also, for the time&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.4.4.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+now.time()
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;and the output is datetime.time(14, 41, 4, 481168). We can also ask
+which is the week day:&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.4.5.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+now.weekday()
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;that will generate the output 4&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.4.6.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+from datetime import date, time
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;**&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.4.7.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+time(3, 24)
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;**&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.4.8.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+age = now - datetime(1980, 8, 16) 
+age/365
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;**&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.4.9.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+days=(datetime(2017, 3, 10) - datetime(2017, 8, 16)) 
+days.days
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&quot;importing-data&quot;&gt;Importing data&lt;/h4&gt;
+
+&lt;p&gt;We suggest that you use comma-separated value or CSV ﬁles when
+interacting with Python and other statistical software. In computing,
+CSV ﬁles stores tabular data (numbers and text) in plain text. Columns
+are separated by commas; rows are terminated by newlines. This ﬁle
+format is not proprietary, the ﬁles can be edited in text editors and
+spreadsheet software, such as Excel and Calc.&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.5.0.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+dur = pd.read_csv(&quot;data/duration.csv&quot;, sep=&quot;;&quot;) 
+dur 
+Out[153]: 
+    experiment  duration 
+0            A       199 
+1            A       184 
+2            A       242 
+3            A       236 
+4            A       216 
+5            A       176 
+6            A       223 
+7            A       186 
+8            A       210 
+9            A       220 
+..         ...       ... 
+95           C       221 
+96           C       239 
+97           C       235 
+98           C       248 
+99           C       204 
+100          C       226 
+101          C       206 
+102          C       194 
+103          C       205 
+104          C       182 
+ 
+[105 rows x 2 columns]
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;We can also import another dataframe and add a column titled AA.&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.5.1.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+fricative = pd.read_table(&quot;data/fricatives.csv&quot;, sep=’,’) 
+fricative[’AA’] = pd.Series(range(1,8827))
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;**&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.5.2.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+fricative.head() 
+# %%
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;**&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.5.3.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+0   1  0.060398  32.671794   757.605236  1104.704765  13.835014  210.523631 
+1   2  0.045656  38.906220   732.582945  1065.089424  12.654465  186.856393 
+2   3  0.050907  47.209304   647.696728  1627.357767   7.647966   61.615315 
+3   4  0.051049  41.703970  1017.179353  2318.797907   5.570367   33.783925 
+4   5  0.028408  44.345609  1132.524942   848.894793   7.105495  108.453910 
+ 
+  Segment Vowel Variety      Stress   Voice Position   AA 
+0       d     a      CG  Unstressed  Voiced   Middle  1.0 
+1       d     a      CG  Unstressed  Voiced   Middle  2.0 
+2       d     a      CG  Unstressed  Voiced   Middle  3.0 
+3       d     a      CG  Unstressed  Voiced   Middle  4.0 
+4       d     a      CG  Unstressed  Voiced   Middle  5.0
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;**&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.5.4.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+list(range(1,len(fricative.index)))
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;We can skip rows if we do not want them in the analysis:&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.5.5.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+testfric=pd.read_csv(&quot;data/fricatives.csv&quot;, skiprows=[2,3,4,5,6]) 
+len(testfric.index)
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;To import a small number of rows from, we can use
+&lt;a href=&quot;{.rm-lmtt-10x-x-109}&quot;&gt;nrows&lt;/a&gt;:&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.5.6.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+pd.read_csv(&quot;data/fricatives.csv&quot;, nrows=4)
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;**&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.5.7.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+get_ipython().system(’cat␣data/fricatives.csv’)
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;**&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.5.8.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+pd.read_csv(&quot;data/fricatives.csv&quot;).head(20)
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;**&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.5.9.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+pd.isnull(pd.read_csv(&quot;data/fricatives.csv&quot;)).head(20)
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;When we import data Python identiﬁes empty cells, or NA values as NA
+data; to designated that speciﬁc values or symbols should be considered
+NA values, we can specify this as follows&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.5.10.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+pd.read_csv(&quot;data/fricatives.csv&quot;, na_values=[’?’, -9999999]).head(20)
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&quot;save-data&quot;&gt;Save Data&lt;/h4&gt;
+
+&lt;p&gt;There are diﬀerent methods to save data. To save data in CSV format&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:2.6.0.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+# ## Writing Data to Files 
+fricative.to_csv(&quot;fricative-01.csv&quot;)
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&quot;creating-plots&quot;&gt;Creating Plots&lt;/h3&gt;
+
+&lt;p&gt;Using pandas we can also make some basic plotting.&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:3.0.0.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+ 
+fricative[’duration’].plot()
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;**&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:3.0.1.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+############################################################## 
+ 
+ 
+# %% 
+fricative = pd.read_csv(&quot;data/fricatives.csv&quot;, sep=’,’) 
+fricative[’duration’].plot() 
+# %% 
+fricative[’duration’].plot(kind=’hist’) 
+ 
+# %% 
+fricative[’duration’].plot(kind=’box’,showfliers=False)
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;Duration&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/img_papers/figuresR/PythonIntro_duration.png&quot; alt=&quot;screenshot&quot; /&gt;
+Figure2: Duration in sec.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/img_papers/figuresR/Duration.png&quot; alt=&quot;screenshot&quot; /&gt;
+————————————————————————&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/img_papers/figuresR/boxduration.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;import matplotlib.pyplot as plt plt.plot([1,2,3,4]) plt.ylabel(’some
+numbers’) plt.show()&lt;/p&gt;
+
+&lt;h3 id=&quot;basic-descriptive-statistics-using-pandas&quot;&gt;Basic Descriptive Statistics using Pandas&lt;/h3&gt;
+
+&lt;p&gt;**&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:4.0.0.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+In [208]: 
+ 
+fricative.sum() 
+Out[208]: 
+duration                                               827.811 
+intensity                                               346024 
+cog                                                5.05981e+07 
+sdev                                               2.40776e+07 
+skew                                                   21699.9 
+kurt                                                    328392 
+Segment      dddddddddddddddddddddddddddddddddddddddddddddd... 
+Vowel        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa... 
+Variety      CGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCGCG... 
+Stress       UnstressedUnstressedUnstressedUnstressedUnstre... 
+Voice        VoicedVoicedVoicedVoicedVoicedVoicedVoicedVoic... 
+Position     MiddleMiddleMiddleMiddleMiddleMiddleMiddleMidd... 
+AA                                                 3.89536e+07 
+dtype: object
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;**&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:4.0.1.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+In [209]: 
+ 
+fricative.mean() 
+Out[209]: 
+duration        0.093782 
+intensity      39.254023 
+cog          5732.200660 
+sdev         2727.724598 
+skew            2.458354 
+kurt           37.203150 
+AA           4413.500000 
+dtype: float64
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;**&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:4.0.2.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+In [211]: 
+ 
+fricative.std() 
+Out[211]: 
+duration        0.031759 
+intensity       8.272744 
+cog          3425.508087 
+sdev         1339.636724 
+skew            4.785687 
+kurt          138.622132 
+AA           2547.991071 
+dtype: float64
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;**&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:4.0.3.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+In [212]: 
+ 
+fricative.count() 
+Out[212]: 
+duration     8827 
+intensity    8815 
+cog          8827 
+sdev         8827 
+skew         8827 
+kurt         8827 
+Segment      8827 
+Vowel        8827 
+Variety      8827 
+Stress       8827 
+Voice        8827 
+Position     8827 
+AA           8826 
+dtype: int64
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;**&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:4.0.4.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+fricative.intensity.hasnans 
+Out[215]: 
+True 
+In [221]: 
+ 
+fricative.intensity.isnull().sum() 
+Out[221]: 
+12
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Describe:&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:4.0.5.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+In [222]: 
+ 
+fricative.describe() 
+/Users/haristhemistocleous/anaconda3/lib/python3.5/site-packages/numpy/lib/function_base.py:3834: RuntimeWarning: Invalid value encountered in percentile 
+  RuntimeWarning) 
+Out[222]: 
+          duration    intensity           cog         sdev         skew  \ 
+count  8827.000000  8815.000000   8827.000000  8827.000000  8827.000000 
+mean      0.093782    39.254023   5732.200660  2727.724598     2.458354 
+std       0.031759     8.272744   3425.508087  1339.636724     4.785687 
+min       0.020333     5.278827    419.757883   228.697624    -5.250996 
+25%       0.071596          NaN   2385.869561  1771.421219    -0.113557 
+50%       0.091452          NaN   6175.724355  2368.203536     0.925865 
+75%       0.112412          NaN   8344.008050  3595.757817     2.953676 
+max       0.316844    69.455969  18606.542539  9253.436646    59.853567 
+ 
+              kurt           AA 
+count  8827.000000  8826.000000 
+mean     37.203150  4413.500000 
+std     138.622132  2547.991071 
+min      -1.892874     1.000000 
+25%       0.512395          NaN 
+50%       3.432032          NaN 
+75%      12.453753          NaN 
+max    3999.613892  8826.000000 
+describe can detect non-numeric data and sometimes yield useful information about it.
+ 
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;**&lt;/p&gt;
+
+&lt;div class=&quot;flushright&quot;&gt;
+
+[Python code:4.0.6.]
+
+&lt;/div&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+fricative.sdev.describe() 
+Out[224]: 
+count    8827.000000 
+mean     2727.724598 
+std      1339.636724 
+min       228.697624 
+25%      1771.421219 
+50%      2368.203536 
+75%      3595.757817 
+max      9253.436646 
+Name: sdev, dtype: float64
+ 
+&lt;/code&gt;&lt;/pre&gt;</content><author><name></name></author><summary type="html">Charalambos Themistocleous</summary></entry></feed>
