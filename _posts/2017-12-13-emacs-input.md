@@ -5,9 +5,7 @@ date:   2017-12-13 14:00:00 +0200
 categories: Emacs, Writing
 ---
 
-Emacs offers several functionalities  for inserting special symbols in
-documents, (e.g., latex and org-mode documents). One easy way to
-access  the  different input  modes  is  by  typing __C-\\__  and  then
+To access multilingual support in Emacs, one easy way is  by  typing __C-\\__  and  then
 selecting an  input method.  The following functions are also useful:
 
 __M-x__ : list-input-methods -it provides the list of input methods.
@@ -25,7 +23,7 @@ are transcribing English, French, German  and Italian you may find the
 __IPA__ convenient. For  Greek someone might want to  download the IPA
 keyboard                                                          from
 my
-[GitHub account](https://github.com/themistocleous/Keyboard_Layouts.),
+[GitHub account](https://github.com/themistocleous/Keyboard_Layouts),
 which works with all applications across a system.
 
 # Semantics/Logic
