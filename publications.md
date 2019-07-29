@@ -12,18 +12,6 @@ order: 2
     </tr>
     <tr>
         <td></td>
-        <td><h1>Books</h1></td>
-    </tr>
-    <tr>
-        <td><a href="http://www.iwn.gr/product.asp?catid=17589"><img src="/img/img_papers/bookstats.png" border="1" alt="Statistics"></a></td>
-        <td><strong>Themistocleous</strong>  <strong>Charalambos</strong>   (2015).   <em>Research Design  and  Statistics  in  Linguistics.  Using  R  (In  Greek)</em>.  Athens:      Ion.        ISBN:978-960-508-187-4.</td>
-    </tr>
-    <tr>
-        <td><a href="https://www.cambridgescholars.com/current-trends-in-greek-linguistics-16"><img src="/img/img_papers/bookgreek.jpg" border="1" alt="Themistocleous"></a></td>
-        <td>Fragaki Georgia, Georgakopoulos Athanasios, <strong>Themistocleous</strong> <strong>Charalambos</strong> (Eds.) (2012). Current Trends in Greek Linguistics. Newcastle upon Tyne: Cambridge Scholars Publishing.</td>
-    </tr>
-    <tr>
-        <td></td>
         <td><h1>Journal Articles</h1></td>
     </tr>
     <tr>
@@ -62,6 +50,18 @@ order: 2
     <tr>
         <td><a href="/assets/papers/lengthening.pdf"><img src="/img/img_papers/edge.png" border="1" alt="Themistocleous"></a></td>
         <td><strong>Themistocleous Charalambos</strong> (2014). Edge-Tone Effects and Prosodic Domain Effects on Final Lengthening. <em>Linguistic Variation</em> 14(1). 129–160. DOI: 10.1075/lv.14.1.06the.<p><a href="https://benjamins.com/catalog/lv.14.1.06the">URL</a></p></td>
+    </tr>
+        <tr>
+        <td></td>
+        <td><h1>Books</h1></td>
+    </tr>
+    <tr>
+        <td><a href="http://www.iwn.gr/product.asp?catid=17589"><img src="/img/img_papers/bookstats.png" border="1" alt="Statistics"></a></td>
+        <td><strong>Themistocleous</strong>  <strong>Charalambos</strong>   (2015).   <em>Research Design  and  Statistics  in  Linguistics.  Using  R  (In  Greek)</em>.  Athens:      Ion.        ISBN:978-960-508-187-4.</td>
+    </tr>
+    <tr>
+        <td><a href="https://www.cambridgescholars.com/current-trends-in-greek-linguistics-16"><img src="/img/img_papers/bookgreek.jpg" border="1" alt="Themistocleous"></a></td>
+        <td>Fragaki Georgia, Georgakopoulos Athanasios, <strong>Themistocleous</strong> <strong>Charalambos</strong> (Eds.) (2012). Current Trends in Greek Linguistics. Newcastle upon Tyne: Cambridge Scholars Publishing.</td>
     </tr>
     <tr>
         <td></td>
