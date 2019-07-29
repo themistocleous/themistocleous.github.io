@@ -7,8 +7,8 @@ order: 2
 <p style="text-align:right;"><span >  <a  href="{{ site.url }}/bib/themistocleous_all.bib">References [bib]</a></span></p>
 <table>
     <tr>
-        <th width="15%"></th>
-        <th width="85%"></th>
+        <th width="25%"></th>
+        <th width="75%"></th>
     </tr>
     <tr>
         <td></td>
