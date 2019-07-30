@@ -44,7 +44,7 @@ order: 4
             <li>Link to <a href="http://lexcy.library.ucy.ac.cy">Cypriot Greek Dictionary.</a></li>
             <li>Link to <a href="https://github.com/themistocleous/CG_Dictionary">GitHub repository (source code).</a></li>
         </ul><p></p>
-        <p>Presented in EURALEX 2012 here: <strong>Themistocleous Charalambos</strong>, Marianna Katsoyannou, Spyros Armosti, and Kyriaci Christodoulou (2012). Cypriot Greek Lexicography: A Reverse Dictionary of Cypriot Greek. Paper presented at the 15th European Association for Lexicography (EURALEX) Conference, Oslo, Norway, 7 – 11 August 2012.</p>
+        <p>Presented in EURALEX 2012<p></p><strong>Themistocleous Charalambos</strong>, Marianna Katsoyannou, Spyros Armosti, and Kyriaci Christodoulou (2012). Cypriot Greek Lexicography: A Reverse Dictionary of Cypriot Greek. Paper presented at the 15th European Association for Lexicography (EURALEX) Conference, Oslo, Norway, 7 – 11 August 2012.</p>
         <p>Link to the EURALEX paper: <a href="http://euralex.org/wp-content/themes/euralex/proceedings/Euralex%202012/pp262-266%20Themistocleus,%20Katsoyannou,%20Armosti%20and%20Christodoulou.pdf"><b>[PDF]</b></a></p>
         <p><strong>Themistocleous Charalambos</strong>, Marianna Katsoyannou, Spyros Armosti, and Kyriaci Christodoulou (2012). Cypriot Greek Lexicography: An online lexical database. Paper presented at the 15th European Association for Lexicography (EURALEX) Conference, Oslo, Norway, 7 – 11 August 2012</p><p>Link to the EURALEX software demonstration paper: <a href="http://euralex.org/wp-content/themes/euralex/proceedings/Euralex%202012/pp889-891%20Themistocleus,%20Katsoyannou,%20Armosti%20and%20Christodoulou.pdf"><b>[PDF]</b></a></p>
         </td>
