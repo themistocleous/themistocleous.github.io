@@ -11,7 +11,7 @@ order: 3
         <th width="80%"></th>
     </tr>
     <tr>
-        <td><img src="/img/img_papers/fneuro_net.jpg" alt="neuralnet"  border="1" align="middle"></td> 
+        <td><a href="https://github.com/themistocleous/nn_mci"><img src="/img/img_papers/fneuro_net.jpg" alt="neuralnet"  border="1" align="middle"></a></td> 
         <td><a href="https://www.frontiersin.org/articles/10.3389/fneur.2018.00975/full">Themistocleous Charalambos, Eckerström Marie, and Dimitrios Kokkinakis (2018)</a>. Identification of Mild Cognitive Impairment from Speech in Swedish using Deep Sequential Neural Networks. <i> Frontiers in Neurology.</i> doi: 10.3389/fneur.2018.00975.<p></p>To this day, there is no cure for dementia but early-stage treatment can delay the progression of MCI; thus, the development of valid tools for identifying early cognitive changes is of great importance. In this study, we provide an automated machine learning method, using Deep Neural Network Architectures, that aims to identify MCI. The Deep Neural Network Architecture proposed here constitutes a method that contributes to the early diagnosis of cognitive decline, quantifies the progression of the condition, and enables suitable therapeutics.<p></p><p>Frontiers 2018 version: <b><a href="https://www.frontiersin.org/articles/10.3389/fneur.2018.00975/full">[PDF]</a></b></p><p>Link to GitHub page with source code: <b><a href="https://github.com/themistocleous/nn_mci">[CODE]</a></b></p></td>
     </tr>
     <tr>
