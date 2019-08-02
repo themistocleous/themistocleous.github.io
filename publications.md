@@ -22,7 +22,6 @@ order: 2
         <td><strong>Themistocleous Charalambos</strong>, Eckerström Marie, and Dimitrios Kokkinakis (2018). Identification of Mild Cognitive Impairment from Speech in Swedish using Deep Sequential Neural Networks. <em>Frontiers in Neurology</em>. doi: 10.3389/fneur.2018.00975.<p><a href="https://www.frontiersin.org/articles/10.3389/fneur.2018.00975/full">URL</a></p></td>
     </tr>
     <tr>
-    <tr>
         <td><a href="/assets/papers/frontiers.pdf"><img src="/img/img_papers/fpsychology.png" border="1" alt="Themistocleous"></a></td>
         <td><strong>Themistocleous Charalambos</strong> (2017). Effects of two linguistically proximal varieties on the spectral and coarticulatory properties of fricatives: Evidence from Athenian Greek and Cypriot Greek. <em>Frontiers in Psychology</em>. DOI: 10.3389/fpsyg.2017.01945<p><a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01945/full">URL</a></p></td>
     </tr>
@@ -66,10 +65,10 @@ order: 2
         <td></td>
         <td><h1>Recent Conference Papers</h1></td>
     </tr>
-    <tr>
-        <td><a href="https://www.frontiersin.org/10.3389/conf.fnhum.2018.228.00092/event_abstract"><img src="/img/img_papers/aoa_the.png" border="1" alt="aoa_2018"></a></td>
-        <td><strong>Themistocleous Charalambos</strong>, Ficek Bronte, Theresa Webster Kimberly, Wendt Haley, Elizabeth Hillis Argye, Den Ouden Dirk Bart and Tsapkini Kyrana (2018). Acoustic markers of PPA variants using machine learning. <em>Frontiers in Human Neuroscience, 92.</em> doi: 10.3389/conf.fnhum.2018.228.00092.
-        <a href="/assets/papers/aoa_2018.pdf"> (Presentation Slides)</a><p><a href="https://www.frontiersin.org/10.3389/conf.fnhum.2018.228.00092/event_abstract">URL</a></p></td>
+        <tr>
+            <td><a href="https://www.frontiersin.org/10.3389/conf.fnhum.2018.228.00092/event_abstract"><img src="/img/img_papers/aoa_the.png" border="1" alt="aoa_2018"></a></td>
+            <td><strong>Themistocleous Charalambos</strong>, Ficek Bronte, Theresa Webster Kimberly, Wendt Haley, Elizabeth Hillis Argye, Den Ouden Dirk Bart and Tsapkini Kyrana (2018). Acoustic markers of PPA variants using machine learning. <em>Frontiers in Human Neuroscience, 92.</em> doi: 10.3389/conf.fnhum.2018.228.00092.
+            <a href="/assets/papers/aoa_2018.pdf"> (Presentation Slides)</a><p><a href="https://www.frontiersin.org/10.3389/conf.fnhum.2018.228.00092/event_abstract">URL</a></p></td>
     </tr>
     <tr>
         <td><a href="https://www.frontiersin.org/10.3389/conf.fnhum.2018.228.00001/event_abstract"><img src="/img/img_papers/aoa_kyr.png" border="1" alt="aoa_2018"></a></td>
@@ -125,7 +124,8 @@ order: 2
     </tr>
     <tr>
         <td><img src="/img/img_papers/interspeech.png" border="1" alt="Interspeech"></td>
-        <td>Anastasi Eva, Logotheti Ageliki, Panayiotou Stavri, Serafim Marilena, and <strong>Themistocleous Charalambos</strong> (2017). A sociophonetic study of Standard Modern Greek and Cypriot Greek Stop Consonants. <em>Paper presented at the 12th International Conference on Greek Linguistics (ICGL12)</em>, 16 – 19 September 2015. Freie Universität Berlin, Germany.<p><a href="http://www.cemog.fu-berlin.de/aktivitaeten/veranstaltungen/icgl12.html">URL</a></p></td> 
+        <td>Anastasi Eva, Logotheti Ageliki, Panayiotou Stavri, Serafim Marilena, and <strong>Themistocleous Charalambos</strong> (2017). A sociophonetic study of Standard Modern Greek and Cypriot Greek Stop Consonants. <em>Paper presented at the 12th International Conference on Greek Linguistics (ICGL12)</em>, 16 – 19 September 2015. Freie Universität Berlin, Germany.<p><a href="http://www.cemog.fu-berlin.de/aktivitaeten/veranstaltungen/icgl12.html">URL</a></p></td>
+    </tr>
     <tr>
         <td><a href="/assets/papers/interspeech.pdf"><img src="/img/img_papers/interspeech.png" border="1" alt="Interspeech"></a></td>
         <td><strong>Themistocleous Charalambos</strong>, Angelandria Savva and Andrie Aristodemou (2016). Effects of stress on fricatives: Evidence from Standard Modern Greek, p. 1026-1029. <em>Interspeech 2016</em>.<p><a href="http://dx.doi.org/10.21437/Interspeech.2016-1057">URL</a></p></td> 
