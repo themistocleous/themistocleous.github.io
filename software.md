@@ -11,12 +11,12 @@ order: 4
         <th width="60%"></th>
     </tr>
     <tr>
-    <td><a href="https://github.com/themistocleous/word-repetition-app"><img src="/img/img_papers/app.png"  border="1" alt="IPA4"/></a></td>
-    <td><strong>Word Repetition App</strong><p>Word Repetition App is employed by clinicians to test ST memory. The application plays a lists of sounds of semantically related words (clothes, appliances, etc.) and asks the participant to repeat these sounds. During the repetition phase the software records the production. The process repeats five times except if the clinician decides to modify the number of repetitions.
-    <ul>
+        <td><a href="https://github.com/themistocleous/word-repetition-app"><img src="/img/img_papers/app.png"  border="1" alt="IPA4"/></a></td>
+        <td><strong>Word Repetition App</strong><p>Word Repetition App is employed by clinicians to test ST memory. The application plays a lists of sounds of semantically related words (clothes, appliances, etc.) and asks the participant to repeat these sounds. During the repetition phase the software records the production. The process repeats five times except if the clinician decides to modify the number of repetitions.</p>
+        <ul>
             <li>Visit the link <a href="https://github.com/themistocleous/word-repetition-app">to download Word Repetition App</a>.</li>
- </ul>
-</p></td>
+        </ul>
+        </td>
     </tr>
     <tr>
         <td><a href="https://github.com/themistocleous/IPA_English"><img src="/img/img_papers/englishipa.jpg"  border="1" alt="IPA4"/></a></td>
@@ -58,7 +58,8 @@ order: 4
         <p><strong>Themistocleous Charalambos</strong>, Marianna Katsoyannou, Spyros Armosti, and Kyriaci Christodoulou (2012). Cypriot Greek Lexicography: An online lexical database. Paper presented at the 15th European Association for Lexicography (EURALEX) Conference, Oslo, Norway, 7 – 11 August 2012</p><p>Link to the EURALEX software demonstration paper: <a href="http://euralex.org/wp-content/themes/euralex/proceedings/Euralex%202012/pp889-891%20Themistocleus,%20Katsoyannou,%20Armosti%20and%20Christodoulou.pdf"><b>[PDF]</b></a></p>
         <a href="{{ site.url }}/research/project/2014/12/31/Utilitarian_Dictionary.html">See also other lexicography projects .</a>
         </td>
-    </tr>
+        </tr>
+        <tr>
         <td><a href="https://github.com/themistocleous/create_project_template">
         <img src="/img/img_papers/project.png" alt="Project"  border="1" align="middle"></a></td>
         <td><strong>Project Management - GTD</strong><p></p>This is a python code that generates folder structures for organizing your academic projects (you can modify it according to your needs)<p></p>
