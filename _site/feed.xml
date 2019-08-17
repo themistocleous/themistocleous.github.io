@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-13T14:32:38-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Charalambos (Haris) Themistocleous</title><subtitle>(c) 2019 Charalambos Themistocleous.</subtitle><entry><title type="html">Input methods in Emacs</title><link href="http://localhost:4000/emacs,/writing/2017/12/13/emacs-input.html" rel="alternate" type="text/html" title="Input methods in Emacs" /><published>2017-12-13T07:00:00-05:00</published><updated>2017-12-13T07:00:00-05:00</updated><id>http://localhost:4000/emacs,/writing/2017/12/13/emacs-input</id><content type="html" xml:base="http://localhost:4000/emacs,/writing/2017/12/13/emacs-input.html">&lt;p&gt;To access multilingual support in Emacs, one easy way is  by  typing &lt;strong&gt;C-\&lt;/strong&gt;  and  then
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-17T00:17:26-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Charalambos (Haris) Themistocleous</title><subtitle>(c) 2019 Charalambos Themistocleous.</subtitle><entry><title type="html">Input methods in Emacs</title><link href="http://localhost:4000/emacs,/writing/2017/12/13/emacs-input.html" rel="alternate" type="text/html" title="Input methods in Emacs" /><published>2017-12-13T07:00:00-05:00</published><updated>2017-12-13T07:00:00-05:00</updated><id>http://localhost:4000/emacs,/writing/2017/12/13/emacs-input</id><content type="html" xml:base="http://localhost:4000/emacs,/writing/2017/12/13/emacs-input.html">&lt;p&gt;To access multilingual support in Emacs, one easy way is  by  typing &lt;strong&gt;C-\&lt;/strong&gt;  and  then
 selecting an  input method.  The following functions are also useful:&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;M-x&lt;/strong&gt; : list-input-methods -it provides the list of input methods.&lt;/p&gt;
@@ -300,7 +300,7 @@ Hebrew SI-1452 input method.&lt;/li&gt;
   &lt;li&gt;ipa-praat (‘IPAP’ in mode line)
   International Phonetic  Alphabet input  method.  This  follows the
 input   method    of   the    phonetic   analysis    program   Praat
-(http://www.fon.hum.uva.nl/praat/).&lt;/li&gt;
+(https://www.fon.hum.uva.nl/praat/).&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;vowels&quot;&gt;Vowels&lt;/h3&gt;
@@ -2553,7 +2553,7 @@ diﬀers when we have numeric or other type of data.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/img_papers/figuresR/merging_concat.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Figure1: Example from
-http://pandas.pydata.org/pandas-docs/stable/merging.html&lt;/p&gt;
+https://pandas.pydata.org/pandas-docs/stable/merging.html&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -3175,11 +3175,11 @@ Name: sdev, dtype: float64
 &lt;h1 id=&quot;references&quot;&gt;References&lt;/h1&gt;
 &lt;p&gt;Hesse, Rolf. 2015. A short presentation of Χρηστικό Λεξικό της Νεοελληνικής Γλώσσας της Ακαδημίας Αθηνών. &lt;em&gt;Scandinavian Journal of Byzantine and Modern Greek Studies&lt;/em&gt;, 1, 131–140.&lt;/p&gt;
 
-&lt;p&gt;Livemedia. Utilitarian Dictionary of Modern Greek Language Academy of Athens, http://www.livemedia.com/album/19694&lt;/p&gt;
+&lt;p&gt;Livemedia. Utilitarian Dictionary of Modern Greek Language Academy of Athens, https://www.livemedia.com/album/19694&lt;/p&gt;
 
 &lt;p&gt;Mackridge, Peter 2015. Ένα μεγάλο επίτευγμα: Χρηστικό Λεξικό της Ακαδημίας Αθηνών. &lt;em&gt;The Athens Review of Books&lt;/em&gt;, 60.&lt;/p&gt;
 
-&lt;p&gt;Ακαδημία Αθηνών 2014. Δελτίο Τύπου. Χρηστικό Λεξικό της Νεοελληνικής Γλώσσας. http://www.academyofathens.gr/el/node/1266&lt;/p&gt;
+&lt;p&gt;Ακαδημία Αθηνών 2014. Δελτίο Τύπου. Χρηστικό Λεξικό της Νεοελληνικής Γλώσσας. https://www.academyofathens.gr/el/node/1266&lt;/p&gt;
 
 &lt;p&gt;Αναστασιάδη-Συμεωνίδη, Άννα 2015. Ποιο λεξικό να συμβουλεύομαι; &lt;em&gt;Φιλόλογος&lt;/em&gt;, 160, 238–244. Ψαροπούλου, Αθηνά 2015. Νέεες ετυμολογίες του Χρηστικού Λεξικού της Νεοελληνικής Γλώσσας της Ακαδημίας Αθηνών, &lt;em&gt;Φιλόλογος&lt;/em&gt;, 160, 245–250.&lt;/p&gt;
 

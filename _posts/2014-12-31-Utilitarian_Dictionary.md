@@ -23,11 +23,11 @@ categories: Research Project
 # References
 Hesse, Rolf. 2015. A short presentation of Χρηστικό Λεξικό της Νεοελληνικής Γλώσσας της Ακαδημίας Αθηνών. *Scandinavian Journal of Byzantine and Modern Greek Studies*, 1, 131–140.
 
-Livemedia. Utilitarian Dictionary of Modern Greek Language Academy of Athens, http://www.livemedia.com/album/19694
+Livemedia. Utilitarian Dictionary of Modern Greek Language Academy of Athens, https://www.livemedia.com/album/19694
 
 Mackridge, Peter 2015. Ένα μεγάλο επίτευγμα: Χρηστικό Λεξικό της Ακαδημίας Αθηνών. *The Athens Review of Books*, 60.
 
-Ακαδημία Αθηνών 2014. Δελτίο Τύπου. Χρηστικό Λεξικό της Νεοελληνικής Γλώσσας. http://www.academyofathens.gr/el/node/1266
+Ακαδημία Αθηνών 2014. Δελτίο Τύπου. Χρηστικό Λεξικό της Νεοελληνικής Γλώσσας. https://www.academyofathens.gr/el/node/1266
 
 Αναστασιάδη-Συμεωνίδη, Άννα 2015. Ποιο λεξικό να συμβουλεύομαι; *Φιλόλογος*, 160, 238–244. Ψαροπούλου, Αθηνά 2015. Νέεες ετυμολογίες του Χρηστικού Λεξικού της Νεοελληνικής Γλώσσας της Ακαδημίας Αθηνών, *Φιλόλογος*, 160, 245–250.
 
