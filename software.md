@@ -36,7 +36,7 @@ order: 4
         </ul>
         <p></p>
         You may cite the software as follows:<p></p>
-        Themistocleous Charalambos (2017).  <b>IPAGreek: Computational Greek Phonology</b>. [Computer program]. Version 3.0, retrieved 21 August 2017 from http://charalambosthemistocleous.com<p></p>
+        Themistocleous Charalambos (2017).  <b>IPAGreek: Computational Greek Phonology</b>. [Computer program]. Version 3.0, retrieved 21 August 2017 from https://charalambosthemistocleous.com<p></p>
         Themistocleous, Charalambos (2011). Computational Greek Phonology: IPAGreek. <b>The 10th International Conference of Greek Linguistics</b>. Komotini, Greece.</td>
     </tr>
     <tr>

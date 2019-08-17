@@ -262,7 +262,7 @@ below.
 - ipa-praat (‘IPAP’ in mode line)
     International Phonetic  Alphabet input  method.  This  follows the
   input   method    of   the    phonetic   analysis    program   Praat
-  (http://www.fon.hum.uva.nl/praat/).
+  (https://www.fon.hum.uva.nl/praat/).
 
 
 
