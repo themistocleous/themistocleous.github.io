@@ -17,7 +17,7 @@ title: Charalambos (Haris) Themistocleous
 email: themistocleous@gmail.com
 description: "(c) 2019 Charalambos Themistocleous."
 baseurl: "" # the subpath of your site, e.g. /jblog
-url: "charalambosthemistocleous.com" # the base hostname & protocol for your site, e.g. http://charalambosthemistocleous.com
+url: "https://charalambosthemistocleous.com" # the base hostname & protocol for your site, e.g. http://charalambosthemistocleous.com
 twitter_username: ThemistocleousH
 github_username:  themistocleous
 
