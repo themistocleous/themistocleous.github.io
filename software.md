@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Applications
+title: Software
 permalink: /software/
 order: 4
 ---
