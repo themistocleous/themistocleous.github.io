@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Haris Themistocleous
 email: themistocleous@gmail.com
-description: "(c) 2019 Charalambos Themistocleous."
+description: "(c) 2019 Haris Themistocleous."
 baseurl: "" # the subpath of your site, e.g. /jblog
 url: "https://charalambosthemistocleous.com" # the base hostname & protocol for your site, e.g. http://charalambosthemistocleous.com
 twitter_username: ThemistocleousH
