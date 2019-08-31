@@ -4,10 +4,9 @@ title: Research
 permalink: /research/
 order: 3
 ---
-<h1>Research Highlights</h1>
 <table>
     <tr>
-        <th width="30%"></th>
+        <th width="30%">Research Highlights</th>
         <th width="80%"></th>
     </tr>
     <tr>

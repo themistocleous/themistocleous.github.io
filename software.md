@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Software
+title: Applications
 permalink: /software/
 order: 4
 ---
-<h1>Applications</h1>
 <table>
     <tr>
-        <th width="40%"></th>
+        <th width="40%">Applications</th>
         <th width="60%"></th>
     </tr>
     <tr>

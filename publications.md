@@ -6,7 +6,7 @@ order: 2
 ---
 <table>
     <tr>
-        <th width="25%"></th>
+        <th width="25%">Publications</th>
         <th width="75%"></th>
     </tr>
     <tr>
