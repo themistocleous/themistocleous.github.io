@@ -4,6 +4,7 @@ title: Applications
 permalink: /software/
 order: 4
 ---
+
 <table>
     <tr>
         <th width="40%">Applications</th>
@@ -19,6 +20,11 @@ order: 4
     <tr>
         <td><a href="https://github.com/themistocleous/word-repetition-app"><img src="/img/img_papers/app.png"  border="1" alt="IPA4"/></a></td>
         <td><strong>Word Repetition App</strong><p>Word Repetition App is employed by clinicians to test ST memory. The application plays a lists of sounds of semantically related words (clothes, appliances, etc.) and asks the participant to repeat these sounds. During the repetition phase the software records the production. The process repeats five times except if the clinician decides to modify the number of repetitions.</p>
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/themistocleous/WordRepetitionSpan"><img src="/img/img_papers/app2.png"  border="1" alt="IPA4"/></a></td>
+        <td><strong>Word Repetition Span App</strong><p> Word Repetition Span task may consist of word repetition or non-word repetition. Both spans begin at List length 2 and ceiling at List length 5. For this task, the computer will say a string of words or non-words for the participant to repeat in order. The clinician then copies the participant’s responses in the order they were offered. This task assesses the ability to repeat single words and single non-words. Depending on the accuracy and types of errors, it is sensitive to deficits of input and output processing</p>
         </td>
     </tr>
     <tr>
