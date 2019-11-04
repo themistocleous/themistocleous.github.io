@@ -55,7 +55,7 @@ order: 2
     </tr>
     <tr>
         <td><a href="http://www.iwn.gr/product.asp?catid=17589"><img src="/img/img_papers/bookstats.png" border="1" alt="Statistics"></a></td>
-        <td><strong>Themistocleous</strong>  <strong>Charalambos</strong>   (2015).   <em>Research Design  and  Statistics  in  Linguistics.  Using  R  (In  Greek)</em>.  Athens:      Ion.        ISBN:978-960-508-187-4.</td>
+        <td><strong>Themistocleous</strong>  <strong>Charalambos</strong>   (2015).   <em>Experimental Design  and  Statistics  in  Linguistics.  Using  R  (In  Greek)</em>.  Athens:      Ion.        ISBN:978-960-508-187-4.</td>
     </tr>
     <tr>
         <td><a href="https://www.cambridgescholars.com/current-trends-in-greek-linguistics-16"><img src="/img/img_papers/bookgreek.jpg" border="1" alt="Themistocleous"></a></td>
