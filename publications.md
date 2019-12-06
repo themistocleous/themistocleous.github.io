@@ -14,6 +14,10 @@ order: 2
         <td><h1>Journal Articles</h1></td>
     </tr>
     <tr>
+        <td><a href="/assets/papers/frontiers_sonorants_2019.pdf"><img src="/img/img_papers/fneuro.png" border="1" alt="frontiers_communication"></a></td>
+        <td><strong>Themistocleous Charalambos</strong> (2019). Dialect Classification from a Single Sonorant Sound Using Deep Neural Networks</em>. doi: 10.3389/fneur.2018.00975.<p><a href="https://doi.org/10.3389/fcomm.2019.00064">URL</a></p></td>
+    </tr>
+    <tr>
         <td><a href="/assets/papers/clp.pdf"><img src="/img/img_papers/clp.jpg" border="1" alt="Themistocleous"></a></td>
         <td>Valantis Fyndanis and	<strong>Charalambos Themistocleous</strong> (2019) Are there prototypical associations between time frames and aspectual values? Evidence from Greek aphasia and healthy ageing.  <em>Clinical Linguistics & Phonetics. </em> DOI: 10.1080/02699206.2018.1480657<p><a href="https://www.tandfonline.com/doi/abs/10.1080/02699206.2018.1480657">URL</a></p></td>
     </tr>
