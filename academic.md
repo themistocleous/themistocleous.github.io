@@ -2,7 +2,7 @@
 layout: page
 title: Academic
 permalink: /academic/
-order: 5
+exclude: true
 ---
 ### Academic Calendar
 

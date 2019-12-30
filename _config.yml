@@ -19,6 +19,7 @@ description: "(c) 2019 Haris Themistocleous"
 baseurl: "" # the subpath of your site, e.g. /jblog
 url: "https://charalambosthemistocleous.com" # the base hostname & protocol for your site, e.g. http://charalambosthemistocleous.com
 
+
 # Build settings
 markdown: kramdown
 theme: minima
