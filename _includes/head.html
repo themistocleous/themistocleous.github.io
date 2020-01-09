@@ -4,11 +4,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
-  <link rel="stylesheet" href="/assets/css/academicons.min.css"/>
-  <link rel="stylesheet" href="/assets/css/fontawesome-all.css"/>
-  <link rel="stylesheet" href="/assets/main.css"/>
+  <meta name="description"
+    content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  <link rel="stylesheet" href="/assets/css/academicons.min.css" />
+  <link rel="stylesheet" href="/assets/css/fontawesome-all.css" />
+  <link rel="stylesheet" href="/assets/main.css" />
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}"
+    href="{{ "/feed.xml" | relative_url }}">
+  <!-- Put the following javascript before the closing </head> tag
+and replace 123:456 with your own Custom Search engine ID. -->
+  <script async src="https://cse.google.com/cse.js?cx=123:456"></script>
 </head>
