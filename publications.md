@@ -82,7 +82,7 @@ order: 2
     </tr>
     <tr>
     <td>2012</td>
-        <td><a href="https://www.cambridgescholars.com/current-trends-in-greek-linguistics-16"><img src="/img/img_papers/bookgreek.jpg" border="1" alt="Themistocleous"></a></td>
+        <td><a href="https://www.cambridgescholars.com/current-trends-in-greek-linguistics-16"><img src="/img/img_papers/bookgreek.png" border="1" alt="Themistocleous"></a></td>
         <td>Fragaki Georgia, Georgakopoulos Athanasios, <strong>Themistocleous</strong> <strong>Charalambos</strong> (Eds.) (2012). Current Trends in Greek Linguistics. Newcastle upon Tyne: Cambridge Scholars Publishing.</td>
     </tr>
     <tr>
