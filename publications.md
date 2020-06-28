@@ -4,7 +4,6 @@ title: Publications
 permalink: /publications/
 order: 2
 ---
-
 <table>
     <tr>
         <th width="5%">Date</th>
@@ -28,7 +27,7 @@ order: 2
     </tr>
     <tr>
     <td></td>
-        <td><a href="/assets/papers/clp.pdf"><img src="/img/img_papers/clp.jpg" border="1" alt="Themistocleous"></a></td>
+        <td><a href="/assets/papers/clp.pdf"><img src="/img/img_papers/clp.png" border="1" alt="Themistocleous"></a></td>
         <td>Valantis Fyndanis and	<strong>Charalambos Themistocleous</strong> (2019) Are there prototypical associations between time frames and aspectual values? Evidence from Greek aphasia and healthy ageing.  <em>Clinical Linguistics & Phonetics. </em> DOI: 10.1080/02699206.2018.1480657<p><a href="https://www.tandfonline.com/doi/abs/10.1080/02699206.2018.1480657">URL</a></p></td>
     </tr>
     <tr>
