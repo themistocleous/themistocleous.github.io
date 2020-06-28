@@ -10,9 +10,9 @@ order: 5
 
 * Statistical Methods for Natural Language Processing (NLP). Master’s Programme in Language Technology; teaching and course organizing.
 
-<a href="/assets/pages/MLT.html">Link to Course Website</a>
+     *  <a href="/assets/pages/MLT.html">Link to Course Website</a>
 
-<a href="https://github.com/themistocleous/StatisticalMethodsNLP">Link to Course Materials on GitHub</a>
+     * <a href="https://github.com/themistocleous/StatisticalMethodsNLP">Link to Course Materials on GitHub</a>
 
 **2016 Graduate Studies** 
 
