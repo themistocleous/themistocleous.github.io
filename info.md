@@ -11,16 +11,16 @@ order: 6
 		    <a href="#gr">Grants and Awards</a>&nbsp;|&nbsp;
 		    <a href="#su">Supervision</a>&nbsp;|&nbsp;
 		    <a href="#teme">Teaching merits</a>&nbsp;|&nbsp;
-                    <a href="#ou">Outreach Activities</a>&nbsp;|&nbsp;
-                    <a href="#ot">Other Training</a>&nbsp;|&nbsp;
-                    <a href="#na">NLP/ML Applications</a>&nbsp;|&nbsp;
-                    <a href="#co">Computer Skills</a>&nbsp;|&nbsp;
-                    <a href="#re">Reviews of my work</a>&nbsp;|&nbsp;
-                    <a href="#so">Academic Societies</a>&nbsp;|&nbsp;
-                    <a href="#pr">Advisory Board</a>&nbsp;|&nbsp;
-                    <a href="#as">Academic Service</a>&nbsp;|&nbsp;
-                    <a href="#la">Languages</a>
-</p> 
+            <a href="#ou">Outreach Activities</a>&nbsp;|&nbsp;
+            <a href="#ot">Other Training</a>&nbsp;|&nbsp;
+            <a href="#na">NLP/ML Applications</a>&nbsp;|&nbsp;
+            <a href="#co">Computer Skills</a>&nbsp;|&nbsp;
+            <a href="#re">Reviews of my work</a>&nbsp;|&nbsp;
+            <a href="#so">Academic Societies</a>&nbsp;|&nbsp;
+            <a href="#pr">Advisory Board</a>&nbsp;|&nbsp;
+            <a href="#as">Academic Service</a>&nbsp;|&nbsp;
+            <a href="#la">Languages</a>
+</p>
 <hr>
 <a name="ed"></a>
 <h1 id="education"> >> Education</h1>
