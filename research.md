@@ -4,10 +4,13 @@ title: Research
 permalink: /research/
 order: 3
 ---
+<p style="text-align:justify">I study the speech and language of individuals with Primary Progressive Aphasia and Alzheimer’s Disease to identify objective measures that can enable their diagnosis early, provide prognosis of their condition, and ultimately improve therapy. To this end, I employ natural language processing, acoustic analysis, and machine learning models (deep neural networks, SVMs, etc.).</p> 
+<hr>
+<h1  style="padding-top: 0.5cm"> >> Research Highlights</h1>            
 <table>
     <tr>
-        <th width="30%">Research Highlights</th>
-        <th width="80%"></th>
+        <th width="40%"></th>
+        <th width="60%"></th>
     </tr>
     <tr>
         <td><a href="https://github.com/themistocleous/frontiers_dialect_sonorants/"><img src="/img/img_papers/frontiers_sonorants_dialects.jpg" alt="NLP_Editor"/></a></td>
