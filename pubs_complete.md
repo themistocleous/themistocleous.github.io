@@ -25,15 +25,6 @@ exclude: true
 <a name="jo"></a>
 <h1 id="journal-articles">Journal Articles</h1>
 <ol>
-<li><p><strong>A. Under review</strong></p></li>
-<li><p><strong>Themistocleous Charalambos</strong>, Ficek Bronte, and Tsapkini Kyrana (in preparation). Effects of tDCS on Speech Production in individuals with Apraxia of Speech.</p></li>
-<li><p><strong>Themistocleous Charalambos</strong>, Ficek Bronte, Webster Kimberly, den Ouden Dirk-Bart, Hillis Argye E., and Tsapkini Kyrana (under review). Automated speech segmentation and classification of Primary Progressive Aphasia variants from a picture description task via a Deep Neural Network Architecture. <em>Neurology</em>.</p></li>
-<li><p><strong>Themistocleous Charalambos</strong>, Kyriaci Neophytou, Webster Kimberly, Tsapkini Kyrana (under review). Automatic metrics of spelling errors on words and non-words. <em>Journal of Speech, Language, and Hearing Research</em>.</p></li>
-<li><p><strong>Themistocleous Charalambos</strong>, Eckeström, Marie, Kokkinanis Dimitrios (under review). The acoustic profile of individuals with MCI. <em>PLOS one</em>.</p></li>
-<li><p>Fyndanis Valantis, <strong>Themistocleous Charalambos</strong>, Miceli Gabriele et al. (in preparation). No unitary account of agrammatic production can succeed: The way forward.</p></li>
-<li><p><strong>Themistocleous Charalambos</strong> Fyndanis Valanitis, and Tsapkini Kyrana (under review). Acoustic properties of sonorants in proximal language varieties. <em>Speech Communication</em>.</p></li>
-</ol>
-<ol>
 <li><p><strong>Themistocleous Charalambos</strong>, Webster Kimberly, Alexandros Afthinos, and Tsapkini Kyrana (in press). Morphological markers in speech production distinguish individuals with different primary progressive aphasia variants: A natural language processing and machine learning approach. <em>American Journal of Speech-Language Pathology</em>.</p></li>
 <li><p><strong>Themistocleous Charalambos</strong>, Bronte Ficek, Kimberly Webster, Dirk-Bart den Ouden, Argye E. Hillis, Kyrana Tsapkini (2020). Automatic subtyping of individuals with Primary Progressive Aphasia. bioRxiv 2020.04.04.025593; doi: https://doi.org/10.1101/2020.04.04.025593</p></li>
 <li><p>Stark Brielle C., Dutta Manaswita, Murray Laura, Bryant Lucy, Fromm Davida; MacWhinney Brian, Ramage Amy, Simmons-Mackie Nina, Roberts Angela, Fergadiotis Gerasimos, den Ouden Dirk, Brock Kris, McKinney-Bock Katy, Jin Paek Eun, Harmon Tyson, <strong>Themistocleous Charalambos</strong>, Yoo Hyunsoo, On Yoon Si, Sharma Saryu, Aveni Katharine, Gutierrez Stephanie, Doppelbauer Lea, Dawn Bunker Lisa (2020). Standardizing assessment of spoken discourse in aphasia: A working group with deliverables. <em>American Journal of Speech-Language Pathology</em>. 1–12 <a href="https://doi.org/10.1044/2020_AJSLP--19--00093" class="uri">https://doi.org/10.1044/2020_AJSLP--19--00093</a> (a preprint version exists in PsyArXiv. October 3. doi:10.31234/osf.io/e6r3x.)</p></li>
