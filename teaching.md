@@ -4,59 +4,56 @@ title: Teaching
 permalink: /teaching/
 order: 5
 ---
-### University of Gothenburg, Sweden
+<h1 id="teaching">>> Teaching</h1>
+<ul>
+<li><p><strong>University of Gothenburg</strong></p></li>
+<li><p><em><strong>Graduate Course (MA level):</strong> Statistical Methods for Natural Language Processing (NLP)</em>. Master’s Programme in Language Technology; teaching and course organizing.</p></li>
+<ul>
+<li><a href="/assets/pages/MLT.html">Link to Course Website</a> </li>
+<li><a href="https://github.com/themistocleous/StatisticalMethodsNLP">Link to Course Materials on GitHub</a></li>
+</ul>
+<li><p><em><strong>Graduate Course (MA level):</strong>  Introduction to Formal Linguistics</em>, University of Gothenburg. Master’s Programme in language technology. Co-teaching with Stergios Chatzikyriakides. (2016–2017)</p></li>
+<li><p><strong>University of Cyprus</strong></p></li>
+<li><p><em><strong>Graduate Course (MA level):</strong> Principles of Linguistic Analysis (MA Programme in Linguistics)</em></p></li>
+<li><p><em>Theoretical Phonology</em></p></li>
+<ul>
+<li><a href="https://github.com/themistocleous/course_phonetics">Link to Course Materials on GitHub</a></li>
+</ul>
+<li><p><em>Suprasegmental Phonology</em></p></li>
+<li><p><em>Sociolinguistics</em></p></li>
+<ul>
+<li><a href="https://github.com/themistocleous/course_sociolinguistics2014">Link to Course Materials on GitHub</a></li>
+</ul>
+<li><p><em>Phonetics and Phonology (3rd &amp; 4th year elective)</em></p></li>
+<li><p><em>Research Design and Statistics for Linguists (3rd &amp; 4th year elective)</em></p></li>
+<li><p><em>Sociolinguistics</em></p></li>
+<li><p><em>Undergraduate Course: Phonetics and Phonology: Advanced Level (3rd &amp; 4th year elective)</em></p></li>
+<li><p><em>Phonetics and Phonology</em></p></li>
+<li><p><em>Speech Melody and Conversation (3rd &amp; 4th year elective)</em></p></li>
+<li><p><em>Sociolinguistics</em></p></li>
+<li><p><em>Phonetics &amp; Phonology</em></p></li>
+<li><p><em>Information Structure and Prosody (3rd &amp; 4th year elective).</em></p></li>
+<li><p><em>Tutorials: Introduction to Greek Language</em></p></li>
+<li><p><strong>Open University of Cyprus</strong></p></li>
+<li><p><em>Linguistics and Literature.</em> Postgraduate module in Linguistics and Literature (Phonetics, Phonology, Morphology, Syntax, Semantics, and Pragmatics)</p></li>
+<li><p><strong>University of Athens</strong></p></li>
+<li><p><em>Tutorials: Phonetics, Phonology, and Statistics (Phonetics Lab)</em></p></li>
+</ul>
+<hr>
 
-**2017 Graduate Studies** 
-
-* Statistical Methods for Natural Language Processing (NLP). Master’s Programme in Language Technology; teaching and course organizing.
-
-     *  <a href="/assets/pages/MLT.html">Link to Course Website</a>
-
-     * <a href="https://github.com/themistocleous/StatisticalMethodsNLP">Link to Course Materials on GitHub</a>
-
-**2016 Graduate Studies** 
-
-* Introduction to Formal Linguistics: Phonetics, Phonology, and Morphology. Master’s Programme in Language Technology.
-
-### University of Cyprus, Cyprus
-
-**2014 Graduate Studies** 
-
-* Principles of Linguistic Analysis (Master’s Programme in Linguistics)
-
-**2014 Undergraduate Studies**
-
-* Theoretical Phonology: Suprasegmental Phonology
-<a href="https://github.com/themistocleous/course_phonetics">Link to Course Materials on GitHub</a>
-    
-* Sociolinguistics
-<a href="https://github.com/themistocleous/course_sociolinguistics2014">Link to Course Materials on GitHub</a>
-
-**2013 Undergraduate Studies**
-
-* Sociolinguistics
-* Phonetics and Phonology (3rd & 4th year elective)
-* Research Design and Statistics for Linguists (3rd & 4th year elective)
-* Sociolinguistics
-
-**2012 Undergraduate Studies**
-
-* Phonetics and Phonology: Advanced Level (3rd & 4th year elective)
-* Speech Melody and Conversation (3rd & 4th year elective)
-* Sociolinguistics
-* Phonetics & Phonology
-* Information Structure and Prosody (3rd & 4th year elective)
-
-
-### Open University of Cyprus, Cyprus
-
-* Greek Linguistics and Literature. Postgraduate module in Greek Linguistics and Literature (Phonetics, Phonology, Morphology, Syntax, Semantics, and Pragmatics).
-
-* Department of Byzantine and Modern Greek Studies, University of Cyprus, Cyprus.
-
-* **Sept. 2011 - Dec. 2011:** Undergraduate Tutorials: Introduction to Greek Language.
-
-
-### University of Athens, Greece.
-
-* **Sept. 2007 – May 2011 Tutorials:** Phonetics, Phonology, and Statistics Undergraduate studies.
+<h1> >> PhD Students</h1>
+<ul>
+<li><p>Georgios Georgiou, PhD dissertation (co-supervisor with Dr. Mary Koutselini); University of Cyprus, titled “Perception and Production of Greek vowels by Arabic Speakers of Greek as a second language”, 2014–2018.</p></li>
+</ul>
+<hr>
+<a name="teme"></a>
+<h1 id="development-of-teaching-materials"> >> Teaching Materials</h1>
+<ol>
+<li><p><strong>Themistocleous</strong> <strong>Charalambos</strong>. (2016). Introduction to R. Unpublished manuscript. Gothenburg. <a href="http://charalambosthemistocleous.com/assets/RIntroCover.pdf" class="uri">http://charalambosthemistocleous.com/assets/RIntroCover.pdf</a></p></li>
+<li><p><strong>Themistocleous, Charalambos</strong>. (2016). Introduction to Python. Unpublished manuscript. Gothenburg. <a href="" class="uri"></a></p></li>
+<li><p><strong>Themistocleous, Charalambos</strong>. (2012). Research Methodology and Linguistics <span>[</span>in Greek<span>]</span>. Unpublished manuscript. Nicosia. (pp. 300)</p></li>
+<li><p><strong>Themistocleous, Charalambos</strong>. (2011). Introduction to Phonetics and Phonology <span>[</span>in Greek<span>]</span>. Nicosia: Open University of Cyprus. (pp. 100)</p></li>
+<li><p><strong>Themistocleous, Charalambos</strong>. (2008). PRAAT Software for acoustic analysis. An introductory manual <span>[</span>in Greek<span>]</span>. University of Athens: Athens. DOI: <a href="10.13140/RG.2.1.4233.2003" class="uri">10.13140/RG.2.1.4233.2003</a></p></li>
+<li><p><strong>Themistocleous, Charalambos</strong>. (2006). A Grammar of SMG.Greek Verbs <span>[</span>in Greek<span>]</span>. Athens University of Athens. (pp. 400).</p></li>
+<li><p><strong>Themistocleous, Charalambos</strong> (2006). Discourse Markers. Athens: University of Athens.</p></li>
+</ol>
