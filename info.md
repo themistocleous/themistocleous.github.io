@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Info
-permalink: /info/
+title: CV
+permalink: /cv/
 order: 6
 ---
 <p>
@@ -9,8 +9,6 @@ order: 6
 		    <a href="#ex">Expertise</a>&nbsp;|&nbsp;
 		    <a href="#ac">Academic Positions</a>&nbsp;|&nbsp;
 		    <a href="#gr">Grants and Awards</a>&nbsp;|&nbsp;
-		    <a href="#su">Supervision</a>&nbsp;|&nbsp;
-		    <a href="#teme">Teaching merits</a>&nbsp;|&nbsp;
             <a href="#ou">Outreach Activities</a>&nbsp;|&nbsp;
             <a href="#ot">Other Training</a>&nbsp;|&nbsp;
             <a href="#na">NLP/ML Applications</a>&nbsp;|&nbsp;
