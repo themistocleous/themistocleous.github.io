@@ -5,7 +5,7 @@ permalink: /publications/
 order: 2
 ---
 <h1> >> Selected publications </h1>
-For the complete publications' list see <a href="/pubs">here</a>.
+For the complete publications list click <a href="/pubs">here</a>.
 <table>
     <tr>
         <th width="5%">Date</th>

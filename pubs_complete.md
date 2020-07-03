@@ -54,6 +54,28 @@ exclude: true
 <a name="co"></a>
 <h1 id="conference-papers">Conference Papers</h1>
 <ol>
+<li><p><strong>Themistocleous Charalambos</strong>,  Webster Kimberly  T., Ficek  Bronte, Tsapkini
+Kyrana (2020).  Effects of  tDCS on  apraxia of  speech in  non-fluent variant  of Primary
+Progressive Aphasia. Philadelphia (Presented On-line due to COVID19 pandemic).</p></li>
+
+<li><p>Neophytou Kyriaki, <strong>{Themistocleous Charalambos</strong>, Brenda Rapp, Tsapkini Kyrana
+(2020).  A tool for automatic scoring  of spelling.  Academy of Aphasia 2020. Philadelphia
+(Presented On-line due to COVID19 pandemic).</p></li>
+
+<li><p><strong>Themistocleous  Charalambos</strong>, Eckerström Marie, Lundholm  Fors Kristina, and
+Kokkinakis  Dimitris (2020).  Improving  the  Diagnosis of  Mild  Cognitive Impairment  in
+elderly  individuals  using a  multifactorial  automatic  analysis  of voice  quality  and
+prosody. 30th Alzheimer Europe Conference ``Building bridges''. 20-22 October 2020.</p></li>
+
+<li><p><strong>Themistocleous  Charalambos</strong>,  Eckerström Marie,  and  Kokkinakis  Dimitris
+(2020). Automatic  analysis of voice quality  and prosody in patients  with Mild Cognitive
+Impairment. The Society for the Neurobiology of Language Symbosium (SNL 2020).</p></li>
+  
+<li><p><strong>Themistocleous Charalambos</strong>,  Webster Kimberly  T., Ficek  Bronte, Tsapkini
+Kyrana   (2019).  Morphosyntactic   measures   of  PPA   variants  using   computational
+grammars.  49th  Clinical  Aphasiology  Conference 2019  (CAC  2019)  Whitefish,  Montana,
+Tuesday, May 28, 2019 – Saturday, June 1, 2019.</p></li>
+
 <li><p><strong>Themistocleous Charalambos</strong>, Webster Kimberly T., Ficek Bronte, Tsapkini Kyrana (2019). Morphosyntactic measures of PPA variants using computational grammars. 49th Clinical Aphasiology Conference 2019 (CAC 2019) Whitefish, Montana, Tuesday, May 28, 2019 – Saturday, June 1, 2019.</p></li>
 <li><p><strong>Themistocleous Charalambos</strong> and Dimitrios Kokkinakis (2019). Speech Analysis and Mild Cognitive Impairment Detection. <em>Proceedings of the 9th Tutorial &amp; Research Workshop on Experimental Linguistics (ExLing2019)</em>, September 25-27, 2019 Lisbon, Portugal, 113–116.</p></li>
 <li><p>Kokkinakis, Dimitrios, Lundholm Fors, Kristina, Fraser, Katie, Eckerström, Marie, Horn, Greta, and <strong>Themistocleous, Charalambos</strong> (2019). A multifaceted corpus for the study of cognitive decline in a swedish population. In CLARe4 : Corpora for Language and Aging Research, 27 February – 1 March 2019, Helsinki, Finland.</p></li>
