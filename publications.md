@@ -15,7 +15,7 @@ For the complete publications list click <a href="/pubs">here</a>.
     <tr>
     <td>2020</td>
     <td><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236009"><img src="/img/img_papers/2020plos.png" border="1" alt="plos_one_paper"></a></td>
-    <td><strong>Themistocleous, C.</strong>, Eckerström M., Kokkinakis D. (2020). Voice quality and speech fluency distinguish individuals with Mild Cognitive Impairment from Healthy Controls. <em>PLOS ONE</em> 5(7): e0236009. https://doi.org/10.1371/journal.pone.0236009</td>
+    <td><strong>Themistocleous, Charalambos</strong>, Eckerström Marie, Kokkinakis Dimitrios (2020). Voice quality and speech fluency distinguish individuals with Mild Cognitive Impairment from Healthy Controls. <em>PLOS ONE</em> 5(7): e0236009. https://doi.org/10.1371/journal.pone.0236009</td>
     </tr>
     <tr>
     <td></td>
