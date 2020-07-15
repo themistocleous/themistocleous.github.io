@@ -4,8 +4,8 @@ title: Teaching
 permalink: /teaching/
 order: 5
 ---
-<h1 id="teaching">>> Teaching</h1>
-<ul>
+<h1 id="teaching"> ➣ Teaching</h1>
+<ul> 
 <h4>1. University of Gothenburg</h4>
 <li><p><em><strong>Graduate Course (MA level):</strong> Statistical Methods for Natural Language Processing (NLP)</em>. Master’s Programme in Language Technology; teaching and course organizing.</p></li>
 <ul>
@@ -43,14 +43,14 @@ order: 5
 </ul>
 <hr>
 
-<h1> >> PhD Students</h1>
+<h1> ➣ PhD Students</h1>
 <ul>
 <li><p><strong>2014--2018:</strong>Georgios Georgiou, PhD dissertation (co-supervisor); University of Cyprus, titled "Perception and Production of Greek vowels by Arabic Speakers of Greek as a second language".</p></li>
 </ul>
 <hr>
 
 <a name="teme"></a>
-<h1 id="development-of-teaching-materials"> >> Teaching Materials</h1>
+<h1 id="development-of-teaching-materials"> ➣ Teaching Materials</h1>
 <ol>
 <li><p><strong>Themistocleous</strong> <strong>Charalambos</strong>. (2016). <a href="/assets/RIntroCover.pdf" class="uri"> Introduction to R.</a> Unpublished manuscript. Gothenburg</p></li>
 <li><p><strong>Themistocleous, Charalambos</strong>. (2016). <a href="/research/project/2017/05/31/python.html" class="uri">Introduction to Python.</a> Unpublished manuscript. Gothenburg.</p></li>
