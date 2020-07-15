@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 order: 2
 ---
-<h1> >> Selected publications </h1>
+<h1> ➣ Selected publications </h1>
 For the complete publications list click <a href="/pubs">here</a>.
 <table>
     <tr>
@@ -15,12 +15,12 @@ For the complete publications list click <a href="/pubs">here</a>.
     <tr>
     <td>2020</td>
     <td><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236009"><img src="/img/img_papers/2020plos.png" border="1" alt="plos_one_paper"></a></td>
-    <td><strong>Themistocleous, Charalambos</strong>, Eckerström Marie, Kokkinakis Dimitrios (2020). Voice quality and speech fluency distinguish individuals with Mild Cognitive Impairment from Healthy Controls. <em>PLOS ONE</em> 5(7): e0236009. https://doi.org/10.1371/journal.pone.0236009</td>
+    <td><strong>Themistocleous, Charalambos</strong>, Eckerström Marie, Kokkinakis Dimitrios (2020). Voice quality and speech fluency distinguish individuals with Mild Cognitive Impairment from Healthy Controls. <em>PLOS ONE</em> 5(7): e0236009. https://doi.org/10.1371/journal.pone.0236009<p><a href="https://doi.org/10.1371/journal.pone.0236009">URL</a></p></td>
     </tr>
     <tr>
     <td></td>
     <td><a href="https://pubs.asha.org/doi/10.1044/2020_AJSLP-19-00093"><img src="/img/img_papers/AJSHRBrielle2020.png" border="1" alt="concensous paper"></a></td>
-    <td>Stark Brielle, C., Dutta, M., Murray Laura, L., Bryant, L., Fromm, D., MacWhinney, B., Ramage Amy, E., Roberts, A., den Ouden Dirk, B., Brock, K., McKinney-Bock, K., Paek Eun, J., Harmon Tyson, G., Yoon Si, O.,<strong>Themistocleous, Charalambos</strong>, Yoo, H., Aveni, K., Gutierrez, S., & Sharma, S. Standardizing Assessment of Spoken Discourse in Aphasia: A Working Group With Deliverables. <em>American Journal of Speech-Language Pathology.</em> https://doi.org/10.1044/2020_AJSLP-19-00093 </td>
+    <td>Stark Brielle, C., Dutta, M., Murray Laura, L., Bryant, L., Fromm, D., MacWhinney, B., Ramage Amy, E., Roberts, A., den Ouden Dirk, B., Brock, K., McKinney-Bock, K., Paek Eun, J., Harmon Tyson, G., Yoon Si, O.,<strong>Themistocleous, Charalambos</strong>, Yoo, H., Aveni, K., Gutierrez, S., & Sharma, S. Standardizing Assessment of Spoken Discourse in Aphasia: A Working Group With Deliverables. <em>American Journal of Speech-Language Pathology.</em> https://doi.org/10.1044/2020_AJSLP-19-00093<p><a href="https://doi.org/10.1044/2020_AJSLP-19-00093">URL</a></p></td>
     </tr>
     <tr>
         <td></td>
