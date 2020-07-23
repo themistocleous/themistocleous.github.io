@@ -12,8 +12,13 @@ For the complete publications list click <a href="/pubs">here</a>.
         <th width="35%">Link</th>
         <th width="60%">Reference</th>
     </tr>
-    <tr>
+     <tr>
     <td>2020</td>
+    <td><a href="https://doi.org/10.1044/2020_AJSLP-19-00114"><img src="/img/img_papers/AJSLP2020.png" border="1" alt="AJSLP2020_paper"></a></td>
+    <td><strong>Themistocleous Charalambos</strong>, Webster Kim, Afthinos Alexandros, & Tsapkini Kyrana (2020). Part of Speech Production in Patients With Primary Progressive Aphasia: An Analysis Based on Natural Language Processing. American Journal of Speech-Language Pathology. https://doi.org/10.1044/2020_AJSLP-19-00114 <p><a href="https://doi.org/10.1044/2020_AJSLP-19-00114">URL</a></p></td>
+    </tr>
+    <tr>
+    <td></td>
     <td><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236009"><img src="/img/img_papers/2020plos.png" border="1" alt="plos_one_paper"></a></td>
     <td><strong>Themistocleous, Charalambos</strong>, Eckerström Marie, Kokkinakis Dimitrios (2020). Voice quality and speech fluency distinguish individuals with Mild Cognitive Impairment from Healthy Controls. <em>PLOS ONE</em> 5(7): e0236009. https://doi.org/10.1371/journal.pone.0236009<p><a href="https://doi.org/10.1371/journal.pone.0236009">URL</a></p></td>
     </tr>
