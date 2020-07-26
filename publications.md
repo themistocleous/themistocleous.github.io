@@ -4,13 +4,18 @@ title: Publications
 permalink: /publications/
 order: 2
 ---
-<h1> ➣ Selected publications </h1>
+<h1>Selected publications </h1>
 For the complete publications list click <a href="/pubs">here</a>.
 <table>
     <tr>
         <th width="5%">Date</th>
-        <th width="35%">Link</th>
-        <th width="60%">Reference</th>
+        <th width="30%">Link</th>
+        <th width="65%">Reference</th>
+    </tr>
+     <tr>
+        <td></td>
+        <td><h1>Articles</h1></td>
+        <td></td>
     </tr>
      <tr>
     <td>2020</td>
@@ -25,12 +30,17 @@ For the complete publications list click <a href="/pubs">here</a>.
     <tr>
     <td></td>
     <td><a href="https://pubs.asha.org/doi/10.1044/2020_AJSLP-19-00093"><img src="/img/img_papers/AJSHRBrielle2020.png" border="1" alt="concensous paper"></a></td>
-    <td>Stark Brielle, C., Dutta, M., Murray Laura, L., Bryant, L., Fromm, D., MacWhinney, B., Ramage Amy, E., Roberts, A., den Ouden Dirk, B., Brock, K., McKinney-Bock, K., Paek Eun, J., Harmon Tyson, G., Yoon Si, O.,<strong>Themistocleous, Charalambos</strong>, Yoo, H., Aveni, K., Gutierrez, S., & Sharma, S. Standardizing Assessment of Spoken Discourse in Aphasia: A Working Group With Deliverables. <em>American Journal of Speech-Language Pathology.</em> https://doi.org/10.1044/2020_AJSLP-19-00093<p><a href="https://doi.org/10.1044/2020_AJSLP-19-00093">URL</a></p></td>
+    <td>Stark Brielle, C., Dutta, M., Murray Laura, L., Bryant, L., Fromm, D., MacWhinney, B., Ramage Amy, E., Roberts, A., den Ouden Dirk, B., Brock, K., McKinney-Bock, K., Paek Eun, J., Harmon Tyson, G., Yoon Si, O.,<strong>Themistocleous, Charalambos</strong>, Yoo, H., Aveni, K., Gutierrez, S., & Sharma, S. Standardizing Assessment of Spoken Discourse in Aphasia: A Working Group With Deliverables. <em>American Journal of Speech-Language Pathology.</em>https://doi.org/10.1044/2020_AJSLP-19-00093<p><a href="https://doi.org/10.1044/2020_AJSLP-19-00093">URL</a></p></td>
     </tr>
     <tr>
         <td></td>
         <td><a href="https://www.biorxiv.org/content/10.1101/2020.04.04.025593v2"><img src="/img/img_papers/bioarxiv2020.png" border="1" alt="preprint bioarxiv"></a></td>
-        <td><strong>[Preprint]</strong> Charalambos Themistocleous, Bronte Ficek, Kimberly Webster, Dirk-Bart den Ouden, Argye E. Hillis, Kyrana Tsapkini (2020). Automatic subtyping of individuals with Primary Progressive Aphasia. <em>bioRxiv 2020.04.04.025593</em>; doi: https://doi.org/10.1101/2020.04.04.025593<p><a href="https://www.biorxiv.org/content/10.1101/2020.04.04.025593v2">URL</a></p></td>
+        <td>[Preprint]<strong>Charalambos Themistocleous</strong>, Bronte Ficek, Kimberly Webster, Dirk-Bart den Ouden, Argye E. Hillis, Kyrana Tsapkini (2020). Automatic subtyping of individuals with Primary Progressive Aphasia. <em>bioRxiv 2020.04.04.025593</em>; doi: https://doi.org/10.1101/2020.04.04.025593. <p><a href="https://www.biorxiv.org/content/10.1101/2020.04.04.025593v2">URL</a></p></td>
+    </tr>
+    <tr>
+    <td></td>
+    <td><a href="https://journals.sagepub.com/doi/10.1177/1367006920945396"><img src="/img/img_papers/IJB2020.png" border="1" alt="international journal of bilingualism"></a></td>
+    <td>Georgiou, Georgios P., and <strong>Themistocleous Charalambos</strong> (2020). Vowel learning in diglossic settings: Evidence from Arabic-Greek learners. <em>International Journal of Bilingualism</em>, 1367006920945396. doi:10.1177/1367006920945396.<p><a href="https://doi.org/10.1177/1367006920945396">URL</a></p></td>
     </tr>
     <tr>
     <td>2019</td>
@@ -82,10 +92,10 @@ For the complete publications list click <a href="/pubs">here</a>.
         <td><a href="/assets/papers/lengthening.pdf"><img src="/img/img_papers/edge.png" border="1" alt="Themistocleous"></a></td>
         <td><strong>Themistocleous Charalambos</strong> (2014). Edge-Tone Effects and Prosodic Domain Effects on Final Lengthening. <em>Linguistic Variation</em> 14(1). 129–160. DOI: 10.1075/lv.14.1.06the.<p><a href="https://benjamins.com/catalog/lv.14.1.06the">URL</a></p></td>
     </tr>
-        <tr>
-        <td></td>
+     <tr>
         <td></td>
         <td><h1>Books</h1></td>
+        <td></td>
     </tr>
     <tr>
     <td>2015</td>
@@ -99,8 +109,8 @@ For the complete publications list click <a href="/pubs">here</a>.
     </tr>
     <tr>
         <td></td>
-        <td></td>
         <td><h1>Recent Conference Papers</h1></td>
+        <td></td>
     </tr>
         <tr>
         <td>2018</td>
@@ -205,8 +215,8 @@ For the complete publications list click <a href="/pubs">here</a>.
     </tr>
     <tr>
     <td></td>
-        <td></td>
         <td><h1>Online Manuscripts</h1></td>
+        <td></td>
     </tr>
     <tr>
     <td></td>
