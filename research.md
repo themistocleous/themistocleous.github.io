@@ -6,7 +6,7 @@ order: 3
 ---
 <p style="text-align:justify">I study the speech and language of individuals with Primary Progressive Aphasia and Alzheimer’s Disease to identify objective measures that can enable their diagnosis early, provide prognosis of their condition, and ultimately improve therapy. To this end, I employ natural language processing, acoustic analysis, and machine learning models (deep neural networks, SVMs, etc.).</p> 
 <hr>
-<h1  style="padding-top: 0.5cm"> ➣ Research Highlights</h1>            
+<h1  style="padding-top: 0.5cm">Research Highlights</h1>            
 <table>
     <tr>
         <th width="40%"></th>
@@ -59,3 +59,15 @@ The C5.0 machine-learning algorithm was employed to model the interaction of soc
     <td><a href="https://benjamins.com/catalog/lv.14.1.06the"><strong>Themistocleous Charalambos </strong></a> (2014). Edge-Tone Effects and Prosodic Domain Effects on Final Lengthening. Linguistic Variation 14(1). 129–160<p></p>This study reports two experiments that investigate the edge-tones and domain-specific effects on final lengthening. The study shows that in Cypriot Greek the following occur: (a) lengthening applies primarily on the syllable nucleus not the syllable onset, which suggests variety specific effects of lengthening; (b) lengthening depends on the edge-tones, namely, polar questions trigger more lengthening than statements and wh-questions; (c) lengthening provides support for at least two distinct prosodic domains over the phonological word, the intonational phrase and the intermediate phrase; greater lengthening associates with the first and shorter lengthening with the latter; (d) finally, syllable duration depends on the syllable distance from the boundary. By pointing to the distinct lengthening effects of edge-tones and domain-boundaries, the aforementioned findings highlight the application of different lengthening devices.<p></p>Link to the PDF paper: <a href="/assets/papers/lengthening.pdf"><b>[PDF]</b></a></td>
     </tr>
 </table>
+<h1  style="padding-top: 0.5cm">Past Research</h1>
+<table>
+    <tr>
+        <th width="40%"></th>
+        <th width="60%"></th>
+    </tr>
+    <tr>
+    <td><img src="/img/img_papers/lex.jpg" border="1" alt="Correlations" align="middle"></td>
+<td>During my MA studies in Athens, I worked as a  researcher and lexicographer at "the utilitarian dictionary of Modern Greek Language" research project (Academy of Athens). "The utilitarian dictionary of Modern Greek Language". It has been published by the Academy of Athens in 2014. (PI: Professor Christoforos Charalambakis).<p></p>Link to the description of the dictionary (in Greek): <a href="http://www.academyofathens.gr/el/publications/dictionary"><b>[LINK]</b></a></td>
+</tr>
+</table>
+
