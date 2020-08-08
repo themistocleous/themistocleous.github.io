@@ -7,5 +7,5 @@ exclude: true
 
 photos:
     set: Washington
-    size: 5
+    size: 10
 ---
