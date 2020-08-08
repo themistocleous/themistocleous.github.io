@@ -1,0 +1,20 @@
+---
+layout: default
+title: Photos
+permalink: /photos/
+description: photogallery
+exclude: true
+---
+
+<h1>Photos</h1>
+<ul>
+  {% comment %}
+    Photo aggregation in one page.
+  {% endcomment %}
+  {% assign photo_pages = site.pages | where: "layout", "photos" %}
+  {% for photo_page in photo_pages %}
+    <li>
+      <a href="{{ photo_page.url | prepend: site.baseurl }}">{{ photo_page.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
