@@ -1,11 +1,11 @@
 ---
 layout: photos
 title: San Francisco, CA
-permalink: /san-francisco_11/
+permalink: /san-francisco/
 description: "Photos from San Francisco, CA."
 exclude: true
 
 photos:
-    set: san-francisco_11
+    set: san-francisco
     size: 11
 ---
