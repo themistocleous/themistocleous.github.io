@@ -2,7 +2,7 @@
 layout: photos
 title: Princeton, NJ
 permalink: /pr/
-description: "."
+description: s."
 exclude: true
 
 photos:
