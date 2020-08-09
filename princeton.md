@@ -1,11 +1,11 @@
 ---
 layout: photos
 title: Princeton, NJ
-permalink: /pr/
-description: s."
+permalink: /princeton/
+description: Photos from Princeton, NJ"
 exclude: true
 
 photos:
-    set: Pr
+    set: Princeton
     size: 4
 ---
