@@ -7,5 +7,5 @@ exclude: true
 
 photos:
     set: Princeton
-    size: 4
+    size: 3
 ---
