@@ -7,5 +7,5 @@ exclude: true
 
 photos:
     set: NY
-    size: 2
+    size: 3
 ---

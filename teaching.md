@@ -7,7 +7,7 @@ order: 5
 <h1 id="teaching">Teaching</h1>
 <hr>
 <ul> 
-<h2>University of Gothenburg</h2>
+<h1>University of Gothenburg</h1>
 <li><p><em><strong>Graduate Course (MA level):</strong> Statistical Methods for Natural Language Processing (NLP)</em>. Master’s Programme in Language Technology; teaching and course organizing.</p></li>
 <ul>
 <li><a href="/assets/pages/MLT.html">Link to Course Website</a> </li>
@@ -15,7 +15,7 @@ order: 5
 </ul>
 <li><p><em><strong>Graduate Course (MA level):</strong>  Introduction to Formal Linguistics</em>, University of Gothenburg. Master’s Programme in language technology. Co-teaching with Stergios Chatzikyriakides. (2016–2017)</p></li>
 <hr>
-<h2>University of Cyprus</h2>
+<h1>University of Cyprus</h1>
 <li><p><em><strong>Graduate Course (MA level):</strong> Principles of Linguistic Analysis (MA Programme in Linguistics)</em></p></li>
 <li><p><em>Theoretical Phonology</em></p></li>
 <ul>
@@ -37,7 +37,7 @@ order: 5
 <li><p><em>Information Structure and Prosody (3rd &amp; 4th year elective).</em></p></li>
 <li><p><em>Tutorials: Introduction to Greek Language</em></p></li>
 <hr>
-<h2>Open University of Cyprus</h2>
+<h1>Open University of Cyprus</h1>
 <li><p><em>Linguistics and Literature.</em> Postgraduate module in Linguistics and Literature (Phonetics, Phonology, Morphology, Syntax, Semantics, and Pragmatics)</p></li>
 <li><p><strong>University of Athens</strong></p></li>
 <li><p><em>Tutorials: Phonetics, Phonology, and Statistics (Phonetics Lab)</em></p></li>
