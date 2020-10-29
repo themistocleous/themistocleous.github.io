@@ -8,17 +8,17 @@ categories: Research Project
 
 ![screenshot](/img/img_papers/lex.jpg)
 
-<div style="text-align:justify"><p>The Utilitarian dictionary of Modern Greek Language is one of the most important dictionaries of Modern Greek to this day. I feel very honored that I contributed to its development as a young researcher in 2004-2006.</p>
+The Utilitarian dictionary of Modern Greek Language is one of the most important dictionaries of Modern Greek to this day. I feel very honored that I contributed to its development as a young researcher in 2004-2006.
 
-<p>It has been published by the Academy of Athens in 2014.</p> 
+It has been published by the Academy of Athens in 2014.
 
-<p>The dictionary is the outcome of years of research by a research group led by <b><i>Professor Christoforos Charalambakis</i></b>.</p>
+The dictionary is the outcome of years of research by a research group led by **Professor Christoforos Charalambakis**
 
-<p>The dictionary contains approximately 75,000 entries and fixed expressions out of 120,000 available in the electronic database. </p>
+The dictionary contains approximately 75,000 entries and fixed expressions out of 120,000 available in the electronic database.
 
-<p>Large corpora and lexicographic databases were employed, such as the National Thesaurus of Greek Language, the Inter-Active Terminology for Europe (IATE), and electronic databases and dictionaries of English, French, German, Italian, and Spanish, and internal databases of the Academy of Athens).</p>
+Large corpora and lexicographic databases were employed, such as the National Thesaurus of Greek Language, the Inter-Active Terminology for Europe (IATE), and electronic databases and dictionaries of English, French, German, Italian, and Spanish, and internal databases of the Academy of Athens).
 
-<p>The Academy of Athens in a press release published in October 31 2014, states that “One of the basic virtues of the Dictionary is that it describes Modern Greek language without prejudice based on the demands of modern lexicographical practice implies internationally”.</p></div>
+The Academy of Athens in a press release published in October 31 2014, states that “One of the basic virtues of the Dictionary is that it describes Modern Greek language without prejudice based on the demands of modern lexicographical practice implies internationally”.
 
 # References
 Hesse, Rolf. 2015. A short presentation of Χρηστικό Λεξικό της Νεοελληνικής Γλώσσας της Ακαδημίας Αθηνών. *Scandinavian Journal of Byzantine and Modern Greek Studies*, 1, 131–140.
