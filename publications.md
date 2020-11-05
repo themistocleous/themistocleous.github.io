@@ -17,11 +17,18 @@ For the complete publications list click <a href="/pubs">here</a>.
         <td><h1>Articles</h1></td>
         <td></td>
     </tr>
-     <tr>
+    <tr>
     <td>2020</td>
     <td><a href="https://doi.org/10.1044/2020_AJSLP-19-00114"><img src="/img/img_papers/AJSLP2020.png" border="1" alt="AJSLP2020_paper"></a></td>
     <td><strong>Themistocleous Charalambos</strong>, Webster Kim, Afthinos Alexandros, & Tsapkini Kyrana (2020). Part of Speech Production in Patients With Primary Progressive Aphasia: An Analysis Based on Natural Language Processing. American Journal of Speech-Language Pathology. https://doi.org/10.1044/2020_AJSLP-19-00114 <p><a href="https://doi.org/10.1044/2020_AJSLP-19-00114">URL</a></p></td>
     </tr>
+    <tr>
+    <td></td>
+    <td><a href="https://doi.org/10.1044/2020_JSLHR-20-00177"><img src="/img/img_papers/JSLHR-20-00177.png" border="1" alt="JSLHR-20-00177_paper"></a></td>
+    <td><strong>Themistocleous, Charalambos</strong>, Neophytou, Kyriaki, Rapp, Brenda, & Tsapkini, Kyrana. A Tool for Automatic Scoring of Spelling Performance. Journal of Speech, Language, and Hearing Research. doi:10.1044/2020_JSLHR-20-00177
+</td>
+    </tr>
+
     <tr>
     <td></td>
     <td><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236009"><img src="/img/img_papers/2020plos.png" border="1" alt="plos_one_paper"></a></td>
