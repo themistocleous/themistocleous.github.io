@@ -25,7 +25,8 @@ For the complete publications list click <a href="/pubs">here</a>.
     <tr>
     <td></td>
     <td><a href="https://doi.org/10.1044/2020_JSLHR-20-00177"><img src="/img/img_papers/JSLHR-20-00177.png" border="1" alt="JSLHR-20-00177_paper"></a></td>
-    <td><strong>Themistocleous, Charalambos</strong>, Neophytou, Kyriaki, Rapp, Brenda, & Tsapkini, Kyrana (2020). A Tool for Automatic Scoring of Spelling Performance. Journal of Speech, Language, and Hearing Research. doi:10.1044/2020_JSLHR-20-00177. <p><a https://github.com/themistocleous/spelling_assesment_app>[CODE]</a></p>
+    <td><strong>Themistocleous, Charalambos</strong>, Neophytou, Kyriaki, Rapp, Brenda, & Tsapkini, Kyrana (2020). A Tool for Automatic Scoring of Spelling Performance. Journal of Speech, Language, and Hearing Research. doi:10.1044/2020_JSLHR-20-00177. 
+    <p><a href="https://github.com/themistocleous/spelling_assesment_app">[CODE]</a></p>
 </td>
     </tr>
 
