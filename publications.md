@@ -12,6 +12,7 @@ For the complete publications list click <a href="/pubs">here</a>.
         <th width="30%">Link</th>
         <th width="65%">Reference</th>
     </tr>
+    <td></td>
     <td><h1>Books</h1></td>
         <td></td>
     </tr>
@@ -123,8 +124,6 @@ For the complete publications list click <a href="/pubs">here</a>.
         <td><a href="/assets/papers/lengthening.pdf"><img src="/img/img_papers/edge.png" border="1" alt="Themistocleous"></a></td>
         <td><strong>Themistocleous Charalambos</strong> (2014). Edge-Tone Effects and Prosodic Domain Effects on Final Lengthening. <em>Linguistic Variation</em> 14(1). 129–160. DOI: 10.1075/lv.14.1.06the.<p><a href="https://benjamins.com/catalog/lv.14.1.06the">URL</a></p></td>
     </tr>
-     <tr>
-        <td></td>
     <tr>
         <td></td>
         <td><h1>Recent Conference Papers</h1></td>
