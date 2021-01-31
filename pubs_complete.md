@@ -25,9 +25,9 @@ exclude: true
 <a name="jo"></a>
 <h1 id="journal-articles">Journal Articles</h1>
 <ol>
-<li><p><strong>Themistocleous  Charalambos</strong>, Kyriaci Neophytou, Brenda Rapp, Tsapkini
- Kyrana   (in print).    Automatic   metrics   of  spelling   errors   on  words   and
- non-words. <em>Journal of Speech, Language, and Hearing Research</em>.</p></li>
+<li><p><strong>Themistocleous Charalambos</strong>, Webster Kimberly, Tsapkini, Kyrana (2021). Effects of tDCS on Sound Duration in Patients with Apraxia of Speech in Primary Progressive Aphasia. <em>Preprints 2021, 2021010005</em>. <a href="https://doi.org/10.20944/preprints202101.0005.v1" class="uri">https://doi.org/10.20944/preprints202101.0005.v1</a>.</p></li>
+<li><p><strong>Themistocleous Charalambos</strong>, Bronte Ficek, Kimberly Webster, Dirk-Bart den Ouden, Argye E. Hillis, Kyrana Tsapkini (2021). Automatic subtyping of individuals with Primary Progressive Aphasia. <em>Journal of Alzheimer’s Disease</em>. <a href="https://doi.org/10.3233/JAD-201101" class="uri">https://doi.org/10.3233/JAD-201101</a>.</p></li>
+<li><p><strong>Themistocleous Charalambos</strong>, Kyriaci Neophytou, Brenda Rapp, Tsapkini Kyrana (2020). Au- tomatic metrics of spelling errors on words and non-words. <em>Journal of Speech, Language, and Hearing Research</em>.<a href="https://doi.org/10.1044/2020_JSLHR-20-00177" class="uri">https://doi.org/10.1044/2020_JSLHR-20-00177</a>.</p></li>
 <li><p><strong>Themistocleous Charalambos</strong>, Webster Kimberly, Alexandros Afthinos, and Tsapkini Kyrana (2020). Morphological markers in speech production distinguish individuals with different primary progressive aphasia variants: A natural language processing and machine learning approach. <em>American Journal of Speech-Language Pathology</em>. 
 <a href="https://doi:10.1044/2020_AJSLP-19-00114" class="uri">https://doi:10.1044/2020_AJSLP-19-00114</a>.</p></li>
 <li><p><strong>Themistocleous, Charalambos</strong>, Eckerström Marie, Kokkinakis Dimitrios (2020). Voice quality and speech fluency distinguish individuals with Mild Cognitive Impairment from Healthy Controls. <em>PLOS ONE</em> 5(7): e0236009. <a href="https://doi.org/10.1371/journal.pone.0236009" class="uri">https://doi.org/10.1371/journal.pone.0236009</a>.</p></li>
