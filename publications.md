@@ -12,6 +12,19 @@ For the complete publications list click <a href="/pubs">here</a>.
         <th width="30%">Link</th>
         <th width="65%">Reference</th>
     </tr>
+    <td><h1>Books</h1></td>
+        <td></td>
+    </tr>
+    <tr>
+    <td>2015</td>
+        <td><a href="http://www.iwn.gr/product.asp?catid=17589"><img src="/img/img_papers/bookstats.png" border="1" alt="Statistics"></a></td>
+        <td><strong>Themistocleous</strong>  <strong>Charalambos</strong>   (2015).   <em>Experimental Design  and  Statistics  in  Linguistics.  Using  R  (In  Greek)</em>.  Athens:      Ion.        ISBN:978-960-508-187-4.</td>
+    </tr>
+    <tr>
+    <td>2012</td>
+        <td><a href="https://www.cambridgescholars.com/current-trends-in-greek-linguistics-16"><img src="/img/img_papers/bookgreek.png" border="1" alt="Themistocleous"></a></td>
+        <td>Fragaki Georgia, Georgakopoulos Athanasios, <strong>Themistocleous</strong> <strong>Charalambos</strong> (Eds.) (2012). Current Trends in Greek Linguistics. Newcastle upon Tyne: Cambridge Scholars Publishing.</td>
+    </tr>
      <tr>
         <td></td>
         <td><h1>Articles</h1></td>
@@ -112,19 +125,6 @@ For the complete publications list click <a href="/pubs">here</a>.
     </tr>
      <tr>
         <td></td>
-        <td><h1>Books</h1></td>
-        <td></td>
-    </tr>
-    <tr>
-    <td>2015</td>
-        <td><a href="http://www.iwn.gr/product.asp?catid=17589"><img src="/img/img_papers/bookstats.png" border="1" alt="Statistics"></a></td>
-        <td><strong>Themistocleous</strong>  <strong>Charalambos</strong>   (2015).   <em>Experimental Design  and  Statistics  in  Linguistics.  Using  R  (In  Greek)</em>.  Athens:      Ion.        ISBN:978-960-508-187-4.</td>
-    </tr>
-    <tr>
-    <td>2012</td>
-        <td><a href="https://www.cambridgescholars.com/current-trends-in-greek-linguistics-16"><img src="/img/img_papers/bookgreek.png" border="1" alt="Themistocleous"></a></td>
-        <td>Fragaki Georgia, Georgakopoulos Athanasios, <strong>Themistocleous</strong> <strong>Charalambos</strong> (Eds.) (2012). Current Trends in Greek Linguistics. Newcastle upon Tyne: Cambridge Scholars Publishing.</td>
-    </tr>
     <tr>
         <td></td>
         <td><h1>Recent Conference Papers</h1></td>
