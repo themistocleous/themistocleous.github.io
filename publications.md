@@ -12,9 +12,10 @@ For the complete publications list click <a href="/pubs">here</a>.
         <th width="30%">Link</th>
         <th width="65%">Reference</th>
     </tr>
+    <tr>
     <td></td>
     <td><h1>Books</h1></td>
-        <td></td>
+    <td></td>
     </tr>
     <tr>
     <td>2015</td>
