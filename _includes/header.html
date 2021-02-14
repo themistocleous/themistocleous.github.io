@@ -1,5 +1,5 @@
 <header class="site-header" role="banner">
-  <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
   <div class="wrapper">
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
@@ -20,7 +20,7 @@
           </svg>
         </span>
       </label>
-
+      <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
       <div class="trigger">
         {% for page in site.pages %}
         {% unless page.exclude %}
