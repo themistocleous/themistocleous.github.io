@@ -34,8 +34,9 @@ For the complete publications list click <a href="/pubs">here</a>.
     </tr>
     <tr>
 <td>2021</td>
-<td><a href="https://www.preprints.org/manuscript/202101.0005/v1"><img src="/img/img_papers/preprint2021.png" border="1" alt="preprint2020_paper"></a></td>
-<td><strong>Themistocleous Charalambos</strong>, Webster Kimberly, Tsapkini, Kyrana (2021). Effects of tDCS on Sound Duration in Patients with Apraxia of Speech in Primary Progressive Aphasia. Preprints 2021, 2021010005 https://doi.org/10.20944/preprints202101.0005.v1<p><a href="https://www.preprints.org/manuscript/202101.0005/v1">URL</a></p></td>
+<td><a href="https://www.mdpi.com/2076-3425/11/3/335"><img src="/img/img_papers/brainsciences2021.png" border="1" alt="brainsci-11-00335"></a></td>
+<td><strong>Themistocleous Charalambos</strong>, Webster Kimberly, Tsapkini, Kyrana (2021). Effects of tDCS on Sound Duration in Patients with Apraxia of Speech in Primary Progressive Aphasia. In Brain Sciences, 11(3):335-553. https://www.mdpi.com/2076-3425/11/3/335><a href="https://www.mdpi.com/2076-3425/11/3/335">URL</a>
+Also, in Preprints 2021, 2021010005 https://doi.org/10.20944/preprints202101.0005.v1<p><a href="https://www.preprints.org/manuscript/202101.0005/v1">URL</a></p></td>
 </tr>
 <tr>
 <td></td>
