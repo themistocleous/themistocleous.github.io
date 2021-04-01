@@ -51,11 +51,6 @@ For the complete publications list click <a href="/pubs">here</a>.
     <td>Stark Brielle, C., Dutta, M., Murray Laura, L., Bryant, L., Fromm, D., MacWhinney, B., Ramage Amy, E., Roberts, A., den Ouden Dirk, B., Brock, K., McKinney-Bock, K., Paek Eun, J., Harmon Tyson, G., Yoon Si, O.,<strong>Themistocleous, Charalambos</strong>, Yoo, H., Aveni, K., Gutierrez, S., & Sharma, S. Standardizing Assessment of Spoken Discourse in Aphasia: A Working Group With Deliverables. <em>American Journal of Speech-Language Pathology.</em>https://doi.org/10.1044/2020_AJSLP-19-00093<p><a href="https://doi.org/10.1044/2020_AJSLP-19-00093">URL</a></p></td>
     </tr>
     <tr>
-        <td></td>
-        <td><a href="https://www.biorxiv.org/content/10.1101/2020.04.04.025593v2"><img src="/img/img_papers/bioarxiv2020.png" border="1" alt="preprint bioarxiv"></a></td>
-        <td>[Preprint]<strong>Charalambos Themistocleous</strong>, Bronte Ficek, Kimberly Webster, Dirk-Bart den Ouden, Argye E. Hillis, Kyrana Tsapkini (2020). Automatic subtyping of individuals with Primary Progressive Aphasia. <em>bioRxiv 2020.04.04.025593</em>; doi: https://doi.org/10.1101/2020.04.04.025593. <p><a href="https://www.biorxiv.org/content/10.1101/2020.04.04.025593v2">URL</a></p></td>
-    </tr>
-    <tr>
     <td></td>
     <td><a href="https://journals.sagepub.com/doi/10.1177/1367006920945396"><img src="/img/img_papers/IJB2020.png" border="1" alt="international journal of bilingualism"></a></td>
     <td>Georgiou, Georgios P., and <strong>Themistocleous Charalambos</strong> (2020). Vowel learning in diglossic settings: Evidence from Arabic-Greek learners. <em>International Journal of Bilingualism</em>, 1367006920945396. doi:10.1177/1367006920945396.<p><a href="https://doi.org/10.1177/1367006920945396">URL</a></p></td>
