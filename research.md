@@ -14,14 +14,13 @@ order: 3
     </tr>
     <tr>
         <td><a href="https://github.com/themistocleous/JAD_paper"><img src="/img/img_papers/jad.png" alt="Themis"/></a></td>
-        <td><a href="https://github.com/themistocleous/JAD_paper"><strong>Themistocleous Charalambos</strong></a> (2019). <em>Dialect Classification from a Single Sonorant Sound Using Deep Neural Networks</em>. doi: 10.3389/fneur.2018.00975.<p></p>
-        In this paper, we present a machine learning model based on deep neural networks (DNN) for the subtyping of patients with PPA into three main variants, using combined acoustic and linguistic information elicited automatically via acoustic and linguistic analysis. The DNN model outperformed the other machine learning models as well as expert clinicians’ classifications with 80% classification accuracy. Importantly, 90% of patients with nfvPPA and 95% of patients with lvPPA was identified correctly, providing reliable subtyping of these patients into their corresponding PPA variants.We show that the combined speech and language markers from connected speech productions can inform variant subtyping in patients with PPA. The end-to-end automated machine learning approach we present can enable clinicians and researchers to provide an easy, quick, and inexpensive classification of patients with PPA.<p></p>
+        <td><a href="https://github.com/themistocleous/JAD_paper"><strong>Themistocleous Charalambos</strong>, Bronte Ficek, Kimberly Webster, Dirk-Bart den Ouden, Argye E. Hillis, Kyrana Tsapkini (2021). Automatic subtyping of individuals with Primary Progressive Aphasia. Journal of Alzheimer’s Disease, https://doi.org/10.3233/JAD-201101<p></p>
+        In this paper, we present a machine learning model based on deep neural networks (DNN) for the subtyping of patients with PPA into three main variants, using combined acoustic and linguistic information elicited automatically via acoustic and linguistic analysis. The end-to-end automated machine learning approach we present can enable clinicians and researchers to provide an easy, quick, and inexpensive classification of patients with PPA.<p></p>
         <ul>
         <li>Journal of Alzheimer's Disease, version: <a href="https://content.iospress.com/articles/journal-of-alzheimers-disease/jad201101"> <b>[PDF]</b></a></li>
         <li>Link to GitHub page with source code: <a href="https://github.com/themistocleous/JAD_paper"><b>[CODE]</b></a></li>
         </ul></td>
     </tr>  
-    <tr>
     <tr>
         <td><a href="https://github.com/themistocleous/frontiers_dialect_sonorants/"><img src="/img/img_papers/frontiers_sonorants_dialects.jpg" alt="NLP_Editor"/></a></td>
         <td><a href="https://github.com/themistocleous/frontiers_dialect_sonorants/"><strong>Themistocleous Charalambos</strong></a> (2019). <em>Dialect Classification from a Single Sonorant Sound Using Deep Neural Networks</em>. doi: 10.3389/fneur.2018.00975.<p></p>
