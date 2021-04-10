@@ -14,7 +14,7 @@ order: 3
     </tr>
     <tr>
         <td><a href="https://github.com/themistocleous/JAD_paper"><img src="/img/img_papers/jad.png" alt="Themis"/></a></td>
-        <td><a href="https://github.com/themistocleous/JAD_paper"><strong>Themistocleous Charalambos</strong>, Bronte Ficek, Kimberly Webster, Dirk-Bart den Ouden, Argye E. Hillis, Kyrana Tsapkini (2021). Automatic subtyping of individuals with Primary Progressive Aphasia. Journal of Alzheimer’s Disease, https://doi.org/10.3233/JAD-201101<p></p>
+        <td><a href="https://github.com/themistocleous/JAD_paper"><strong>Themistocleous Charalambos</strong></a>, Bronte Ficek, Kimberly Webster, Dirk-Bart den Ouden, Argye E. Hillis, Kyrana Tsapkini (2021). Automatic subtyping of individuals with Primary Progressive Aphasia. Journal of Alzheimer’s Disease, https://doi.org/10.3233/JAD-201101<p></p>
         In this paper, we present a machine learning model based on deep neural networks (DNN) for the subtyping of patients with PPA into three main variants, using combined acoustic and linguistic information elicited automatically via acoustic and linguistic analysis. The end-to-end automated machine learning approach we present can enable clinicians and researchers to provide an easy, quick, and inexpensive classification of patients with PPA.<p></p>
         <ul>
         <li>Journal of Alzheimer's Disease, version: <a href="https://content.iospress.com/articles/journal-of-alzheimers-disease/jad201101"> <b>[PDF]</b></a></li>
