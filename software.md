@@ -21,7 +21,6 @@ order: 4
      <small>Citing the apps</small>
         <ul>
         <li><small>To cite the spelling assessment app, please cite the paper: Themistocleous, Charalambos, Neophytou, Kyriaki, Rapp, Brenda, & Tsapkini, Kyrana (2020). A Tool for Automatic Scoring of Spelling Performance. Journal of Speech, Language, and Hearing Research. doi:10.1044/2020_JSLHR-20-00177</small></li>
-        <li><small>To cite the app, please cite the software: Themistocleous, Charalambos (2020). Spelling Assessment App. https://github.com/themistocleous/spelling_assesment_app</small></li>
         <li><small>To cite the Phonological Assessment App: Themistocleous, Charalambos (2021). A Tool for Automatic Scoring of Phonological distance.</small></li>
         </ul>
 
