@@ -10,6 +10,33 @@ order: 4
         <th width="40%">Applications</th>
         <th width="60%"></th>
     </tr>
+        <tr>
+        <td><a href="/img/img_papers/automatic_scoring.png"><img src="/img/img_papers/automatic_scoring.png" alt="Automatic Scoring"/></a></td>
+        <td><strong>Tools for Automatic Scoring of Spelling and Phonology</strong><p></p>These two tools enable the automatic scoring of phonology and of spelling performance. They run on Terminal. To download these apps visit:  
+        <ul>
+        <li>For the Spelling Assessment App</strong>, please visit: <a href="https://github.com/themistocleous/spelling_assesment_app"><strong>Spelling Assessment App</strong>.</a></li>
+
+        <li>For the Phonological Distance Scoring App, please visit <a href="https://github.com/themistocleous/phonology_scoring_app"><strong>Phonology Assessment App</strong></a></li>
+        </ul>
+     <small>Citing the apps</small>
+        <ul>
+        <li><small>To cite the spelling assessment app, please cite the paper: Themistocleous, Charalambos, Neophytou, Kyriaki, Rapp, Brenda, & Tsapkini, Kyrana (2020). A Tool for Automatic Scoring of Spelling Performance. Journal of Speech, Language, and Hearing Research. doi:10.1044/2020_JSLHR-20-00177</small></li>
+        <li><small>To cite the app, please cite the software: Themistocleous, Charalambos (2020). Spelling Assessment App. https://github.com/themistocleous/spelling_assesment_app</small></li>
+        <li><small>To cite the Phonological Assessment App: Themistocleous, Charalambos (2021). A Tool for Automatic Scoring of Phonological distance.</small></li>
+        </ul>
+
+
+
+
+
+    
+
+        
+        
+        
+        
+        </td>
+    </tr>  
     <tr>
         <td><a href="https://github.com/themistocleous/nlp_editor"><img src="/img/img_papers/nlp_editor.png" alt="NLP_Editor"/></a></td>
         <td><strong>NLP Editor</strong><p></p>NLP Editor is a simple text editor that enables the linguistic analysis of texts. The current version allows users to convert text in Greek to IPA, count words, etc.<p></p>
