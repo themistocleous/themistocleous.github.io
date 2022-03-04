@@ -7,39 +7,54 @@ order: 2
 <h1>Selected publications </h1>
 For the complete publications list click <a href="/pubs">here</a>.
 <table>
-    <tr>
-        <th width="5%">Date</th>
-        <th width="30%">Link</th>
-        <th width="65%">Reference</th>
-    </tr>
-     <tr>
-        <td></td>
-        <td><h1>Articles</h1></td>
-        <td></td>
-    </tr>
-    <tr>
+<tr>
+    <th width="5%">Date</th>
+    <th width="30%">Link</th>
+    <th width="65%">Reference</th>
+</tr>
+
+<tr>
+    <td></td>
+    <td><h1>Articles</h1></td>
+    <td></td>
+</tr>
+
+<tr>
+<td>2022</td>
+<td><a href="https://www.tandfonline.com/doi/abs/10.1080/02687038.2022.2039372"><img src="/img/img_papers/aphasiology2022.png" border="1" alt="aphasiology2022"></a></td>
+<td>Brielle C. Stark, Lucy Bryant, <strong>Charalambos Themistocleous</strong>, Dirk-Bart den Ouden, Angela C. Roberts. (2022). Best practice guidelines for reporting spoken discourse in aphasia and neurogenic communication disorders. Aphasiology, 1-24.<p><a href=" https://doi.org/10.1080/02687038.2022.2039372">URL</a></p></td>
+</tr>
+
+<tr>
+<td></td>
+<td><a href="https://doi.org/10.3389/fneur.2022.698200"><img src="/img/img_papers/Frontiers2022.png" border="1" alt="JAD2021_paper"></a></td>
+<td>Afthinos Afthinos, <strong>Themistocleous Charalambos</strong>, Herrmann Olivia, Fan Hongli, Lu Hanzhang, Tsapkini Kyrana (2022). The Contribution of Working Memory Areas to Verbal Learning and Recall in Primary Progressive Aphasia. Frontiers in Neurology, 13.<p><a href="https://doi.org/10.3389/fneur.2022.698200">URL</a></p></td>
+</tr> 
+
+<tr>
 <td>2021</td>
 <td><a href="https://www.mdpi.com/2076-3425/11/3/335"><img src="/img/img_papers/brainsciences2021.png" border="1" alt="brainsci-11-00335"></a></td>
-<td><strong>Themistocleous Charalambos</strong>, Webster Kimberly, Tsapkini, Kyrana (2021). Effects of tDCS on Sound Duration in Patients with Apraxia of Speech in Primary Progressive Aphasia. In Brain Sciences, 11(3):335-553. https://www.mdpi.com/2076-3425/11/3/335>. A preprint version can be found in Preprints.org <p><a href="https://www.mdpi.com/2076-3425/11/3/335">URL</a></p></td>
+<td><strong>Themistocleous Charalambos</strong>, Webster Kimberly, Tsapkini, Kyrana (2021). Effects of tDCS on Sound Duration in Patients with Apraxia of Speech in Primary Progressive Aphasia. Brain Sciences, 11(3):335-553. https://www.mdpi.com/2076-3425/11/3/335>. A preprint version can be found in Preprints.org <p><a href="https://www.mdpi.com/2076-3425/11/3/335">URL</a></p></td>
 </tr>
+
+
 <tr>
 <td></td>
 <td><a href="https://doi.org/10.3233/JAD-201101"><img src="/img/img_papers/JAD2021.png" border="1" alt="JAD2021_paper"></a></td>
-    <td><strong>Themistocleous Charalambos</strong>, Bronte Ficek, Kimberly Webster, Dirk-Bart den Ouden, Argye E. Hillis, Kyrana Tsapkini (2021). Automatic subtyping of individuals with Primary Progressive Aphasia. Journal of Alzheimer’s Disease, https://doi.org/10.3233/JAD-201101<p><a href="https://doi.org/10.3233/JAD-201101">URL</a></p></td>
+<td><strong>Themistocleous Charalambos</strong>, Bronte Ficek, Kimberly Webster, Dirk-Bart den Ouden, Argye E. Hillis, Kyrana Tsapkini (2021). Automatic subtyping of individuals with Primary Progressive Aphasia. Journal of Alzheimer’s Disease, https://doi.org/10.3233/JAD-201101<p><a href="https://doi.org/10.3233/JAD-201101">URL</a></p></td>
 </tr>
-
 <tr>
     <td>2020</td>
     <td><a href="https://doi.org/10.1044/2020_AJSLP-19-00114"><img src="/img/img_papers/AJSLP2020.png" border="1" alt="AJSLP2020_paper"></a></td>
     <td><strong>Themistocleous Charalambos</strong>, Webster Kim, Afthinos Alexandros, & Tsapkini Kyrana (2020). Part of Speech Production in Patients With Primary Progressive Aphasia: An Analysis Based on Natural Language Processing. American Journal of Speech-Language Pathology. https://doi.org/10.1044/2020_AJSLP-19-00114 <p><a href="https://doi.org/10.1044/2020_AJSLP-19-00114">URL</a></p></td>
-    </tr>
-    <tr>
+</tr>
+<tr>
     <td></td>
     <td><a href="https://doi.org/10.1044/2020_JSLHR-20-00177"><img src="/img/img_papers/JSLHR-20-00177.png" border="1" alt="JSLHR-20-00177_paper"></a></td>
     <td><strong>Themistocleous, Charalambos</strong>, Neophytou, Kyriaki, Rapp, Brenda, & Tsapkini, Kyrana (2020). A Tool for Automatic Scoring of Spelling Performance. Journal of Speech, Language, and Hearing Research. doi:10.1044/2020_JSLHR-20-00177. 
     <p><a href="https://github.com/themistocleous/spelling_assesment_app">[CODE]</a></p>
 </td>
-    </tr>
+</tr>
 <tr>
     <td></td>
     <td><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236009"><img src="/img/img_papers/2020plos.png" border="1" alt="plos_one_paper"></a></td>
