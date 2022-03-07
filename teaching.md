@@ -55,7 +55,7 @@ order: 5
 <ol>
 <li><p><strong>Themistocleous</strong> <strong>Charalambos</strong>. (2016). <a href="/assets/RIntroCover.pdf" class="uri"> Introduction to R.</a> Unpublished manuscript. Gothenburg</p></li>
 <li><p><strong>Themistocleous, Charalambos</strong>. (2016). <a href="/research/project/2017/05/31/python.html" class="uri">Introduction to Python.</a> Unpublished manuscript. Gothenburg.</p></li>
-<li><p><strong>Themistocleous, Charalambos</strong>. (2011). Introduction to Phonetics and Phonology <span>[</span>in Greek<span>]</span>. Nicosia: Open University of Cyprus. (pp. 100)</p></li>
+<li><p><strong>Themistocleous, Charalambos</strong>. (2011). <a href="/assets/papers/Phonetics_IntroGR.pdf">Introduction to Phonetics and Phonology</a> <span>[</span>in Greek<span>]</span>. Nicosia: Open University of Cyprus. (pp. 100)</p></li>
 <li><p><strong>Themistocleous, Charalambos</strong>. (2008). PRAAT Software for acoustic analysis. An introductory manual <span>[</span>in Greek<span>]</span>. University of Athens: Athens. DOI: <a href="10.13140/RG.2.1.4233.2003" class="uri">10.13140/RG.2.1.4233.2003</a></p></li>
 <li><p><strong>Themistocleous, Charalambos</strong>. (2006). A Grammar of SMG. Greek Verbs <span>[</span>in Greek<span>]</span>. Athens University of Athens. (pp. 400).</p></li>
 <li><p><strong>Themistocleous, Charalambos</strong> (2006). Discourse Markers. Athens: University of Athens.</p></li>
