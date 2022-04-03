@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Charalambos K. Themistocleous"
 email: "themistocleous@gmail.com"
-description: "(c) 2022 Charalambos K. Themistocleous ❇︎ Many thanks to GitHub for hosting the site and Jekyll for powering it."
+description: "(c) 2022 Charalambos K. Themistocleous ❇︎ Many thanks to GitHub for hosting the site and to Jekyll for powering it."
 baseurl: "" # the subpath of your site, e.g. /jblog
 url: "https://charalambosthemistocleous.com/" # the base hostname & protocol for your site
 
