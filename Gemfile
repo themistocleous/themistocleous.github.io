@@ -30,4 +30,3 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'kramdown-parser-gfm'
 
 
-gem "nokogiri", ">= 1.13.2"
