@@ -6,8 +6,6 @@ categories: Research Project
 ---
 
 
-![screenshot](/img/img_papers/lex.jpg)
-
 The Utilitarian dictionary of Modern Greek Language is one of the most important dictionaries of Modern Greek to this day. I feel very honored that I contributed to its development as a young researcher in 2004-2006.
 
 It has been published by the Academy of Athens in 2014.
@@ -19,6 +17,8 @@ The dictionary contains approximately 75,000 entries and fixed expressions out o
 Large corpora and lexicographic databases were employed, such as the National Thesaurus of Greek Language, the Inter-Active Terminology for Europe (IATE), and electronic databases and dictionaries of English, French, German, Italian, and Spanish, and internal databases of the Academy of Athens).
 
 The Academy of Athens in a press release published in October 31 2014, states that “One of the basic virtues of the Dictionary is that it describes Modern Greek language without prejudice based on the demands of modern lexicographical practice implies internationally”.
+
+![screenshot](/img/img_papers/lex.jpg)
 
 # References
 Hesse, Rolf. 2015. A short presentation of Χρηστικό Λεξικό της Νεοελληνικής Γλώσσας της Ακαδημίας Αθηνών. *Scandinavian Journal of Byzantine and Modern Greek Studies*, 1, 131–140.
