@@ -4,21 +4,24 @@ title: Publications
 permalink: /publications/
 order: 2
 ---
-<h1>Selected publications </h1>
-For the complete publications list click <a href="/pubs">here</a>.
+Selected Publications (for the complete publications list click <a href="/pubs">here</a>).
+<hr>
+<p style="text-align:center">
+    	    <a href="#jo">✿ Journal Articles</a> &nbsp;&nbsp;
+		    <a href="#bo">✿ Books</a>&nbsp;&nbsp;
+		    <a href="#co">✿ Conferences</a>&nbsp;&nbsp;
+            <a href="#on">✿ Online Manuscripts</a>&nbsp;&nbsp;
+</p>
+<hr>
+
+<a name="jo"></a>
+<h2>Journal Articles</h2>
 <table>
 <tr>
     <th width="5%">Date</th>
     <th width="30%">Link</th>
     <th width="65%">Reference</th>
 </tr>
-
-<tr>
-    <td></td>
-    <td><h1>Articles</h1></td>
-    <td></td>
-</tr>
-
 <tr>
 <td>2022</td>
 <td><a href="https://www.tandfonline.com/doi/abs/10.1080/02687038.2022.2039372"><img src="/img/img_papers/aphasiology2022.png" border="1" alt="aphasiology2022"></a></td>
@@ -120,12 +123,17 @@ For the complete publications list click <a href="/pubs">here</a>.
         <td><a href="/assets/papers/lengthening.pdf"><img src="/img/img_papers/edge.png" border="1" alt="Themistocleous"></a></td>
         <td><strong>Themistocleous Charalambos</strong> (2014). Edge-Tone Effects and Prosodic Domain Effects on Final Lengthening. <em>Linguistic Variation</em> 14(1). 129–160. DOI: 10.1075/lv.14.1.06the.<p><a href="https://benjamins.com/catalog/lv.14.1.06the">URL</a></p></td>
     </tr>
-    <tr>
-    <td></td>
-    <td><h1>Books</h1></td>
-    <td></td>
-    </tr>
-    <tr>
+</table>
+
+<a name="bo"></a>
+<h2>Books</h2>
+<table>
+<tr>
+    <th width="5%">Date</th>
+    <th width="30%">Link</th>
+    <th width="65%">Reference</th>
+</tr>
+<tr>
     <td>2015</td>
         <td><a href="http://www.iwn.gr/product.asp?catid=17589"><img src="/img/img_papers/bookstats.png" border="1" alt="Statistics"></a></td>
         <td><strong>Themistocleous</strong>  <strong>Charalambos</strong>   (2015).   <em>Experimental Design  and  Statistics  in  Linguistics.  Using  R  (In  Greek)</em>.  Athens:      Ion.        ISBN:978-960-508-187-4.</td>
@@ -135,12 +143,17 @@ For the complete publications list click <a href="/pubs">here</a>.
         <td><a href="https://www.cambridgescholars.com/product/978-1-4438-4025-5"><img src="/img/img_papers/bookgreek.png" border="1" alt="Themistocleous"></a></td>
         <td>Fragaki Georgia, Georgakopoulos Athanasios, <strong>Themistocleous</strong> <strong>Charalambos</strong> (Eds.) (2012). Current Trends in Greek Linguistics. Newcastle upon Tyne: Cambridge Scholars Publishing.</td>
     </tr>
-    <tr>
-        <td></td>
-        <td><h1>Conference Papers</h1></td>
-        <td></td>
-    </tr>
-        <tr>
+    </table>
+
+<a name="co"></a>
+<h2>Conferences</h2>
+<table>
+<tr>
+    <th width="5%">Date</th>
+    <th width="30%">Link</th>
+    <th width="65%">Reference</th>
+</tr>
+<tr>
         <td>2018</td>
             <td><a href="https://www.frontiersin.org/10.3389/conf.fnhum.2018.228.00092/event_abstract"><img src="/img/img_papers/aoa_the.png" border="1" alt="aoa_2018"></a></td>
             <td><strong>Themistocleous Charalambos</strong>, Ficek Bronte, Theresa Webster Kimberly, Wendt Haley, Elizabeth Hillis Argye, Den Ouden Dirk Bart and Tsapkini Kyrana (2018). Acoustic markers of PPA variants using machine learning. <em>Frontiers in Human Neuroscience, 92.</em> doi: 10.3389/conf.fnhum.2018.228.00092.
@@ -241,11 +254,15 @@ For the complete publications list click <a href="/pubs">here</a>.
         <td><img src="/img/img_papers/interspeech.png" border="1" alt="Interspeech"></td>
         <td><strong>Themistocleous Charalambos</strong> and Papadopoulou Lena (2014). Prenuclear pitch accents alignment: evidence from typical vs. atypical pre-school children. <em>5th International Conference on Language Disorders in Greek (LDG5)</em> Limassol, Cyprus, on the 30th and the 31st of May 2014 (Conference Presentation).<p><a href="https://web.cut.ac.cy/reh/de/">URL</a></p></td>
     </tr>
-    <tr>
-    <td></td>
-        <td><h1>Online Manuscripts</h1></td>
-        <td></td>
-    </tr>
+    </table>
+<a name="on"></a>
+<h2>Online Manuscript</h2>
+<table>
+<tr>
+    <th width="5%">Date</th>
+    <th width="30%">Link</th>
+    <th width="65%">Reference</th>
+</tr>
     <tr>
     <td></td>
         <td><a href="/assets/RIntroCover.pdf"><img src="/img/img_papers/r.png" border="1" alt="r"></a></td>

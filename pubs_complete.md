@@ -5,19 +5,18 @@ permalink: /pubs/
 exclude: true
 ---
 <p>
-    	    <a href="#pu">Publications</a> &nbsp;&nbsp;
-		    <a href="#mo">Monographs</a>&nbsp;&nbsp;
-		    <a href="#jo">Journal Articles</a>  &nbsp;&nbsp;
-		    <a href="#ch">Chapters</a>  &nbsp;&nbsp;
-		    <a href="#pa">Conference Papers</a>&nbsp;&nbsp;
-		    <a href="#pr">Proceedings</a>&nbsp;&nbsp;
-            <a href="#re">Reviews</a> &nbsp;&nbsp;
-            <a href="#th">Theses</a> &nbsp;&nbsp;
-            <a href="#ta">Talks</a> &nbsp;&nbsp;
+		    <a href="#mo">❀ Books</a>&nbsp;
+		    <a href="#jo">✿ Journal Articles</a>  &nbsp;
+		    <a href="#ch">❀ Chapters</a>  &nbsp;
+		    <a href="#co">✿ Conferences</a>&nbsp;
+		    <a href="#pr">❀ Proceedings</a>&nbsp;
+            <a href="#re">✿ Reviews</a> &nbsp;
+            <a href="#th">❀ Theses</a> &nbsp;
+            <a href="#ta">✿ Talks</a> &nbsp;
 </p>
 <a name="pu"></a>
 <a name="mo"></a>
-<h1 id="monographs-and-edited-volumes">Monographs and Edited Volumes</h1>
+<h1 id="monographs-and-edited-volumes">Books</h1>
 <ol>
 <li><p><strong>Themistocleous, Charalambos</strong> (2015). Experimental Design and Statistics in Linguistics. Using R (In Greek). Athens: Ion. ISBN: 978–960–508–187–4. http://www.iwn.gr/product.asp?catid=17589</p></li>
 <li><p>Fragaki Georgia, Georgakopoulos Athanasios, <strong>Themistocleous Charalambos</strong> (Eds) (2012). <em>Current Trends in Greek Linguistics.</em> Newcastle upon Tyne: Cambridge Scholars Publishing. ISBN-10: 1443840254, ISBN-13: 978–1443840255. https://www.cambridgescholars.com/current-trends-in-greek-linguistics-16</p></li>
