@@ -13,7 +13,7 @@ order: 4
 <tr>
     <td><a href="/img/img_papers/Demo.mov"><img src="/img/img_papers/Demo.mov" alt="Themis"/></a></td>
     <td><p style="justify">This work aims to provide an accessible environment for diagnosis and speech and language analysis and empower clinicians to quickly analyze speech and language while focusing on speech and language therapy.</p>
-<p></p><strong>Themis</strong> enables (click the image for a short demo):
+<p></p><strong>Themis</strong> enables <a href="/img/img_papers/Demo.mov">(click the image for a short demo)</a>:
 <ul>
     <li>Speech Acoustics. </li>
     <li>Transcription of speech. </li>
