@@ -21,6 +21,7 @@ order: 4
     <li>A detailed analysis of grammar and discourse. </li>
     <li>Automatic Scoring of Speech and Language Performance of patients.</li>
 </ul>
+<strong>Themis</strong> is written in Python using Django and employs several technologies and code that I have developed over the years. 
 </td>
 </tr>
 <tr>
