@@ -10,7 +10,7 @@ order: 4
         <th width="50%"></th>
         <th width="50%"></th>
     </tr>
-<tr>
+<!-- <tr>
     <td><a href="/img/img_papers/Demo.mp4"><img src="/img/img_papers/Demo.png" alt="Themis"/></a></td>
     <td><p style="justify">This work aims to provide an accessible environment for diagnosis and speech and language analysis and empower clinicians to quickly analyze speech and language while focusing on speech and language therapy.</p>
 <p></p><strong>Themis</strong> enables <a href="/img/img_papers/Demo.mp4">(click the image for a brief demo)</a>:
@@ -23,7 +23,7 @@ order: 4
 </ul>
 <strong>Themis</strong> is written in Python using Django and employs several technologies and code that I have developed over the years. 
 </td>
-</tr>
+</tr> -->
 <tr>
         <td><a href="https://github.com/themistocleous/JAD_paper"><img src="/img/img_papers/jad.png" alt="Themis"/></a></td>
         <td><a href="https://github.com/themistocleous/JAD_paper"><strong>Themistocleous Charalambos</strong></a>, Bronte Ficek, Kimberly Webster, Dirk-Bart den Ouden, Argye E. Hillis, Kyrana Tsapkini (2021). Automatic subtyping of individuals with Primary Progressive Aphasia. Journal of Alzheimer’s Disease, https://doi.org/10.3233/JAD-201101<p></p>
@@ -100,19 +100,7 @@ The C5.0 machine-learning algorithm was employed to model the interaction of soc
         <ul>
         <li><small>To cite the spelling assessment app, please cite the paper: Themistocleous, Charalambos, Neophytou, Kyriaki, Rapp, Brenda, & Tsapkini, Kyrana (2020). A Tool for Automatic Scoring of Spelling Performance. Journal of Speech, Language, and Hearing Research. doi:10.1044/2020_JSLHR-20-00177</small></li>
         <li><small>To cite the Phonological Assessment App: Themistocleous, Charalambos (2021). A Tool for Automatic Scoring of Phonological distance.</small></li>
-        </ul>
-
-
-
-
-
-    
-
-        
-        
-        
-        
-        </td>
+        </ul></td>
     </tr>  
     <tr>
         <td><a href="https://github.com/themistocleous/nlp_editor"><img src="/img/img_papers/nlp_editor.png" alt="NLP_Editor"/></a></td>
