@@ -1,0 +1,17 @@
+current directory: /Users/charalambosthemistocleous/Documents/academic/personal-website/themistocleous.github.io/vendor/bundle/ruby/3.1.0/gems/commonmarker-0.23.6/ext/commonmarker
+/opt/homebrew/opt/ruby/bin/ruby -I /opt/homebrew/Cellar/ruby/3.1.2/lib/ruby/3.1.0 -r ./siteconf20221003-7221-c96x7a.rb extconf.rb
+creating Makefile
+
+current directory: /Users/charalambosthemistocleous/Documents/academic/personal-website/themistocleous.github.io/vendor/bundle/ruby/3.1.0/gems/commonmarker-0.23.6/ext/commonmarker
+make DESTDIR\= clean
+xcrun: error: active developer path ("/Applications/Xcode.app/Contents/Developer") does not exist
+Use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, or use `xcode-select --install` to install the standalone command line developer tools.
+See `man xcode-select` for more details.
+
+current directory: /Users/charalambosthemistocleous/Documents/academic/personal-website/themistocleous.github.io/vendor/bundle/ruby/3.1.0/gems/commonmarker-0.23.6/ext/commonmarker
+make DESTDIR\=
+xcrun: error: active developer path ("/Applications/Xcode.app/Contents/Developer") does not exist
+Use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, or use `xcode-select --install` to install the standalone command line developer tools.
+See `man xcode-select` for more details.
+
+make failed, exit code 1

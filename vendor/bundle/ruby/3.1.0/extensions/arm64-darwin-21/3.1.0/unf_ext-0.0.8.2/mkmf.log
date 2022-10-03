@@ -1,0 +1,14 @@
+DYLD_FALLBACK_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.1.2/lib "clang -o conftest -I/opt/homebrew/Cellar/ruby/3.1.2/include/ruby-3.1.0/arm64-darwin21 -I/opt/homebrew/Cellar/ruby/3.1.2/include/ruby-3.1.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.1.2/include/ruby-3.1.0 -I.  -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@1.1/include -I/opt/homebrew/opt/readline/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fdeclspec -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wdeprecated-declarations -Wdivision-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wmisleading-indentation -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wextra-tokens -Wundef  -fno-common -pipe conftest.c  -L. -L/opt/homebrew/Cellar/ruby/3.1.2/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -L. -fstack-protector-strong -L/opt/homebrew/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib     -lruby.3.1   "
+xcrun: error: active developer path ("/Applications/Xcode.app/Contents/Developer") does not exist
+Use `sudo xcode-select --switch path/to/Xcode.app` to specify the Xcode that you wish to use for command line developer tools, or use `xcode-select --install` to install the standalone command line developer tools.
+See `man xcode-select` for more details.
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: int main(int argc, char **argv)
+4: {
+5:   return !!argv[argc];
+6: }
+/* end */
+
