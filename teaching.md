@@ -7,8 +7,9 @@ order: 5
 
 <a main='top'></a>
 
-<h3 style="text-align:justify" class="borderbox">Teachers of speech, language, and communication influence students’ lives and development. For this reason, teaching requires passion, vigor, and a sense of responsibility. Teachers provide an environment that fosters collegial attitude and practice, promotes diversity, and transforms the classroom into a bustling incubator for novel and exciting ideas.  Also, they provide the next generation of linguists with the fundamental skillset to help them tackle the continuous challenges as linguists, educators, and health care practitioners. Ultimately, teachers aim to train talented young students and help them pave their way to a successful career in theoretical, computational, and clinical linguistics.</h3>
-
+<div  style="text-align: justify;background-color: aliceblue;padding: 2%;">
+<h3>Teachers of speech, language, and communication influence students’ lives and development. For this reason, teaching requires passion, vigor, and a sense of responsibility. Teachers provide an environment that fosters collegial attitude and practice, promotes diversity, and transforms the classroom into a bustling incubator for novel and exciting ideas.  Also, they provide the next generation of linguists with the fundamental skillset to help them tackle the continuous challenges as linguists, educators, and health care practitioners. Ultimately, teachers aim to train talented young students and help them pave their way to a successful career in theoretical, computational, and clinical linguistics.</h3>
+</div>
 <table>
 <tr>
 <td><h2>Courses</h2></td>
