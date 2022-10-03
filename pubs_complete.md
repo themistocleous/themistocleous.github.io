@@ -4,16 +4,18 @@ title: Publications
 permalink: /pubs/
 exclude: true
 ---
-<p>
-		    <a href="#mo">❀ Books</a>&nbsp;
-		    <a href="#jo">✿ Journal Articles</a>  &nbsp;
-		    <a href="#ch">❀ Chapters</a>  &nbsp;
-		    <a href="#co">✿ Conferences</a>&nbsp;
-		    <a href="#pr">❀ Proceedings</a>&nbsp;
-            <a href="#re">✿ Reviews</a> &nbsp;
-            <a href="#th">❀ Theses</a> &nbsp;
-            <a href="#ta">✿ Talks</a> &nbsp;
-</p>
+
+<a main="top"></a>
+
+<div style="text-align:center;padding-top:0.3cm;padding-bottom:0.3cm; background-color:#135c94; color:white">
+    <a class="page-link" style="color: aliceblue;text-transform: uppercase;" href="#mo">Books | </a>
+	<a class="page-link" style="color: aliceblue;text-transform: uppercase;" href="#jo">Journals | </a>
+	<a class="page-link" style="color: aliceblue;text-transform: uppercase;" href="#ch">Chapters | </a>
+	<a class="page-link" style="color: aliceblue;text-transform: uppercase;" href="#co">Conferences | </a>
+	<a class="page-link" style="color: aliceblue;text-transform: uppercase;" href="#pr">Proceedings | </a>
+    <a class="page-link" style="color: aliceblue;text-transform: uppercase;" href="#re">Reviews | </a> 
+    <a class="page-link" style="color: aliceblue;text-transform: uppercase;" href="#th">Theses | </a> 
+</div>
 <a name="pu"></a>
 <a name="mo"></a>
 <h1 id="monographs-and-edited-volumes">Books</h1>
@@ -24,6 +26,7 @@ exclude: true
 <a name="jo"></a>
 <h1 id="journal-articles">Journal Articles</h1>
 <ol>
+<li><p><strong>Themistocleous</strong>, Charalambos, Fyndanis, Valantis, & Tsapkini, Kyrana. (2022). Sonorant spectra and coarticulation distinguish speakers with different dialects. <em>Speech Communication.</em> <a href="https://doi.org/10.1016/j.specom.2022.06.002" class="uri">https://doi.org/10.1016/j.specom.2022.06.002</a>. (Pre-print: <strong>Themistocleous, Charalambos</strong>, Fyndanis, Valantis, & Tsapkini, Kyrana (2021). Sonorant spectra and coarticulation distinguish speakers with different dialects. <em>arXiv</em>https://arxiv.org/abs/2110.03756).</p></li>
 <li><p>Afthinos Afthinos, <strong>Themistocleous Charalambos</strong>,Herrmann Olivia, Fan Hongli, Lu Hanzhang, Tsapkini, Kyrana (2022). The Contribution of Working Memory Areas to Verbal Learning and Recall in Primary Progressive Aphasia. <em>Frontiers in Neurology</em>, 13. <a href="https://doi.org/10.3389/fneur.2022.698200" class="uri">https://doi.org/10.3389/fneur.2022.698200</a>.</p></li>
 <li><p>Stark Brielle C., Bryant Lucy, <strong>Themistocleous Charalambos</strong>, den Ouden Dirk-Bart, Roberts Angela C. (2022). Best practice guidelines for reporting spoken discourse in aphasia and neurogenic communication disorders. <em>Aphasiology</em>, 1-24. <a href="https://doi.org/10.1080/02687038.2022.2039372" class="uri">https://doi.org/10.1080/02687038.2022.2039372</a>.</p></li>
 <li><p><strong>Themistocleous Charalambos</strong>, Webster Kimberly, Tsapkini, Kyrana (2021). Effects of tDCS on Sound Duration in Patients with Apraxia of Speech in Primary Progressive Aphasia. Themistocleous Charalambos, Webster Kimberly, Tsapkini, Kyrana (2021). Effects of tDCS on Sound Duration in Patients with Apraxia of Speech in Primary Progressive Aphasia. <em>Brain Sciences</em>, 11(3). <a href="https://doi.org/10.3390/brainsci11030335" class="uri">https://doi.org/10.3390/brainsci11030335</a>. (A preprint version can be found in Preprints 2021).</p></li>
@@ -46,6 +49,9 @@ exclude: true
 <li><p><strong>Themistocleous, Charalambos</strong> (2016). The bursts of stops can convey dialectal information. <em>Journal of the Acoustical Society of America EL</em> 140(4), EL334–EL340. <a href="http://dx.doi.org/10.1121/1.4964818" class="uri">http://dx.doi.org/10.1121/1.4964818</a>.</p></li>
 <li><p><strong>Themistocleous, Charalambos</strong> (2014). Edge-Tone Effects and Prosodic Domain Effects on Final Lengthening. <em>Linguistic Variation</em> 14(1). 129–160. DOI: <a href="10.1075/lv.14.1.06the" class="uri">10.1075/lv.14.1.06the</a>.</p></li>
 </ol>
+<div style="text-align:right">
+  <a class="page-link" style="color: aliceblue;text-transform: uppercase;" href="#top">⬆Top</a>
+</div>
 <a name="ch"></a>
 <h1 id="book-chapters">Book Chapters</h1>
 <ol>
@@ -57,14 +63,29 @@ exclude: true
 <li><p><strong>Themistocleous, Charalambos</strong> (2012). <em>Meaning and Form in the Tonal Representation</em>. In Fragaki, Georgia, Georgakopoulos, Athanasios, <strong>Themistocleous, Charalambos</strong> (Eds). Current Trends in Greek Linguistics (pp. 271 – 289). Cambridge: Cambridge Scholars Publishing.</p></li>
 <li><p><strong>Themistocleous, Charalambos</strong> (2012). <em>Cypriot Greek Nuclear Pitch Accents (Ta pirinika tonika ipsi tis kypriakis ellinikis)</em>. In Z. Gavriilidou, A. Efthymiou, E. Thomadaki &amp; P. Kambakis-Vougiouklis (eds), 2012, Selected papers of the 10th ICGL, pp. 796 – 805. Komotini/Greece: Democritus University of Thrace.</p></li>
 </ol>
+<div style="text-align:right">
+  <a class="page-link" style="color: aliceblue;text-transform: uppercase;" href="#top">⬆Top</a>
+</div>
 <a name="co"></a>
 <h1 id="conference-papers">Conference Papers</h1>
 <ol>
+<li>Themistocleous, Charalambos, Ficek, Bronte, Webster, Kimberly, & Tsapkini, Kyrana (2022). tDCS reduces phonological errors in patients with Primary Progressive Aphasia. <em>60th Annual Academy of Aphasia Meeting</em>, 23-25 October, 2022, Philadelphia.</li>
+<li><p><strong>Charalambos Themistocleous</strong>, Alexandros Afthinos, Olivia Hermann, Fan Hongli, Hanzhang Lu
+and Kyrana Tsapkini (2021). Brain Perfusion and Neurocognitive Tasks in Patients with Primary
+Progressive Aphasia. Academy of Aphasia 59th Annual Meeting 24-26 October, 2021, Online.</p></li>
+<li><p>Olivia Herrmann, Alexandros Afthinos, <strong>Charalambos Themistocleous</strong>, Hongli Fan, Hanzhang
+Lu and Kyrana Tsapkini (2021). Brain areas that mediate sentence comprehension in primary
+progressive aphasia: Evidence from perfusion imaging. Academy of Aphasia 59th Annual Meeting,
+24-26 October, 2021, Online.</p></li>
+<li><p>Lucy Bryant, Angela Roberts, <strong>Charalambos Themistocleous</strong>, Dirk den Ouden and Brielle Stark
+(2021). Best practices for reporting of discourse analysis. Academy of Aphasia 59th Annual Meet-
+ing 24-26 October, 2021, Online.</p></li>
+
 <li><p><strong>Themistocleous Charalambos</strong>,  Webster Kimberly  T., Ficek  Bronte, Tsapkini
 Kyrana (2020).  Effects of  tDCS on  apraxia of  speech in  non-fluent variant  of Primary
 Progressive Aphasia. Philadelphia (Presented On-line due to COVID19 pandemic).</p></li>
 
-<li><p>Neophytou Kyriaki, <strong>{Themistocleous Charalambos</strong>, Brenda Rapp, Tsapkini Kyrana
+<li><p>Neophytou Kyriaki, <strong>Themistocleous Charalambos</strong>, Brenda Rapp, Tsapkini Kyrana
 (2020).  A tool for automatic scoring  of spelling.  Academy of Aphasia 2020. Philadelphia
 (Presented On-line due to COVID19 pandemic).</p></li>
 
@@ -136,6 +157,9 @@ http://euralex.org/publications/cypriot-greek-lexicography-an-online-lexical-dat
 <li><p>Botinis, Antonis, <strong>Themistocleous, Charalambos</strong> and Nikolaenkova, Olga (2005). Perception of focus in Greek and Russian. <em>7th International Conference of Greek Linguistics.</em> York, UK (oral presentation).</p></li>
 <li><p>Botinis, Antonis, Christofi, Marios, <strong>Themistocleous, Charalambos</strong> and Kyprianou, Angeliki (2004). Duration correlates of stop consonants in Cypriot Greek. <em>Proceedings of Fonetik 2004, the XVIIth Swedish Phonetics Conference</em>. Stockholm, Sweden.</p></li>
 </ol>
+<div style="text-align:right">
+  <a class="page-link" style="color: aliceblue;text-transform: uppercase;" href="#top">⬆Top</a>
+</div>
 <a name="pr"></a>
 <h1 id="conference-proceedings">Conference Proceedings</h1>
 <ol>
@@ -143,11 +167,17 @@ http://euralex.org/publications/cypriot-greek-lexicography-an-online-lexical-dat
 <li><p>Demopoulos Charalambos, Kontaksis Kassiani, Kostala Paraskevi, Mylona Katerina, Nastos Vasilis, Savvidou Vivi, and <strong>Themistocleous, Charalambos</strong> (2012). <em>Proceedings of the 6th Athens Postgraduate Conference of the Faculty of Philology National and Kapodistrian University of Athens 13 – 15 May 2011</em> (Volume A and Volume B). Athens: University of Athens. ISSN: 2241‒3030 VOLUME 1: ISBN: 978-960-466-109-1, VOLUME 2: ISBN: 978-960-466-109-2.</p></li>
 <li><p>Vrynioti Eleni, Georgakopoulos Athanasios, <strong>Themistocleous, Charalambos</strong>, Kontonikolis Christophoros, Kousoulini Vasiliki, Papadopoulou Angeliki, Stamatelopoulos Nikitas, Fragaki Georgia, and Fragouli Nandia (Eds) (2010). <em>Proceedings of the 5th Athens Postgraduate Conference of the Faculty of Philology National and Kapodistrian University of Athens 29 – 31 May 2009.</em> Athens: UOA. ISBN 978-960-466-056-8.</p></li>
 </ol>
+<div style="text-align:right">
+  <a class="page-link" style="color: aliceblue;text-transform: uppercase;" href="#top">⬆Top</a>
+</div>
 <a name="re"></a>
 <h1 id="book-reviews">Book Reviews</h1>
 <ol>
 <li><p><strong>Themistocleous, Charalambos</strong> (2015). Book Review of Caspers, Johanna, Chen, Yiya, Heeren, Willemijn, Pacilly, Jos, Schiller, Niels, and van Santen, Ellen. (2014). <em>Above and beyond the segments : experimental linguistics and phonetics.</em> Amsterdam; Philadelphia: John Benjamins Publishing Company. <em>LinguistList 26.5107, 2015</em>.</p></li>
 </ol>
+<div style="text-align:right">
+  <a class="page-link" style="color: aliceblue;text-transform: uppercase;" href="#top">⬆Top</a>
+</div>
 <a name="th"></a>
 <h1 id="theses">Theses</h1>
 <ol>
@@ -155,29 +185,6 @@ http://euralex.org/publications/cypriot-greek-lexicography-an-online-lexical-dat
 <li><p><strong>Themistocleous Charalambos</strong> (2008). Lengthening Effects of Prosodic Constituents in Athenian Greek and Cypriot Greek. <em>MA Thesis.</em> University of Skövde.</p></li>
 <li><p><strong>Themistocleous Charalambos</strong> (2007). Structuring discourse turn in conversations (In Greek). <em>MA Thesis.</em> University of Athens.</p></li>
 </ol>
-<a name="ta"></a>
-<h1 id="invited-talks">Invited Talks</h1>
-<ul>
-<li><p><em>tDCS effects on apraxia of speech in individuals with the non-fluent variant of Primary Progressive Aphasia</em>. Seminar Talk at Johns Hopkins Cognitive Science - Professor Brenda Rapp.</p></li>
-<li><p><em>Speech in individuals with Primary Progressive Aphasia</em>. Cyprus Acquisition Team - Natalia Pavlou University of Cyprus. Nicosia, Cyprus.</p></li>
-<li><p><em>Speech profile of individuals with Primary Progressive Aphasia.</em> Baltimore Brain Series (selection committee members: National Institute on Drug Abuse (NIDA) – Andrew Wright, Sarah Aronson, and Kauê Kosta; Johns Hopkins University – Kurt Fraser, Aparna Shah, and Alexei Bygrave; University of Maryland, Baltimore: UMB Home – Lace Riggs and Megan Fox.)</p></li>
-<li><p><em>Clinical Markers from Speech Signals and Natural Language Processing: A preliminary study from picture description data</em>. (Stroke Cognitive Outcomes and REcovery Lab, Dr. Argye E. Hillis). Johns Hopkins University, April 17, 2018</p></li>
-<li><p><em>Linguistic predictors of MCI and AD</em>. School of Philosophy. ‘National and Kapodistrian University of Athens. Athens, Greece, February 27, 2018.</p></li>
-<li><p><em>Eliciting variant and invariant properties from speech dynamics</em>. Faculty of Linguistics, Philology and Phonetics, Centre for Linguistics and Philology, Oxford University; Wednesday, September 6, 2017.</p></li>
-<li><p><em>Language variation and change: evidence from speech acoustics. Applied Linguistics.</em> University of Warwick, March 8, 2017.</p></li>
-<li><p><em>Acoustic predictors from prosody and segmental structure of atypical speech productions</em>. Department of Swedish Unit: the Swedish Language Bank (meeting organizer Dr. Dimitris Kokkinakis), December 4, 2017.</p></li>
-<li><p><em>Deciphering the speech signal: speakers and communities of speakers.</em> <a href="http://www.clt.gu.se/event/2017-11-30/clt-workshop-2017" class="uri">http://www.clt.gu.se/event/2017-11-30/clt-workshop-2017</a>, November 30, 2017.</p></li>
-<li><p><em>Eliciting information from speech signals: Linguistics, signal processing, and machine learning.</em> October 13, 2016 Chalmers University of Technology. Sweden.</p></li>
-<li><p><em>Melodic patterns in speech communication: Interactions and heterogeneity</em>. University of Gothenburg. Sweden, March 1, 2016.</p></li>
-<li><p><em>Greek vowels and the nature of acoustic gradience. Gothenburg</em>. Research seminars. University of Gothenburg. Sweden, February 18, 2016.</p></li>
-<li><p>Workshop: Charalampos Themistokleous, <em>Language Variation and Change: Evidence from Modern Greek Vowels</em>. Seeger Center for Hellenic Studies. Princeton University. USA, November 20th 2015.</p></li>
-<li><p><em>Learning Linguistic Categories from Acoustic Structure: Towards a Speech Time Frequency Model</em>. Centre for Linguistic Theory and Studies in Probability (CLASP). Inauguration Workshop. Institutionen för filosofi, lingvistik och vetenskapsteori. Humanistiska fakulteten. Göteborgs universitet. Sweden, August 27th 2015.</p></li>
-<li><p><em>Timing in Speech Melody</em>. MAMPF: Moderne Ansätze und Methoden der Phonetischen Forschung (NOSH: New Observations in Speech and Hearing) talk series. Ludwig Maximilian University Munich. Germany, June 17th 2015.</p></li>
-<li><p><em>Seeking an Anchorage. Stability and Variability in Tonal Alignment of Rising Prenuclear Pitch Accents.</em> University of Central Lancashire (UCLAN). Cyprus, March 31th 2014.</p></li>
-<li><p><em>Biolinguistic Foundations of Tonal Patterns: Evidence from Speech Perception</em>. “CAT within CAT” presentations organized by the Cyprus Acquisition Team. Cyprus, November 1st 2013.</p></li>
-<li><p><em>Prosodic Structure: Experimental Evidence from Segmental Anchoring and the Syllabification of Geminates</em>. Cyprus Linguistics Association (CyLing) at the University of Cyprus. Cyprus, October 24th 2012.</p></li>
-<li><p><em>The phonology of Ancient Greek</em>. Open University of Cyprus, (co-ordinator: Dr. Maria Pavlou, Open University of Cyprus, Programme “Greek Civilization”). Cyprus, October 14th 2012.</p></li>
-<li><p><em>Computational Linguistics.</em> Lecture Series: Invited Local Linguist; co-ordinator: Dimitra Karoulla-Vrikki. European University, Cyprus. Cyprus, March 15th 2012.</p></li>
-<li><p><em>Information structure and prosody. Evidence from the nuclear pitch accents.</em> Cyprus Linguistics Association (CyLing). Cyprus, October 26th 2011.</p></li>
-<li><p><em>Information Structure and Prosody in Athenian and Cypriot Greek</em>. University of Athens. Greece, May 20th 2011.</p></li>
-</ul>
+<div style="text-align:right">
+  <a class="page-link" style="color: aliceblue;text-transform: uppercase;" href="#top">⬆Top</a>
+</div>

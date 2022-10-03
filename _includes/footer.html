@@ -1,11 +1,66 @@
-<footer class="site-footer">
-  <div class="wrapper">
-    <ul class="contact-list">
-      <li>
-      <li>
-        {% if  site.description  %}
-        {{ site.description | escape }}
-        {% endif %}
-      </li>
+<footer class="site-footer" style="background-color:#000000">
+  
+  <div class="row">
+    <div class="column"  width: 70%;>
+  <h1 style="text-align: center; color: aliceblue;">
+    {% if site.title %}
+    {{ site.title | escape }}
+    {% endif %} </h1>
+  <h3 style="text-align: center; color: aliceblue;">
+    {% if site.subtitle %}
+    {{ site.subtitle | escape }}
+    {% endif %} </h3>
+    <h3 style="text-align: center; color: aliceblue;">
+          Department
+          of Special Needs Education</h3>
+    <h3 style="text-align: center; color: aliceblue;">University of Oslo</h3>
+    </div>
+    <div class="row">
+      <hr>
+    <div class="column" style="text-align: left;">
+      <ul style="list-style: none;">
+      <li><a class="page-link" style="color: aliceblue;text-transform: uppercase;" href="{{site.baseurl}}/">
+      Home</a></li>
+      <li><a class="page-link" style="color: aliceblue;text-transform: uppercase;" href="{{site.baseurl}}/about/">
+      About</a></li>
+      <li><a class="page-link" style="color: aliceblue;text-transform: uppercase;"
+      href="{{site.baseurl}}/publications/">
+      Publications</a></li>
+      <li><a class="page-link" style="color: aliceblue;text-transform: uppercase;" href="{{site.baseurl}}/software/">
+      Research</a></li>
+      <li><a class="page-link" style="color: aliceblue;text-transform: uppercase;" href="{{site.baseurl}}/teaching/">
+      Teaching</a></li>
+      <li><a class="page-link" style="color: aliceblue;text-transform: uppercase;" href="{{site.baseurl}}/talks/">
+      Talks</a></li>
+      <li><a class="page-link" style="color: aliceblue;text-transform: uppercase;" href="{{site.baseurl}}/photos/">
+        Photos</span></a></li></ul>
+        </div>
+        <hr>
+        <div class="column" style="text-align: left;">
+        <ul style="list-style: none;"><li><a class="page-link" style="color:aliceblue;text-transform: uppercase;" href="{{site.baseurl}}/contact/">
+            Contact Info</a></li>&nbsp;
+            <li><a class="page-link" style="color: aliceblue;text-transform: uppercase;"
+            href="https://scholar.google.com/citations?hl=en&amp;user=pATrAdMAAAAJ&amp;view_op=list_works&amp;sortby=pubdate"><i
+                class="ai ai-google-scholar ai-1x"></i>Scholar</a> </li>
+                <li><a class="page-link" style="color: aliceblue;text-transform: uppercase;" href="https://github.com/themistocleous"><i
+                class="fab fa-github fa-1.5x"></i> GitHub</a></li>
+                <li><a class="page-link" style="color: aliceblue;text-transform: uppercase;"
+            href="https://www.researchgate.net/profile/Charalambos_Themistocleous2"><i
+                class="ai ai-researchgate ai-1x"></i> ResearchGate</a></li>
+                <li><a class="page-link" style="color: aliceblue;text-transform: uppercase;"
+            href="https://www.linkedin.com/in/haristhemistocleous/"><strong>in </strong></i> Linkedin</a></li>
+            <li><a class="page-link" style="color: aliceblue;text-transform: uppercase;" href="https://twitter.com/ThemistocleousH"><i
+                class="fab fa-twitter fa-1x"></i> Twitter</a></li></ul></div>
+    </div>
+    </div>
+    <br>
   </div>
+    <hr>
+    <div style="text-align:right;padding: 20px;">
+        <div class="trigger" style="text-align: right;">
+            <div class="trigger" style="color:aliceblue;text-align: right;">
+              <p style="text-align: right; color: aliceblue;padding-top:0.5cm;">
+                {% if site.description %}
+                {{ site.description | escape }}.
+                {% endif %} All rights reserved.</div></div></div>
 </footer>

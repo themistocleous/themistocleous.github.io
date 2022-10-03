@@ -7,5 +7,5 @@ exclude: true
 
 photos:
     set: Baltimore
-    size: 11
+    size: 29
 ---

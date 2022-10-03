@@ -7,5 +7,5 @@ exclude: true
 
 photos:
     set: Austin
-    size: 4
+    size: 7
 ---

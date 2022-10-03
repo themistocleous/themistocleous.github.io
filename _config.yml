@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Charalambos K. Themistocleous"
+subtitle: "Associate Professor in Speech, Language, and Communication"
 email: "themistocleous@gmail.com"
 description: "(c) 2022 Charalambos K. Themistocleous"
 baseurl: "" # the subpath of your site, e.g. /jblog
@@ -29,5 +30,4 @@ exclude:
   - Gemfile.lock
   - vendor/bundle
 github: [metadata]
-sass:
-    sass_dir: ./_scss
+
