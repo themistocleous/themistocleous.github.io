@@ -1,20 +1,22 @@
 ---
-layout: default
+layout: default_dark
 ---
 
 {% assign num = page.photos.size %}
 
-<h1>{{ page.title }}</h1>
-<ul  style="list-style-type:none;">
+<p style="text-align:justify;background-color: black;" class="borderbox_round">{{ page.description }}</p>
+
+
+<p style="text-align:center;padding-top:0.5cm;">
   {% for i in (1..num) %}
-  <li>
-  <photo>
-    <img src="{{ site.baseurl }}/img/photos/{{ page.photos.set }}_{{ i }}.jpeg" alt="Photo {{ i }} from {{ page.photos.set | capitalize }}">
-  </photo>
-  </li>
-  <li><p></p></li>
+  <img style="border-radius: 25px;width: 70%" src="{{ site.baseurl }}/img/photos/{{ page.photos.set }}_{{ i }}.jpeg"
+    hspace="20" vspace="20" alt="Photo {{ i }} from {{ page.photos.set | capitalize }}">
   {% endfor %}
-</ul>
+</p>
+
 <div>
-  <a href="{{ site.baseurl }}/photos/">Thank you for visiting my photo gallery. Go back to my photos.</a>
+  <a style="color:aliceblue" href=" {{ site.baseurl }}/photos/">
+    <p>Thank you for visiting my photo gallery. [Click here to return to the previous page]</p>
+  </a>
+  Photo copyright (c) Charalambos Themistocleous.
 </div>

@@ -7,5 +7,5 @@ exclude: true
 
 photos:
     set: Gothenburg
-    size: 14
+    size: 15
 ---

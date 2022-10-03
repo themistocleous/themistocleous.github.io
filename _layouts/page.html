@@ -1,13 +1,21 @@
----
-layout: default
----
-<article class="post">
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en" }}">
+{% include head.html %}
 
-  <header class="post-header">
-  </header>
+<body>
+  {% include header.html %}
 
-  <div class="post-content">
-    {{ content }}
-  </div>
+  <main class="page-content" aria-label="Content">
+    <div>
+      <h1 style="padding-left: 1%;padding-top: 5%;font-size: 50px;">{{ page.title }}</h1>
+      {{ content }}
+    </div>
+  </main>
 
-</article>
+  {% include footer.html %}
+
+</body>
+
+</html>
+
+

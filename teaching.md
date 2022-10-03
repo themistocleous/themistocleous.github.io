@@ -4,54 +4,57 @@ title: Teaching
 permalink: /teaching/
 order: 5
 ---
-<h1 id="teaching">Teaching</h1>
-<hr>
-<ul> 
-<h1>University of Gothenburg</h1>
-<li><p><em><strong>Graduate Course (MA level):</strong> Statistical Methods for Natural Language Processing (NLP)</em>. Master’s Programme in Language Technology; teaching and course organizing.</p></li>
+
+<a main='top'></a>
+
+<h3 style="text-align:justify" class="borderbox">Teachers of speech, language, and communication influence students’ lives and development. For this reason, teaching requires passion, vigor, and a sense of responsibility. Teachers provide an environment that fosters collegial attitude and practice, promotes diversity, and transforms the classroom into a bustling incubator for novel and exciting ideas.  Also, they provide the next generation of linguists with the fundamental skillset to help them tackle the continuous challenges as linguists, educators, and health care practitioners. Ultimately, teachers aim to train talented young students and help them pave their way to a successful career in theoretical, computational, and clinical linguistics.</h3>
+
+<table>
+<tr>
+<td><h2>Courses</h2></td>
+</tr>
+<tr>
+<td>
+<ul>        
+<li><p><em><strong>Graduate Course (MA level):</strong> Statistical Methods for Natural Language Processing (NLP)</em>. Master’s Programme in Language Technology; University of Gothenburg; teaching and course organizing.</p></li>
 <ul>
 <li><a href="/assets/pages/MLT.html">Link to Course Website</a> </li>
 <li><a href="https://github.com/themistocleous/StatisticalMethodsNLP">Link to Course Materials on GitHub</a></li>
 </ul>
-<li><p><em><strong>Graduate Course (MA level):</strong>  Introduction to Formal Linguistics</em>, University of Gothenburg. Master’s Programme in language technology. Co-teaching with Stergios Chatzikyriakides. (2016–2017)</p></li>
-<hr>
-<h1>University of Cyprus</h1>
-<li><p><em><strong>Graduate Course (MA level):</strong> Principles of Linguistic Analysis (MA Programme in Linguistics)</em></p></li>
-<li><p><em>Theoretical Phonology</em></p></li>
-<ul>
-<li><a href="https://github.com/themistocleous/course_phonetics">Link to Course Materials on GitHub</a></li>
+<li><em><strong>Graduate Course (MA level):</strong>  Introduction to Formal Linguistics</em>, University of Gothenburg. Master’s Programme in language technology. Co-teaching with Stergios Chatzikyriakides. (2016–2017)</li>
+<li><em><strong>Undegratuate and Graduate Courses (MA Programme in Linguistics, University of Cyprus):</strong> Principles of Linguistic Analysis</em></li>
+<li><em>Theoretical Phonology</em><a href="https://github.com/themistocleous/course_phonetics"> (Link to Course Materials on GitHub</a>)</li>
+<li><em>Suprasegmental Phonology</em></li>
+<li><em>Sociolinguistics </em><a href="https://github.com/themistocleous/course_sociolinguistics2014">(Link to Course Materials on GitHub)</a></li>
+<li><em>Phonetics and Phonology (3rd &amp; 4th year elective)</em></li>
+<li><em>Research Design and Statistics for Linguists (3rd &amp; 4th year elective)</em></li>
+<li><em>Sociolinguistics</em></li>
+<li><em>Phonetics and Phonology: Advanced Level (3rd &amp; 4th year elective)</em></li>
+<li><em>Speech Melody and Conversation (3rd &amp; 4th year elective)</em></li>
+<li><em>Sociolinguistics</em></li>
+<li><em>Information Structure and Prosody (3rd &amp; 4th year elective).</em></li>
+<li><em>Tutorials: Introduction to Greek Language</em></li>
+<li><strong>Postgraduate module in Linguistics and Literature; Open University of Cyprus</strong> Linguistics and Literature: Phonetics, Phonology, Morphology, Syntax, Semantics, and Pragmatics</li>
+<li><strong>Tutorials; University of Athens</strong></li>
+<li><em>Phonetics, Phonology, and Statistics (Phonetics Lab)</em></li>
 </ul>
-<li><p><em>Suprasegmental Phonology</em></p></li>
-<li><p><em>Sociolinguistics</em></p></li>
-<ul>
-<li><a href="https://github.com/themistocleous/course_sociolinguistics2014">Link to Course Materials on GitHub</a></li>
-</ul>
-<li><p><em>Phonetics and Phonology (3rd &amp; 4th year elective)</em></p></li>
-<li><p><em>Research Design and Statistics for Linguists (3rd &amp; 4th year elective)</em></p></li>
-<li><p><em>Sociolinguistics</em></p></li>
-<li><p><em>Undergraduate Course: Phonetics and Phonology: Advanced Level (3rd &amp; 4th year elective)</em></p></li>
-<li><p><em>Phonetics and Phonology</em></p></li>
-<li><p><em>Speech Melody and Conversation (3rd &amp; 4th year elective)</em></p></li>
-<li><p><em>Sociolinguistics</em></p></li>
-<li><p><em>Phonetics &amp; Phonology</em></p></li>
-<li><p><em>Information Structure and Prosody (3rd &amp; 4th year elective).</em></p></li>
-<li><p><em>Tutorials: Introduction to Greek Language</em></p></li>
-<hr>
-<h1>Open University of Cyprus</h1>
-<li><p><em>Linguistics and Literature.</em> Postgraduate module in Linguistics and Literature (Phonetics, Phonology, Morphology, Syntax, Semantics, and Pragmatics)</p></li>
-<li><p><strong>University of Athens</strong></p></li>
-<li><p><em>Tutorials: Phonetics, Phonology, and Statistics (Phonetics Lab)</em></p></li>
-</ul>
-<hr>
-
-<h1>PhD Students</h1>
-<ul>
-<li><p><strong>2014--2018:</strong>Georgios Georgiou, PhD dissertation (co-supervisor); University of Cyprus, titled "Perception and Production of Greek vowels by Arabic Speakers of Greek as a second language".</p></li>
-</ul>
-<hr>
-
-<a name="teme"></a>
-<h1 id="development-of-teaching-materials">Teaching Materials</h1>
+</td>
+</tr>
+<tr>
+<td><h2>PhD Students</h2></td>
+</tr>
+<tr>
+<td><ul><li><strong>George Georgiou(2018)</strong>. Perception and Production of Greek vowels by Arabic Speakers of Greek as a second language. PhD dissertation (co-supervisor); University of Cyprus<br>><a href="https://www.georgiougeorg.com/home" class="uri">For more info please see Georgios website.</a> </li></ul></td></tr>
+<tr>
+<td><h2>MA Students</h2></td>
+</tr><tr>
+<td>
+<ul><li><strong>Jesika Tian Wang</strong> (5th June, 2020). Determining linguistic predictors for the classification of subjective cognitive impairment and mild cognitive impairment using machine learning. Master's thesis in Language Technology. (<a href="http://demo.spraakdata.gu.se/svedk/pbl/Jesika_MA_revised.pdf" class="uri">Link to the thesis</a><a href="http://demo.spraakdata.gu.se/svedk/pbl/MastersRedovisningsSlides2020.pdf" class="uri"> and link to the presentation slides</a>).</li>
+<li><strong>Liina Tumma</strong> (2018). "Extracting linguistic and emotional information from speech". University of Gothenburg.</li>
+</ul></td></tr>
+<tr><td><h2 id="development-of-teaching-materials">Teaching Materials</h2></td></tr>
+<tr>
+<td>
 <ol>
 <li><p><strong>Themistocleous, Charalambos</strong> (2016). <a href="/assets/RIntroCover.pdf" class="uri"> Introduction to R.</a> Unpublished manuscript. Gothenburg</p></li>
 <li><p><strong>Themistocleous, Charalambos</strong> (2016). <a href="/research/project/2017/05/31/python.html" class="uri">Introduction to Python.</a> Unpublished manuscript. Gothenburg.</p></li>
@@ -60,3 +63,8 @@ order: 5
 <li><p><strong>Themistocleous, Charalambos</strong> (2006). A Grammar of SMG. Greek Verbs <span>[</span>in Greek<span>]</span>. Athens University of Athens. (pp. 400).</p></li>
 <li><p><strong>Themistocleous, Charalambos</strong> (2006). Discourse Markers. Athens: University of Athens.</p></li>
 </ol>
+</td></tr>
+</table>
+<div style="text-align:right">
+  <a class="page-link" style="color: aliceblue;text-transform: uppercase;" href="#top">⬆Top</a>
+</div>
