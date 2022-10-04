@@ -273,7 +273,7 @@ table td {
 .site-header {
   padding-top: 20px;
   border-top: 5px solid #424242;
-  border-bottom: 1px solid #e8e8e8;
+  border-bottom: 5px solid aliceblue;
   min-height: 75.95px;
   position: relative;
 }
