@@ -18,7 +18,7 @@ layout: page
                 <h3 style="font: 400 38px/1.5;text-decoration: underline;"><a class="page-link" href="/about/">➠ More about Charalambos Themistocleous...</a></p>
                 </h3>
             </td>
-            <td style="border-color:  aliceblue;;width: 35%" valign="right">
+            <td style="border-color:  aliceblue;width: 35%" valign="right">
                 <img style="max-width: 70%" src="/img/me.jpeg" alt=" HarisThemistocleous">
             </td>
         </tr>
@@ -57,24 +57,34 @@ layout: page
     <div style="text-align: center;background-color:aliceblue;padding-bottom: 2%;padding-left: 1%;padding-right: 1%;padding-top: 2%;">
 
                     <h1>Publications</h1>
-                    <h3 style="text-align:justify;">Dr. Themistocleous's research aims to determine the relationship
-                        between
-                        the brain and language and to provide automated and personalized assessment, diagnosis, and prognosis of patients with spech and language impairment.</h3>
-                        <img style="max-width: 25%" src="/img/photos/Atopa_Artistica_10.jpeg" alt="Research">
-        <h3 style="text-decoration: underline;"><a class="page-link" href="/publications/">➠ More about Publications</a></h3>
+                    <table style="border-color:aliceblue;">
+                        <tr>
+                        <td style="border-color:  aliceblue;width: 35%" valign="right">
+                            <img style="max-width: 70%; vertical-align: right;" src="/img/photos/Atopa_Artistica_10.jpeg" alt="Publications">
+                        </td>
+                        <td valign="middle" style="border-color: aliceblue;text-align: center;width: 65%">
+                        <h3 style="text-align:justify;">Dr. Themistocleous's research aims to determine the relationship
+                        between the brain and language and to provide automated and personalized assessment, diagnosis, and prognosis
+                        of patients with spech and language impairment.</h3></td>
+                        </tr></table>
+                        <h3 style="text-decoration: underline;"><a class="page-link" href="/publications/">➠ More about Publications</a></h3>
     </div>
 
     <div style="text-align: center;padding-bottom: 2%;padding-left: 1%;padding-right: 1%;padding-top: 2%;">
         <h1>Teaching</h1>
-
+        <table>
+            <tr>
+                <td valign="middle" style="text-align: center;width: 65%">
                     <h3 style="text-align:justify;">
                         "From the early beginning of my career, I have acknowledged that education influences students’ lives and development. 
                         For this reason, I approach teaching with passion, vigor, and a sense of responsibility. 
                         An integral part of an educator is the ability to provide the next generation of scholars with the
                         fundamental skillset to help them tackle the continuous challenges and pave their way to a successful
                         career and life."</h3>
-    
-                    <img style="max-width: 25%" src="/img/logo/AEclassroom.jpeg" alt="Research">
+                    </td>
+                    <td style="width: 35%" valign="right">
+                    <img style="max-width: 70%" src="/img/logo/AEclassroom.jpeg" alt="Research">
+                    </td></tr></table>
 
         <h3 style="text-decoration: underline;"><a class="page-link" href="/teaching/">➠ More about Teaching</a></h3>
     </div>
@@ -138,7 +148,7 @@ layout: page
                 "/img/photos/Samothrace_2.jpeg"]
 
             function getImageTag() {
-                var img = '<a class="page-link" style="text-transform: uppercase;" href="/photos/"><img width="500" height="700" src=\"';
+                var img = '<a class="page-link" style="text-transform: uppercase;" href="/photos/"><img width="500" height="650" src=\"';
                 var randomIndex = Math.floor(Math.random() * imageURLs.length);
                 img += imageURLs[randomIndex];
                 img += '\" alt=\"Haris Themistocleous Photo Library\"/></a>';
