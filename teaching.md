@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Teaching
 permalink: /teaching/
 order: 5
