@@ -16,7 +16,7 @@
 title: "Charalambos K. Themistocleous"
 subtitle: "Associate Professor in Speech, Language, and Communication"
 email: "themistocleous@gmail.com"
-description: "(c) 2022 Charalambos K. Themistocleous"
+description: "(c) 2023 Charalambos K. Themistocleous"
 baseurl: "" # the subpath of your site, e.g. /jblog
 url: "https://charalambosthemistocleous.com/" # the base hostname & protocol for your site
 
@@ -30,4 +30,3 @@ exclude:
   - Gemfile.lock
   - vendor/bundle
 github: [metadata]
-
