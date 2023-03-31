@@ -1,0 +1,19 @@
+current directory: /Users/charalambosthemistocleous/Documents/academic/personal-website/themistocleous.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+/opt/homebrew/opt/ruby/bin/ruby -I /opt/homebrew/Cellar/ruby/3.2.1/lib/ruby/3.2.0 extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /Users/charalambosthemistocleous/Documents/academic/personal-website/themistocleous.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230331-43874-jznjo1 sitelibdir\=./.gem.20230331-43874-jznjo1 clean
+
+current directory: /Users/charalambosthemistocleous/Documents/academic/personal-website/themistocleous.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230331-43874-jznjo1 sitelibdir\=./.gem.20230331-43874-jznjo1
+compiling unf.cc
+linking shared-object unf_ext.bundle
+
+current directory: /Users/charalambosthemistocleous/Documents/academic/personal-website/themistocleous.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230331-43874-jznjo1 sitelibdir\=./.gem.20230331-43874-jznjo1 install
+/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20230331-43874-jznjo1
+
+current directory: /Users/charalambosthemistocleous/Documents/academic/personal-website/themistocleous.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230331-43874-jznjo1 sitelibdir\=./.gem.20230331-43874-jznjo1 clean
