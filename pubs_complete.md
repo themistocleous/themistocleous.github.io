@@ -7,14 +7,14 @@ exclude: true
 
 <a main="top"></a>
 
-<div style="text-align:center;padding-top:0.3cm;padding-bottom:0.3cm; background-color:#135c94; color:white">
-    <a class="page-link" style="color: aliceblue;text-transform: uppercase;" href="#mo">Books | </a>
-	<a class="page-link" style="color: aliceblue;text-transform: uppercase;" href="#jo">Journals | </a>
-	<a class="page-link" style="color: aliceblue;text-transform: uppercase;" href="#ch">Chapters | </a>
-	<a class="page-link" style="color: aliceblue;text-transform: uppercase;" href="#co">Conferences | </a>
-	<a class="page-link" style="color: aliceblue;text-transform: uppercase;" href="#pr">Proceedings | </a>
-    <a class="page-link" style="color: aliceblue;text-transform: uppercase;" href="#re">Reviews | </a> 
-    <a class="page-link" style="color: aliceblue;text-transform: uppercase;" href="#th">Theses | </a> 
+<div style="text-align:center;padding-top:0.3cm;padding-bottom:0.3cm; background-color:aliceblue; color:black">
+    <a class="page-link" style="text-transform: uppercase;" href="#mo">Books | </a>
+	<a class="page-link" style="text-transform: uppercase;" href="#jo">Journals | </a>
+	<a class="page-link" style="text-transform: uppercase;" href="#ch">Chapters | </a>
+	<a class="page-link" style="text-transform: uppercase;" href="#co">Conferences | </a>
+	<a class="page-link" style="text-transform: uppercase;" href="#pr">Proceedings | </a>
+    <a class="page-link" style="text-transform: uppercase;" href="#re">Reviews | </a> 
+    <a class="page-link" style="text-transform: uppercase;" href="#th">Theses | </a> 
 </div>
 <a name="pu"></a>
 <a name="mo"></a>
