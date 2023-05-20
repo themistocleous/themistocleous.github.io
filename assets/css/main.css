@@ -853,3 +853,34 @@ td {
   display: table;
   clear: both;
 }
+
+
+
+.zoom-effect {
+  overflow: hidden;
+}
+
+.zoom-effect img {
+  object-fit: cover;
+  transform: scale(1);
+  -webkit-transform: scale(1); /* Safari */
+  transition: transform 0.3s ease;
+  -webkit-transition: -webkit-transform 0.3s ease; /* Safari */
+}
+
+.zoom-effect:hover img {
+  transform: scale(1.1);
+  -webkit-transform: scale(1.1); /* Safari */
+}
+
+.search-form input[type="text"] {
+  margin-left: 10px; /* Adjust spacing */
+}
+
+.custom-zoom {
+  transition: transform 0.3s; /* Add a transition effect */
+}
+
+.custom-zoom:hover {
+  transform: scale(1.2); /* Increase the scale to zoom in */
+}
