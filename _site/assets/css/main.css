@@ -882,5 +882,5 @@ td {
 }
 
 .custom-zoom:hover {
-  transform: scale(1.2); /* Increase the scale to zoom in */
+  transform: scale(1.1); /* Increase the scale to zoom in */
 }
