@@ -17,7 +17,7 @@ order: 6
   {% assign photo_pages = site.pages | where: "layout", "photos" %}
   {% for photo_page in photo_pages %}
   <figure style="text-align:center;padding-top:1cm;padding-bottom:1cm;">
-    <a style="font-size: 22px; color: aliceblue;text-align: center; font-family:'Courier New';"
+    <a  class="zoom-effect" style="font-size: 22px; color: aliceblue;text-align: center; font-family:'Courier New';"
       href=" {{ photo_page.url | prepend: site.baseurl }}"><img style="border-radius: 25px;width: 95%"
         src="{{ site.baseurl }}/img/photos/{{ photo_page.photos.set }}_1.jpeg"
         alt="Photo 1 from {{ photo_page.photos.set | capitalize }}">{{ photo_page.title }}</a>
