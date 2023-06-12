@@ -9,9 +9,9 @@ order: 5
 
 <div  style="text-align: justify;background-color: aliceblue;padding: 2%;">
 <div class="quotebox" style="text-align: center;padding-bottom: 2%;padding-left: 15%;padding-right: 15%;padding-top: 2%;">
-    <table>
-        <tr>
-            <td valign="middle" style="text-align: center;width: 65%">
+    <table style="border:aliceblue;">
+        <tr style="border:aliceblue;">
+            <td valign="middle" style="text-align: center;width: 65%;border:aliceblue;">
                 <h3 style="text-align:justify;">
                     "From the early beginning of my career, I have acknowledged that education influences students’ lives and development. 
                     For this reason, I approach teaching with passion, vigor, and a sense of responsibility. 
