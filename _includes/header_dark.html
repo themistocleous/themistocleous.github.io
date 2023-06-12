@@ -3,7 +3,7 @@
   <div class="wrapper"  style="padding-left: 20px;padding-right: 20px;">
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
-    <a class="site-title" style="color: white; text-transform: uppercase;" href="{{site.baseurl}}/">Themistocleous</a>
+    <a class="site-title" style="color: white; text-transform:capitalize;" href="{{site.baseurl}}/">Themistocleous</a>
     {% if page_paths %}
     <nav class="site-nav">
       <input type="checkbox" id="nav-trigger" class="nav-trigger" />
@@ -20,21 +20,21 @@
         </span>
       </label>
       <div class="trigger" style="background-color: black;">
-        <a class="page-link" style="color: white;text-transform: uppercase;" href="{{site.baseurl}}/">
+        <a class="page-link" style="color: white;" href="{{site.baseurl}}/">
           Home</a>
-        <a class="page-link" style="color: white;text-transform: uppercase;" href="{{site.baseurl}}/about/">
+          <a class="page-link" style="color: white;" href="{{site.baseurl}}/news/">
+            News</a>  
+        <a class="page-link" style="color: white;" href="{{site.baseurl}}/about/">
           About</a>
-        <a class="page-link" style="color: white;text-transform: uppercase;" href="{{site.baseurl}}/publications/">
+        <a class="page-link" style="color: white;" href="{{site.baseurl}}/publications/">
           Publications</a>
-        <a class="page-link" style="color: white;text-transform: uppercase;" href="{{site.baseurl}}/software/">
+        <a class="page-link" style="color: white;" href="{{site.baseurl}}/software/">
           Research</a>
-        <a class="page-link" style="color: white;text-transform: uppercase;" href="{{site.baseurl}}/teaching/">
+        <a class="page-link" style="color: white;" href="{{site.baseurl}}/teaching/">
           Teaching</a>
-        <a class="page-link" style="color: white;text-transform: uppercase;" href="{{site.baseurl}}/talks/">
-          News</a>
-        <a class="page-link" style="color: white;text-transform: uppercase;" href="{{site.baseurl}}/photos/"><i
+        <a class="page-link" style="color: white;" href="{{site.baseurl}}/photos/"><i
             class="fa fa-camera-retro fa-1x fa-fw"></i><span class="tab">Photos</span></a>
-            <a class="page-link" style="color: white;text-transform: uppercase;" href="{{site.baseurl}}/contact/">Contact Info</a>
+            <a class="page-link" style="color: white;" href="{{site.baseurl}}/contact/">Contact Info</a>
       </div>
     </nav>
     {% endif %}

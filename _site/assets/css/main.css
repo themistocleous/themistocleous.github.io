@@ -155,20 +155,6 @@ h6 {
   font-weight: 400;
 }
 
-/** Links */
-a {
-  color: #2a7ae2;
-  text-decoration: none;
-}
-
-a:visited {
-  color: #1756a9;
-}
-
-a:hover {
-  color: #111;
-  text-decoration: underline;
-}
 
 .social-media-list a:hover {
   text-decoration: none;
@@ -795,13 +781,14 @@ a {
 }
 
 a:visited {
-  color: #1756a9;
+  color: #050505;
 }
 
 a:hover {
-  color: #111;
+  color:royalblue;
   text-decoration: none;
   text-align: justify;
+  text-decoration: underline;
 }
 
 .social-media-list a:hover {
