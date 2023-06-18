@@ -26,10 +26,15 @@ order: 5
 </div>
 
 </div>
+
+<div>
+<h1><a href="/projectsma/"><strong>Subject: Proposed MA Project: Artificial Intelligence and Speech, Language, and Communication Impairments</strong></a></h1>
+</div>
+
 <div class="quotebox">
 <table>
 <tr>
-<td><h2>Courses</h2></td>
+<td><h2>Old Courses</h2></td>
 </tr>
 <tr>
 <td>
