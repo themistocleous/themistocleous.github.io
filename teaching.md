@@ -7,32 +7,13 @@ order: 5
 
 <a main='top'></a>
 
-<div  style="text-align: justify;background-color: aliceblue;padding: 2%;">
-<div class="quotebox" style="text-align: center;padding-bottom: 2%;padding-left: 15%;padding-right: 15%;padding-top: 2%;">
-    <table style="border:aliceblue;">
-        <tr style="border:aliceblue;">
-            <td valign="middle" style="text-align: center;width: 65%;border:aliceblue;">
-                <p style="text-align:justify;">
-                    "From the early beginning of my career, I have acknowledged that education influences students’ lives and development. 
-                    For this reason, I approach teaching with passion, vigor, and a sense of responsibility. 
-                    An integral part of an educator is the ability to provide the next generation of scholars with the
-                    fundamental skillset to help them tackle the continuous challenges and pave their way to a successful
-                    career and life."</p>
-                </td>
-                <td style="width: 35%; border: aliceblue;" valign="right">
-                    <a class="zoom-effect" href="https://paw.princeton.edu/article/campus-room-302"><img style="max-width: 100%; border-radius: 25px" src="/img/logo/AEclassroom.jpeg" alt="Research-Frist Campus Center-Room 302, Princeton University (2015)."></a>
-                </td></tr></table>
-
-</div>
-
-</div>
-
-<div>
-<h1><a href="/projectsma/"><strong>Subject: Proposed MA Project: Artificial Intelligence and Speech, Language, and Communication Impairments</strong></a></h1>
-</div>
-
 <div class="quotebox">
 <table>
+<tr>
+<td><h2>2023 - MA Projects at ISP</h2></td></tr>
+<tr>
+<td style="text-align:justify;">You can learn more about these MA project opportunities here: <a href="/projectsma/"><strong>Subject: Proposed MA Project: Artificial Intelligence and Speech, Language, and Communication Impairments</strong></a></td>
+</tr>
 <tr>
 <td><h2>Old Courses</h2></td>
 </tr>
