@@ -8,6 +8,7 @@ order: 5
 <a main='top'></a>
 
 <div class="quotebox">
+<h1 style="text-align:center">Teaching</h1>
 <table>
 <tr>
 <td><h2>2023 - MA Projects at ISP</h2></td></tr>
