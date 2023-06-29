@@ -1,5 +1,4 @@
 <header class="site-header" role="banner">
-
   <div class="wrapper"  style="padding-left: 20px;padding-right: 20px;">
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
@@ -24,6 +23,8 @@
           Home</a>
         <a class="page-link" style="color: white;" href="{{site.baseurl}}/publications/">
           Publications</a>
+        <a class="page-link"  style="color: white;" href="https://openbrainai.com">
+            Open Brain AI</a>  
         <a class="page-link" style="color: white;" href="{{site.baseurl}}/software/">
           Research</a>
         <a class="page-link" style="color: white;" href="{{site.baseurl}}/teaching/">
