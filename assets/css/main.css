@@ -54,16 +54,16 @@ figure,
 
 .borderbox {
   border-style: solid;
-  border-color: antiquewhite;
-  background-color: antiquewhite;
+  border-color: steelblue;
+  background-color: steelblue;
   padding: 20px;
 }
 
 .borderbox_round {
   border-radius: 25px;
   border-style: solid;
-  border-color: antiquewhite;
-  background-color: antiquewhite;
+  border-color: steelblue;
+  background-color: steelblue;
   padding: 20px;
 }
 
@@ -233,7 +233,7 @@ table {
   text-align: left;
   color: #3f3f3f;
   border-collapse: collapse;
-  border: 1px solid antiquewhite;
+  border: 1px solid steelblue;
 }
 
 table tr:nth-child(even) {
@@ -246,9 +246,9 @@ table td {
 }
 
 table th {
-  background-color: antiquewhite;
-  border: 1px solid antiquewhite;
-  border-bottom-color: antiquewhite;
+  background-color: steelblue;
+  border: 1px solid steelblue;
+  border-bottom-color: steelblue;
 }
 
 table td {
@@ -259,7 +259,7 @@ table td {
 .site-header {
   padding-top: 20px;
   border-top: 5px solid #424242;
-  border-bottom: 5px solid antiquewhite;
+  border-bottom: 2px solid #424242;
   min-height: 75.95px;
   position: relative;
 }
@@ -306,7 +306,7 @@ table td {
     position: absolute;
     top: 9px;
     right: 15px;
-    background-color: antiquewhite;
+    background-color: steelblue;
     border: 1px solid #0e42c5;
     border-radius: 5px;
     text-align: right;
