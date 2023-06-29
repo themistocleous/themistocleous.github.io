@@ -5,18 +5,43 @@ permalink: /teaching/
 order: 5
 ---
 
-<a main='top'></a>
+<a name='top'></a>
 
+<h2 style="text-align: center;">Teaching</h2>
+<hr>
+<div style="text-align:center;padding-top:0.3cm;padding-bottom:0.3cm;background-color:antiquewhite;color:black">
+    <a class="page-link" style="color: rgb(0, 0, 0);" href="#MA">MA Projects at ISP</a><br>
+    <a class="page-link" style="color: rgb(0, 0, 0);" href="#PS">PhD Students</a><br>
+    <a class="page-link" style="color: rgb(0, 0, 0);" href="#PC">Past Courses</a><br>
+    <a class="page-link" style="color: rgb(0, 0, 0);" href="#TM">Teaching Materials</a>
+</div>
+<hr>
 <div class="quotebox">
-<h1 style="text-align:center">Teaching</h1>
+
 <table>
 <tr>
-<td><h2>2023 - MA Projects at ISP</h2></td></tr>
+<a name='MA'></a>
+<td><h3 style="text-align: center;">MA Projects at ISP</h3></td></tr>
 <tr>
 <td style="text-align:justify;">You can learn more about these MA project opportunities here: <a href="/projectsma/"><strong>Subject: Proposed MA Project: Artificial Intelligence and Speech, Language, and Communication Impairments</strong></a></td>
 </tr>
 <tr>
-<td><h2>Old Courses</h2></td>
+<a name='PS'></a>
+<td><h3 style="text-align: center;">PhD Students</h3></td>
+</tr>
+<tr>
+<td><ul><li><strong>George Georgiou(2018)</strong>. Perception and Production of Greek vowels by Arabic Speakers of Greek as a second language. PhD dissertation (co-supervisor); University of Cyprus<br>><a href="https://www.georgiougeorg.com/home" class="uri">For more info please see Georgios website.</a> </li></ul></td></tr>
+<tr>
+<a name='MS'></a>
+<td><h3 style="text-align: center;">MA Students</h3></td>
+</tr><tr>
+<td>
+<ul><li><strong>Jesika Tian Wang</strong> (5th June, 2020). Determining linguistic predictors for the classification of subjective cognitive impairment and mild cognitive impairment using machine learning. Master's thesis in Language Technology. (<a href="http://demo.spraakdata.gu.se/svedk/pbl/Jesika_MA_revised.pdf" class="uri">Link to the thesis</a><a href="http://demo.spraakdata.gu.se/svedk/pbl/MastersRedovisningsSlides2020.pdf" class="uri"> and link to the presentation slides</a>).</li>
+<li><strong>Liina Tumma</strong> (2018). "Extracting linguistic and emotional information from speech". University of Gothenburg.</li>
+</ul></td></tr>
+<tr>
+<a name='PC'></a>
+<td><h3 style="text-align: center;">Past Courses</h3></td>
 </tr>
 <tr>
 <td>
@@ -45,19 +70,8 @@ order: 5
 </ul>
 </td>
 </tr>
-<tr>
-<td><h2>PhD Students</h2></td>
-</tr>
-<tr>
-<td><ul><li><strong>George Georgiou(2018)</strong>. Perception and Production of Greek vowels by Arabic Speakers of Greek as a second language. PhD dissertation (co-supervisor); University of Cyprus<br>><a href="https://www.georgiougeorg.com/home" class="uri">For more info please see Georgios website.</a> </li></ul></td></tr>
-<tr>
-<td><h2>MA Students</h2></td>
-</tr><tr>
-<td>
-<ul><li><strong>Jesika Tian Wang</strong> (5th June, 2020). Determining linguistic predictors for the classification of subjective cognitive impairment and mild cognitive impairment using machine learning. Master's thesis in Language Technology. (<a href="http://demo.spraakdata.gu.se/svedk/pbl/Jesika_MA_revised.pdf" class="uri">Link to the thesis</a><a href="http://demo.spraakdata.gu.se/svedk/pbl/MastersRedovisningsSlides2020.pdf" class="uri"> and link to the presentation slides</a>).</li>
-<li><strong>Liina Tumma</strong> (2018). "Extracting linguistic and emotional information from speech". University of Gothenburg.</li>
-</ul></td></tr>
-<tr><td><h2 id="development-of-teaching-materials">Teaching Materials</h2></td></tr>
+
+<tr><td><a name='TM'></a><h3 style="text-align: center;">Teaching Materials</h3></td></tr>
 <tr>
 <td>
 <ol>
@@ -72,5 +86,5 @@ order: 5
 </table>
 </div>
 <div style="text-align:right">
-  <a class="page-link" style="color: aliceblue;text-transform: uppercase;" href="#top">⬆Top</a>
+  <a class="page-link" style="color: antiquewhite;text-transform: uppercase;" href="#top">⬆Top</a>
 </div>
