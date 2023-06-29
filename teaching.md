@@ -8,14 +8,15 @@ order: 5
 <a name='top'></a>
 
 <h2 style="text-align: center;">Teaching</h2>
-<hr>
-<div style="text-align:center;padding-top:0.3cm;padding-bottom:0.3cm;background-color:steelblue;color:black">
+
+<div style="background-color:steelblue; padding-left: 20%; padding-right: 20%; padding-top: 1%; padding-bottom: 1%; text-align: center; border-top: 1px solid black; border-bottom: 1px solid black;">
+  
     <a class="page-link" style="color: white;" href="#MA">MA Projects at ISP |</a>
     <a class="page-link" style="color: white;" href="#PS">PhD Students |</a>
     <a class="page-link" style="color: white;" href="#PC">Past Courses |</a>
     <a class="page-link" style="color: white;" href="#TM">Teaching Materials</a>
 </div>
-<hr>
+
 <div class="quotebox">
 
 <table>
