@@ -7,15 +7,17 @@ order: 5
 
 <a name='top'></a>
 
-<h2 style="text-align: center;">Teaching</h2>
+<h1 style="text-align: center;">Teaching</h1>
 
-<div style="background-color:aliceblue; padding-left: 20%; padding-right: 20%; padding-top: 1%; padding-bottom: 1%; text-align: center; border-top: 1px solid black; border-bottom: 1px solid black;">
+<div style="background-color:aliceblue; padding-left: 20%; padding-right: 20%; padding-top: 1%; padding-bottom: 1%; text-align: center;">
   
     <a class="page-link" href="#MA">MA Projects at ISP |</a>
     <a class="page-link" href="#PS">PhD Students |</a>
     <a class="page-link" href="#PC">Past Courses |</a>
     <a class="page-link" href="#TM">Teaching Materials</a>
 </div>
+
+<div style="padding: 2%"></div>
 
 <div class="quotebox">
 
