@@ -22,7 +22,7 @@ figure {
 
 /** Basic styling */
 body {
-  font: 400 20px/1.5 Helvetica;
+  font: 400 20px/1.5 Arial;
   color: #111;
   background-color: white;
   -webkit-text-size-adjust: 200%;
