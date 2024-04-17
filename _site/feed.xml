@@ -1,992 +1,992 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-01-02T11:55:06+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Charalambos K. Themistocleous</title><subtitle>(c) 2023 Charalambos K. Themistocleous</subtitle><entry><title type="html">What is Primary Progressive Aphasia?</title><link href="http://localhost:4000/ppa/2022/03/31/PPA.html" rel="alternate" type="text/html" title="What is Primary Progressive Aphasia?" /><published>2022-03-31T21:12:11+02:00</published><updated>2022-03-31T21:12:11+02:00</updated><id>http://localhost:4000/ppa/2022/03/31/PPA</id><content type="html" xml:base="http://localhost:4000/ppa/2022/03/31/PPA.html">&lt;p&gt;Primary Progressive Aphasia is neurodegenerative condition. Patients are characterized by impaired speech and language production.&lt;/p&gt;</content><author><name></name></author><category term="PPA" /><summary type="html">Primary Progressive Aphasia is neurodegenerative condition. Patients are characterized by impaired speech and language production.</summary></entry><entry><title type="html">Input methods in Emacs</title><link href="http://localhost:4000/emacs,/writing/2017/12/13/emacs-input.html" rel="alternate" type="text/html" title="Input methods in Emacs" /><published>2017-12-13T13:00:00+01:00</published><updated>2017-12-13T13:00:00+01:00</updated><id>http://localhost:4000/emacs,/writing/2017/12/13/emacs-input</id><content type="html" xml:base="http://localhost:4000/emacs,/writing/2017/12/13/emacs-input.html">&lt;p&gt;To access multilingual support in Emacs, one easy way is  by  typing &lt;strong&gt;C-\&lt;/strong&gt;  and  then
-selecting an  input method.  The following functions are also useful:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-04-17T15:38:11+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Charalambos K. Themistocleous</title><subtitle>(c) 2023 Charalambos K. Themistocleous</subtitle><entry><title type="html">What is Primary Progressive Aphasia?</title><link href="http://localhost:4000/ppa/2022/03/31/PPA.html" rel="alternate" type="text/html" title="What is Primary Progressive Aphasia?" /><published>2022-03-31T21:12:11+02:00</published><updated>2022-03-31T21:12:11+02:00</updated><id>http://localhost:4000/ppa/2022/03/31/PPA</id><content type="html" xml:base="http://localhost:4000/ppa/2022/03/31/PPA.html"><![CDATA[<p>Primary Progressive Aphasia is neurodegenerative condition. Patients are characterized by impaired speech and language production.</p>]]></content><author><name></name></author><category term="PPA" /><summary type="html"><![CDATA[Primary Progressive Aphasia is neurodegenerative condition. Patients are characterized by impaired speech and language production.]]></summary></entry><entry><title type="html">Input methods in Emacs</title><link href="http://localhost:4000/emacs,/writing/2017/12/13/emacs-input.html" rel="alternate" type="text/html" title="Input methods in Emacs" /><published>2017-12-13T13:00:00+01:00</published><updated>2017-12-13T13:00:00+01:00</updated><id>http://localhost:4000/emacs,/writing/2017/12/13/emacs-input</id><content type="html" xml:base="http://localhost:4000/emacs,/writing/2017/12/13/emacs-input.html"><![CDATA[<p>To access multilingual support in Emacs, one easy way is  by  typing <strong>C-\</strong>  and  then
+selecting an  input method.  The following functions are also useful:</p>
 
-&lt;p&gt;&lt;strong&gt;M-x&lt;/strong&gt; : list-input-methods -it provides the list of input methods.&lt;/p&gt;
+<p><strong>M-x</strong> : list-input-methods -it provides the list of input methods.</p>
 
-&lt;p&gt;&lt;strong&gt;M-x&lt;/strong&gt; : describe-input-methods - it  shows the key sequences and the
-corresponding input characters for a specific input method.&lt;/p&gt;
+<p><strong>M-x</strong> : describe-input-methods - it  shows the key sequences and the
+corresponding input characters for a specific input method.</p>
 
-&lt;p&gt;&lt;strong&gt;C-h I&lt;/strong&gt;  : the same.&lt;/p&gt;
+<p><strong>C-h I</strong>  : the same.</p>
 
-&lt;h1 id=&quot;phonetics&quot;&gt;Phonetics&lt;/h1&gt;
-&lt;p&gt;There are several input functions for inserting IPA symbols two of the
-most common  ones are the  &lt;strong&gt;ipa-praat&lt;/strong&gt; and &lt;strong&gt;ipa-x-sampa&lt;/strong&gt;.   If you
+<h1 id="phonetics">Phonetics</h1>
+<p>There are several input functions for inserting IPA symbols two of the
+most common  ones are the  <strong>ipa-praat</strong> and <strong>ipa-x-sampa</strong>.   If you
 are transcribing English, French, German  and Italian you may find the
-&lt;strong&gt;IPA&lt;/strong&gt; convenient. For  Greek someone might want to  download the IPA
+<strong>IPA</strong> convenient. For  Greek someone might want to  download the IPA
 keyboard                                                          from
 my
-&lt;a href=&quot;https://github.com/themistocleous/Keyboard_Layouts&quot;&gt;GitHub account&lt;/a&gt;,
-which works with all applications across a system.&lt;/p&gt;
+<a href="https://github.com/themistocleous/Keyboard_Layouts">GitHub account</a>,
+which works with all applications across a system.</p>
 
-&lt;h1 id=&quot;semanticslogic&quot;&gt;Semantics/Logic&lt;/h1&gt;
-&lt;p&gt;The  &lt;strong&gt;Tex&lt;/strong&gt; input  set provides  several symbols  that are  useful, e.g.,
+<h1 id="semanticslogic">Semantics/Logic</h1>
+<p>The  <strong>Tex</strong> input  set provides  several symbols  that are  useful, e.g.,
 Greek letters, unary operators,  relation operators, binary operators,
 negated  binary  operators,  set and/or  logic  notation,  delimiters,
-arrows, etc.&lt;/p&gt;
+arrows, etc.</p>
 
-&lt;h1 id=&quot;languages&quot;&gt;Languages&lt;/h1&gt;
-&lt;p&gt;There are input methods that provide graphemes for most languages.&lt;/p&gt;
+<h1 id="languages">Languages</h1>
+<p>There are input methods that provide graphemes for most languages.</p>
 
-&lt;h1 id=&quot;input-methods&quot;&gt;Input Methods&lt;/h1&gt;
-&lt;p&gt;The  list  of  the  available   input  methods  available  are  listed
-below.&lt;/p&gt;
+<h1 id="input-methods">Input Methods</h1>
+<p>The  list  of  the  available   input  methods  available  are  listed
+below.</p>
 
-&lt;h2 id=&quot;arabic&quot;&gt;Arabic&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;arabic (‘ع’ in mode line)
- Arabic input method.&lt;/li&gt;
-&lt;/ul&gt;
+<h2 id="arabic">Arabic</h2>
+<ul>
+  <li>arabic (‘ع’ in mode line)
+ Arabic input method.</li>
+</ul>
 
-&lt;h2 id=&quot;assamese&quot;&gt;Assamese&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;assamese-inscript (‘AsmIS’ in mode line)
- Assamese keyboard Inscript&lt;/li&gt;
-  &lt;li&gt;assamese-itrans (‘AsmIT’ in mode line)
- Assamese ITRANS&lt;/li&gt;
-&lt;/ul&gt;
+<h2 id="assamese">Assamese</h2>
+<ul>
+  <li>assamese-inscript (‘AsmIS’ in mode line)
+ Assamese keyboard Inscript</li>
+  <li>assamese-itrans (‘AsmIT’ in mode line)
+ Assamese ITRANS</li>
+</ul>
 
-&lt;h2 id=&quot;belarusian&quot;&gt;Belarusian&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;belarusian (‘BE’ in mode line)
- ЙЦУКЕН keyboard layout registered as STB955-94 Belarusian standard.&lt;/li&gt;
-&lt;/ul&gt;
+<h2 id="belarusian">Belarusian</h2>
+<ul>
+  <li>belarusian (‘BE’ in mode line)
+ ЙЦУКЕН keyboard layout registered as STB955-94 Belarusian standard.</li>
+</ul>
 
-&lt;h2 id=&quot;bengali&quot;&gt;Bengali&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;bengali-probhat (‘BngPB’ in mode line)
-Probhat keyboard for Bengali/Bangla&lt;/li&gt;
-  &lt;li&gt;bengali-inscript (‘BngIS’ in mode line)
-Bengali keyboard Inscript&lt;/li&gt;
-  &lt;li&gt;bengali-itrans (‘BngIT’ in mode line)
-Bengali ITRANS&lt;/li&gt;
-&lt;/ul&gt;
+<h2 id="bengali">Bengali</h2>
+<ul>
+  <li>bengali-probhat (‘BngPB’ in mode line)
+Probhat keyboard for Bengali/Bangla</li>
+  <li>bengali-inscript (‘BngIS’ in mode line)
+Bengali keyboard Inscript</li>
+  <li>bengali-itrans (‘BngIT’ in mode line)
+Bengali ITRANS</li>
+</ul>
 
-&lt;h2 id=&quot;bulgarian&quot;&gt;Bulgarian&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;bulgarian-bds (‘БДС’ in mode line)
-Bulgarian standard keyboard layout (BDS)&lt;/li&gt;
-  &lt;li&gt;bulgarian-phonetic (‘ЖБФ’ in mode line)
-Bulgarian Phonetic keyboard layout, producing Unicode.&lt;/li&gt;
-  &lt;li&gt;bulgarian-alt-phonetic (‘БНФ’ in mode line)
-Bulgarian alternative Phonetic keyboard layout, producing Unicode.&lt;/li&gt;
-&lt;/ul&gt;
+<h2 id="bulgarian">Bulgarian</h2>
+<ul>
+  <li>bulgarian-bds (‘БДС’ in mode line)
+Bulgarian standard keyboard layout (BDS)</li>
+  <li>bulgarian-phonetic (‘ЖБФ’ in mode line)
+Bulgarian Phonetic keyboard layout, producing Unicode.</li>
+  <li>bulgarian-alt-phonetic (‘БНФ’ in mode line)
+Bulgarian alternative Phonetic keyboard layout, producing Unicode.</li>
+</ul>
 
-&lt;h2 id=&quot;chinese&quot;&gt;Chinese&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;chinese-sisheng (‘ǚ’ in mode line)
-Sìshēng input method for pīnyīn transliteration of Chinese.&lt;/li&gt;
-&lt;/ul&gt;
+<h2 id="chinese">Chinese</h2>
+<ul>
+  <li>chinese-sisheng (‘ǚ’ in mode line)
+Sìshēng input method for pīnyīn transliteration of Chinese.</li>
+</ul>
 
-&lt;h2 id=&quot;chinese-big5&quot;&gt;Chinese-BIG5&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;chinese-zozy (‘零注’ in mode line)
-中文輸入【零壹注音】&lt;/li&gt;
-  &lt;li&gt;chinese-b5-quick (‘簡B’ in mode line)
-中文輸入【簡易】BIG5&lt;/li&gt;
-  &lt;li&gt;chinese-punct-b5 (‘標B’ in mode line)
-中文輸入【標點符號】&lt;/li&gt;
-  &lt;li&gt;chinese-array30 (‘３０’ in mode line)
-中文【行列３０】&lt;/li&gt;
-  &lt;li&gt;chinese-py-b5 (‘拼B’ in mode line)
-漢字輸入::拼音::&lt;/li&gt;
-  &lt;li&gt;chinese-ecdict (‘英漢’ in mode line)
-中文輸入【英漢辭典】&lt;/li&gt;
-  &lt;li&gt;chinese-b5-tsangchi (‘倉B’ in mode line)
-中文輸入【倉頡】BIG5&lt;/li&gt;
-  &lt;li&gt;chinese-4corner (‘四角’ in mode line)
-四角號碼::&lt;/li&gt;
-  &lt;li&gt;chinese-py-punct-b5 (‘拼符’ in mode line)
-中文輸入【拼音】 and ‘v’ for 標點符號輸入&lt;/li&gt;
-  &lt;li&gt;chinese-qj-b5 (‘全B’ in mode line)
-漢字輸入::全角::&lt;/li&gt;
-  &lt;li&gt;chinese-etzy (‘倚注’ in mode line)
-中文輸入【倚天注音】&lt;/li&gt;
-  &lt;li&gt;chinese-ctlaub (‘劉粵’ in mode line)
-漢字輸入：劉錫祥式粵音：&lt;/li&gt;
-&lt;/ul&gt;
+<h2 id="chinese-big5">Chinese-BIG5</h2>
+<ul>
+  <li>chinese-zozy (‘零注’ in mode line)
+中文輸入【零壹注音】</li>
+  <li>chinese-b5-quick (‘簡B’ in mode line)
+中文輸入【簡易】BIG5</li>
+  <li>chinese-punct-b5 (‘標B’ in mode line)
+中文輸入【標點符號】</li>
+  <li>chinese-array30 (‘３０’ in mode line)
+中文【行列３０】</li>
+  <li>chinese-py-b5 (‘拼B’ in mode line)
+漢字輸入::拼音::</li>
+  <li>chinese-ecdict (‘英漢’ in mode line)
+中文輸入【英漢辭典】</li>
+  <li>chinese-b5-tsangchi (‘倉B’ in mode line)
+中文輸入【倉頡】BIG5</li>
+  <li>chinese-4corner (‘四角’ in mode line)
+四角號碼::</li>
+  <li>chinese-py-punct-b5 (‘拼符’ in mode line)
+中文輸入【拼音】 and ‘v’ for 標點符號輸入</li>
+  <li>chinese-qj-b5 (‘全B’ in mode line)
+漢字輸入::全角::</li>
+  <li>chinese-etzy (‘倚注’ in mode line)
+中文輸入【倚天注音】</li>
+  <li>chinese-ctlaub (‘劉粵’ in mode line)
+漢字輸入：劉錫祥式粵音：</li>
+</ul>
 
-&lt;h2 id=&quot;chinese-cns&quot;&gt;Chinese-CNS&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;chinese-cns-quick (‘簡C’ in mode line)
-中文輸入【簡易】CNS&lt;/li&gt;
-  &lt;li&gt;chinese-cns-tsangchi (‘倉C’ in mode line)
-中文輸入【倉頡】CNS&lt;/li&gt;
-&lt;/ul&gt;
+<h2 id="chinese-cns">Chinese-CNS</h2>
+<ul>
+  <li>chinese-cns-quick (‘簡C’ in mode line)
+中文輸入【簡易】CNS</li>
+  <li>chinese-cns-tsangchi (‘倉C’ in mode line)
+中文輸入【倉頡】CNS</li>
+</ul>
 
-&lt;h2 id=&quot;chinese-gb&quot;&gt;Chinese-GB&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;chinese-tonepy (‘调拼’ in mode line)
-汉字输入∷带调拼音∷&lt;/li&gt;
-  &lt;li&gt;chinese-ctlau (‘刘粤’ in mode line)
-汉字输入∷刘锡祥式粤音∷&lt;/li&gt;
-  &lt;li&gt;chinese-py (‘拼G’ in mode line)
-汉字输入∷拼音∷&lt;/li&gt;
-  &lt;li&gt;chinese-qj (‘全G’ in mode line)
-汉字输入∷全角∷&lt;/li&gt;
-  &lt;li&gt;chinese-tonepy-punct (‘拼符’ in mode line)
- 汉字输入 带调拼音方案 and ‘v’ for 标点符号输入&lt;/li&gt;
-  &lt;li&gt;chinese-py-punct (‘拼符’ in mode line)
-汉字输入 拼音方案 and ‘v’ for 标点符号输入&lt;/li&gt;
-  &lt;li&gt;chinese-ziranma (‘自然’ in mode line)
-汉字输入∷【自然】∷&lt;/li&gt;
-  &lt;li&gt;chinese-punct (‘标G’ in mode line)
-汉字输入∷标点符号∷\243\240&lt;/li&gt;
-  &lt;li&gt;chinese-ccdospy (‘缩拼’ in mode line)
-汉字输入∷缩写拼音∷&lt;/li&gt;
-  &lt;li&gt;chinese-sw (‘首尾’ in mode line)
-汉字输入∷首尾∷&lt;/li&gt;
-&lt;/ul&gt;
+<h2 id="chinese-gb">Chinese-GB</h2>
+<ul>
+  <li>chinese-tonepy (‘调拼’ in mode line)
+汉字输入∷带调拼音∷</li>
+  <li>chinese-ctlau (‘刘粤’ in mode line)
+汉字输入∷刘锡祥式粤音∷</li>
+  <li>chinese-py (‘拼G’ in mode line)
+汉字输入∷拼音∷</li>
+  <li>chinese-qj (‘全G’ in mode line)
+汉字输入∷全角∷</li>
+  <li>chinese-tonepy-punct (‘拼符’ in mode line)
+ 汉字输入 带调拼音方案 and ‘v’ for 标点符号输入</li>
+  <li>chinese-py-punct (‘拼符’ in mode line)
+汉字输入 拼音方案 and ‘v’ for 标点符号输入</li>
+  <li>chinese-ziranma (‘自然’ in mode line)
+汉字输入∷【自然】∷</li>
+  <li>chinese-punct (‘标G’ in mode line)
+汉字输入∷标点符号∷\243\240</li>
+  <li>chinese-ccdospy (‘缩拼’ in mode line)
+汉字输入∷缩写拼音∷</li>
+  <li>chinese-sw (‘首尾’ in mode line)
+汉字输入∷首尾∷</li>
+</ul>
 
-&lt;h2 id=&quot;croatian&quot;&gt;Croatian&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;croatian-cc (‘HR’ in mode line)
-Another alternative Croatian input method.&lt;/li&gt;
-  &lt;li&gt;croatian-xy (‘HR’ in mode line)
-An alternative Croatian input method.&lt;/li&gt;
-  &lt;li&gt;croatian-postfix (‘HR’ in mode line)
- Croatian input method, postfix.&lt;/li&gt;
-  &lt;li&gt;croatian-prefix (‘HR’ in mode line)
- Croatian input method, prefix.&lt;/li&gt;
-  &lt;li&gt;croatian-qwerty (‘HR’ in mode line)
- Croatian keyboard without the y/z swap.&lt;/li&gt;
-  &lt;li&gt;croatian (‘HR’ in mode line)
- “Standard” Croatian keyboard.&lt;/li&gt;
-&lt;/ul&gt;
+<h2 id="croatian">Croatian</h2>
+<ul>
+  <li>croatian-cc (‘HR’ in mode line)
+Another alternative Croatian input method.</li>
+  <li>croatian-xy (‘HR’ in mode line)
+An alternative Croatian input method.</li>
+  <li>croatian-postfix (‘HR’ in mode line)
+ Croatian input method, postfix.</li>
+  <li>croatian-prefix (‘HR’ in mode line)
+ Croatian input method, prefix.</li>
+  <li>croatian-qwerty (‘HR’ in mode line)
+ Croatian keyboard without the y/z swap.</li>
+  <li>croatian (‘HR’ in mode line)
+ “Standard” Croatian keyboard.</li>
+</ul>
 
-&lt;h2 id=&quot;cyrillic&quot;&gt;Cyrillic&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;cyrillic-translit (‘Жt’ in mode line)
- Intuitively transliterated keyboard layout.&lt;/li&gt;
-  &lt;li&gt;cyrillic-yawerty (‘ЖЯ’ in mode line)
- ЯВЕРТЫ Roman transcription&lt;/li&gt;
-  &lt;li&gt;cyrillic-serbian (‘ЖS’ in mode line)
- ЉЊЕРТЗ-ЂЋ keyboard layout based on JUS.I.K1.005&lt;/li&gt;
-  &lt;li&gt;cyrillic-macedonian (‘ЖM’ in mode line)
- ЉЊЕРТЗ-ЃЌ keyboard layout based on JUS.I.K1.004&lt;/li&gt;
-  &lt;li&gt;cyrillic-jis-russian (‘ЖЙ’ in mode line)
+<h2 id="cyrillic">Cyrillic</h2>
+<ul>
+  <li>cyrillic-translit (‘Жt’ in mode line)
+ Intuitively transliterated keyboard layout.</li>
+  <li>cyrillic-yawerty (‘ЖЯ’ in mode line)
+ ЯВЕРТЫ Roman transcription</li>
+  <li>cyrillic-serbian (‘ЖS’ in mode line)
+ ЉЊЕРТЗ-ЂЋ keyboard layout based on JUS.I.K1.005</li>
+  <li>cyrillic-macedonian (‘ЖM’ in mode line)
+ ЉЊЕРТЗ-ЃЌ keyboard layout based on JUS.I.K1.004</li>
+  <li>cyrillic-jis-russian (‘ЖЙ’ in mode line)
  ЙЦУКЕН keyboard layout same as JCUKEN (JIS X0208.1983 encoding)
-    &lt;h2 id=&quot;czech&quot;&gt;Czech&lt;/h2&gt;
-  &lt;/li&gt;
-  &lt;li&gt;czech-prog-3 (‘CZ’ in mode line)
- Czech (non-standard) keyboard for programmers compatible with the default&lt;/li&gt;
-  &lt;li&gt;czech-prog-2 (‘CZ’ in mode line)
- Czech (non-standard) keyboard for programmers #2.&lt;/li&gt;
-  &lt;li&gt;czech-prog-1 (‘CZ’ in mode line)
- Czech (non-standard) keyboard for programmers #1.&lt;/li&gt;
-  &lt;li&gt;czech-qwerty (‘CZ’ in mode line)
- “Standard” Czech keyboard in the Windows NT 105 keys version, QWERTY layout.&lt;/li&gt;
-  &lt;li&gt;czech (‘CZ’ in mode line)
- “Standard” Czech keyboard in the Windows NT 105 keys version.&lt;/li&gt;
-&lt;/ul&gt;
+    <h2 id="czech">Czech</h2>
+  </li>
+  <li>czech-prog-3 (‘CZ’ in mode line)
+ Czech (non-standard) keyboard for programmers compatible with the default</li>
+  <li>czech-prog-2 (‘CZ’ in mode line)
+ Czech (non-standard) keyboard for programmers #2.</li>
+  <li>czech-prog-1 (‘CZ’ in mode line)
+ Czech (non-standard) keyboard for programmers #1.</li>
+  <li>czech-qwerty (‘CZ’ in mode line)
+ “Standard” Czech keyboard in the Windows NT 105 keys version, QWERTY layout.</li>
+  <li>czech (‘CZ’ in mode line)
+ “Standard” Czech keyboard in the Windows NT 105 keys version.</li>
+</ul>
 
-&lt;h2 id=&quot;devanagari&quot;&gt;Devanagari&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;devanagari-inscript (‘DevIS’ in mode line)
- Devanagari keyboard Inscript&lt;/li&gt;
-  &lt;li&gt;devanagari-aiba (‘DevAB’ in mode line)
- Devanagari Aiba&lt;/li&gt;
-  &lt;li&gt;devanagari-kyoto-harvard (‘DevKH’ in mode line)
- Devanagari Kyoto-Harvard&lt;/li&gt;
-  &lt;li&gt;devanagari-itrans (‘DevIT’ in mode line)
- Devanagari ITRANS&lt;/li&gt;
-&lt;/ul&gt;
+<h2 id="devanagari">Devanagari</h2>
+<ul>
+  <li>devanagari-inscript (‘DevIS’ in mode line)
+ Devanagari keyboard Inscript</li>
+  <li>devanagari-aiba (‘DevAB’ in mode line)
+ Devanagari Aiba</li>
+  <li>devanagari-kyoto-harvard (‘DevKH’ in mode line)
+ Devanagari Kyoto-Harvard</li>
+  <li>devanagari-itrans (‘DevIT’ in mode line)
+ Devanagari ITRANS</li>
+</ul>
 
-&lt;h2 id=&quot;dutch&quot;&gt;Dutch&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;dutch (‘NL’ in mode line)
- Dutch character mixfix input method.&lt;/li&gt;
-&lt;/ul&gt;
+<h2 id="dutch">Dutch</h2>
+<ul>
+  <li>dutch (‘NL’ in mode line)
+ Dutch character mixfix input method.</li>
+</ul>
 
-&lt;h2 id=&quot;english&quot;&gt;English&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;english-dvorak (‘DV@’ in mode line)
- English (ASCII) input method simulating Dvorak keyboard&lt;/li&gt;
-  &lt;li&gt;programmer-dvorak (‘DVP@’ in mode line)
-An English (ASCII) dvorak layout optimized for programming, with for example&lt;/li&gt;
-&lt;/ul&gt;
+<h2 id="english">English</h2>
+<ul>
+  <li>english-dvorak (‘DV@’ in mode line)
+ English (ASCII) input method simulating Dvorak keyboard</li>
+  <li>programmer-dvorak (‘DVP@’ in mode line)
+An English (ASCII) dvorak layout optimized for programming, with for example</li>
+</ul>
 
-&lt;h2 id=&quot;ethiopic&quot;&gt;Ethiopic&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;ethiopic (‘ፊደል ’ in mode line)
-   Quail package for Ethiopic (Tigrigna and Amharic)&lt;/li&gt;
-&lt;/ul&gt;
+<h2 id="ethiopic">Ethiopic</h2>
+<ul>
+  <li>ethiopic (‘ፊደል ’ in mode line)
+   Quail package for Ethiopic (Tigrigna and Amharic)</li>
+</ul>
 
-&lt;h2 id=&quot;french&quot;&gt;French&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;french-azerty (‘AZ@’ in mode line)
-French (Français) input method simulating Azerty keyboard&lt;/li&gt;
-  &lt;li&gt;french-keyboard (‘FR@’ in mode line)
-French (Français) input method simulating some French keyboard&lt;/li&gt;
-  &lt;li&gt;french-postfix (‘FR&amp;lt;’ in mode line)
-French (Français) input method with postfix modifiers&lt;/li&gt;
-  &lt;li&gt;french-alt-postfix (‘FR&amp;lt;’ in mode line)
-French (Français) input method with postfix modifiers&lt;/li&gt;
-  &lt;li&gt;french-prefix (‘FR&amp;gt;’ in mode line)
-French (Français) input method with prefix modifiers&lt;/li&gt;
-&lt;/ul&gt;
+<h2 id="french">French</h2>
+<ul>
+  <li>french-azerty (‘AZ@’ in mode line)
+French (Français) input method simulating Azerty keyboard</li>
+  <li>french-keyboard (‘FR@’ in mode line)
+French (Français) input method simulating some French keyboard</li>
+  <li>french-postfix (‘FR&lt;’ in mode line)
+French (Français) input method with postfix modifiers</li>
+  <li>french-alt-postfix (‘FR&lt;’ in mode line)
+French (Français) input method with postfix modifiers</li>
+  <li>french-prefix (‘FR&gt;’ in mode line)
+French (Français) input method with prefix modifiers</li>
+</ul>
 
-&lt;h2 id=&quot;georgian&quot;&gt;Georgian&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;georgian (‘გ’ in mode line)
-A common Georgian transliteration (using Unicode)&lt;/li&gt;
-&lt;/ul&gt;
+<h2 id="georgian">Georgian</h2>
+<ul>
+  <li>georgian (‘გ’ in mode line)
+A common Georgian transliteration (using Unicode)</li>
+</ul>
 
-&lt;h2 id=&quot;german&quot;&gt;German&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;german (‘DE@’ in mode line)
-German (Deutsch) input method simulating SUN German keyboard&lt;/li&gt;
-  &lt;li&gt;german-postfix (‘DE&amp;lt;’ in mode line)
-German (Deutsch) input method&lt;/li&gt;
-  &lt;li&gt;german-prefix (‘DE&amp;gt;’ in mode line)
-German (Deutsch) input method with prefix modifiers&lt;/li&gt;
-&lt;/ul&gt;
+<h2 id="german">German</h2>
+<ul>
+  <li>german (‘DE@’ in mode line)
+German (Deutsch) input method simulating SUN German keyboard</li>
+  <li>german-postfix (‘DE&lt;’ in mode line)
+German (Deutsch) input method</li>
+  <li>german-prefix (‘DE&gt;’ in mode line)
+German (Deutsch) input method with prefix modifiers</li>
+</ul>
 
-&lt;h2 id=&quot;greek&quot;&gt;Greek&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;greek (‘Ω’ in mode line)
-Ελληνικά: Greek keyboard layout (ISO 8859-7)&lt;/li&gt;
-  &lt;li&gt;greek-ibycus4 (‘IB’ in mode line)
-The Ibycus4 input method for Classical Greek using mule-unicode-0100-24ff.&lt;/li&gt;
-  &lt;li&gt;greek-babel (‘BG’ in mode line)
-The TeX Babel input method for Classical Greek using mule-unicode-0100-24ff.&lt;/li&gt;
-  &lt;li&gt;greek-mizuochi (‘CG’ in mode line)
-The Mizuochi input method for Classical Greek using mule-unicode-0100-24ff.&lt;/li&gt;
-  &lt;li&gt;greek-jis (‘Ω’ in mode line)
-Ελληνικα: Greek keyboard layout (JIS X0208.1983)&lt;/li&gt;
-&lt;/ul&gt;
+<h2 id="greek">Greek</h2>
+<ul>
+  <li>greek (‘Ω’ in mode line)
+Ελληνικά: Greek keyboard layout (ISO 8859-7)</li>
+  <li>greek-ibycus4 (‘IB’ in mode line)
+The Ibycus4 input method for Classical Greek using mule-unicode-0100-24ff.</li>
+  <li>greek-babel (‘BG’ in mode line)
+The TeX Babel input method for Classical Greek using mule-unicode-0100-24ff.</li>
+  <li>greek-mizuochi (‘CG’ in mode line)
+The Mizuochi input method for Classical Greek using mule-unicode-0100-24ff.</li>
+  <li>greek-jis (‘Ω’ in mode line)
+Ελληνικα: Greek keyboard layout (JIS X0208.1983)</li>
+</ul>
 
-&lt;h2 id=&quot;greekpost&quot;&gt;GreekPost&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;greek-postfix (‘Ψ’ in mode line)
-Ελληνικά: Greek keyboard layout with postfix accents (ISO 8859-7)&lt;/li&gt;
-&lt;/ul&gt;
+<h2 id="greekpost">GreekPost</h2>
+<ul>
+  <li>greek-postfix (‘Ψ’ in mode line)
+Ελληνικά: Greek keyboard layout with postfix accents (ISO 8859-7)</li>
+</ul>
 
-&lt;h2 id=&quot;gujarati&quot;&gt;Gujarati&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;gujarati-inscript (‘GjrIS’ in mode line)
-Gujarati keyboard Inscript&lt;/li&gt;
-  &lt;li&gt;gujarati-itrans (‘GjrIT’ in mode line)
-Gujarati ITRANS&lt;/li&gt;
-&lt;/ul&gt;
+<h2 id="gujarati">Gujarati</h2>
+<ul>
+  <li>gujarati-inscript (‘GjrIS’ in mode line)
+Gujarati keyboard Inscript</li>
+  <li>gujarati-itrans (‘GjrIT’ in mode line)
+Gujarati ITRANS</li>
+</ul>
 
-&lt;h2 id=&quot;hebrew&quot;&gt;Hebrew&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;yiddish-keyman (‘ײק’ in mode line)
-Yiddish Keyman input method.&lt;/li&gt;
-  &lt;li&gt;yiddish-royal (‘ײר’ in mode line)
-Yiddish Royal input method.&lt;/li&gt;
-  &lt;li&gt;hebrew-biblical-sil (‘סִל’ in mode line)
-Biblical Hebrew SIL input method.&lt;/li&gt;
-  &lt;li&gt;hebrew-biblical-tiro (‘תִרֹ’ in mode line)
-Biblical Hebrew Tiro input method.&lt;/li&gt;
-  &lt;li&gt;hebrew-full (‘עִ֫’ in mode line)
-Hebrew Full method.&lt;/li&gt;
-  &lt;li&gt;hebrew-lyx (‘לִ’ in mode line)
-Hebrew LyX input method.&lt;/li&gt;
-  &lt;li&gt;hebrew-new (‘ע’ in mode line)
-Hebrew SI-1452 new draft input method.&lt;/li&gt;
-  &lt;li&gt;hebrew (‘ע’ in mode line)
-Hebrew SI-1452 input method.&lt;/li&gt;
-&lt;/ul&gt;
+<h2 id="hebrew">Hebrew</h2>
+<ul>
+  <li>yiddish-keyman (‘ײק’ in mode line)
+Yiddish Keyman input method.</li>
+  <li>yiddish-royal (‘ײר’ in mode line)
+Yiddish Royal input method.</li>
+  <li>hebrew-biblical-sil (‘סִל’ in mode line)
+Biblical Hebrew SIL input method.</li>
+  <li>hebrew-biblical-tiro (‘תִרֹ’ in mode line)
+Biblical Hebrew Tiro input method.</li>
+  <li>hebrew-full (‘עִ֫’ in mode line)
+Hebrew Full method.</li>
+  <li>hebrew-lyx (‘לִ’ in mode line)
+Hebrew LyX input method.</li>
+  <li>hebrew-new (‘ע’ in mode line)
+Hebrew SI-1452 new draft input method.</li>
+  <li>hebrew (‘ע’ in mode line)
+Hebrew SI-1452 input method.</li>
+</ul>
 
-&lt;h2 id=&quot;ipa&quot;&gt;IPA&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;ipa-x-sampa (‘IPA-X’ in mode line)
-  The International Phonetic Alphabet, using J.C. Wells’ X-SAMPA.&lt;/li&gt;
-  &lt;li&gt;ipa-kirshenbaum (‘IPA-K’ in mode line)
-  The International Phonetic Alphabet, using Kirshenbaum ASCII translit.&lt;/li&gt;
-  &lt;li&gt;ipa (‘IPA’ in mode line)
-  International Phonetic Alphabet for English, French, German and Italian&lt;/li&gt;
-  &lt;li&gt;ipa-praat (‘IPAP’ in mode line)
+<h2 id="ipa">IPA</h2>
+<ul>
+  <li>ipa-x-sampa (‘IPA-X’ in mode line)
+  The International Phonetic Alphabet, using J.C. Wells’ X-SAMPA.</li>
+  <li>ipa-kirshenbaum (‘IPA-K’ in mode line)
+  The International Phonetic Alphabet, using Kirshenbaum ASCII translit.</li>
+  <li>ipa (‘IPA’ in mode line)
+  International Phonetic Alphabet for English, French, German and Italian</li>
+  <li>ipa-praat (‘IPAP’ in mode line)
   International Phonetic  Alphabet input  method.  This  follows the
 input   method    of   the    phonetic   analysis    program   Praat
-(https://www.fon.hum.uva.nl/praat/).&lt;/li&gt;
-&lt;/ul&gt;
+(https://www.fon.hum.uva.nl/praat/).</li>
+</ul>
 
-&lt;h3 id=&quot;vowels&quot;&gt;Vowels&lt;/h3&gt;
-&lt;h4 id=&quot;unrounded&quot;&gt;Unrounded&lt;/h4&gt;
+<h3 id="vowels">Vowels</h3>
+<h4 id="unrounded">Unrounded</h4>
 
-&lt;table border=&quot;2&quot; cellspacing=&quot;0&quot; cellpadding=&quot;6&quot; rules=&quot;groups&quot; frame=&quot;hsides&quot;&gt;
-
-
-&lt;colgroup&gt;
-&lt;col class=&quot;org-left&quot; /&gt;
-
-&lt;col class=&quot;org-left&quot; /&gt;
-
-&lt;col class=&quot;org-left&quot; /&gt;
-
-&lt;col class=&quot;org-left&quot; /&gt;
-&lt;/colgroup&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/th&gt;
-&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;front&lt;/th&gt;
-&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;centr.&lt;/th&gt;
-&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;back&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;close&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;i i&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɨ \i-&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɯ \mt&lt;/td&gt;
-&lt;/tr&gt;
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;close centr.&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɪ \ic&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
+<colgroup>
+<col class="org-left" />
+
+<col class="org-left" />
+
+<col class="org-left" />
+
+<col class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">front</th>
+<th scope="col" class="org-left">centr.</th>
+<th scope="col" class="org-left">back</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">close</td>
+<td class="org-left">i i</td>
+<td class="org-left">ɨ \i-</td>
+<td class="org-left">ɯ \mt</td>
+</tr>
 
 
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;close-mid&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;e e&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɘ \e-&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɤ \rh&lt;/td&gt;
-&lt;/tr&gt;
+<tr>
+<td class="org-left">close centr.</td>
+<td class="org-left">ɪ \ic</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ə \sw&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
+<tr>
+<td class="org-left">close-mid</td>
+<td class="org-left">e e</td>
+<td class="org-left">ɘ \e-</td>
+<td class="org-left">ɤ \rh</td>
+</tr>
 
 
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;open-mid&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɛ \ef&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɜ \er&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ʌ \vt&lt;/td&gt;
-&lt;/tr&gt;
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ə \sw</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;æ \ae&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɐ \at&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
+<tr>
+<td class="org-left">open-mid</td>
+<td class="org-left">ɛ \ef</td>
+<td class="org-left">ɜ \er</td>
+<td class="org-left">ʌ \vt</td>
+</tr>
 
 
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;open&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;a a&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɑ \as&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h4 id=&quot;rounded&quot;&gt;Rounded&lt;/h4&gt;
-
-&lt;table border=&quot;2&quot; cellspacing=&quot;0&quot; cellpadding=&quot;6&quot; rules=&quot;groups&quot; frame=&quot;hsides&quot;&gt;
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">æ \ae</td>
+<td class="org-left">ɐ \at</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-&lt;colgroup&gt;
-&lt;col class=&quot;org-left&quot; /&gt;
+<tr>
+<td class="org-left">open</td>
+<td class="org-left">a a</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ɑ \as</td>
+</tr>
+</tbody>
+</table>
 
-&lt;col class=&quot;org-left&quot; /&gt;
+<h4 id="rounded">Rounded</h4>
 
-&lt;col class=&quot;org-left&quot; /&gt;
-
-&lt;col class=&quot;org-left&quot; /&gt;
-
-&lt;col class=&quot;org-left&quot; /&gt;
-
-&lt;col class=&quot;org-left&quot; /&gt;
-
-&lt;col class=&quot;org-left&quot; /&gt;
-&lt;/colgroup&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/th&gt;
-&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;front&lt;/th&gt;
-&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;centr.&lt;/th&gt;
-&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;back&lt;/th&gt;
-&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/th&gt;
-&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/th&gt;
-&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;close centr.&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ʏ \yc&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ʊ \hs close-mid&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ø  \o/&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɵ \o-&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;o o&lt;/td&gt;
-&lt;/tr&gt;
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;open-mid&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;œ \oe&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɞ \kb&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɔ \ct open&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɶ \Oe&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɒ \ab&lt;/td&gt;
-&lt;/tr&gt;
+<colgroup>
+<col class="org-left" />
+
+<col class="org-left" />
+
+<col class="org-left" />
+
+<col class="org-left" />
+
+<col class="org-left" />
+
+<col class="org-left" />
+
+<col class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">front</th>
+<th scope="col" class="org-left">centr.</th>
+<th scope="col" class="org-left">back</th>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">&#xa0;</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">close centr.</td>
+<td class="org-left">ʏ \yc</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ʊ \hs close-mid</td>
+<td class="org-left">ø  \o/</td>
+<td class="org-left">ɵ \o-</td>
+<td class="org-left">o o</td>
+</tr>
 
 
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
+<tr>
+<td class="org-left">open-mid</td>
+<td class="org-left">œ \oe</td>
+<td class="org-left">ɞ \kb</td>
+<td class="org-left">ɔ \ct open</td>
+<td class="org-left">ɶ \Oe</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ɒ \ab</td>
+</tr>
 
-&lt;p&gt;For most of the codes, the first letter tells you the most
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+
+<p>For most of the codes, the first letter tells you the most
 similar letter of the English alphabet.  The second letter can be
 t (turned), c (capital), s (script), r (reversed), - (barred or
 retracted), or / (slashed).  One symbol (ɛ) is a phonetic version
 of a Greek letter.  The codes for ə, ɤ, ʊ and ɞ are abbreviations
-for schwa, ram’s horn, horseshoe, and kidney bean.&lt;/p&gt;
-
-&lt;h3 id=&quot;consonants&quot;&gt;Consonants&lt;/h3&gt;
-&lt;h4 id=&quot;pulmonic&quot;&gt;Pulmonic&lt;/h4&gt;
-
-&lt;table border=&quot;2&quot; cellspacing=&quot;0&quot; cellpadding=&quot;6&quot; rules=&quot;groups&quot; frame=&quot;hsides&quot;&gt;
-
-
-&lt;colgroup&gt;
-&lt;col class=&quot;org-left&quot; /&gt;
-
-&lt;col class=&quot;org-left&quot; /&gt;
-
-&lt;col class=&quot;org-left&quot; /&gt;
-
-&lt;col class=&quot;org-left&quot; /&gt;
-
-&lt;col class=&quot;org-left&quot; /&gt;
-
-&lt;col class=&quot;org-left&quot; /&gt;
-
-&lt;col class=&quot;org-left&quot; /&gt;
-
-&lt;col class=&quot;org-left&quot; /&gt;
-&lt;/colgroup&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/th&gt;
-&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;plos.&lt;/th&gt;
-&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;nasal&lt;/th&gt;
-&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;fric.&lt;/th&gt;
-&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;approx.&lt;/th&gt;
-&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;trill&lt;/th&gt;
-&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;tap/flap&lt;/th&gt;
-&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;l. appr.&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;bilabial&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;p p&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;m m&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɸ \ff&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;b b&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;β \bf&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ʋ \vs&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ʙ \bc&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;labiodent.&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɱ \mj&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;f f&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;v v&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;dental&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;θ \tf&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ð \dh&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;alveolar&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;t t&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;n n&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;s s&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɾ \fh&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;d d&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;z z&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɹ \rt&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;r r&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;l l&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;alv. lat.&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɬ \l-&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɺ \rl&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɮ \lz&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;l l&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;l l&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;postalv.&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ʃ \sh&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ʒ \zh&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;retroflex&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ʈ \t.&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɳ \n.&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ʂ \s.&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɽ \f.&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɖ \d.&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ʐ \z.&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɻ \r.&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɭ \l.&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;alv.-pala.&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɕ \cc&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ʑ \zc&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;palatal&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;c c&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɲ \nj&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ç \c,&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɟ \j.&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ʝ \jc&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;j j&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ʎ \yt&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;lab.-pal.&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɥ \ht&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;lab.-vela.&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ʍ \wt&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;w w&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;velar&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;k k&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ŋ \ng&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;x x&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ʟ \lc&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɡ \gs&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɣ \gf&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɰ \ml&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;uvular&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;q q&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɴ \nc&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;χ \cf&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɢ \gc&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ʁ \ri&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ʀ \rc&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;pharyngeal&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ħ \h-&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ʕ \9e&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;epiglottal&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ʡ \?-&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ʜ \hc&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ʢ \9-&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;glottal&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ʔ&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;h h&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɦ \h^&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h4 id=&quot;nonpulmonic&quot;&gt;Nonpulmonic&lt;/h4&gt;
-
-&lt;table border=&quot;2&quot; cellspacing=&quot;0&quot; cellpadding=&quot;6&quot; rules=&quot;groups&quot; frame=&quot;hsides&quot;&gt;
-
-
-&lt;colgroup&gt;
-&lt;col class=&quot;org-left&quot; /&gt;
-
-&lt;col class=&quot;org-left&quot; /&gt;
-
-&lt;col class=&quot;org-left&quot; /&gt;
-
-&lt;col class=&quot;org-left&quot; /&gt;
-&lt;/colgroup&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/th&gt;
-&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;implosive&lt;/th&gt;
-&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;click&lt;/th&gt;
-&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;bilabial&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɓ \b^&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ʘ \O.&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;dental&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ǀ \&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;1&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;alveolar&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɗ \d^&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;alv.-lat.&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ǁ \&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;2&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;postalv.&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ǂ \&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;-&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;retrofl.&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;! !&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;palatal&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ʄ \j^&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;velar&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɠ \g^&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;uvular&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ʛ \G^&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;For most of the codes, the first letter tells you the most
+for schwa, ram’s horn, horseshoe, and kidney bean.</p>
+
+<h3 id="consonants">Consonants</h3>
+<h4 id="pulmonic">Pulmonic</h4>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col class="org-left" />
+
+<col class="org-left" />
+
+<col class="org-left" />
+
+<col class="org-left" />
+
+<col class="org-left" />
+
+<col class="org-left" />
+
+<col class="org-left" />
+
+<col class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">plos.</th>
+<th scope="col" class="org-left">nasal</th>
+<th scope="col" class="org-left">fric.</th>
+<th scope="col" class="org-left">approx.</th>
+<th scope="col" class="org-left">trill</th>
+<th scope="col" class="org-left">tap/flap</th>
+<th scope="col" class="org-left">l. appr.</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">bilabial</td>
+<td class="org-left">p p</td>
+<td class="org-left">m m</td>
+<td class="org-left">ɸ \ff</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">b b</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">β \bf</td>
+<td class="org-left">ʋ \vs</td>
+<td class="org-left">ʙ \bc</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">labiodent.</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ɱ \mj</td>
+<td class="org-left">f f</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">v v</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">dental</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">θ \tf</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ð \dh</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">alveolar</td>
+<td class="org-left">t t</td>
+<td class="org-left">n n</td>
+<td class="org-left">s s</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ɾ \fh</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">d d</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">z z</td>
+<td class="org-left">ɹ \rt</td>
+<td class="org-left">r r</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">l l</td>
+</tr>
+
+
+<tr>
+<td class="org-left">alv. lat.</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ɬ \l-</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ɺ \rl</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ɮ \lz</td>
+<td class="org-left">l l</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">l l</td>
+</tr>
+
+
+<tr>
+<td class="org-left">postalv.</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ʃ \sh</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ʒ \zh</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">retroflex</td>
+<td class="org-left">ʈ \t.</td>
+<td class="org-left">ɳ \n.</td>
+<td class="org-left">ʂ \s.</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ɽ \f.</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ɖ \d.</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ʐ \z.</td>
+<td class="org-left">ɻ \r.</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ɭ \l.</td>
+</tr>
+
+
+<tr>
+<td class="org-left">alv.-pala.</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ɕ \cc</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ʑ \zc</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">palatal</td>
+<td class="org-left">c c</td>
+<td class="org-left">ɲ \nj</td>
+<td class="org-left">ç \c,</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ɟ \j.</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ʝ \jc</td>
+<td class="org-left">j j</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ʎ \yt</td>
+</tr>
+
+
+<tr>
+<td class="org-left">lab.-pal.</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ɥ \ht</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">lab.-vela.</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ʍ \wt</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">w w</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">velar</td>
+<td class="org-left">k k</td>
+<td class="org-left">ŋ \ng</td>
+<td class="org-left">x x</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ʟ \lc</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ɡ \gs</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ɣ \gf</td>
+<td class="org-left">ɰ \ml</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">uvular</td>
+<td class="org-left">q q</td>
+<td class="org-left">ɴ \nc</td>
+<td class="org-left">χ \cf</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ɢ \gc</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ʁ \ri</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ʀ \rc</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">pharyngeal</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ħ \h-</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ʕ \9e</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">epiglottal</td>
+<td class="org-left">ʡ \?-</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ʜ \hc</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ʢ \9-</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">glottal</td>
+<td class="org-left">ʔ</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">h h</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ɦ \h^</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+
+<h4 id="nonpulmonic">Nonpulmonic</h4>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col class="org-left" />
+
+<col class="org-left" />
+
+<col class="org-left" />
+
+<col class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">&#xa0;</th>
+<th scope="col" class="org-left">implosive</th>
+<th scope="col" class="org-left">click</th>
+<th scope="col" class="org-left">&#xa0;</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">bilabial</td>
+<td class="org-left">ɓ \b^</td>
+<td class="org-left">ʘ \O.</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">dental</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ǀ \</td>
+<td class="org-left">1</td>
+</tr>
+
+
+<tr>
+<td class="org-left">alveolar</td>
+<td class="org-left">ɗ \d^</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">alv.-lat.</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ǁ \</td>
+<td class="org-left">2</td>
+</tr>
+
+
+<tr>
+<td class="org-left">postalv.</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">ǂ \</td>
+<td class="org-left">-</td>
+</tr>
+
+
+<tr>
+<td class="org-left">retrofl.</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">! !</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">palatal</td>
+<td class="org-left">ʄ \j^</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">velar</td>
+<td class="org-left">ɠ \g^</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">uvular</td>
+<td class="org-left">ʛ \G^</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+
+<p>For most of the codes, the first letter tells you the most
 similar letter of the English alphabet.  The second letter can
 be t (turned), c (capital or curled), s (script), - (barred),
 l (with leg), i (inverted), or j (left tail).  Some phonetic
@@ -996,785 +996,785 @@ slightly different (θ, χ).  The codes for ŋ (engma), ð (eth),
 ʃ (esh), and ʒ (yogh) are traditional alternative spellings.
 The retroflexes have a period in the second place, because an
 alternative traditional spelling is to write a dot under
-them.  The code for ɾ is an abbreviation for fishhook.&lt;/p&gt;
+them.  The code for ɾ is an abbreviation for fishhook.</p>
 
-&lt;h3 id=&quot;diacritics&quot;&gt;Diacritics&lt;/h3&gt;
+<h3 id="diacritics">Diacritics</h3>
 
-&lt;h4 id=&quot;in-line&quot;&gt;In line&lt;/h4&gt;
+<h4 id="in-line">In line</h4>
 
-&lt;table border=&quot;2&quot; cellspacing=&quot;0&quot; cellpadding=&quot;6&quot; rules=&quot;groups&quot; frame=&quot;hsides&quot;&gt;
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
-&lt;colgroup&gt;
-&lt;col class=&quot;org-left&quot; /&gt;
+<colgroup>
+<col class="org-left" />
 
-&lt;col class=&quot;org-left&quot; /&gt;
+<col class="org-left" />
 
-&lt;col class=&quot;org-left&quot; /&gt;
-&lt;/colgroup&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;input&lt;/th&gt;
-&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;example&lt;/th&gt;
-&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;description&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
+<col class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">input</th>
+<th scope="col" class="org-left">example</th>
+<th scope="col" class="org-left">description</th>
+</tr>
+</thead>
 
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;\:f&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ː&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;phonetic length sign&lt;/td&gt;
-&lt;/tr&gt;
+<tbody>
+<tr>
+<td class="org-left">\:f</td>
+<td class="org-left">ː</td>
+<td class="org-left">phonetic length sign</td>
+</tr>
 
 
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;\’1&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ˈ&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;primary stress&lt;/td&gt;
-&lt;/tr&gt;
+<tr>
+<td class="org-left">\’1</td>
+<td class="org-left">ˈ</td>
+<td class="org-left">primary stress</td>
+</tr>
 
 
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;\’2&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ˌ&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;secondary stress&lt;/td&gt;
-&lt;/tr&gt;
+<tr>
+<td class="org-left">\’2</td>
+<td class="org-left">ˌ</td>
+<td class="org-left">secondary stress</td>
+</tr>
 
 
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;\cn&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;t̚&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;unreleased plosive&lt;/td&gt;
-&lt;/tr&gt;
+<tr>
+<td class="org-left">\cn</td>
+<td class="org-left">t̚</td>
+<td class="org-left">unreleased plosive</td>
+</tr>
 
 
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;\rh&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɜ˞&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;rhotacized vowel&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
+<tr>
+<td class="org-left">\rh</td>
+<td class="org-left">ɜ˞</td>
+<td class="org-left">rhotacized vowel</td>
+</tr>
+</tbody>
+</table>
 
-&lt;h4 id=&quot;understrikes&quot;&gt;Understrikes&lt;/h4&gt;
+<h4 id="understrikes">Understrikes</h4>
 
-&lt;table border=&quot;2&quot; cellspacing=&quot;0&quot; cellpadding=&quot;6&quot; rules=&quot;groups&quot; frame=&quot;hsides&quot;&gt;
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
 
-&lt;colgroup&gt;
-&lt;col class=&quot;org-left&quot; /&gt;
+<colgroup>
+<col class="org-left" />
 
-&lt;col class=&quot;org-left&quot; /&gt;
+<col class="org-left" />
 
-&lt;col class=&quot;org-left&quot; /&gt;
+<col class="org-left" />
 
-&lt;col class=&quot;org-left&quot; /&gt;
-&lt;/colgroup&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;input&lt;/th&gt;
-&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;example&lt;/th&gt;
-&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;description&lt;/th&gt;
-&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
+<col class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">input</th>
+<th scope="col" class="org-left">example</th>
+<th scope="col" class="org-left">description</th>
+<th scope="col" class="org-left">&#xa0;</th>
+</tr>
+</thead>
 
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;\&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;v&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;n̩&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;syllabic consonant&lt;/td&gt;
-&lt;/tr&gt;
+<tbody>
+<tr>
+<td class="org-left">\</td>
+<td class="org-left">v</td>
+<td class="org-left">n̩</td>
+<td class="org-left">syllabic consonant</td>
+</tr>
 
 
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;\0v&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;b̥&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;voiceless&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
+<tr>
+<td class="org-left">\0v</td>
+<td class="org-left">b̥</td>
+<td class="org-left">voiceless</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;\Tv&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;o̞&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;lowered&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
+<tr>
+<td class="org-left">\Tv</td>
+<td class="org-left">o̞</td>
+<td class="org-left">lowered</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;\T^&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;o̝&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;raised&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-
+<tr>
+<td class="org-left">\T^</td>
+<td class="org-left">o̝</td>
+<td class="org-left">raised</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
 
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;\T(&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;o̘&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;advanced tongue root&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
+<tr>
+<td class="org-left">\T(</td>
+<td class="org-left">o̘</td>
+<td class="org-left">advanced tongue root</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;\T)&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;o̙&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;retracted tongue root&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
+<tr>
+<td class="org-left">\T)</td>
+<td class="org-left">o̙</td>
+<td class="org-left">retracted tongue root</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;\&amp;#x00ad;v&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;e̱&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;backed&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;\+v&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;o̟&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;fronted&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-
+<tr>
+<td class="org-left">\&#x00ad;v</td>
+<td class="org-left">e̱</td>
+<td class="org-left">backed</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+
+<tr>
+<td class="org-left">\+v</td>
+<td class="org-left">o̟</td>
+<td class="org-left">fronted</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
 
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;\:v&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;o̤&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;breathy voice&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
+<tr>
+<td class="org-left">\:v</td>
+<td class="org-left">o̤</td>
+<td class="org-left">breathy voice</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;\~v&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;o̰&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;creaky voice&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
+<tr>
+<td class="org-left">\~v</td>
+<td class="org-left">o̰</td>
+<td class="org-left">creaky voice</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;\Nv&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;d̪&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;dental (as opposed to alveolar)&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
+<tr>
+<td class="org-left">\Nv</td>
+<td class="org-left">d̪</td>
+<td class="org-left">dental (as opposed to alveolar)</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;\Uv&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;d̺&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;apical&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
+<tr>
+<td class="org-left">\Uv</td>
+<td class="org-left">d̺</td>
+<td class="org-left">apical</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;\Dv&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;d̻&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;laminal&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
+<tr>
+<td class="org-left">\Dv</td>
+<td class="org-left">d̻</td>
+<td class="org-left">laminal</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;\nv&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;u̯&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;nonsyllabic&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
+<tr>
+<td class="org-left">\nv</td>
+<td class="org-left">u̯</td>
+<td class="org-left">nonsyllabic</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;\e3v&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;e̹&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;slightly rounded&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
+<tr>
+<td class="org-left">\e3v</td>
+<td class="org-left">e̹</td>
+<td class="org-left">slightly rounded</td>
+<td class="org-left">&#xa0;</td>
+</tr>
 
 
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;\cv&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;u̜&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;slightly unrounded&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h4 id=&quot;overstrikes&quot;&gt;Overstrikes&lt;/h4&gt;
-
-&lt;table border=&quot;2&quot; cellspacing=&quot;0&quot; cellpadding=&quot;6&quot; rules=&quot;groups&quot; frame=&quot;hsides&quot;&gt;
-
-
-&lt;colgroup&gt;
-&lt;col class=&quot;org-left&quot; /&gt;
-
-&lt;col class=&quot;org-left&quot; /&gt;
-
-&lt;col class=&quot;org-left&quot; /&gt;
-&lt;/colgroup&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;input&lt;/th&gt;
-&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;example&lt;/th&gt;
-&lt;th scope=&quot;col&quot; class=&quot;org-left&quot;&gt;description&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;\0^&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;ɣ̊&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;voiceless&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;\’^&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;high tone&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;\‘^&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;low tone&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;\&amp;#x00ad;^&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;mid tone&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;\~^&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;nasalized&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;\v^&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;rising tone&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;\^^&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;falling tone&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;\:^&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;centralized&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;\N^&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;&amp;#xa0;&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;short&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;tr&gt;
-&lt;td class=&quot;org-left&quot;&gt;\li&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;k͡p&lt;/td&gt;
-&lt;td class=&quot;org-left&quot;&gt;simultaneous articulation or single segment&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;japanese&quot;&gt;Japanese&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;japanese-katakana (‘ア’ in mode line)
-Japanese katakana input method by Roman transliteration.&lt;/li&gt;
-  &lt;li&gt;japanese-hiragana (‘あ’ in mode line)
-Japanese hiragana input method by Roman transliteration.&lt;/li&gt;
-  &lt;li&gt;japanese-hankaku-kana (‘ｱ’ in mode line)
-Japanese hankaku katakana input method by Roman transliteration.&lt;/li&gt;
-  &lt;li&gt;japanese-zenkaku (‘Ａ’ in mode line)
-Japanese zenkaku alpha numeric character input method.&lt;/li&gt;
-  &lt;li&gt;japanese-ascii (‘Aa’ in mode line)
-Temporary ASCII input mode used within the input method ‘japanese’.&lt;/li&gt;
-  &lt;li&gt;japanese (‘Aあ’ in mode line)
-Japanese input method by Roman transliteration and Kana-Kanji conversion.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;kannada&quot;&gt;Kannada&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;kannada-inscript (‘KndIS’ in mode line)
-Kannada keyboard Inscript&lt;/li&gt;
-  &lt;li&gt;kannada-itrans (‘KndIT’ in mode line)
-Kannada ITRANS&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;korean&quot;&gt;Korean&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;korean-hanja-jis (‘漢2’ in mode line)
-2벌식JIS漢字: 該當하는 漢字의 韻을 한글2벌式으로 呼出하여 選擇&lt;/li&gt;
-  &lt;li&gt;korean-hanja3 (‘漢3’ in mode line)
- 3벌식KSC漢字: 該當하는 漢字의 韻을 한글3벌式으로 呼出하여 選擇&lt;/li&gt;
-  &lt;li&gt;korean-symbol (‘심벌’ in mode line)
- 한글심벌입력표:&lt;/li&gt;
-  &lt;li&gt;korean-hanja (‘漢2’ in mode line)
-2벌식KSC漢字: 該當하는 漢字의 韻을 한글2벌式으로 呼出하여 選擇&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;lao&quot;&gt;Lao&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;lao-lrt (‘ລR’ in mode line)
-Lao input method using LRT (Lao Roman Transcription).&lt;/li&gt;
-  &lt;li&gt;lao (‘ລ’ in mode line)
-Lao input method simulating Lao keyboard layout based on Thai TIS620&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;latin&quot;&gt;Latin&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;latin-postfix (‘L&amp;lt;’ in mode line)
-Latin character input method with postfix modifiers.&lt;/li&gt;
-  &lt;li&gt;latin-alt-postfix (‘L&amp;lt;’ in mode line)
-Latin character input method with postfix modifiers.&lt;/li&gt;
-  &lt;li&gt;latin-prefix (‘L&amp;gt;’ in mode line)
-Latin characters input method with prefix modifiers.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;latin-1&quot;&gt;Latin-1&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;italian-keyboard (‘IT@’ in mode line)
-Italian (Italiano) input method simulating SUN Italian keyboard&lt;/li&gt;
-  &lt;li&gt;finnish-keyboard (‘FI@’ in mode line)
-Finnish input method simulating SUN Finnish/Swedish keyboard&lt;/li&gt;
-  &lt;li&gt;swedish-keyboard (‘SV@’ in mode line)
-Swedish (Svenska) input method simulating SUN Swedish/Finnish keyboard&lt;/li&gt;
-  &lt;li&gt;norwegian-keyboard (‘NO@’ in mode line)
-Norwegian (Norsk) input method simulating SUN Norwegian keyboard&lt;/li&gt;
-  &lt;li&gt;danish-keyboard (‘DA@’ in mode line)
-Danish input method simulating SUN Danish keyboard&lt;/li&gt;
-  &lt;li&gt;icelandic-keyboard (‘IS@’ in mode line)
-Icelandic (Íslenska) input method simulating some Icelandic keyboard&lt;/li&gt;
-  &lt;li&gt;british (‘£@’ in mode line)
-British English input method with Latin-1 character £ (# -&amp;gt; £)&lt;/li&gt;
-  &lt;li&gt;swedish-postfix (‘SV&amp;lt;’ in mode line)
-Swedish (Svenska) input method (rule: AA -&amp;gt; Å   AE -&amp;gt; Ä   OE -&amp;gt; Ö   E’ -&amp;gt; É)&lt;/li&gt;
-  &lt;li&gt;scandinavian-postfix (‘SC&amp;lt;’ in mode line)
-Scandinavian input method with postfix modifiers&lt;/li&gt;
-  &lt;li&gt;norwegian-postfix (‘NO&amp;lt;’ in mode line)
-Norwegian (Norsk) input method (rule: AE-&amp;gt;Æ   OE-&amp;gt;Ø   AA-&amp;gt;Å   E’-&amp;gt;É)&lt;/li&gt;
-  &lt;li&gt;italian-postfix (‘IT&amp;lt;’ in mode line)
-Italian (Italiano) input method with postfix modifiers&lt;/li&gt;
-  &lt;li&gt;icelandic-postfix (‘IS&amp;lt;’ in mode line)
-Icelandic (Íslenska) input method with postfix modifiers&lt;/li&gt;
-  &lt;li&gt;finnish-postfix (‘FI&amp;lt;’ in mode line)
-Finnish (Suomi) input method&lt;/li&gt;
-  &lt;li&gt;danish-postfix (‘DA&amp;lt;’ in mode line)
-Danish input method (rule: AE -&amp;gt; Æ, OE -&amp;gt; Ø, AA -&amp;gt; Å, E’ -&amp;gt; É)&lt;/li&gt;
-  &lt;li&gt;latin-1-postfix (‘1&amp;lt;’ in mode line)
-Latin-1 character input method with postfix modifiers&lt;/li&gt;
-  &lt;li&gt;italian-alt-postfix (‘IT&amp;lt;’ in mode line)
-Italian (Italiano) input method with postfix modifiers&lt;/li&gt;
-  &lt;li&gt;latin-1-alt-postfix (‘1&amp;lt;’ in mode line)
-Latin-1 character input method with postfix modifiers&lt;/li&gt;
-  &lt;li&gt;portuguese-prefix (‘PT&amp;gt;’ in mode line)
-Portuguese input method with prefix modifiers&lt;/li&gt;
-  &lt;li&gt;irish-prefix (‘GA&amp;gt;’ in mode line)
-Irish input method with prefix modifiers&lt;/li&gt;
-  &lt;li&gt;catalan-prefix (‘CA&amp;gt;’ in mode line)
-Catalan and Spanish input method with prefix modifiers&lt;/li&gt;
-  &lt;li&gt;latin-1-prefix (‘1&amp;gt;’ in mode line)
-Latin-1 characters input method with prefix modifiers&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;latin-2&quot;&gt;Latin-2&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;latin-2-postfix (‘2&amp;lt;’ in mode line)
-Latin-2 character input method with postfix modifiers&lt;/li&gt;
-  &lt;li&gt;latin-2-alt-postfix (‘2&amp;lt;’ in mode line)
-Latin-2 character input method with postfix modifiers&lt;/li&gt;
-  &lt;li&gt;latin-2-prefix (‘2&amp;gt;’ in mode line)
-Latin-2 characters input method with prefix modifiers&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;latin-3&quot;&gt;Latin-3&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;esperanto-postfix (‘EO&amp;lt;’ in mode line)
-Esperanto input method with postfix modifiers&lt;/li&gt;
-  &lt;li&gt;latin-3-postfix (‘3&amp;lt;’ in mode line)
-Latin-3 character input method with postfix modifiers&lt;/li&gt;
-  &lt;li&gt;latin-3-alt-postfix (‘3&amp;lt;’ in mode line)
-Latin-3 character input method with postfix modifiers&lt;/li&gt;
-  &lt;li&gt;latin-3-prefix (‘3&amp;gt;’ in mode line)
-Latin-3 characters input method with prefix modifiers&lt;/li&gt;
-  &lt;li&gt;esperanto-prefix (‘EO&amp;gt;’ in mode line)
-Esperanto input method with prefix modifiers&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;latin-4&quot;&gt;Latin-4&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;latin-4-postfix (‘4&amp;lt;’ in mode line)
-Latin-4 characters input method with postfix modifiers&lt;/li&gt;
-  &lt;li&gt;latin-4-alt-postfix (‘4&amp;lt;’ in mode line)
-Latin-4 characters input method with postfix modifiers&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;latin-5&quot;&gt;Latin-5&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;latin-5-postfix (‘5&amp;lt;’ in mode line)
-Latin-5 characters input method with postfix modifiers&lt;/li&gt;
-  &lt;li&gt;latin-5-alt-postfix (‘5&amp;lt;’ in mode line)
-Latin-5 characters input method with postfix modifiers&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;latin-8&quot;&gt;Latin-8&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;latin-8-prefix (‘8&amp;gt;’ in mode line)
-Latin-8 characters input method with prefix modifiers&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;latin-9&quot;&gt;Latin-9&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;latin-9-prefix (‘0&amp;gt;’ in mode line)
-Latin-9 characters input method with prefix modifiers&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;latvian&quot;&gt;Latvian&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;latvian-keyboard (‘Lv’ in mode line)
-Latvian standard keyboard input method.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;lithuanian&quot;&gt;Lithuanian&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;lithuanian-keyboard (‘Lt’ in mode line)
-Lithuanian standard keyboard input method.&lt;/li&gt;
-  &lt;li&gt;lithuanian-numeric (‘LtN’ in mode line)
-Lithuanian numeric input method.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;malayalam&quot;&gt;Malayalam&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;malayalam-inscript (‘MlmIS’ in mode line)
-Malayalam keyboard Inscript&lt;/li&gt;
-  &lt;li&gt;malayalam-itrans (‘MlmIT’ in mode line)
-Malayalam ITRANS&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;oriya&quot;&gt;Oriya&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;oriya-inscript (‘OriIS’ in mode line)
-Oriya keyboard Inscript&lt;/li&gt;
-  &lt;li&gt;oriya-itrans (‘OriIT’ in mode line)
-Oriya ITRANS&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;persian&quot;&gt;Persian&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;farsi-transliterate-banan (‘ب’ in mode line)
-Intuitive transliteration keyboard layout for persian/farsi.&lt;/li&gt;
-  &lt;li&gt;farsi-isiri-9147 (‘ ف’ in mode line)
-Farsi keyboard based on ISIRI-9147.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;polish&quot;&gt;Polish&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;polish-slash (‘PL&amp;gt;’ in mode line)
-Polish diacritics and slash character are input as ‘/[acelnosxzACELNOSXZ/]’.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;punjabi&quot;&gt;Punjabi&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;punjabi-inscript (‘PnjIS’ in mode line)
-Punjabi keyboard Inscript&lt;/li&gt;
-  &lt;li&gt;punjabi-itrans (‘PnjIT’ in mode line)
-Punjabi ITRANS&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;romanian&quot;&gt;Romanian&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;romanian-alt-prefix (‘RO&amp;gt;’ in mode line)
-Alternative Romanian (româneşte) input method with prefix modifiers&lt;/li&gt;
-  &lt;li&gt;romanian-prefix (‘RO&amp;gt;’ in mode line)
-Romanian (româneşte) input method with prefix modifiers&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;russian&quot;&gt;Russian&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;russian-computer (‘RU’ in mode line)
-ЙЦУКЕН Russian computer layout&lt;/li&gt;
-  &lt;li&gt;cyrillic-jcuken (‘ЖЙ’ in mode line)
-ЙЦУКЕН Russian typewriter layout (ISO 8859-5 encoding).&lt;/li&gt;
-  &lt;li&gt;russian-typewriter (‘ЖЙ’ in mode line)
-ЙЦУКЕН Russian typewriter layout (ISO 8859-5 encoding).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;slovak&quot;&gt;Slovak&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;slovak-prog-3 (‘SK’ in mode line)
-Slovak (non-standard) keyboard for programmers #3.&lt;/li&gt;
-  &lt;li&gt;slovak-prog-2 (‘SK’ in mode line)
-Slovak (non-standard) keyboard for programmers #2.&lt;/li&gt;
-  &lt;li&gt;slovak-prog-1 (‘SK’ in mode line)
-Slovak (non-standard) keyboard for programmers #1.&lt;/li&gt;
-  &lt;li&gt;slovak (‘SK’ in mode line)
-Standard Slovak keyboard.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;slovenian&quot;&gt;Slovenian&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;slovenian (‘Sl’ in mode line)
-Slovenian postfix input.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;spanish&quot;&gt;Spanish&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;spanish-keyboard (‘ES@’ in mode line)
-Spanish (Español) input method simulating SUN Spanish keyboard&lt;/li&gt;
-  &lt;li&gt;spanish-postfix (‘ES&amp;lt;’ in mode line)
-Spanish (Español) input method with postfix modifiers&lt;/li&gt;
-  &lt;li&gt;spanish-prefix (‘ES&amp;gt;’ in mode line)
-Spanish (Español) input method with prefix modifiers&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;tamil&quot;&gt;Tamil&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;tamil-inscript (‘TmlIS’ in mode line)
-Tamil keyboard Inscript&lt;/li&gt;
-  &lt;li&gt;tamil-itrans (‘TmlIT’ in mode line)
-Tamil ITRANS&lt;/li&gt;
-  &lt;li&gt;tamil-dvorak (‘யளனக’ in mode line)
-யளனக Tamil keyboard layout for use with Unicode (UTF-8 encoding)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;telugu&quot;&gt;Telugu&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;telugu-inscript (‘TlgIS’ in mode line)
-Telugu keyboard Inscript&lt;/li&gt;
-  &lt;li&gt;telugu-itrans (‘TlgIT’ in mode line)
-Telugu ITRANS&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;thai&quot;&gt;Thai&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;thai-pattachote (‘กป&amp;gt;’ in mode line)
-Thai Pattachote input method with TIS620 keyboard layout&lt;/li&gt;
-  &lt;li&gt;thai-kesmanee (‘กก&amp;gt;’ in mode line)
-Thai Kesmanee input method with TIS620 keyboard layout&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;tibetan&quot;&gt;Tibetan&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;tibetan-tibkey (‘TIBt’ in mode line)
-Tibetan character input by TibKey key assignment.&lt;/li&gt;
-  &lt;li&gt;tibetan-wylie (‘TIBw’ in mode line)
-Tibetan character input by Extended Wylie key assignment.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;turkish&quot;&gt;Turkish&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;turkish-postfix (‘TR&amp;lt;’ in mode line)
- Turkish (Türkçe) input method with postfix modifiers.&lt;/li&gt;
-  &lt;li&gt;turkish-alt-postfix (‘TR«’ in mode line)
-Turkish (Türkçe) input method with postfix modifiers.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;utf-8&quot;&gt;UTF-8&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;korean-hangul3 (‘한390’ in mode line)
-Hangul 3-Bulsik 390 Input&lt;/li&gt;
-  &lt;li&gt;korean-hangul390 (‘한390’ in mode line)
-Hangul 3-Bulsik 390 Input&lt;/li&gt;
-  &lt;li&gt;korean-hangul3f (‘한3f’ in mode line)
-Hangul 3-Bulsik final Input&lt;/li&gt;
-  &lt;li&gt;korean-hangul (‘한2’ in mode line)
-Hangul 2-Bulsik Input&lt;/li&gt;
-  &lt;li&gt;ucs (‘U+’ in mode line)
-Unicode input as hex in the form Uxxxx.&lt;/li&gt;
-  &lt;li&gt;TeX (‘\’ in mode line)
+<tr>
+<td class="org-left">\cv</td>
+<td class="org-left">u̜</td>
+<td class="org-left">slightly unrounded</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+
+<h4 id="overstrikes">Overstrikes</h4>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col class="org-left" />
+
+<col class="org-left" />
+
+<col class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">input</th>
+<th scope="col" class="org-left">example</th>
+<th scope="col" class="org-left">description</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="org-left">\0^</td>
+<td class="org-left">ɣ̊</td>
+<td class="org-left">voiceless</td>
+</tr>
+
+
+<tr>
+<td class="org-left">\’^</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">high tone</td>
+</tr>
+
+
+<tr>
+<td class="org-left">\‘^</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">low tone</td>
+</tr>
+
+
+<tr>
+<td class="org-left">\&#x00ad;^</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">mid tone</td>
+</tr>
+
+
+<tr>
+<td class="org-left">\~^</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">nasalized</td>
+</tr>
+
+
+<tr>
+<td class="org-left">\v^</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">rising tone</td>
+</tr>
+
+
+<tr>
+<td class="org-left">\^^</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">falling tone</td>
+</tr>
+
+
+<tr>
+<td class="org-left">\:^</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">centralized</td>
+</tr>
+
+
+<tr>
+<td class="org-left">\N^</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">short</td>
+</tr>
+
+
+<tr>
+<td class="org-left">\li</td>
+<td class="org-left">k͡p</td>
+<td class="org-left">simultaneous articulation or single segment</td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="japanese">Japanese</h2>
+<ul>
+  <li>japanese-katakana (‘ア’ in mode line)
+Japanese katakana input method by Roman transliteration.</li>
+  <li>japanese-hiragana (‘あ’ in mode line)
+Japanese hiragana input method by Roman transliteration.</li>
+  <li>japanese-hankaku-kana (‘ｱ’ in mode line)
+Japanese hankaku katakana input method by Roman transliteration.</li>
+  <li>japanese-zenkaku (‘Ａ’ in mode line)
+Japanese zenkaku alpha numeric character input method.</li>
+  <li>japanese-ascii (‘Aa’ in mode line)
+Temporary ASCII input mode used within the input method ‘japanese’.</li>
+  <li>japanese (‘Aあ’ in mode line)
+Japanese input method by Roman transliteration and Kana-Kanji conversion.</li>
+</ul>
+
+<h2 id="kannada">Kannada</h2>
+<ul>
+  <li>kannada-inscript (‘KndIS’ in mode line)
+Kannada keyboard Inscript</li>
+  <li>kannada-itrans (‘KndIT’ in mode line)
+Kannada ITRANS</li>
+</ul>
+
+<h2 id="korean">Korean</h2>
+<ul>
+  <li>korean-hanja-jis (‘漢2’ in mode line)
+2벌식JIS漢字: 該當하는 漢字의 韻을 한글2벌式으로 呼出하여 選擇</li>
+  <li>korean-hanja3 (‘漢3’ in mode line)
+ 3벌식KSC漢字: 該當하는 漢字의 韻을 한글3벌式으로 呼出하여 選擇</li>
+  <li>korean-symbol (‘심벌’ in mode line)
+ 한글심벌입력표:</li>
+  <li>korean-hanja (‘漢2’ in mode line)
+2벌식KSC漢字: 該當하는 漢字의 韻을 한글2벌式으로 呼出하여 選擇</li>
+</ul>
+
+<h2 id="lao">Lao</h2>
+<ul>
+  <li>lao-lrt (‘ລR’ in mode line)
+Lao input method using LRT (Lao Roman Transcription).</li>
+  <li>lao (‘ລ’ in mode line)
+Lao input method simulating Lao keyboard layout based on Thai TIS620</li>
+</ul>
+
+<h2 id="latin">Latin</h2>
+<ul>
+  <li>latin-postfix (‘L&lt;’ in mode line)
+Latin character input method with postfix modifiers.</li>
+  <li>latin-alt-postfix (‘L&lt;’ in mode line)
+Latin character input method with postfix modifiers.</li>
+  <li>latin-prefix (‘L&gt;’ in mode line)
+Latin characters input method with prefix modifiers.</li>
+</ul>
+
+<h2 id="latin-1">Latin-1</h2>
+<ul>
+  <li>italian-keyboard (‘IT@’ in mode line)
+Italian (Italiano) input method simulating SUN Italian keyboard</li>
+  <li>finnish-keyboard (‘FI@’ in mode line)
+Finnish input method simulating SUN Finnish/Swedish keyboard</li>
+  <li>swedish-keyboard (‘SV@’ in mode line)
+Swedish (Svenska) input method simulating SUN Swedish/Finnish keyboard</li>
+  <li>norwegian-keyboard (‘NO@’ in mode line)
+Norwegian (Norsk) input method simulating SUN Norwegian keyboard</li>
+  <li>danish-keyboard (‘DA@’ in mode line)
+Danish input method simulating SUN Danish keyboard</li>
+  <li>icelandic-keyboard (‘IS@’ in mode line)
+Icelandic (Íslenska) input method simulating some Icelandic keyboard</li>
+  <li>british (‘£@’ in mode line)
+British English input method with Latin-1 character £ (# -&gt; £)</li>
+  <li>swedish-postfix (‘SV&lt;’ in mode line)
+Swedish (Svenska) input method (rule: AA -&gt; Å   AE -&gt; Ä   OE -&gt; Ö   E’ -&gt; É)</li>
+  <li>scandinavian-postfix (‘SC&lt;’ in mode line)
+Scandinavian input method with postfix modifiers</li>
+  <li>norwegian-postfix (‘NO&lt;’ in mode line)
+Norwegian (Norsk) input method (rule: AE-&gt;Æ   OE-&gt;Ø   AA-&gt;Å   E’-&gt;É)</li>
+  <li>italian-postfix (‘IT&lt;’ in mode line)
+Italian (Italiano) input method with postfix modifiers</li>
+  <li>icelandic-postfix (‘IS&lt;’ in mode line)
+Icelandic (Íslenska) input method with postfix modifiers</li>
+  <li>finnish-postfix (‘FI&lt;’ in mode line)
+Finnish (Suomi) input method</li>
+  <li>danish-postfix (‘DA&lt;’ in mode line)
+Danish input method (rule: AE -&gt; Æ, OE -&gt; Ø, AA -&gt; Å, E’ -&gt; É)</li>
+  <li>latin-1-postfix (‘1&lt;’ in mode line)
+Latin-1 character input method with postfix modifiers</li>
+  <li>italian-alt-postfix (‘IT&lt;’ in mode line)
+Italian (Italiano) input method with postfix modifiers</li>
+  <li>latin-1-alt-postfix (‘1&lt;’ in mode line)
+Latin-1 character input method with postfix modifiers</li>
+  <li>portuguese-prefix (‘PT&gt;’ in mode line)
+Portuguese input method with prefix modifiers</li>
+  <li>irish-prefix (‘GA&gt;’ in mode line)
+Irish input method with prefix modifiers</li>
+  <li>catalan-prefix (‘CA&gt;’ in mode line)
+Catalan and Spanish input method with prefix modifiers</li>
+  <li>latin-1-prefix (‘1&gt;’ in mode line)
+Latin-1 characters input method with prefix modifiers</li>
+</ul>
+
+<h2 id="latin-2">Latin-2</h2>
+<ul>
+  <li>latin-2-postfix (‘2&lt;’ in mode line)
+Latin-2 character input method with postfix modifiers</li>
+  <li>latin-2-alt-postfix (‘2&lt;’ in mode line)
+Latin-2 character input method with postfix modifiers</li>
+  <li>latin-2-prefix (‘2&gt;’ in mode line)
+Latin-2 characters input method with prefix modifiers</li>
+</ul>
+
+<h2 id="latin-3">Latin-3</h2>
+<ul>
+  <li>esperanto-postfix (‘EO&lt;’ in mode line)
+Esperanto input method with postfix modifiers</li>
+  <li>latin-3-postfix (‘3&lt;’ in mode line)
+Latin-3 character input method with postfix modifiers</li>
+  <li>latin-3-alt-postfix (‘3&lt;’ in mode line)
+Latin-3 character input method with postfix modifiers</li>
+  <li>latin-3-prefix (‘3&gt;’ in mode line)
+Latin-3 characters input method with prefix modifiers</li>
+  <li>esperanto-prefix (‘EO&gt;’ in mode line)
+Esperanto input method with prefix modifiers</li>
+</ul>
+
+<h2 id="latin-4">Latin-4</h2>
+<ul>
+  <li>latin-4-postfix (‘4&lt;’ in mode line)
+Latin-4 characters input method with postfix modifiers</li>
+  <li>latin-4-alt-postfix (‘4&lt;’ in mode line)
+Latin-4 characters input method with postfix modifiers</li>
+</ul>
+
+<h2 id="latin-5">Latin-5</h2>
+<ul>
+  <li>latin-5-postfix (‘5&lt;’ in mode line)
+Latin-5 characters input method with postfix modifiers</li>
+  <li>latin-5-alt-postfix (‘5&lt;’ in mode line)
+Latin-5 characters input method with postfix modifiers</li>
+</ul>
+
+<h2 id="latin-8">Latin-8</h2>
+<ul>
+  <li>latin-8-prefix (‘8&gt;’ in mode line)
+Latin-8 characters input method with prefix modifiers</li>
+</ul>
+
+<h2 id="latin-9">Latin-9</h2>
+<ul>
+  <li>latin-9-prefix (‘0&gt;’ in mode line)
+Latin-9 characters input method with prefix modifiers</li>
+</ul>
+
+<h2 id="latvian">Latvian</h2>
+<ul>
+  <li>latvian-keyboard (‘Lv’ in mode line)
+Latvian standard keyboard input method.</li>
+</ul>
+
+<h2 id="lithuanian">Lithuanian</h2>
+<ul>
+  <li>lithuanian-keyboard (‘Lt’ in mode line)
+Lithuanian standard keyboard input method.</li>
+  <li>lithuanian-numeric (‘LtN’ in mode line)
+Lithuanian numeric input method.</li>
+</ul>
+
+<h2 id="malayalam">Malayalam</h2>
+<ul>
+  <li>malayalam-inscript (‘MlmIS’ in mode line)
+Malayalam keyboard Inscript</li>
+  <li>malayalam-itrans (‘MlmIT’ in mode line)
+Malayalam ITRANS</li>
+</ul>
+
+<h2 id="oriya">Oriya</h2>
+<ul>
+  <li>oriya-inscript (‘OriIS’ in mode line)
+Oriya keyboard Inscript</li>
+  <li>oriya-itrans (‘OriIT’ in mode line)
+Oriya ITRANS</li>
+</ul>
+
+<h2 id="persian">Persian</h2>
+<ul>
+  <li>farsi-transliterate-banan (‘ب’ in mode line)
+Intuitive transliteration keyboard layout for persian/farsi.</li>
+  <li>farsi-isiri-9147 (‘ ف’ in mode line)
+Farsi keyboard based on ISIRI-9147.</li>
+</ul>
+
+<h2 id="polish">Polish</h2>
+<ul>
+  <li>polish-slash (‘PL&gt;’ in mode line)
+Polish diacritics and slash character are input as ‘/[acelnosxzACELNOSXZ/]’.</li>
+</ul>
+
+<h2 id="punjabi">Punjabi</h2>
+<ul>
+  <li>punjabi-inscript (‘PnjIS’ in mode line)
+Punjabi keyboard Inscript</li>
+  <li>punjabi-itrans (‘PnjIT’ in mode line)
+Punjabi ITRANS</li>
+</ul>
+
+<h2 id="romanian">Romanian</h2>
+<ul>
+  <li>romanian-alt-prefix (‘RO&gt;’ in mode line)
+Alternative Romanian (româneşte) input method with prefix modifiers</li>
+  <li>romanian-prefix (‘RO&gt;’ in mode line)
+Romanian (româneşte) input method with prefix modifiers</li>
+</ul>
+
+<h2 id="russian">Russian</h2>
+<ul>
+  <li>russian-computer (‘RU’ in mode line)
+ЙЦУКЕН Russian computer layout</li>
+  <li>cyrillic-jcuken (‘ЖЙ’ in mode line)
+ЙЦУКЕН Russian typewriter layout (ISO 8859-5 encoding).</li>
+  <li>russian-typewriter (‘ЖЙ’ in mode line)
+ЙЦУКЕН Russian typewriter layout (ISO 8859-5 encoding).</li>
+</ul>
+
+<h2 id="slovak">Slovak</h2>
+<ul>
+  <li>slovak-prog-3 (‘SK’ in mode line)
+Slovak (non-standard) keyboard for programmers #3.</li>
+  <li>slovak-prog-2 (‘SK’ in mode line)
+Slovak (non-standard) keyboard for programmers #2.</li>
+  <li>slovak-prog-1 (‘SK’ in mode line)
+Slovak (non-standard) keyboard for programmers #1.</li>
+  <li>slovak (‘SK’ in mode line)
+Standard Slovak keyboard.</li>
+</ul>
+
+<h2 id="slovenian">Slovenian</h2>
+<ul>
+  <li>slovenian (‘Sl’ in mode line)
+Slovenian postfix input.</li>
+</ul>
+
+<h2 id="spanish">Spanish</h2>
+<ul>
+  <li>spanish-keyboard (‘ES@’ in mode line)
+Spanish (Español) input method simulating SUN Spanish keyboard</li>
+  <li>spanish-postfix (‘ES&lt;’ in mode line)
+Spanish (Español) input method with postfix modifiers</li>
+  <li>spanish-prefix (‘ES&gt;’ in mode line)
+Spanish (Español) input method with prefix modifiers</li>
+</ul>
+
+<h2 id="tamil">Tamil</h2>
+<ul>
+  <li>tamil-inscript (‘TmlIS’ in mode line)
+Tamil keyboard Inscript</li>
+  <li>tamil-itrans (‘TmlIT’ in mode line)
+Tamil ITRANS</li>
+  <li>tamil-dvorak (‘யளனக’ in mode line)
+யளனக Tamil keyboard layout for use with Unicode (UTF-8 encoding)</li>
+</ul>
+
+<h2 id="telugu">Telugu</h2>
+<ul>
+  <li>telugu-inscript (‘TlgIS’ in mode line)
+Telugu keyboard Inscript</li>
+  <li>telugu-itrans (‘TlgIT’ in mode line)
+Telugu ITRANS</li>
+</ul>
+
+<h2 id="thai">Thai</h2>
+<ul>
+  <li>thai-pattachote (‘กป&gt;’ in mode line)
+Thai Pattachote input method with TIS620 keyboard layout</li>
+  <li>thai-kesmanee (‘กก&gt;’ in mode line)
+Thai Kesmanee input method with TIS620 keyboard layout</li>
+</ul>
+
+<h2 id="tibetan">Tibetan</h2>
+<ul>
+  <li>tibetan-tibkey (‘TIBt’ in mode line)
+Tibetan character input by TibKey key assignment.</li>
+  <li>tibetan-wylie (‘TIBw’ in mode line)
+Tibetan character input by Extended Wylie key assignment.</li>
+</ul>
+
+<h2 id="turkish">Turkish</h2>
+<ul>
+  <li>turkish-postfix (‘TR&lt;’ in mode line)
+ Turkish (Türkçe) input method with postfix modifiers.</li>
+  <li>turkish-alt-postfix (‘TR«’ in mode line)
+Turkish (Türkçe) input method with postfix modifiers.</li>
+</ul>
+
+<h2 id="utf-8">UTF-8</h2>
+<ul>
+  <li>korean-hangul3 (‘한390’ in mode line)
+Hangul 3-Bulsik 390 Input</li>
+  <li>korean-hangul390 (‘한390’ in mode line)
+Hangul 3-Bulsik 390 Input</li>
+  <li>korean-hangul3f (‘한3f’ in mode line)
+Hangul 3-Bulsik final Input</li>
+  <li>korean-hangul (‘한2’ in mode line)
+Hangul 2-Bulsik Input</li>
+  <li>ucs (‘U+’ in mode line)
+Unicode input as hex in the form Uxxxx.</li>
+  <li>TeX (‘\’ in mode line)
 LaTeX-like input method for many characters.
 These characters are from the charsets used by the ‘utf-8’ coding
 system, including many technical ones.  Examples:
- &apos;a -&amp;gt; á  `{a} -&amp;gt; à
- \pi -&amp;gt; π  \int -&amp;gt; ∫  ^1 -&amp;gt; ¹&lt;/li&gt;
-  &lt;li&gt;rfc1345 (‘m’ in mode line)
-Unicode characters input method using RFC1345 mnemonics (non-ASCII only).&lt;/li&gt;
-  &lt;li&gt;sgml (‘&amp;amp;’ in mode line)
-Unicode characters input method using SGML entities.&lt;/li&gt;
-&lt;/ul&gt;
+ 'a -&gt; á  `{a} -&gt; à
+ \pi -&gt; π  \int -&gt; ∫  ^1 -&gt; ¹</li>
+  <li>rfc1345 (‘m’ in mode line)
+Unicode characters input method using RFC1345 mnemonics (non-ASCII only).</li>
+  <li>sgml (‘&amp;’ in mode line)
+Unicode characters input method using SGML entities.</li>
+</ul>
 
-&lt;h2 id=&quot;ukrainian&quot;&gt;Ukrainian&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;ukrainian-computer (‘UK’ in mode line)
-ЙЦУКЕН Ukrainian (Unicode-based for use with KOI8-U encoding).&lt;/li&gt;
-  &lt;li&gt;cyrillic-ukrainian (‘ЖU’ in mode line)
-ЄЇЕРТЗ-ІЎ UKRAINIAN&lt;/li&gt;
-&lt;/ul&gt;
+<h2 id="ukrainian">Ukrainian</h2>
+<ul>
+  <li>ukrainian-computer (‘UK’ in mode line)
+ЙЦУКЕН Ukrainian (Unicode-based for use with KOI8-U encoding).</li>
+  <li>cyrillic-ukrainian (‘ЖU’ in mode line)
+ЄЇЕРТЗ-ІЎ UKRAINIAN</li>
+</ul>
 
-&lt;h2 id=&quot;vietnamese&quot;&gt;Vietnamese&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;vietnamese-vni (‘VV’ in mode line)
-Vietnamese VNI input method&lt;/li&gt;
-  &lt;li&gt;vietnamese-viqr (‘VQ’ in mode line)
-Vietnamese input method with VIQR mnemonic system&lt;/li&gt;
-  &lt;li&gt;vietnamese-telex (‘VT’ in mode line)
-Vietnamese telex input method&lt;/li&gt;
-&lt;/ul&gt;
+<h2 id="vietnamese">Vietnamese</h2>
+<ul>
+  <li>vietnamese-vni (‘VV’ in mode line)
+Vietnamese VNI input method</li>
+  <li>vietnamese-viqr (‘VQ’ in mode line)
+Vietnamese input method with VIQR mnemonic system</li>
+  <li>vietnamese-telex (‘VT’ in mode line)
+Vietnamese telex input method</li>
+</ul>
 
-&lt;h2 id=&quot;welsh&quot;&gt;Welsh&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;welsh (‘Ŵ’ in mode line)
-Welsh postfix input method&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="Emacs," /><category term="Writing" /><summary type="html">To access multilingual support in Emacs, one easy way is by typing C-\ and then selecting an input method. The following functions are also useful:</summary></entry><entry><title type="html">Introduction to Python</title><link href="http://localhost:4000/research/project/2017/05/31/python.html" rel="alternate" type="text/html" title="Introduction to Python" /><published>2017-05-31T14:08:38+02:00</published><updated>2017-05-31T14:08:38+02:00</updated><id>http://localhost:4000/research/project/2017/05/31/python</id><content type="html" xml:base="http://localhost:4000/research/project/2017/05/31/python.html">&lt;p&gt;Charalambos Themistocleous&lt;/p&gt;
+<h2 id="welsh">Welsh</h2>
+<ul>
+  <li>welsh (‘Ŵ’ in mode line)
+Welsh postfix input method</li>
+</ul>]]></content><author><name></name></author><category term="Emacs," /><category term="Writing" /><summary type="html"><![CDATA[To access multilingual support in Emacs, one easy way is by typing C-\ and then selecting an input method. The following functions are also useful:]]></summary></entry><entry><title type="html">Introduction to Python</title><link href="http://localhost:4000/research/project/2017/05/31/python.html" rel="alternate" type="text/html" title="Introduction to Python" /><published>2017-05-31T14:08:38+02:00</published><updated>2017-05-31T14:08:38+02:00</updated><id>http://localhost:4000/research/project/2017/05/31/python</id><content type="html" xml:base="http://localhost:4000/research/project/2017/05/31/python.html"><![CDATA[<p>Charalambos Themistocleous</p>
 
-&lt;h3 id=&quot;contents&quot;&gt;Contents&lt;/h3&gt;
+<h3 id="contents">Contents</h3>
 
-&lt;p&gt;1 &lt;a href=&quot;#introduction-to-python&quot;&gt;Introduction to Python&lt;/a&gt;&lt;/p&gt;
+<p>1 <a href="#introduction-to-python">Introduction to Python</a></p>
 
-&lt;p&gt;2 &lt;a href=&quot;#data-manipulation-with-pandas&quot;&gt;Data Manipulation with Pandas&lt;/a&gt;&lt;/p&gt;
+<p>2 <a href="#data-manipulation-with-pandas">Data Manipulation with Pandas</a></p>
 
-&lt;p&gt;2.1 &lt;a href=&quot;#series&quot;&gt;Series&lt;/a&gt;&lt;/p&gt;
+<p>2.1 <a href="#series">Series</a></p>
 
-&lt;p&gt;2.2 &lt;a href=&quot;#dataframe&quot;&gt;DataFrame&lt;/a&gt;&lt;/p&gt;
+<p>2.2 <a href="#dataframe">DataFrame</a></p>
 
-&lt;p&gt;2.3 &lt;a href=&quot;#merging-dataframes&quot;&gt;Merging DataFrames&lt;/a&gt;&lt;/p&gt;
+<p>2.3 <a href="#merging-dataframes">Merging DataFrames</a></p>
 
-&lt;p&gt;2.4 &lt;a href=&quot;#date-and-time&quot;&gt;Date and Time&lt;/a&gt;&lt;/p&gt;
+<p>2.4 <a href="#date-and-time">Date and Time</a></p>
 
-&lt;p&gt;2.5 &lt;a href=&quot;#importing-data&quot;&gt;Importing data&lt;/a&gt;&lt;/p&gt;
+<p>2.5 <a href="#importing-data">Importing data</a></p>
 
-&lt;p&gt;2.6 &lt;a href=&quot;#save-data&quot;&gt;Save Data&lt;/a&gt;&lt;/p&gt;
+<p>2.6 <a href="#save-data">Save Data</a></p>
 
-&lt;p&gt;3 &lt;a href=&quot;#creating-plots&quot;&gt;Creating Plots&lt;/a&gt;&lt;/p&gt;
+<p>3 <a href="#creating-plots">Creating Plots</a></p>
 
-&lt;p&gt;4 &lt;a href=&quot;#basic-descriptive-statistics-using-pandas&quot;&gt;Basic Descriptive Statistics using Pandas&lt;/a&gt;&lt;/p&gt;
+<p>4 <a href="#basic-descriptive-statistics-using-pandas">Basic Descriptive Statistics using Pandas</a></p>
 
-&lt;h3 id=&quot;introduction-to-python&quot;&gt;Introduction to Python&lt;/h3&gt;
+<h3 id="introduction-to-python">Introduction to Python</h3>
 
-&lt;p&gt;This chapter provides and introduction to Python.&lt;/p&gt;
+<p>This chapter provides and introduction to Python.</p>
 
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;div id=&quot;x1-2002x1&quot;&gt;
+<ol>
+  <li>
+    <div id="x1-2002x1">
 
-&lt;/div&gt;
+</div>
 
-    &lt;p&gt;Python 2.7 (or higher)  (including Python 3)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;div id=&quot;x1-2004x2&quot;&gt;
+    <p>Python 2.7 (or higher)  (including Python 3)</p>
+  </li>
+  <li>
+    <div id="x1-2004x2">
 
-&lt;/div&gt;
+</div>
 
-    &lt;p&gt;pandas 0.11.1 (or higher) and its dependencies&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;div id=&quot;x1-2006x3&quot;&gt;
+    <p>pandas 0.11.1 (or higher) and its dependencies</p>
+  </li>
+  <li>
+    <div id="x1-2006x3">
 
-&lt;/div&gt;
+</div>
 
-    &lt;p&gt;NumPy 1.6.1 (or higher)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;div id=&quot;x1-2008x4&quot;&gt;
+    <p>NumPy 1.6.1 (or higher)</p>
+  </li>
+  <li>
+    <div id="x1-2008x4">
 
-&lt;/div&gt;
+</div>
 
-    &lt;p&gt;matplotlib 1.0.0 (or higher)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;div id=&quot;x1-2010x5&quot;&gt;
+    <p>matplotlib 1.0.0 (or higher)</p>
+  </li>
+  <li>
+    <div id="x1-2010x5">
 
-&lt;/div&gt;
+</div>
 
-    &lt;p&gt;IPython 0.12 (or higher)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;div id=&quot;x1-2012x6&quot;&gt;
+    <p>IPython 0.12 (or higher)</p>
+  </li>
+  <li>
+    <div id="x1-2012x6">
 
-&lt;/div&gt;
+</div>
 
-    &lt;p&gt;NLTK&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+    <p>NLTK</p>
+  </li>
+</ol>
 
-&lt;ul&gt;
-  &lt;li&gt;Pandas, is a package that provides functionality for analyzing data
+<ul>
+  <li>Pandas, is a package that provides functionality for analyzing data
 in the form of tables, such as those we have in Excel, LibreOﬃce
 Calc. The most important data structure is the DataFrame which is
 very similar to R dataframes. Pandas also provide functionality for
-reshaping, sorting, manipulating, etc., data.&lt;/li&gt;
-  &lt;li&gt;The second library we will be using is NumPy, which oﬀers the basic
+reshaping, sorting, manipulating, etc., data.</li>
+  <li>The second library we will be using is NumPy, which oﬀers the basic
 functionality for conducting mathematics, including statistics,
-linear algebra, and Fourier transformations.&lt;/li&gt;
-  &lt;li&gt;Matplotlib provides functionality for creating plots and graphs.&lt;/li&gt;
-  &lt;li&gt;NLTK is a Natural Language Toolkit implemented in Python.&lt;/li&gt;
-  &lt;li&gt;So, to start an analysis add the following code on your code ﬁle.
+linear algebra, and Fourier transformations.</li>
+  <li>Matplotlib provides functionality for creating plots and graphs.</li>
+  <li>NLTK is a Natural Language Toolkit implemented in Python.</li>
+  <li>So, to start an analysis add the following code on your code ﬁle.
 The code imports the libraries and provide a designated name for
 each library. So, we will be calling pandas for instance we will use
 the name pd followed by a period and the name of a function. This
-will become more clear soon.&lt;/li&gt;
-&lt;/ul&gt;
+will become more clear soon.</li>
+</ul>
 
-&lt;p&gt;**&lt;/p&gt;
+<p>**</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:1.0.0.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 import pandas as pd 
 import numpy as np 
 import matplotlib.pyplot as plt 
 import nltk
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;h3 id=&quot;data-manipulation-with-pandas&quot;&gt;Data Manipulation with Pandas&lt;/h3&gt;
+<h3 id="data-manipulation-with-pandas">Data Manipulation with Pandas</h3>
 
-&lt;h4 id=&quot;series&quot;&gt;Series&lt;/h4&gt;
+<h4 id="series">Series</h4>
 
-&lt;p&gt;A Series is a single vector of data with an index for each element. A
-similar structure in numpy is the array.&lt;/p&gt;
+<p>A Series is a single vector of data with an index for each element. A
+similar structure in numpy is the array.</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.1.0.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 measurements = pd.Series([328259, 22781, 30857, 4164, 328387]) 
 measurements
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;The printed output is the following:&lt;/p&gt;
+<p>The printed output is the following:</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.1.1.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 Out[1]: 
 0    328259 
 1     22781 
@@ -1783,99 +1783,99 @@ Out[1]: 
 4    328387 
 dtype: int64
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;Series consist of [values ]and
+<p>Series consist of [values ]and
 [indexes], we can call them separately in the
-following manner:&lt;/p&gt;
+following manner:</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.1.2.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 measurements.values 
 Out[2]: 
 array([328259,  22781,  30857,   4164, 328387])
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;**&lt;/p&gt;
+<p>**</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.1.3.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 measurements.index 
 Out[3]: 
 RangeIndex(start=0, stop=5, step=1)
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;This says that we have numbers from 0 to 5. The following selects the
-number in position [3]:&lt;/p&gt;
+<p>This says that we have numbers from 0 to 5. The following selects the
+number in position [3]:</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.1.4.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 measurements[3] 
 Out[4]: 
 4164
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;We can select values based on logical operations as well&lt;/p&gt;
+<p>We can select values based on logical operations as well</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.1.5.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
-measurements[measurements &amp;lt; 20000] 
+<pre><code class="language-({.listings})"> 
+measurements[measurements &lt; 20000] 
 Out[5]: 
 Ecuador    4164 
 dtype: int64
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;or&lt;/p&gt;
+<p>or</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.1.6.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 measurements[measurements == 22781] 
 Out[6]: 
 Argentina    22781 
 dtype: int64
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;These numbers are not very informative so we want to provide labels. So,
+<p>These numbers are not very informative so we want to provide labels. So,
 if we know that these numbers represent the number of books published in
-2010 we might want to provide the name of the country as an index.&lt;/p&gt;
+2010 we might want to provide the name of the country as an index.</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.1.7.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 measurements = pd.Series([328259, 22781, 30857, 4164, 328387], 
     index=[’USA’, ’Argentina’, ’Sweden’, ’Ecuador’, ’China’]) 
  
@@ -1888,32 +1888,32 @@ Ecuador        4164 
 China        328387 
 dtype: int64
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;We can use these names to select the value.&lt;/p&gt;
+<p>We can use these names to select the value.</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.1.8.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 measurements[’USA’] 
 328259
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;Also, we can provide both the array of values and the index the own
-labels:&lt;/p&gt;
+<p>Also, we can provide both the array of values and the index the own
+labels:</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.1.9.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 measurements.name = ’Book␣Counts’ 
 measurements.index.name = ’Countries’ 
 measurements 
@@ -1926,65 +1926,65 @@ Ecuador        4164 
 China        328387 
 Name: Book Counts, dtype: int64
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;We might be interested to select only the countries whose name ends in
-letter ’a’:&lt;/p&gt;
+<p>We might be interested to select only the countries whose name ends in
+letter ’a’:</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.1.10.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 measurements[[name.endswith(’a’) or name.endswith(’A’) for name in measurements.index]] 
 USA          328259 
 Argentina     22781 
 China        328387 
 dtype: int64
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;The following provides information about the position of these numbers:&lt;/p&gt;
+<p>The following provides information about the position of these numbers:</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.1.11.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 [name.endswith(’a’) or name.endswith(’A’) for name in measurements.index] 
  
 [True, True, False, False, True]
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;NumPy’s math functions and statistics can be applied to Series, e.g.,&lt;/p&gt;
+<p>NumPy’s math functions and statistics can be applied to Series, e.g.,</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.1.12.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 np.mean(measurements) 
 142889.6
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;Series are very common objects to standard dictionaries (dict) in
-Python:&lt;/p&gt;
+<p>Series are very common objects to standard dictionaries (dict) in
+Python:</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.1.13.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 Bookpublications = ({’Italy’:59743, ’Argentina’:22781, ’Poland’: 31500, ’Vietnam’: 24589, ’Indonesia’: 24000}) 
  
 pd.Series(Bookpublications) 
@@ -1995,19 +1995,19 @@ Poland       31500 
 Vietnam      24589 
 dtype: int64
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;h4 id=&quot;dataframe&quot;&gt;DataFrame&lt;/h4&gt;
+<h4 id="dataframe">DataFrame</h4>
 
-&lt;p&gt;**&lt;/p&gt;
+<p>**</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.2.0.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 data = pd.DataFrame( 
 ({’counts’:[ 328259, 22781, 30857, 4164, 328387, 59743,  31500, 24589], 
  ’year’:[2010, 2010, 2010, 2010, 2010, 2005, 2010, 2009], 
@@ -2015,17 +2015,17 @@ data = pd.DataFrame( 
          ’Poland’, ’Vietnam’]})) 
 data
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;The output now is a table as we expect it to be:&lt;/p&gt;
+<p>The output now is a table as we expect it to be:</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.2.1.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
      country  counts  year 
 0        USA  328259  2010 
 1  Argentina   22781  2010 
@@ -2036,17 +2036,17 @@ data
 6     Poland   31500  2010 
 7    Vietnam   24589  2009
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;To select the values of the column, we can use its name:&lt;/p&gt;
+<p>To select the values of the column, we can use its name:</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.2.2.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 data[’counts’] 
  
 0    328259 
@@ -2059,17 +2059,17 @@ data[’counts’] 
 7     24589 
 Name: counts, dtype: int64
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;or&lt;/p&gt;
+<p>or</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.2.3.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 data.counts 
 Out[95]: 
 0    328259 
@@ -2082,74 +2082,74 @@ Out[95]: 
 7     24589 
 Name: counts, dtype: int64
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;By using the order of the columns, we can use their names again:&lt;/p&gt;
+<p>By using the order of the columns, we can use their names again:</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.2.4.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 data[[’country’, ’year’, ’counts’]]
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;The index of columns is provided by the following:&lt;/p&gt;
+<p>The index of columns is provided by the following:</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.2.5.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 data.columns 
 Out[91]: 
 Index([’country’, ’counts’, ’year’], dtype=’object’)
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;Types and selections:&lt;/p&gt;
+<p>Types and selections:</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.2.6.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 type(data.counts) 
 pandas.core.series.Series
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;**&lt;/p&gt;
+<p>**</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.2.7.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 type(data[[’counts’]]) 
 pandas.core.frame.DataFrame
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;To select a row in a DataFrame, we index its [ix
-]attribute in the following way:&lt;/p&gt;
+<p>To select a row in a DataFrame, we index its [ix
+]attribute in the following way:</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.2.8.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 data.ix[3] 
 Out[98]: 
 country    Ecuador 
@@ -2157,17 +2157,17 @@ counts        4164 
 year          2010 
 Name: 3, dtype: object
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;We might create DataFrames using dictionaries&lt;/p&gt;
+<p>We might create DataFrames using dictionaries</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.2.9.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 Alternatively, we can create a DataFrame with a dict of dicts: 
 In [111]: 
  
@@ -2188,17 +2188,17 @@ AA         1     2       3       4       5 �
 gender  Male  Male  Female  Female  Female  Male 
 height   168   180     170     169     170   165
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;To get a similar output we need to transpose the code:&lt;/p&gt;
+<p>To get a similar output we need to transpose the code:</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.2.10.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 data = data.T 
 data 
 Out[113]: 
@@ -2210,64 +2210,64 @@ Out[113]: 
 4  5  Female    170 
 5  6    Male    165
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;Series and DataFrames have indexes and values which are called in the
-following way:&lt;/p&gt;
+<p>Series and DataFrames have indexes and values which are called in the
+following way:</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.2.11.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 data.values
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;The output is following&lt;/p&gt;
+<p>The output is following</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.2.12.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 array([[1, 2, 3, 4, 5, 6], 
        [’Male’, ’Male’, ’Female’, ’Female’, ’Female’, ’Male’], 
        [168, 180, 170, 169, 170, 165]], dtype=object)
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;and the index is called by &lt;a href=&quot;{.rm-lmtt-10x-x-109}&quot;&gt;data.index &lt;/a&gt;and the
-result is:&lt;/p&gt;
+<p>and the index is called by <a href="{.rm-lmtt-10x-x-109}">data.index </a>and the
+result is:</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.2.13.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
  Index([’AA’, ’gender’, ’height’], dtype=’object’)
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;We cannot change the index, if we try, e.g., data.index[1] = 5 Python
+<p>We cannot change the index, if we try, e.g., data.index[1] = 5 Python
 will provide the following message: “Index does not support mutable
-operations”.&lt;/p&gt;
+operations”.</p>
 
-&lt;p&gt;To select a column:&lt;/p&gt;
+<p>To select a column:</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.2.14.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 heights = data.height 
 heights 
 Out[116]: 
@@ -2279,17 +2279,17 @@ Out[116]: 
 5    165 
 Name: height, dtype: object
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;To change a value&lt;/p&gt;
+<p>To change a value</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.2.15.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 heights[5] = 191 
 heights 
 Out[117]: 
@@ -2301,17 +2301,17 @@ Out[117]: 
 5    191 
 Name: height, dtype: object
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;**&lt;/p&gt;
+<p>**</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.2.16.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 data 
 Out[118]: 
   AA  gender height 
@@ -2322,17 +2322,17 @@ Out[118]: 
 4  5  Female    170 
 5  6    Male    191
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;**&lt;/p&gt;
+<p>**</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.2.17.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 ht = data.height.copy() 
 ht[5] = 180 
 data 
@@ -2345,17 +2345,17 @@ Out[141]: 
 4  5  Female    170 
 5  6    Male    191
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;Create/ modify columns by assignment:&lt;/p&gt;
+<p>Create/ modify columns by assignment:</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.2.18.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 data.height[2] = 177 
 data 
 Out[122]: 
@@ -2367,17 +2367,17 @@ Out[122]: 
 4  5  Female    170 
 5  6    Male    180
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;**&lt;/p&gt;
+<p>**</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.2.19.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 data[’Status’] = ’Printed’ 
 data 
 Out[143]: 
@@ -2389,17 +2389,17 @@ Out[143]: 
 4  5  Female    170  Printed 
 5  6    Male    191  Printed
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;The following method does not create a column:&lt;/p&gt;
+<p>The following method does not create a column:</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.2.20.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 data.libraryNo = 999 
 data 
 Out[146]: 
@@ -2411,83 +2411,83 @@ Out[146]: 
 4  5  Female    170  Printed 
 5  6    Male    191  Printed
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;**&lt;/p&gt;
+<p>**</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.2.21.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 data.libraryNo 
 999
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;We can deﬁne a Series object as column in a DataFrame&lt;/p&gt;
+<p>We can deﬁne a Series object as column in a DataFrame</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.2.22.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 test = pd.Series([0]*2 + [3]*2) 
 test 
  
 data[’test’] = test 
 data
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;We created a Series of 4 numbers. Note however that the DataFrame
+<p>We created a Series of 4 numbers. Note however that the DataFrame
 contains six rows. This is not a problem when we use numbers because
 Python automatically add NaN to ﬁll the empty rows. Nevertheless, when
 we employ other data structures such as strings Python will show an
 error message: ValueError: Length of values does not match length of
-index.&lt;/p&gt;
+index.</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.2.23.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 # Popular Authors 
 authors = [’Stephen␣King’, ’J.K.␣Rowling’, ’Mark␣Twain’, ’George␣R.␣R.␣Martin’] 
 data[’authors’] = authors
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;To correct the error, we simply add a string Series that has the same
-length as the DataFrame&lt;/p&gt;
+<p>To correct the error, we simply add a string Series that has the same
+length as the DataFrame</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.2.24.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 authors = [’Stephen␣King’, ’J.K.␣Rowling’, ’Mark␣Twain’, ’George␣R.␣R.␣Martin’, ’Charles␣Dickens’, ’Arthur␣Conan␣Doyle’] 
 data[’favorite_authors’] = authors
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;This time the output is correct:&lt;/p&gt;
+<p>This time the output is correct:</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.2.25.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 data 
   AA  gender height   Status  test        favorite_authors 
 0  1    Male    168  Printed   0.0         Stephen King 
@@ -2497,17 +2497,17 @@ data 
 4  5  Female    170  Printed   NaN      Charles Dickens 
 5  6    Male    165  Printed   NaN   Arthur Conan Doyle
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;To delete the column test from the DataFrame data&lt;/p&gt;
+<p>To delete the column test from the DataFrame data</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.2.26.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 del data[’test’] 
 data 
   AA  gender height   Status              authors 
@@ -2518,18 +2518,18 @@ data 
 4  5  Female    170  Printed      Charles Dickens 
 5  6    Male    165  Printed   Arthur Conan Doyle
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;To get the data as a simple &lt;a href=&quot;{.rm-lmtt-10x-x-109}&quot;&gt;narray &lt;/a&gt;we need to
-employ the attribute &lt;a href=&quot;{.rm-lmtt-10x-x-109}&quot;&gt;values&lt;/a&gt;.&lt;/p&gt;
+<p>To get the data as a simple <a href="{.rm-lmtt-10x-x-109}">narray </a>we need to
+employ the attribute <a href="{.rm-lmtt-10x-x-109}">values</a>.</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.2.27.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 array([[1, ’Male’, 168, ’Printed’, ’Stephen␣King’], 
        [2, ’Male’, 180, ’Printed’, ’J.K.␣Rowling’], 
        [3, ’Female’, 177, ’Printed’, ’Mark␣Twain’], 
@@ -2537,186 +2537,186 @@ array([[1, ’Male’, 168, ’Printed’, ’Stephen␣King’], 
        [5, ’Female’, 170, ’Printed’, ’Charles␣Dickens’], 
        [6, ’Male’, 165, ’Printed’, ’Arthur␣Conan␣Doyle’]], dtype=object)
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;The dtype here is object because we have numeric and string data and
-diﬀers when we have numeric or other type of data.&lt;/p&gt;
+<p>The dtype here is object because we have numeric and string data and
+diﬀers when we have numeric or other type of data.</p>
 
-&lt;h4 id=&quot;merging-dataframes&quot;&gt;Merging DataFrames&lt;/h4&gt;
+<h4 id="merging-dataframes">Merging DataFrames</h4>
 
-&lt;p&gt;df1 = pd.DataFrame(’A’: [’A0’, ’A1’, ’A2’, ’A3’], ’B’: [’B0’, ’B1’,
+<p>df1 = pd.DataFrame(’A’: [’A0’, ’A1’, ’A2’, ’A3’], ’B’: [’B0’, ’B1’,
 ’B2’, ’B3’], ’C’: [’C0’, ’C1’, ’C2’, ’C3’], ’D’: [’D0’, ’D1’, ’D2’,
-’D3’], index=[0, 1, 2, 3])&lt;/p&gt;
+’D3’], index=[0, 1, 2, 3])</p>
 
-&lt;hr /&gt;
+<hr />
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/img_papers/figuresR/merging_concat.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+<p><img src="http://localhost:4000/img/img_papers/figuresR/merging_concat.png" alt="screenshot" /></p>
 
-&lt;p&gt;Figure1: Example from
-https://pandas.pydata.org/pandas-docs/stable/merging.html&lt;/p&gt;
+<p>Figure1: Example from
+https://pandas.pydata.org/pandas-docs/stable/merging.html</p>
 
-&lt;hr /&gt;
+<hr />
 
-&lt;p&gt;For more information see
-http://pandas.pydata.org/pandas-docs/stable/merging.html.&lt;/p&gt;
+<p>For more information see
+http://pandas.pydata.org/pandas-docs/stable/merging.html.</p>
 
-&lt;h4 id=&quot;date-and-time&quot;&gt;Date and Time&lt;/h4&gt;
+<h4 id="date-and-time">Date and Time</h4>
 
-&lt;p&gt;Python can manipulate date and time objects using the
-&lt;a href=&quot;{.rm-lmtt-10x-x-109}&quot;&gt;datetime&lt;/a&gt; module. It allows the production of
+<p>Python can manipulate date and time objects using the
+<a href="{.rm-lmtt-10x-x-109}">datetime</a> module. It allows the production of
 calculations using time and date objects and also provides classes for
 controlling the output (see also,
-https://docs.python.org/2/library/datetime.html)&lt;/p&gt;
+https://docs.python.org/2/library/datetime.html)</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.4.0.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 from datetime import datetime 
 #%% 
 now = datetime.now() 
 now
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;and the result is&lt;/p&gt;
+<p>and the result is</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.4.1.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
-&lt;/code&gt;&lt;/pre&gt;
+<pre><code class="language-({.listings})"> 
+</code></pre>
 
-&lt;p&gt;To get the date only&lt;/p&gt;
+<p>To get the date only</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.4.2.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 now.date()
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;and the output in this case is datetime.date(2017, 1, 6). To ﬁnd the day&lt;/p&gt;
+<p>and the output in this case is datetime.date(2017, 1, 6). To ﬁnd the day</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.4.3.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 now.day
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;and the output is 6. Also, for the time&lt;/p&gt;
+<p>and the output is 6. Also, for the time</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.4.4.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 now.time()
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;and the output is datetime.time(14, 41, 4, 481168). We can also ask
-which is the week day:&lt;/p&gt;
+<p>and the output is datetime.time(14, 41, 4, 481168). We can also ask
+which is the week day:</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.4.5.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 now.weekday()
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;that will generate the output 4&lt;/p&gt;
+<p>that will generate the output 4</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.4.6.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 from datetime import date, time
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;**&lt;/p&gt;
+<p>**</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.4.7.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 time(3, 24)
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;**&lt;/p&gt;
+<p>**</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.4.8.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 age = now - datetime(1980, 8, 16) 
 age/365
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;**&lt;/p&gt;
+<p>**</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.4.9.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 days=(datetime(2017, 3, 10) - datetime(2017, 8, 16)) 
 days.days
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;h4 id=&quot;importing-data&quot;&gt;Importing data&lt;/h4&gt;
+<h4 id="importing-data">Importing data</h4>
 
-&lt;p&gt;We suggest that you use comma-separated value or CSV ﬁles when
+<p>We suggest that you use comma-separated value or CSV ﬁles when
 interacting with Python and other statistical software. In computing,
 CSV ﬁles stores tabular data (numbers and text) in plain text. Columns
 are separated by commas; rows are terminated by newlines. This ﬁle
 format is not proprietary, the ﬁles can be edited in text editors and
-spreadsheet software, such as Excel and Calc.&lt;/p&gt;
+spreadsheet software, such as Excel and Calc.</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.5.0.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
-dur = pd.read_csv(&quot;data/duration.csv&quot;, sep=&quot;;&quot;) 
+<pre><code class="language-({.listings})"> 
+dur = pd.read_csv("data/duration.csv", sep=";") 
 dur 
 Out[153]: 
     experiment  duration 
@@ -2744,45 +2744,45 @@ Out[153]: 
  
 [105 rows x 2 columns]
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;We can also import another dataframe and add a column titled AA.&lt;/p&gt;
+<p>We can also import another dataframe and add a column titled AA.</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.5.1.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
-fricative = pd.read_table(&quot;data/fricatives.csv&quot;, sep=’,’) 
+<pre><code class="language-({.listings})"> 
+fricative = pd.read_table("data/fricatives.csv", sep=’,’) 
 fricative[’AA’] = pd.Series(range(1,8827))
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;**&lt;/p&gt;
+<p>**</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.5.2.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 fricative.head() 
 # %%
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;**&lt;/p&gt;
+<p>**</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.5.3.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 0   1  0.060398  32.671794   757.605236  1104.704765  13.835014  210.523631 
 1   2  0.045656  38.906220   732.582945  1065.089424  12.654465  186.856393 
 2   3  0.050907  47.209304   647.696728  1627.357767   7.647966   61.615315 
@@ -2796,149 +2796,149 @@ fricative.head() 
 3       d     a      CG  Unstressed  Voiced   Middle  4.0 
 4       d     a      CG  Unstressed  Voiced   Middle  5.0
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;**&lt;/p&gt;
+<p>**</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.5.4.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 list(range(1,len(fricative.index)))
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;We can skip rows if we do not want them in the analysis:&lt;/p&gt;
+<p>We can skip rows if we do not want them in the analysis:</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.5.5.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
-testfric=pd.read_csv(&quot;data/fricatives.csv&quot;, skiprows=[2,3,4,5,6]) 
+<pre><code class="language-({.listings})"> 
+testfric=pd.read_csv("data/fricatives.csv", skiprows=[2,3,4,5,6]) 
 len(testfric.index)
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;To import a small number of rows from, we can use
-&lt;a href=&quot;{.rm-lmtt-10x-x-109}&quot;&gt;nrows&lt;/a&gt;:&lt;/p&gt;
+<p>To import a small number of rows from, we can use
+<a href="{.rm-lmtt-10x-x-109}">nrows</a>:</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.5.6.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
-pd.read_csv(&quot;data/fricatives.csv&quot;, nrows=4)
+<pre><code class="language-({.listings})"> 
+pd.read_csv("data/fricatives.csv", nrows=4)
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;**&lt;/p&gt;
+<p>**</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.5.7.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 get_ipython().system(’cat␣data/fricatives.csv’)
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;**&lt;/p&gt;
+<p>**</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.5.8.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
-pd.read_csv(&quot;data/fricatives.csv&quot;).head(20)
+<pre><code class="language-({.listings})"> 
+pd.read_csv("data/fricatives.csv").head(20)
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;**&lt;/p&gt;
+<p>**</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.5.9.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
-pd.isnull(pd.read_csv(&quot;data/fricatives.csv&quot;)).head(20)
+<pre><code class="language-({.listings})"> 
+pd.isnull(pd.read_csv("data/fricatives.csv")).head(20)
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;When we import data Python identiﬁes empty cells, or NA values as NA
+<p>When we import data Python identiﬁes empty cells, or NA values as NA
 data; to designated that speciﬁc values or symbols should be considered
-NA values, we can specify this as follows&lt;/p&gt;
+NA values, we can specify this as follows</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.5.10.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
-pd.read_csv(&quot;data/fricatives.csv&quot;, na_values=[’?’, -9999999]).head(20)
+<pre><code class="language-({.listings})"> 
+pd.read_csv("data/fricatives.csv", na_values=[’?’, -9999999]).head(20)
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;h4 id=&quot;save-data&quot;&gt;Save Data&lt;/h4&gt;
+<h4 id="save-data">Save Data</h4>
 
-&lt;p&gt;There are diﬀerent methods to save data. To save data in CSV format&lt;/p&gt;
+<p>There are diﬀerent methods to save data. To save data in CSV format</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:2.6.0.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 # ## Writing Data to Files 
-fricative.to_csv(&quot;fricative-01.csv&quot;)
+fricative.to_csv("fricative-01.csv")
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;h3 id=&quot;creating-plots&quot;&gt;Creating Plots&lt;/h3&gt;
+<h3 id="creating-plots">Creating Plots</h3>
 
-&lt;p&gt;Using pandas we can also make some basic plotting.&lt;/p&gt;
+<p>Using pandas we can also make some basic plotting.</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:3.0.0.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
  
 fricative[’duration’].plot()
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;**&lt;/p&gt;
+<p>**</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:3.0.1.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 ############################################################## 
  
  
 # %% 
-fricative = pd.read_csv(&quot;data/fricatives.csv&quot;, sep=’,’) 
+fricative = pd.read_csv("data/fricatives.csv", sep=’,’) 
 fricative[’duration’].plot() 
 # %% 
 fricative[’duration’].plot(kind=’hist’) 
@@ -2946,40 +2946,40 @@ fricative[’duration’].plot(kind=’hist’) 
 # %% 
 fricative[’duration’].plot(kind=’box’,showfliers=False)
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;hr /&gt;
-&lt;p&gt;Duration&lt;/p&gt;
+<hr />
+<p>Duration</p>
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/img_papers/figuresR/PythonIntro_duration.png&quot; alt=&quot;screenshot&quot; /&gt;
-Figure2: Duration in sec.&lt;/p&gt;
+<p><img src="http://localhost:4000/img/img_papers/figuresR/PythonIntro_duration.png" alt="screenshot" />
+Figure2: Duration in sec.</p>
 
-&lt;hr /&gt;
+<hr />
 
-&lt;hr /&gt;
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/img_papers/figuresR/Duration.png&quot; alt=&quot;screenshot&quot; /&gt;
-————————————————————————&lt;/p&gt;
+<hr />
+<p><img src="http://localhost:4000/img/img_papers/figuresR/Duration.png" alt="screenshot" />
+————————————————————————</p>
 
-&lt;hr /&gt;
+<hr />
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/img_papers/figuresR/boxduration.png&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+<p><img src="http://localhost:4000/img/img_papers/figuresR/boxduration.png" alt="screenshot" /></p>
 
-&lt;hr /&gt;
+<hr />
 
-&lt;p&gt;import matplotlib.pyplot as plt plt.plot([1,2,3,4]) plt.ylabel(’some
-numbers’) plt.show()&lt;/p&gt;
+<p>import matplotlib.pyplot as plt plt.plot([1,2,3,4]) plt.ylabel(’some
+numbers’) plt.show()</p>
 
-&lt;h3 id=&quot;basic-descriptive-statistics-using-pandas&quot;&gt;Basic Descriptive Statistics using Pandas&lt;/h3&gt;
+<h3 id="basic-descriptive-statistics-using-pandas">Basic Descriptive Statistics using Pandas</h3>
 
-&lt;p&gt;**&lt;/p&gt;
+<p>**</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:4.0.0.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 In [208]: 
  
 fricative.sum() 
@@ -2999,17 +2999,17 @@ Position     MiddleMiddleMiddleMiddleMiddleMiddleMiddleMidd... 
 AA                                                 3.89536e+07 
 dtype: object
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;**&lt;/p&gt;
+<p>**</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:4.0.1.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 In [209]: 
  
 fricative.mean() 
@@ -3023,17 +3023,17 @@ kurt           37.203150 
 AA           4413.500000 
 dtype: float64
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;**&lt;/p&gt;
+<p>**</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:4.0.2.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 In [211]: 
  
 fricative.std() 
@@ -3047,17 +3047,17 @@ kurt          138.622132 
 AA           2547.991071 
 dtype: float64
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;**&lt;/p&gt;
+<p>**</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:4.0.3.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 In [212]: 
  
 fricative.count() 
@@ -3077,17 +3077,17 @@ Position     8827 
 AA           8826 
 dtype: int64
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;**&lt;/p&gt;
+<p>**</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:4.0.4.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 fricative.intensity.hasnans 
 Out[215]: 
 True 
@@ -3097,17 +3097,17 @@ fricative.intensity.isnull().sum() 
 Out[221]: 
 12
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;Describe:&lt;/p&gt;
+<p>Describe:</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:4.0.5.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 In [222]: 
  
 fricative.describe() 
@@ -3135,17 +3135,17 @@ min      -1.892874     1.000000 
 max    3999.613892  8826.000000 
 describe can detect non-numeric data and sometimes yield useful information about it.
  
-&lt;/code&gt;&lt;/pre&gt;
+</code></pre>
 
-&lt;p&gt;**&lt;/p&gt;
+<p>**</p>
 
-&lt;div class=&quot;flushright&quot;&gt;
+<div class="flushright">
 
 [Python code:4.0.6.]
 
-&lt;/div&gt;
+</div>
 
-&lt;pre&gt;&lt;code class=&quot;language-({.listings})&quot;&gt; 
+<pre><code class="language-({.listings})"> 
 fricative.sdev.describe() 
 Out[224]: 
 count    8827.000000 
@@ -3158,38 +3158,38 @@ min       228.697624 
 max      9253.436646 
 Name: sdev, dtype: float64
  
-&lt;/code&gt;&lt;/pre&gt;</content><author><name></name></author><category term="Research" /><category term="Project" /><summary type="html">Charalambos Themistocleous</summary></entry><entry><title type="html">Academy of Athens: The Utilitarian dictionary of Modern Greek</title><link href="http://localhost:4000/research/project/2014/12/31/Utilitarian_Dictionary.html" rel="alternate" type="text/html" title="Academy of Athens: The Utilitarian dictionary of Modern Greek" /><published>2014-12-31T13:08:38+01:00</published><updated>2014-12-31T13:08:38+01:00</updated><id>http://localhost:4000/research/project/2014/12/31/Utilitarian_Dictionary</id><content type="html" xml:base="http://localhost:4000/research/project/2014/12/31/Utilitarian_Dictionary.html">&lt;p&gt;The Utilitarian dictionary of Modern Greek Language is one of the most important dictionaries of Modern Greek to this day. I feel very honored that I contributed to its development as a young researcher in 2004-2006.&lt;/p&gt;
+</code></pre>]]></content><author><name></name></author><category term="Research" /><category term="Project" /><summary type="html"><![CDATA[Charalambos Themistocleous]]></summary></entry><entry><title type="html">Academy of Athens: The Utilitarian dictionary of Modern Greek</title><link href="http://localhost:4000/research/project/2014/12/31/Utilitarian_Dictionary.html" rel="alternate" type="text/html" title="Academy of Athens: The Utilitarian dictionary of Modern Greek" /><published>2014-12-31T13:08:38+01:00</published><updated>2014-12-31T13:08:38+01:00</updated><id>http://localhost:4000/research/project/2014/12/31/Utilitarian_Dictionary</id><content type="html" xml:base="http://localhost:4000/research/project/2014/12/31/Utilitarian_Dictionary.html"><![CDATA[<p>The Utilitarian dictionary of Modern Greek Language is one of the most important dictionaries of Modern Greek to this day. I feel very honored that I contributed to its development as a young researcher in 2004-2006.</p>
 
-&lt;p&gt;It has been published by the Academy of Athens in 2014.&lt;/p&gt;
+<p>It has been published by the Academy of Athens in 2014.</p>
 
-&lt;p&gt;The dictionary is the outcome of years of research by a research group led by &lt;strong&gt;Professor Christoforos Charalambakis&lt;/strong&gt;&lt;/p&gt;
+<p>The dictionary is the outcome of years of research by a research group led by <strong>Professor Christoforos Charalambakis</strong></p>
 
-&lt;p&gt;The dictionary contains approximately 75,000 entries and fixed expressions out of 120,000 available in the electronic database.&lt;/p&gt;
+<p>The dictionary contains approximately 75,000 entries and fixed expressions out of 120,000 available in the electronic database.</p>
 
-&lt;p&gt;Large corpora and lexicographic databases were employed, such as the National Thesaurus of Greek Language, the Inter-Active Terminology for Europe (IATE), and electronic databases and dictionaries of English, French, German, Italian, and Spanish, and internal databases of the Academy of Athens).&lt;/p&gt;
+<p>Large corpora and lexicographic databases were employed, such as the National Thesaurus of Greek Language, the Inter-Active Terminology for Europe (IATE), and electronic databases and dictionaries of English, French, German, Italian, and Spanish, and internal databases of the Academy of Athens).</p>
 
-&lt;p&gt;The Academy of Athens in a press release published in October 31 2014, states that “One of the basic virtues of the Dictionary is that it describes Modern Greek language without prejudice based on the demands of modern lexicographical practice implies internationally”.&lt;/p&gt;
+<p>The Academy of Athens in a press release published in October 31 2014, states that “One of the basic virtues of the Dictionary is that it describes Modern Greek language without prejudice based on the demands of modern lexicographical practice implies internationally”.</p>
 
-&lt;p&gt;&lt;img src=&quot;/img/img_papers/lex.jpg&quot; alt=&quot;screenshot&quot; /&gt;&lt;/p&gt;
+<p><img src="/img/img_papers/lex.jpg" alt="screenshot" /></p>
 
-&lt;h1 id=&quot;references&quot;&gt;References&lt;/h1&gt;
+<h1 id="references">References</h1>
 
-&lt;p&gt;Hesse, Rolf. 2015. A short presentation of Χρηστικό Λεξικό της Νεοελληνικής Γλώσσας της Ακαδημίας Αθηνών. &lt;em&gt;Scandinavian Journal of Byzantine and Modern Greek Studies&lt;/em&gt;, 1, 131–140.&lt;/p&gt;
+<p>Hesse, Rolf. 2015. A short presentation of Χρηστικό Λεξικό της Νεοελληνικής Γλώσσας της Ακαδημίας Αθηνών. <em>Scandinavian Journal of Byzantine and Modern Greek Studies</em>, 1, 131–140.</p>
 
-&lt;p&gt;Livemedia. Utilitarian Dictionary of Modern Greek Language Academy of Athens, https://www.livemedia.com/album/19694&lt;/p&gt;
+<p>Livemedia. Utilitarian Dictionary of Modern Greek Language Academy of Athens, https://www.livemedia.com/album/19694</p>
 
-&lt;p&gt;Mackridge, Peter 2015. Ένα μεγάλο επίτευγμα: Χρηστικό Λεξικό της Ακαδημίας Αθηνών. &lt;em&gt;The Athens Review of Books&lt;/em&gt;, 60.&lt;/p&gt;
+<p>Mackridge, Peter 2015. Ένα μεγάλο επίτευγμα: Χρηστικό Λεξικό της Ακαδημίας Αθηνών. <em>The Athens Review of Books</em>, 60.</p>
 
-&lt;p&gt;Ακαδημία Αθηνών 2014. Δελτίο Τύπου. Χρηστικό Λεξικό της Νεοελληνικής Γλώσσας. https://www.academyofathens.gr/el/node/1266&lt;/p&gt;
+<p>Ακαδημία Αθηνών 2014. Δελτίο Τύπου. Χρηστικό Λεξικό της Νεοελληνικής Γλώσσας. https://www.academyofathens.gr/el/node/1266</p>
 
-&lt;p&gt;Αναστασιάδη-Συμεωνίδη, Άννα 2015. Ποιο λεξικό να συμβουλεύομαι; &lt;em&gt;Φιλόλογος&lt;/em&gt;, 160, 238–244. Ψαροπούλου, Αθηνά 2015. Νέεες ετυμολογίες του Χρηστικού Λεξικού της Νεοελληνικής Γλώσσας της Ακαδημίας Αθηνών, &lt;em&gt;Φιλόλογος&lt;/em&gt;, 160, 245–250.&lt;/p&gt;
+<p>Αναστασιάδη-Συμεωνίδη, Άννα 2015. Ποιο λεξικό να συμβουλεύομαι; <em>Φιλόλογος</em>, 160, 238–244. Ψαροπούλου, Αθηνά 2015. Νέεες ετυμολογίες του Χρηστικού Λεξικού της Νεοελληνικής Γλώσσας της Ακαδημίας Αθηνών, <em>Φιλόλογος</em>, 160, 245–250.</p>
 
-&lt;p&gt;Ανδρέου, Ευάγγελος 2015. &lt;em&gt;Αιολικά Γράμματα&lt;/em&gt;, 274, 43–44.&lt;/p&gt;
+<p>Ανδρέου, Ευάγγελος 2015. <em>Αιολικά Γράμματα</em>, 274, 43–44.</p>
 
-&lt;p&gt;Βασιλάκης, Μανώλης 2015. Το λεξικό και τα λεξικογραφήματα. &lt;em&gt;The Athens Review of Books&lt;/em&gt;, 60, 54–57.&lt;/p&gt;
+<p>Βασιλάκης, Μανώλης 2015. Το λεξικό και τα λεξικογραφήματα. <em>The Athens Review of Books</em>, 60, 54–57.</p>
 
-&lt;p&gt;Γούτσος, Διονύσης 2015. Βιλιοκρισία του Χρηστικού Λεξικού της Νεοελληνικής Γλώσσας, &lt;em&gt;Γλωσσολογία&lt;/em&gt;, 23,2015, 51–56.&lt;/p&gt;
+<p>Γούτσος, Διονύσης 2015. Βιλιοκρισία του Χρηστικού Λεξικού της Νεοελληνικής Γλώσσας, <em>Γλωσσολογία</em>, 23,2015, 51–56.</p>
 
-&lt;p&gt;Δελλή, Δήμητρα 2015. Οι χρήσιμες λέξεις. &lt;em&gt;The Books’ Journal,&lt;/em&gt; 53, 48–51.&lt;/p&gt;
+<p>Δελλή, Δήμητρα 2015. Οι χρήσιμες λέξεις. <em>The Books’ Journal,</em> 53, 48–51.</p>
 
-&lt;p&gt;Καζάζης, Γιάννης Ν. 2015. Η Νεοελληνική της Τεχνολογικής Εποχής και της ΕΕ: Το Χρηστικό Λεξικό της Ακαδημίας Αθηνών. &lt;em&gt;The Athens Review of Books&lt;/em&gt;, 67, 56–62.&lt;/p&gt;</content><author><name></name></author><category term="Research" /><category term="Project" /><summary type="html">The Utilitarian dictionary of Modern Greek Language is one of the most important dictionaries of Modern Greek to this day. I feel very honored that I contributed to its development as a young researcher in 2004-2006.</summary></entry></feed>
+<p>Καζάζης, Γιάννης Ν. 2015. Η Νεοελληνική της Τεχνολογικής Εποχής και της ΕΕ: Το Χρηστικό Λεξικό της Ακαδημίας Αθηνών. <em>The Athens Review of Books</em>, 67, 56–62.</p>]]></content><author><name></name></author><category term="Research" /><category term="Project" /><summary type="html"><![CDATA[The Utilitarian dictionary of Modern Greek Language is one of the most important dictionaries of Modern Greek to this day. I feel very honored that I contributed to its development as a young researcher in 2004-2006.]]></summary></entry></feed>
