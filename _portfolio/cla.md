@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Computerized Clinical Discourse Analysis
-img: "assets/img/img_papers/CLA.jpeg"
+img: "assets/img/img_papers/cla.jpeg"
 date: August, 16 2020
 tags: [computational language assessment]
 ---
