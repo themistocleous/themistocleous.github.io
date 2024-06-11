@@ -1,28 +1,31 @@
 ---
 layout: default
 ---
-<div class="home">
-    <style scoped>
-        {% assign image = site.header_feature_image | relative_url | split: '.' %}
-        .call-out_img {
-            background-image: url('{{ image | join: '.' }}');
-        }
-        {% if site.header_feature_image_responsive %}
-        @media screen and (max-width: 768px) {
-            .call-out_img {
-                background-image: url('{{ image[0] | append: '-medium.' | append: image[1] | default: image}}');
-            }
-        }
-        @media screen and (max-width: 576px) {
-            .call-out_img {
-                background-image: url('{{ image[0] | append: '-small.' | append: image[1] }}');
-            }
-        }
+<article class="feature-image">
+    <header id="main" style="background-image: url('{{ "assets/img/me/me8.jpeg" | relative_url }}'); background-size: cover; background-position: top center; height: 30vh;">
+        <div class="title-padder">
+            {% if page.hide_title %}
+                <div class="feature-image-padding"></div>
+            {% else %}
+                <h1 id="{{ page.title | default: "" | cgi_escape }}" class="title"> {{ page.title }}</h1>
+                {% if page.subtitle %}
+                    <h2 class="subtitle">{{ page.subtitle }}</h2>
+                {% endif %}
+            {% endif %}
+        </div>
+    </header>
+    <section class="post-content">
+        {% if page.bootstrap %}
+        <div class="bootstrap-iso">
         {% endif %}
-    </style>
-    <div id="main" class="call-out call-out_img">
-        <h1> {{ site.header_text | default: "Change <code>header_text</code> in <code>_config.yml</code>"}} </h1>
-    </div>
-    {% capture _blog %}{% include blog/blog.liquid %}{% endcapture %}
-    {{ _blog | split: " " | join: " "}}
-</div>
+        {% capture _about %}{% include_relative pages/about.md %}{% endcapture %}
+        {{ _about | markdownify }}
+        {% if page.bootstrap %}
+        </div>
+        {% endif %}
+    </section>
+    <!-- Tag list for portfolio -->
+    {% capture tag_list %}{{ page.tags | join: "|" }}{% endcapture %}
+    {% capture _tags %}{% include default/tags_list.liquid tags=tag_list %}{% endcapture %}
+    {{ _tags | split: " " | join: " " }}
+</article>
