@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Diagnosis, Prognosis, Therapy Efficacy Evaluation
-img: "assets/img/images/automatic.jpeg"
+img: "/assets/img/images/automatic.jpeg"
 date: 10 September 2020
 tags: [Diagnosis, Prognosis]
 ---
