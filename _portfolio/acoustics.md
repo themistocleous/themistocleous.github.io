@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Speech Acoustics and Language Variation
-img: "assets/img/images/acoustics.jpeg"
+img: "assets/img/img_papers/acoustics.jpeg"
 date: April, 08 2014
 tags: [Speech, Acoustics, Dialects]
 ---

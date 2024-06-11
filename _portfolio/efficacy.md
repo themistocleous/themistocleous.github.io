@@ -2,7 +2,7 @@
 layout: post
 title: Assessment of Treatment Efficacy
 #feature-img: "assets/img/img_papers/tDCS.jpg"
-img: "assets/img/images/efficacy.jpeg"
+img: "assets/img/img_papers/efficacy.jpeg"
 date: January 2020
 ---
 <p style="text-align: justify;">The effects of Transcranial Direct Current Stimulation (tDCS) over the left

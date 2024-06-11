@@ -2,7 +2,7 @@
 layout: post
 title: Machine Learning and Language Acquisition
 #feature-img: "assets/img/portfolio/ttt.png"
-img: "assets/img/images/LA.jpeg"
+img: "assets/img/img_papers/LA.jpeg"
 date: September 2017
 ---
 

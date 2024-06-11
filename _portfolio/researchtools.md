@@ -2,7 +2,7 @@
 layout: post
 title: Research Tools
 #feature-img: "assets/img/img_papers/lexcy.jpg"
-img: "assets/img/images/researchtools.jpeg"
+img: "assets/img/img_papers/researchtools.jpeg"
 date: 2012-05-26
 tags: [Speech, Prosody, Software, Keyboards, Scripts]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Open Brain AI
-img: "/assets/img/images/OBAI.jpeg"
+img: "/assets/img/img_papers/OBAI.jpeg"
 date: January 2020
 tags: [Open Brain AI]
 ---

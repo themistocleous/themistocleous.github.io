@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Computational Assessment Tools
-img: "assets/img/images/tools.jpeg"
+img: "assets/img/img_papers/tools.jpeg"
 date: September 2020
 tags: [Software, Tools]
 ---
