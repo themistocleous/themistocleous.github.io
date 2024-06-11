@@ -6,6 +6,7 @@ permalink: /blog/
 feature-img: "assets/img/header/brain.png"
 position: 4
 tags: [blog]
+hide: true
 ---
 
 {% include blog.html %}
