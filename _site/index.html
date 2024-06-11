@@ -11,45 +11,31 @@
     
     <header class="site-header"> <!-- Logo and title --> <div class="branding"> <a href="/"> <img alt="logo img" class="avatar" src="/assets/img/brain.png" loading="lazy"/> </a> <a class="site-title" aria-label="Haris Themistocleous" href="/"> Haris Themistocleous </a> </div> <!-- Toggle menu --> <nav class="clear"> <a aria-label="pull" id="pull" class="toggle" href="#"> <i class="fas fa-bars fa-lg"></i> </a> <!-- Menu --> <ul class="hide"> <li class="separator"> | </li> <li> <a class="clear" aria-label="Open Brain AI" title="Open Brain AI" href="https://openbrainai.com"> <span class="navbar-label ">Open Brain AI</span> </a> </li> <li class="separator"> | </li> <li> <a class="clear" aria-label="Publications" title="Publications" href="/publications/"> <span class="navbar-label ">Publications</span> </a> </li> <li class="separator"> | </li> <li> <a class="clear" aria-label="Blog" title="Blog" href="/blog/"> <span class="navbar-label ">Blog</span> </a> </li> <li class="separator"> | </li> <li> <a class="clear" aria-label="Research" title="Research" href="/portfolio/"> <span class="navbar-label ">Research</span> </a> </li> <li class="separator"> | </li> <li> <a class="clear" aria-label="Teaching" title="Teaching" href="/teaching/"> <span class="navbar-label ">Teaching</span> </a> </li> <li class="separator"> | </li> <li> <a class="clear" aria-label="Gallery" title="Gallery" href="/gallery/"> <span class="navbar-label ">Gallery</span> </a> </li> <li class="separator"> | </li> <li> <a class="clear" aria-label="CV" title="CV" href="/assets/pages/CV_Haris_Themistocleous.pdf"> <span class="navbar-label ">CV</span> </a> </li> <li class="separator"> | </li> <li> <a class="clear" aria-label="Search" title="Search" href="/search/"> <i class="navbar-icon fas fa-search" aria-hidden="true"></i> <span class="navbar-label navbar-label-with-icon">Search</span> </a> </li> <li class="separator"> | </li> <li><a id="theme-toggle" title=" " aria-label="" onclick="themeToggle()"></a></li> </ul> </nav> </header>
     <div class="content">
-      <article class="feature-image">
-    <header id="main" style="background-image: url('/assets/img/me/me8.jpeg'); background-size: cover; background-position: top center; height: 30vh;">
-        <div class="title-padder">
-            
-                <h1 id="" class="title"> </h1>
-                
-            
-        </div>
-    </header>
-    <section class="post-content">
+      <div class="home">
+    <style scoped>
         
+        .call-out_img {
+            background-image: url('/assets/img/header/brain.png');
+        }
         
-        <h2 id="biography">Biography</h2>
-
-<p><img style="width: 40%; float: left;border-radius:80%" src="/assets/img/me/me10.jpeg" alt=" HarisThemistocleous" /></p>
-
-<p style="text-align:justify">Charalambos (Haris) Themistocleous is an Associate Professor of Special Needs Education at the University of Oslo. His research focuses on the impact of brain damage on speech, language, and communication, particularly the development of speech and language measures as biomarkers for developmental and acquired conditions. A primary goal of his work is to create early diagnostic and prognostic models for these conditions.</p>
-
-<p style="text-align:justify">Additionally, he is developing AI systems and tools for the automatic analysis of speech and language. He leads the development of ["Open Brain AI"](http://openbrainai.com), a computational platform that aims to support clinicians in studying language impairments in patients.</p>
-
-<h2 id="previous-positions">Previous Positions</h2>
-
-<p>2018 - Department of Neurology and Neurosurgery. Johns Hopkins University</p>
-
-<p>2016 - Centre for Linguistic Theory and Studies in Probability (CLASP). University of Gothenburg</p>
-
-<p>2015 - Seeger Center for Hellenic Studies. Princeton University</p>
-
-<h2 id="research-publications">Research Publications</h2>
-<p style="text-align:justify">Themistocleous, C. K., Andreou, M., &amp; Peristeri, E. (2024). Autism Detection in Children: Integrating Machine Learning and Natural Language Processing in Narrative Analysis. Behavioral Sciences, 14(6). https://mdpi-res.com/d_attachment/behavsci/behavsci-14-00459/article_deploy/behavsci-14-00459.pdf?version=1716991581</p>
-
-
+        @media screen and (max-width: 768px) {
+            .call-out_img {
+                background-image: url('/assets/img/header/brain-medium.png');
+            }
+        }
+        @media screen and (max-width: 576px) {
+            .call-out_img {
+                background-image: url('/assets/img/header/brain-small.png');
+            }
+        }
         
-    </section>
-    <!-- Tag list for portfolio -->
+    </style>
+    <div id="main" class="call-out call-out_img">
+        <h1> Recent Posts </h1>
+    </div>
     
-    
-    <div class="tag-list"></div>
-</article>
+    <div class="posts"> <div class="post-teaser"> <span> <header> <h1> <a aria-label="OBAI Editor" class="post-link" href="/research/project/2022/10/11/editor.html-20-11-37-920.html"> OBAI Editor </a> </h1> <div class="post-info"> <p class="meta"> October 11, 2022 </p></div> </header> <div class="excerpt"> Open Brain AI (OBAI) Editor Capabilities Getting Started </div> </span> </div> <div class="post-teaser"> <span> <header> <h1> <a aria-label="OBAI Companion" class="post-link" href="/research/project/2022/10/11/OBAICompanion.html"> OBAI Companion </a> </h1> <div class="post-info"> <p class="meta"> October 11, 2022 </p></div> </header> <div class="excerpt"> Open Brain AI (OBAI) Companion </div> </span> </div> <div class="post-teaser"> <span> <header> <h1> <a aria-label="What is Primary Progressive Aphasia?" class="post-link" href="/ppa/2022/03/31/PPA.html"> What is Primary Progressive Aphasia? </a> </h1> <div class="post-info"> <p class="meta"> March 31, 2022 </p></div> </header> <div class="excerpt"> Primary Progressive Aphasia is neurodegenerative condition. Patients are characterized by impaired speech and language production. </div> </span> </div> <div class="post-teaser"> <span> <header> <h1> <a aria-label="Dementia" class="post-link" href="/research/project/2021/12/08/blog_dementia.html"> Dementia </a> </h1> <div class="post-info"> <p class="meta"> December 08, 2021 </p></div> </header> <div class="excerpt"> Sickness is an impediment that affects the body not what you choose to do (…) choose to follow this for all the things that happen to you: because you will realize that it impedes something else and not yourself. Epictetus </div> </span> </div> <div class="post-teaser"> <span> <header> <h1> <a aria-label="Stuttering" class="post-link" href="/research/project/2020/11/04/blog_stuttering.html"> Stuttering </a> </h1> <div class="post-info"> <p class="meta"> November 04, 2020 </p></div> </header> <div class="excerpt"> Stuttering is a speech disorder characterized by interruptions or disfluencies in verbal expression, where individuals that stutter involuntarily repeat or prolong sounds, syllables, or words. While technically considered a symptom rather than a disease, the term “stuttering” is often used to denote both the symptom and the disorder. </div> </span> </div> </div> <div class="pagination"> <div class="previous"> <!-- < previous --> <a aria-label="Prev" href="" style="visibility:hidden" class="button"> <span><i class="fas fa-chevron-left"></i></span> Prev </a> </div> <div class="page_number"> 1 / 4 </div> <div class="next"> <!-- next > --> <a aria-label="Next" href="/blog/page2" class="button"> Next <span><i class="fas fa-chevron-right"></i></span> </a> <!-- >> --> <a aria-label="Next" href="/blog/page4" class="button"> <span><i class="fas fa-angle-double-right"></i></span> </a> </div> </div>
+</div>
 
     </div>
     
