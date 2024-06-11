@@ -2,8 +2,12 @@
 layout: post
 title:  "Input methods in Emacs"
 date:   2017-12-13 14:00:00 +0200
+excerpt_separator: <!--more-->
+tags: [Code, Emacs]
+color: turquoise
 categories: Emacs, Writing
 ---
+
 
 To access multilingual support in Emacs, one easy way is  by  typing __C-\\__  and  then
 selecting an  input method.  The following functions are also useful:
@@ -14,7 +18,7 @@ __M-x__ : describe-input-methods - it  shows the key sequences and the
 corresponding input characters for a specific input method.
 
 __C-h I__  : the same.
-
+ <!--more-->
 
 # Phonetics
 There are several input functions for inserting IPA symbols two of the

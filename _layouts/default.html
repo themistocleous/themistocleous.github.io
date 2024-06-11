@@ -1,15 +1,19 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: " en" }}">
-{% include head.html %}
-
-<body>
-  {% include header.html %}
-
-  <main class="page-content" aria-label="Content">
-    <div>
+<!--
+    Type on Strap jekyll theme v2.4.9
+    Theme free for personal and commercial use under the MIT license
+    https://github.com/sylhare/Type-on-Strap/blob/master/LICENSE
+-->
+<html lang="en">
+  {% capture _head %}{% include default/head.liquid %}{% endcapture %}
+  {{ _head | split: " " | join: " "}}
+  <body>
+    {% capture _navbar %}{% include default/navbar.liquid %}{% endcapture %}
+    {{ _navbar | split: " " | join: " "}}
+    <div class="content">
       {{ content }}
     </div>
-  </main>
-  {% include footer.html %}
-</body>
+    {% capture _footer %}{% include default/footer.liquid %}{% endcapture %}
+    {{ _footer | split: " " | join: " "}}
+  </body>
 </html>

@@ -1,0 +1,25 @@
+<!-- Blog Section -->
+  
+<div>
+    {% for item in site.posts %}
+    <div>
+        <h3>{{ item.title }}</h3>
+        <p>{{ item.date | truncate: 14 }}</p>
+        <a  data-keyboard="true" href="{{ item.url | relative_url }}">
+            <div class="caption" title="{{ item.title }}">
+                <div>
+                    
+                    <p>
+                        {% if item.excerpt %}
+                            {{ item.excerpt | strip_html | truncate: 250 }}
+                            <hr>
+                        {% else %}
+                            {{ item.content | strip_html | truncate: 250 }}
+                        {% endif %}
+                    </p>
+                </div>
+            </div>
+        </a>
+    </div>
+    {% endfor %}
+</div>

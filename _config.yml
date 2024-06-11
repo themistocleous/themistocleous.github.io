@@ -1,32 +1,55 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# SITE CONFIGURATION
+baseurl: ""
+url: "https://charalambosthemistocleous.com"
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: "Charalambos K. Themistocleous"
-subtitle: "Associate Professor in Speech, Language, and Communication"
-email: "themistocleous@gmail.com"
-description: "(c) 2023 Charalambos K. Themistocleous"
-baseurl: "" # the subpath of your site, e.g. /jblog
-url: "https://charalambosthemistocleous.com/" # the base hostname & protocol for your site
+# THEME-SPECIFIC CONFIGURATION
+title: Haris Themistocleous                                   # site's title
+description: "Charalambos K. Themistocleous"      # used by search engines
+avatar: assets/img/brain.png                         # Empty for no avatar in navbar
+favicon: assets/favicon.ico                             # Icon displayed in the tab
 
-# Build settings
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - vendor/bundle
-github: [metadata]
+# Header and footer text
+header_text: Recent Posts  # Change Blog header text
+header_feature_image: assets/img/header/brain.png
+header_feature_image_responsive: true
+footer_text: >
+  (c) 2024 Charalambos K. Themistocleous
+
+# Blog
+excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
+post_navigation: true
+color_image: /assets/img/lineart.png                    # A bit transparent for color posts.
+
+# Features
+# More in the _data folder for share buttons, author and language
+# For layout customization, go to the "_sass > base" folder, and check "_variables.scss"
+katex: true                                             # Enable if using math markup
+mermaid: default                                        # Enable mermaid-js for diagrams, use theme: base, forest, dark, default, neutral
+google_analytics:                                       # Measurement ID, e.g. "G-00000"
+cookie_consent: false                                   # To respect the usage of cookies
+color_theme: auto                                      # auto, dark or light
+
+# Comments options
+comments:
+  disqus_shortname:                                     # Your discus shortname for comments
+  cusdis_app_id:                                        # Your cusdis data-app-id
+  utterances:                                           # Enable by filling below information. For more info, go to https://utteranc.es
+    repo:                                               # your public comments repository (e.g. owner/repo)
+    issue-term:                                         # Issue term (e.g. "comment" consider issues with this word in the title as comments)
+
+# PAGINATION
+paginate: 5
+paginate_path: "/blog/page:num"
+
+
+# PORTFOLIO
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:name
+
+# BUILD SETTINGS
+sass:
+  style: compressed
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
+exclude: [".jekyll-cache", ".jekyll-metadata", ".idea", "vendor/*", "assets/node_modules/*"]

@@ -1,0 +1,16 @@
+# To add links to the navigation bar.
+- example:
+  title: Example
+  url: https://example.com
+  hide: true
+  position: 2
+- cv:
+  title: CV
+  url: assets/pages/CV_Haris_Themistocleous.pdf
+  hide: false
+  position: 7
+- obai:
+  title: Open Brain AI
+  url: https://openbrainai.com
+  hide: false
+  position: 2
