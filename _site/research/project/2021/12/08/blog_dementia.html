@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<!--
+    Type on Strap jekyll theme v2.4.9
+    Theme free for personal and commercial use under the MIT license
+    https://github.com/sylhare/Type-on-Strap/blob/master/LICENSE
+-->
+<html lang="en">
+  
+  <head> <meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=0.5, maximum-scale=5"> <!-- Theme Mode--> <script> const darkBtn = "Dark"; const lightBtn = "Light"; const isAutoTheme = true; const preferredTheme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'; if (isAutoTheme) { document.documentElement.setAttribute('data-theme', sessionStorage.getItem('theme') ?? preferredTheme); } else { document.documentElement.setAttribute('data-theme', "auto"); } </script> <!-- Main JS (navbar.js, katex_init.js and masonry_init.js)--> <script defer src="/assets/js/main.min.js"></script> <!-- CSS --> <link rel="stylesheet" href="/assets/css/main.css"> <!--Favicon--> <link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon"> <!-- KaTeX 0.16.9 --> <script defer src="/assets/js/vendor/katex.min.js"></script> <script defer src="/assets/js/vendor/katex.auto-render.min.js" onload="renderMathInElement(document.body);"></script> <!-- Mermaid 10.8.0 --> <script defer src="/assets/js/vendor/mermaid.min.js"></script> <!-- Simple Jekyll Search 1.10.0 --> <script src="/assets/js/vendor/simple-jekyll-search.min.js" type="text/javascript"></script> <!-- Google Analytics / Cookie Consent --> <script> const cookieName = 'cookie-notice-dismissed-http://localhost:4000'; const isCookieConsent = 'false'; const analyticsName = ''; const analyticsNameGA4 = ''; </script> <!-- seo tags --> <meta property="og:image" content="http://localhost:4000/assets/img/header/brain.png"> <meta property="og:type" content="website" /> <!-- Begin Jekyll SEO tag v2.8.0 --> <title>Dementia | Haris Themistocleous</title> <meta name="generator" content="Jekyll v4.3.3" /> <meta property="og:title" content="Dementia" /> <meta property="og:locale" content="en_US" /> <meta name="description" content="Sickness is an impediment that affects the body not what you choose to do (…) choose to follow this for all the things that happen to you: because you will realize that it impedes something else and not yourself. Epictetus" /> <meta property="og:description" content="Sickness is an impediment that affects the body not what you choose to do (…) choose to follow this for all the things that happen to you: because you will realize that it impedes something else and not yourself. Epictetus" /> <link rel="canonical" href="http://localhost:4000/research/project/2021/12/08/blog_dementia.html" /> <meta property="og:url" content="http://localhost:4000/research/project/2021/12/08/blog_dementia.html" /> <meta property="og:site_name" content="Haris Themistocleous" /> <meta property="og:type" content="article" /> <meta property="article:published_time" content="2021-12-08T13:08:38+01:00" /> <meta name="twitter:card" content="summary" /> <meta property="twitter:title" content="Dementia" /> <script type="application/ld+json"> {"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2021-12-08T13:08:38+01:00","datePublished":"2021-12-08T13:08:38+01:00","description":"Sickness is an impediment that affects the body not what you choose to do (…) choose to follow this for all the things that happen to you: because you will realize that it impedes something else and not yourself. Epictetus","headline":"Dementia","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/research/project/2021/12/08/blog_dementia.html"},"url":"http://localhost:4000/research/project/2021/12/08/blog_dementia.html"}</script> <!-- End Jekyll SEO tag --> <!-- RSS --> <link rel="alternate" type="application/atom+xml" title="Haris Themistocleous" href="http://localhost:4000/feed.xml"/> <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Haris Themistocleous" /> <!-- Twitter Cards --> <meta name="twitter:title" content="Dementia"> <meta name="twitter:description" content=" Sickness is an impediment that affects the body not what you choose to do (…) choose to follow this for all the things that happen to you: because you will..."> <meta name="twitter:card" content="summary"> <meta name="twitter:image" content="http://localhost:4000/assets/img/header/brain.png"> <meta name="twitter:image:alt" content="Dementia"> </head>
+  <body>
+    
+    <header class="site-header"> <!-- Logo and title --> <div class="branding"> <a href="/"> <img alt="logo img" class="avatar" src="/assets/img/brain.png" loading="lazy"/> </a> <a class="site-title" aria-label="Haris Themistocleous" href="/"> Haris Themistocleous </a> </div> <!-- Toggle menu --> <nav class="clear"> <a aria-label="pull" id="pull" class="toggle" href="#"> <i class="fas fa-bars fa-lg"></i> </a> <!-- Menu --> <ul class="hide"> <li class="separator"> | </li> <li> <a class="clear" aria-label="About" title="About" href="/about/"> <span class="navbar-label ">About</span> </a> </li> <li class="separator"> | </li> <li> <a class="clear" aria-label="Open Brain AI" title="Open Brain AI" href="https://openbrainai.com"> <span class="navbar-label ">Open Brain AI</span> </a> </li> <li class="separator"> | </li> <li> <a class="clear" aria-label="Research" title="Research" href="/software/"> <span class="navbar-label ">Research</span> </a> </li> <li class="separator"> | </li> <li> <a class="clear" aria-label="Publications" title="Publications" href="/publications/"> <span class="navbar-label ">Publications</span> </a> </li> <li class="separator"> | </li> <li> <a class="clear" aria-label="Blog" title="Blog" href="/blog/"> <span class="navbar-label ">Blog</span> </a> </li> <li class="separator"> | </li> <li> <a class="clear" aria-label="Teaching" title="Teaching" href="/teaching/"> <span class="navbar-label ">Teaching</span> </a> </li> <li class="separator"> | </li> <li> <a class="clear" aria-label="Gallery" title="Gallery" href="/gallery/"> <span class="navbar-label ">Gallery</span> </a> </li> <li class="separator"> | </li> <li> <a class="clear" aria-label="CV" title="CV" href="/assets/pages/CV_Haris_Themistocleous.pdf"> <span class="navbar-label ">CV</span> </a> </li> <li class="separator"> | </li> <li> <a class="clear" aria-label="Search" title="Search" href="/search/"> <i class="navbar-icon fas fa-search" aria-hidden="true"></i> <span class="navbar-label navbar-label-with-icon">Search</span> </a> </li> <li class="separator"> | </li> <li><a id="theme-toggle" title="Dementia " aria-label="Dementia" onclick="themeToggle()"></a></li> </ul> </nav> </header>
+    <div class="content">
+      <article >
+    <header id="main" style="">
+        <div class="title-padder">
+            
+                <h1 id="Dementia" class="title">Dementia</h1>
+                
+
+
+<div class="post-info">
+    <p class="meta">
+      
+      
+      December 08, 2021
+    </p></div>
+
+            
+        </div>
+    </header>
+
+    <section class="post-content">
+    
+            <blockquote>
+  <p>Sickness is an impediment that affects the body not what you choose to do (…) choose to follow this for all the things that happen to you: because you will realize that it impedes something else and not yourself.
+<em>Epictetus</em>
+<!--more--></p>
+</blockquote>
+
+<p>Every year more than ten million individuals develop dementia, with almost fifty-five million worldwide now living with dementia.
+Dementia is the progressive deterioration of cognitive, linguistic, and social functioning that affects the quality of life, including the physical, social, and economic conditions of individuals, their families, and society.
+There are types of dementia depending on the symptoms, underlying pathology.</p>
+
+<ul>
+  <li>ALZHEIMER’S DISEASE</li>
+  <li>VASCULAR DEMENTIA</li>
+  <li>PARKINSON’S DISEASE</li>
+  <li>FRONTOTEMPORAL DEMENTIA</li>
+  <li>MIXED DEMENTIA</li>
+  <li>LANGUAGE SYMPTOMS</li>
+</ul>
+
+<p>Language symptoms depend on the type of dementia.</p>
+
+<p>Individuals with Alzheimer’s Disease (AD) constitute the larger group of individuals with dementia. They are characterized by a progressive deterioration of memory, language, conversation, and ability to perform everyday activities.</p>
+
+<p>Individuals with Primary Progressive Aphasia (PPA), a progressive neurological condition, are impaired in speech and language.</p>
+
+<p>Individuals with PPA are grouped into three variants based on their distinct underlying neuropathology and area of brain damage.</p>
+
+<p>According to current classification criteria, their characteristic neuropathology and damage patterns give rise to different discourse deficits across three variants, namely in</p>
+
+<ul>
+  <li>
+    <p>INDIVIDUALS WITH THE NON-FLUENT PPA VARIANT (NFVPPA)</p>
+  </li>
+  <li>
+    <p>INDIVIDUALS WITH THE SEMANTIC PPA VARIANT (SVPPA), AND</p>
+  </li>
+  <li>
+    <p>INDIVIDUALS WITH THE LOGOPENIC PPA VARIANT (LVPPA)</p>
+  </li>
+  <li>
+    <p>Individuals with Parkinson’s Disease (PD) are characterized by a progressive deterioration of movement functioning, which impairs balance, speaking, language, chewing, and swallowing.</p>
+  </li>
+</ul>
+
+<p>It impairs speech, language, and communication:</p>
+
+<ul>
+  <li>Language comprehension</li>
+  <li>Language production of spoken and written language</li>
+  <li>Using language effectively for communication.</li>
+  <li>It involves deficits in one or more language modalities, including phonetics, phonology, morphology, syntax, semantics, and pragmatics.</li>
+  <li>It can also impair aspects of functional communication, e.g.,</li>
+  <li>Emotions self-monitoring</li>
+  <li>Theory of Mind</li>
+</ul>
+
+<h1 id="dementia-diagnosis">DEMENTIA DIAGNOSIS</h1>
+<p>The neurocognitive assessment aims to evaluate individuals’ condition and provide early diagnosis, prognosis, and quantify intervention efficacy.
+Computational Language Assessment (CLA) informs the clinician and the patient by quantifying the symptoms of dementia on language and enabling monitoring of disease progression over time.
+CLA provides tools that can screen individuals for dementia and provide a recommendation on whether to visit a clinician.
+Although there is no treatment for dementia, pharmaceutical solutions that can potentially that slow down the progression of the disease show positive results and are getting approved.
+Therefore, early-stage identification, and assessment of individuals with dementia are of utmost importance to enable interventions that can delay the progression of dementia and support family planning.</p>
+
+<h1 id="more-information">MORE INFORMATION</h1>
+<ul>
+  <li>American Speech-Language-Hearing Association (ASHA): <a href="http://www.asha.org">www.asha.org</a></li>
+  <li>National Aphasia Association: <a href="http://www.aphasia.org/">www.aphasia.org/</a></li>
+  <li>Alzheimer’s Association: <a href="https://www.alz.org">https://www.alz.org</a></li>
+</ul>
+
+
+    
+    </section>
+
+    <!-- Social media shares -->
+    
+
+<div class="share-buttons">
+    <ul class="share-buttons">
+        <li class="meta">Share</li>
+        
+        <li>
+            <a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/research/project/2021/12/08/blog_dementia.html" target="_blank"
+               title=" Facebook">
+                <i class="fab fa-facebook-square fa-2x" aria-hidden="true"></i>
+                <span class="sr-only">Share on Facebook</span>
+            </a>
+        </li>
+         
+        <li>
+            <a href="https://twitter.com/intent/tweet?text=Dementia%20http%3A%2F%2Flocalhost%3A4000%2Fresearch%2Fproject%2F2021%2F12%2F08%2Fblog_dementia.html"
+               target="_blank" title="">
+                <i class="fab fa-twitter-square fa-2x" aria-hidden="true"></i>
+                <span class="sr-only">Tweet</span>
+            </a>
+        </li>
+         
+        <li>
+            <a href="https://www.tumblr.com/share?v=3&u=http://localhost:4000/research/project/2021/12/08/blog_dementia.html&quote=Dementia%20%7C%20Haris+Themistocleous&s="
+               target="_blank" title=" Tumblr">
+                <i class="fab fa-tumblr-square fa-2x" aria-hidden="true"></i>
+                <span class="sr-only">Share on Tumblr</span>
+            </a>
+        </li>
+         
+        <li>
+            <a href="https://pinterest.com/pin/create/button/?url=http://localhost:4000/research/project/2021/12/08/blog_dementia.html&media=$description=%0A++Sickness+is+an+impediment+that+affects+the+body+not+what+you+choose+to+do+%28%E2%80%A6%29+choose+to+follow+this+for+all+the+things+that+happen+to+you%3A+because+you+will+realize+that+it+impedes+something+else+and+not+yourself.%0AEpictetus%0A%0A"
+               target="_blank" title="">
+                <i class="fab fa-pinterest-square fa-2x" aria-hidden="true"></i>
+                <span class="sr-only">Pin it</span>
+            </a>
+        </li>
+          
+        <li>
+            <a href="https://www.reddit.com/submit?url=http://localhost:4000/research/project/2021/12/08/blog_dementia.html&title=Dementia%20%7C%20Haris+Themistocleous"
+               target="_blank" title=" Reddit">
+                <i class="fab fa-reddit-square fa-2x" aria-hidden="true"></i>
+                <span class="sr-only">Share on Reddit</span>
+            </a>
+        </li>
+         
+        <li>
+            <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/research/project/2021/12/08/blog_dementia.html&title=Dementia%20%7C%20Haris+Themistocleous&summary=&source=http://localhost:4000/research/project/2021/12/08/blog_dementia.html"
+               target="_blank" title=" LinkedIn">
+                <i class="fab fa-linkedin fa-2x" aria-hidden="true"></i>
+                <span class="sr-only">Share on LinkedIn</span>
+            </a>
+        </li>
+          
+        <li>
+            <a href="mailto:?subject=Dementia%20%7C%20Haris Themistocleous&body=http://localhost:4000/research/project/2021/12/08/blog_dementia.html"
+               target="_blank" title="">
+                <i class="fas fa-envelope-square fa-2x" aria-hidden="true"></i>
+                <span class="sr-only">Email</span></a>
+        </li>
+        
+    </ul>
+</div>
+
+
+
+
+    <!-- Tag list -->
+    
+    
+
+
+  <div class="tag-list"></div>
+
+
+
+</article>
+
+
+
+
+<!-- To change color of links in the page --> <style> header#main { background-size: cover; background-repeat: no-repeat; background-position: center; } </style> <!-- Post navigation --> <div id="post-nav"> <div id="previous-post"> <a alt="What is Primary Progressive Aphasia?" href="/ppa/2022/03/31/PPA.html"> <p>Previous post</p> What is Primary Progressive Aphasia? </a> </div> <div id="next-post"> <a alt="Stuttering" href="/research/project/2020/11/04/blog_stuttering.html"> <p>Next post</p> Stuttering </a> </div> </div> <!--Utterances--> <!-- Cusdis --> <!-- Disqus -->
+
+
+    </div>
+    
+    <footer class="site-footer"> <p class="text"> (c) 2024 Charalambos K. Themistocleous </p> <div class="footer-icons"> <ul> <!-- Social icons from Font Awesome, if enabled --> <li> <a feed.xml href="/feed.xml" title="Follow RSS feed" target="_blank"> <span class="fa-stack fa-lg"> <i class="fas fa-circle fa-stack-2x"></i> <i class="fas fa-rss fa-stack-1x fa-inverse"></i> </span> </a> </li> <li> <a href="https://github.com/themistocleous" title="Follow on Github" target="_blank" rel="noopener"> <span class="fa-stack fa-lg"> <i class="fas fa-circle fa-stack-2x"></i> <i class="fab fa-github fa-stack-1x fa-inverse"></i> </span> </a> </li> <li> <a href="https://scholar.google.com/citations?hl=en&user=pATrAdMAAAAJ" title="Follow on Googlescholar" target="_blank" rel="noopener"> <span class="fa-stack fa-lg"> <i class="fas fa-circle fa-stack-2x"></i> <i class="fas fa-user-graduate fa-stack-1x fa-inverse"></i> </span> </a> </li> <li> <a href="https://www.linkedin.com/in/haristhemistocleous" title="Follow on Linkedin" target="_blank" rel="noopener"> <span class="fa-stack fa-lg"> <i class="fas fa-circle fa-stack-2x"></i> <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i> </span> </a> </li> <li> <a href="mailto:charalth@uio.no" title="Follow on Mail" target="_blank" rel="noopener"> <span class="fa-stack fa-lg"> <i class="fas fa-circle fa-stack-2x"></i> <i class="fas fa-envelope fa-stack-1x fa-inverse"></i> </span> </a> </li> <li> <a href="https://twitter.com/ThemistocleousH" title="Follow on Twitter" target="_blank" rel="noopener"> <span class="fa-stack fa-lg"> <i class="fas fa-circle fa-stack-2x"></i> <i class="fab fa-twitter fa-stack-1x fa-inverse"></i> </span> </a> </li> </ul> </div> <script type="module"> mermaid.initialize({ startOnLoad: false, theme: "default" }); mermaid.run({ nodes: [...document.querySelectorAll('.language-mermaid'), ...document.querySelectorAll('.mermaid')] }); </script> </footer>
+  </body>
+</html>
