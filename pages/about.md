@@ -5,7 +5,7 @@ permalink: /about/
 feature-img: "assets/img/me/me8.jpeg"
 tags: [Page]
 position: 1
-hide: true
+hide: false
 ---
 ## Biography
 
