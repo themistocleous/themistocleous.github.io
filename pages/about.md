@@ -27,3 +27,8 @@ hide: false
 ## Research Publications
 <p style="text-align:justify">Themistocleous, C. K., Andreou, M., & Peristeri, E. (2024). Autism Detection in Children: Integrating Machine Learning and Natural Language Processing in Narrative Analysis. Behavioral Sciences, 14(6). https://mdpi-res.com/d_attachment/behavsci/behavsci-14-00459/article_deploy/behavsci-14-00459.pdf?version=1716991581</p>
 
+## From around the web
+- [Automatic Screening Model for ASD](https://www.uv.uio.no/isp/forskning/publikasjoner/nye-publikasjoner/autism-detection-in-children-integrating-machine-l.html)
+- [Open Brain AI Revolutionizes Language Assessment, Optimizes Healthcare and Education Processes](https://quantumzeitgeist.com/open-brain-ai-revolutionizes-language-assessment-optimizes-healthcare-and-education-processes/)
+- [University of Oslo’s Open Brain AI Streamlines Language Analysis for Healthcare, Education](https://baserealitytech.com/university-of-oslos-open-brain-ai-streamlines-language-analysis-for-healthcare-education/)
+
