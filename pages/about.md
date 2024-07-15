@@ -12,7 +12,7 @@ hide: false
 <img style="width: 40%; float: left;border-radius:80%" src="{{base.url}}/assets/img/me/me10.jpeg" alt=" HarisThemistocleous">
 
 
-<p style="text-align:justify">Charalambos (Haris) Themistocleous is an Associate Professor of Special Needs Education at the University of Oslo. His research focuses on the impact of brain damage on speech, language, and communication, particularly the development of speech and language measures as biomarkers for developmental and acquired conditions. A primary goal of his work is to create early diagnostic and prognostic models for these conditions.</p>
+<p style="text-align:justify">Charalambos (Haris) Themistocleous is an Associate Professor of Speech, Language, and Communication at the Department of Special Needs Education at the University of Oslo. His research focuses on the impact of brain damage on speech, language, and communication, particularly the development of speech and language measures as biomarkers for developmental and acquired conditions. A primary goal of his work is to create early diagnostic and prognostic models for these conditions.</p>
 
 <p style="text-align:justify">Additionally, he is developing AI systems and tools for the automatic analysis of speech and language. He leads the development of <a href="http://openbrainai.com">Open Brain AI</a>, a computational platform that aims to support clinicians in studying language impairments in patients.</p>
  
