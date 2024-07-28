@@ -21,7 +21,11 @@ hide: false
 - 2015 - Seeger Center for Hellenic Studies. Princeton University
 
 ## Research Publications
-<p style="text-align:justify">Themistocleous, C. K., Andreou, M., & Peristeri, E. (2024). Autism Detection in Children: Integrating Machine Learning and Natural Language Processing in Narrative Analysis. Behavioral Sciences, 14(6). https://mdpi-res.com/d_attachment/behavsci/behavsci-14-00459/article_deploy/behavsci-14-00459.pdf?version=1716991581</p>
+- <p style="text-align: justify;"><strong>Themistocleous</strong>, <strong>Charalambos</strong> (2024). 
+                Open Brain AI and language assessment. <i>Frontiers in Human Neuroscience</i>. 18:1421435.
+                doi: 10.3389/fnhum.2024.1421435</p>
+- <p style="text-align: justify;">Hana Kim, Argye E Hillis, <strong>Themistocleous</strong>, <strong>Charalambos</strong> (2024). Machine Learning Classification of Patients with Amnestic Mild Cognitive Impairment and Non-Amnestic Mild Cognitive Impairment from Written Picture Description Tasks. <i>Brain Sciences</i>, 14, 652. https://doi.org/10.3390/brainsci14070652</p>
+- <p style="text-align: justify;"><strong>Themistocleous</strong>, <strong>Charalambos</strong>, Andreou, Maria, & Peristeri, Eleni (2024). Autism Detection in Children: Integrating Machine Learning and Natural Language Processing in Narrative Analysis. <i>Behavioral Sciences</i>, 14(6).</p>
 
 ## From around the web
 - [Automatic Screening Model for ASD](https://www.uv.uio.no/isp/forskning/publikasjoner/nye-publikasjoner/autism-detection-in-children-integrating-machine-l.html)

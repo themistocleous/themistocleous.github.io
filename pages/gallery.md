@@ -5,7 +5,7 @@ title: Gallery
 permalink: /gallery/
 gallery_path: "assets/img/pexels"
 excluded: true
-position: 6
+position: 5
 tags: [Page]
 ---
 
