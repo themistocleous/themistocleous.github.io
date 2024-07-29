@@ -8,9 +8,9 @@ position: 1
 hide: false
 ---
 
-<img style="width: 45%; float: left;border-radius:80%" src="{{base.url}}/assets/img/me/me10.jpeg" alt=" HarisThemistocleous">
+<img style="width: 40%; float: left;border-radius:80%" src="{{base.url}}/assets/img/me/me10.jpeg" alt=" HarisThemistocleous">
 
-
+<br/>
 <p style="text-align:justify">Charalambos (Haris) Themistocleous is an Associate Professor of Speech, Language, and Communication at the <a href="https://www.uv.uio.no/isp/">Department of Special Needs Education</a> at the <a href="http://uio.no">University of Oslo</a>. His research focuses on quantifying the impact of brain damage on speech, language, and communication, by developing automatic speech and language measures. A primary goal of his work is to create early diagnostic and prognostic models for these conditions.</p>
 
 <p style="text-align:justify">Dr. Themistocleous is developing AI tools for the automatic analysis of speech and language and leads the development of <a href="http://openbrainai.com">Open Brain AI</a>, a computational platform that supports clinicians in studying language impairments in patients.</p>
@@ -19,6 +19,12 @@ hide: false
 - 2018 - Department of Neurology and Neurosurgery. Johns Hopkins University
 - 2016 - Centre for Linguistic Theory and Studies in Probability (CLASP). University of Gothenburg
 - 2015 - Seeger Center for Hellenic Studies. Princeton University
+
+## Education
+- 2011 - PhD in Linguistics
+- 2007 - MSc in Computational Linguistic
+- 2006 - MA in Applied Linguistics
+- 2004 - BA in Linguistics (Valedictorian)
 
 ## Research Publications
 - <p style="text-align: justify;"><strong>Themistocleous</strong>, <strong>Charalambos</strong> (2024). 
