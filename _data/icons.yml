@@ -18,10 +18,12 @@ map:              # e.g. "34.0886/-118.3191"
 mastodon:         # e.g. "fostodon.org/@sam"
 matrix:           # e.g. "@sam:matrix.org"
 medium:
+osf: rvxby
 patreon:
 phone:            # e.g. "+11111111111"
 pinterest:
 reddit:
+researchgate: Charalambos-Themistocleous 
 soundcloud:
 sms:              # e.g. "+11111111111"
 stack-exchange:   # e.g. "123456789"

@@ -41,6 +41,9 @@ matrix:
   icon: "fab fa-connectdevelop"
 medium:
   pre: "https://medium.com/@"
+osf:
+  pre: "https://osf.io/"
+  icon: "ai ai-osf-square"
 patreon:
   pre: "https://www.patreon.com/"
 phone:
@@ -50,6 +53,9 @@ pinterest:
   pre: "https://www.pinterest.com/"
 reddit:
   pre: "https://www.reddit.com/user/"
+researchgate: 
+  pre: "https://www.researchgate.net/profile/"
+  icon: "ai ai-researcherid-square"
 soundcloud:
   pre: "https://soundcloud.com/"
 sms:
