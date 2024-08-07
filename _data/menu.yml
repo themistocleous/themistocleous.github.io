@@ -7,10 +7,10 @@
 - cv:
   title: CV
   url: assets/pages/CV_Haris_Themistocleous.pdf
-  hide: true
-  position: 7
+  hide: false
+  position: 9
 - obai:
   title: Open Brain AI
   url: https://openbrainai.com
-  hide: true
-  position: 6
+  hide: false
+  position: 8
