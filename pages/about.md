@@ -22,7 +22,7 @@ hide: false
 
 ## Education
 - 2011 - PhD in Linguistics
-- 2007 - MSc in Computational Linguistic
+- 2007 - MSc in Computational Linguistics
 - 2006 - MA in Applied Linguistics
 - 2004 - BA in Linguistics (Valedictorian)
 
