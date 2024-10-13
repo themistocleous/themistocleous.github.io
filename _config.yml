@@ -9,7 +9,7 @@ values:
   layout: page
 
 # THEME-SPECIFIC CONFIGURATION
-title: Haris Themistocleous                                   # site's title
+title: Ch. Themistocleous                                   # site's title
 description: "Charalambos K. Themistocleous"      # used by search engines
 avatar: assets/img/brain.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
