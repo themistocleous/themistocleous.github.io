@@ -16,7 +16,8 @@ hide: false
 
 <p style="text-align:justify">Dr. Themistocleous is developing AI tools for the automatic analysis of speech and language and leads the development of <a href="http://openbrainai.com">Open Brain AI</a>, a computational platform that supports clinicians in studying language impairments in patients.</p>
  
-## Previous Positions
+## Positions
+- 2022 - Department of Special Needs Education. Faculty of Education. University of Oslo.
 - 2018 - Department of Neurology and Neurosurgery. Johns Hopkins University
 - 2016 - Centre for Linguistic Theory and Studies in Probability (CLASP). University of Gothenburg
 - 2015 - Seeger Center for Hellenic Studies. Princeton University
