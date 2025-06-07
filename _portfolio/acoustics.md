@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Speech Acoustics and Language Variation
+title: Speech Signatures
 img: "assets/img/img_papers/acoustics.jpeg"
 date: April, 08 2014
 tags: [Speech, Acoustics, Dialects]
 ---
 
-<p style="text-align: justify;">Speech sounds vary depending on speakers' geographical varieties—a.k.a., dialects—and social varieties, a.k.a., sociolects. Language variation often occurs below speakers' conscious awareness (Labov, 1994). Determining how dialects affect speech can quantify language variation and change and enable individualized solutions in speech and language pathology.</p>
+<p style="text-align: justify;">Speech sounds vary depending on speakers' geographical varieties—a.k.a., dialects—and social varieties, a.k.a., sociolects and pathology. Language variation often occurs below speakers' conscious awareness (Labov, 1994). Determining how dialects affect speech can quantify language variation and change and enable individualized solutions in speech and language pathology.</p>
 
 
 *Aim 1. Determining the effects of language variation on speech production*
