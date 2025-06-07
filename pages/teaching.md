@@ -5,9 +5,6 @@ permalink: /teaching/
 position: 4
 ---
 
-# Teaching
-
-
 ## PhD Research - Student Info
 <p style="text-align:justify">A PhD project is a major undertaking that requires a significant investment of time, energy, and dedication. It is a commitment that will test your limits and challenge your way of thinking. But it is also a work that will stay with you for the rest of your life.</p>
 
