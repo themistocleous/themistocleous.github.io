@@ -6,6 +6,7 @@ permalink: /software/
 #feature-img: "assets/img/pexels/computer.jpeg"
 position: 3
 tags: [Page]
+hide_title: true
 ---
 
 {% include portfolio.html %}

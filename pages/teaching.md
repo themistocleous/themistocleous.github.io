@@ -3,6 +3,7 @@ layout: page
 title: Teaching
 permalink: /teaching/
 position: 4
+hide_title: true
 ---
 
 ## PhD Research - Student Info
