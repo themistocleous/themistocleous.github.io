@@ -2,7 +2,6 @@
 layout: post
 title: Automatic Diagnosis and Prognosis
 img: "assets/img/img_papers/automatic.jpeg"
-date: 10 September 2020
 tags: [Diagnosis, Prognosis]
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title: Prosody
 img: "assets/img/img_papers/prosody.jpeg"
-date: September 2014
 tags: [Speech, Prosody, Phonology]
 ---
 

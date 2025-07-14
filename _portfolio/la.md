@@ -3,7 +3,6 @@ layout: post
 title: Machine Learning and Language Acquisition
 #feature-img: "assets/img/portfolio/ttt.png"
 img: "assets/img/img_papers/LA.jpeg"
-date: September 2017
 ---
 
 <p style="text-align: justify;">Identification of language acquisition (clitic acquisition) in multidialectal children. </p>

@@ -2,7 +2,6 @@
 layout: post
 title: Speech Signatures
 img: "assets/img/img_papers/acoustics.jpeg"
-date: April, 08 2014
 tags: [Speech, Acoustics, Dialects]
 ---
 
