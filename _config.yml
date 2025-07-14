@@ -19,7 +19,7 @@ header_text: Recent Posts  # Change Blog header text
 #header_feature_image: assets/img/header/brain.png
 header_feature_image_responsive: true
 footer_text: >
-  (c) 2024 Charalambos K. Themistocleous
+  (c) 2025 Charalambos K. Themistocleous
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
