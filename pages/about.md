@@ -12,7 +12,7 @@ hide: false
 
 <div style="display: flex;gap: 20px;">
 <div style="width: 20%;">
-<img style="width: 100%;float: right;" src="{{base.url}}/assets/img/me/haris1.jpeg" alt=" HarisThemistocleous">
+<img style="width: 100%;float: right;" src="{{base.url}}/assets/img/me/haris2.png" alt=" HarisThemistocleous">
 </div>
 <div class="column" style="width: 78%;">
 
