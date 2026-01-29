@@ -7,6 +7,7 @@ permalink: /software/
 position: 3
 tags: [Page]
 hide_title: true
+hide: true 
 ---
 
 {% include portfolio.html %}
