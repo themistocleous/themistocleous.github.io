@@ -169,7 +169,7 @@ hide: false
         <div class="role-desc">Directing a multidisciplinary research program focused on identifying digital biomarkers for cognitive decline, securing grant funding, and mentoring PhD and Postdoctoral researchers.</div>
       </li>
       <li>
-        <span class="role-title">Founder & Lead Architect <span class="date-badge">2023 – Present</span></span>
+        <span class="role-title">Founder & Lead Architect <span class="date-badge">2020 – Present</span></span>
         <span class="role-org">Open Brain AI</span>
         <div class="role-desc">Engineered the full-stack infrastructure and integrated machine learning pipelines to translate academic theories into scalable, clinical diagnostic tools.</div>
       </li>
