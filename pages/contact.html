@@ -1,114 +1,125 @@
 ---
 layout: default
-title: Contact
+title: Contact & Collaborations
 permalink: /contact/
-position: 7
+position: 6
+hide: true
 ---
 
-<style>
-    /* Clean, responsive styling for the contact page */
-    .contact-container {
-        max-width: 900px;
-        margin: 0 auto;
-        padding: 2rem 1rem;
-        text-align: center;
-    }
-    .contact-header {
-        margin-bottom: 3rem;
-    }
-    .contact-header h2 {
-        color: #2c3e50;
-        margin-bottom: 1rem;
-    }
-    .contact-header a {
-        display: block;
-        margin: 0.5rem 0;
-        color: #3498db;
-        text-decoration: none;
-        font-size: 1.1em;
-        font-weight: 500;
-    }
-    .contact-header a:hover {
-        text-decoration: underline;
-    }
-    .contact-grid {
-        display: grid;
-        /* This makes the layout responsive: 1 column on mobile, up to 3 on desktop */
-        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-        gap: 2rem;
-    }
-    .contact-card {
-        background: #ffffff;
-        border: 1px solid #eaeaea;
-        border-radius: 8px;
-        padding: 2rem 1.5rem;
-        box-shadow: 0 4px 6px rgba(0,0,0,0.02);
-        transition: transform 0.2s ease;
-    }
-    .contact-card:hover {
-        transform: translateY(-5px); /* Slight lift effect on hover */
-    }
-    .contact-card h3 {
-        color: #2c3e50;
-        font-size: 1.2em;
-        margin-top: 0;
-        margin-bottom: 1rem;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        gap: 10px;
-    }
-    .contact-card i {
-        color: #3498db; /* Makes the FontAwesome icons pop */
-    }
-    .contact-card p, .contact-card address {
-        margin: 0;
-        font-style: normal;
-        line-height: 1.6;
-        color: #555;
-    }
-</style>
+<div class="acad-container">
 
-<div class="contact-container">
-    
-    <!-- Header Section -->
-    <div class="contact-header">
-        <h2>Contact Information</h2>
-        <a href="https://www.uv.uio.no/isp/english/people/aca/charalth/" target="_blank">Themistocleous @ ISP/UiO</a>
-        <a href="https://www.uv.uio.no/isp/english/about/index.html" target="_blank">Department of Special Needs Education (ISP)</a>
-    </div>
+  <header class="acad-page-header">
+    <h1>Contact &amp; Research Collaborations</h1>
+    <p class="acad-subtitle">
+      Get in touch regarding European Research Council (ERC) and Horizon Europe consortia, clinical neuroscience collaborations, Open Brain AI partnerships, and postgraduate supervision at the University of Oslo.
+    </p>
+  </header>
 
-    <!-- Contact Cards Grid -->
-    <div class="contact-grid">
-        
-        <!-- Email Card -->
-        <div class="contact-card">
-            <h3><i class="fa-solid fa-paper-plane"></i> Email</h3>
-            <p><a href="mailto:charalampos.themistokleous@isp.uio.no">charalampos.themistokleous@isp.uio.no</a></p>
+  <!-- Direct Contact Cards -->
+  <section class="acad-section">
+    <div class="acad-grid-3">
+
+      <div class="acad-card">
+        <div class="acad-card-meta">Electronic Mail &amp; Institutional Profile</div>
+        <h3><i class="fa-solid fa-envelope" style="color: var(--acad-blue);"></i> Email &amp; Directory</h3>
+        <p style="margin-bottom: 0.5rem; text-align: left;">
+          <strong>Primary (UiO):</strong><br>
+          <a href="mailto:charalth@uio.no">charalth@uio.no</a>
+        </p>
+        <p style="margin-bottom: 0.85rem; text-align: left;">
+          <strong>Departmental (ISP):</strong><br>
+          <a href="mailto:charalampos.themistokleous@isp.uio.no">charalampos.themistokleous@isp.uio.no</a>
+        </p>
+        <div class="pub-links">
+          <a href="https://www.uv.uio.no/isp/english/people/aca/charalth/" target="_blank" rel="noopener" class="pub-link">
+            <i class="fa-solid fa-building-columns"></i> Official UiO Faculty Page
+          </a>
         </div>
+      </div>
 
-        <!-- Office Card -->
-        <div class="contact-card">
-            <h3><i class="fa-solid fa-door-open"></i> Office</h3>
-            <!-- Using the semantic <address> tag is better for search engines and accessibility -->
-            <address>
-                Office No: 482<br>
-                Helga Engs hus 4.etg<br>
-                Sem Sælands vei 7<br>
-                0371 OSLO
-            </address>
-        </div>
+      <div class="acad-card">
+        <div class="acad-card-meta">Campus Office &bull; Blindern, Oslo</div>
+        <h3><i class="fa-solid fa-location-dot" style="color: var(--acad-blue);"></i> Visiting Address</h3>
+        <address style="font-style: normal; color: var(--acad-text-secondary); line-height: 1.65;">
+          <strong>Prof. Charalambos Themistocleous</strong><br>
+          Office 482, 4th Floor<br>
+          Helga Engs hus<br>
+          Sem Sælands vei 7<br>
+          0371 Oslo, Norway
+        </address>
+      </div>
 
-        <!-- Postal Card -->
-        <div class="contact-card">
-            <h3><i class="fa-solid fa-envelope-open-text"></i> Postal Address</h3>
-            <address>
-                Charalambos Themistocleous<br>
-                Institutt for spesialpedagogikk<br>
-                Postboks 1140 Blindern<br>
-                0318 Oslo
-            </address>
-        </div>
+      <div class="acad-card">
+        <div class="acad-card-meta">Institutional Mail</div>
+        <h3><i class="fa-solid fa-building-columns" style="color: var(--acad-blue);"></i> Postal Address</h3>
+        <address style="font-style: normal; color: var(--acad-text-secondary); line-height: 1.65;">
+          <strong>Charalambos Themistocleous</strong><br>
+          Department of Special Needs Education (ISP)<br>
+          Faculty of Educational Sciences<br>
+          University of Oslo, Postboks 1140 Blindern<br>
+          0318 Oslo, Norway
+        </address>
+      </div>
 
     </div>
+  </section>
+
+  <!-- Academic & Digital Profiles -->
+  <section class="acad-section">
+    <h2 class="acad-section-title"><i class="fa-solid fa-globe"></i> Academic Networks &amp; Research Profiles</h2>
+    <div style="display: flex; flex-wrap: wrap; gap: 0.75rem;">
+      <a href="https://scholar.google.com/citations?user=s1323bMAAAAJ&hl=en" target="_blank" rel="noopener" class="acad-badge">
+        <i class="ai ai-google-scholar"></i> Google Scholar
+      </a>
+      <a href="https://openbrainai.com" target="_blank" rel="noopener" class="acad-badge">
+        <i class="fa-solid fa-brain"></i> Open Brain AI (openbrainai.com)
+      </a>
+      <a href="https://www.uv.uio.no/isp/english/people/aca/charalth/" target="_blank" rel="noopener" class="acad-badge">
+        <i class="fa-solid fa-building-columns"></i> University of Oslo Profile
+      </a>
+      <a href="https://www.researchgate.net/profile/Charalambos-Themistocleous" target="_blank" rel="noopener" class="acad-badge">
+        <i class="ai ai-researchgate"></i> ResearchGate
+      </a>
+      <a href="https://osf.io/327dc/" target="_blank" rel="noopener" class="acad-badge">
+        <i class="ai ai-osf"></i> Open Science Framework (OSF)
+      </a>
+      <a href="https://github.com/themistocleous" target="_blank" rel="noopener" class="acad-badge">
+        <i class="fa-brands fa-github"></i> GitHub (@themistocleous)
+      </a>
+      <a href="https://www.linkedin.com/in/charalambosthemistocleous/" target="_blank" rel="noopener" class="acad-badge">
+        <i class="fa-brands fa-linkedin"></i> LinkedIn
+      </a>
+    </div>
+  </section>
+
+  <!-- Research Collaborations & Supervision Section -->
+  <section class="acad-section" id="collaboration">
+    <h2 class="acad-section-title"><i class="fa-solid fa-handshake-angle"></i> Opportunities for Collaboration &amp; Supervision</h2>
+
+    <div class="acad-grid-2">
+
+      <div class="acad-card">
+        <div class="acad-card-meta">European &amp; International Consortia</div>
+        <h3>ERC, Horizon Europe, MSCA &amp; Clinical Trials</h3>
+        <p>
+          We actively partner with neurology departments, memory clinics, speech-language pathology centers, and computational linguistics groups on <strong>ERC</strong>, <strong>Horizon Europe</strong>, <strong>Marie Skłodowska-Curie Actions (MSCA Postdoctoral Fellowships)</strong>, <strong>NIH</strong>, and <strong>Nordic/RCN</strong> grant initiatives. Our laboratory and the <a href="{{ '/obai/' | relative_url }}">Open Brain AI</a> platform provide scalable infrastructure for multicenter digital biomarker extraction across 15+ languages.
+        </p>
+      </div>
+
+      <div class="acad-card">
+        <div class="acad-card-meta">Doctoral, Postdoctoral &amp; Master's Candidates</div>
+        <h3>Prospective PhD Fellows, Postdocs &amp; MA Students</h3>
+        <p>
+          Prospective <strong>PhD candidates</strong>, <strong>MSCA/RCN postdoctoral fellows</strong>, and <strong>Master's students</strong> at the University of Oslo interested in AI-driven speech and language assessment, aphasia, dementia, developmental language disorders, or experimental phonetics are encouraged to reach out with a CV and brief research statement.
+        </p>
+        <div class="pub-links">
+          <a href="{{ '/projectsma/' | relative_url }}" class="pub-link">
+            <i class="fa-solid fa-graduation-cap"></i> View Proposed MA Thesis Topic on AI &amp; Communication Disorders
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
 </div>

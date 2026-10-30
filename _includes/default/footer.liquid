@@ -1,11 +1,49 @@
-<footer class="site-footer">
-    <p class="text">
-        {{ site.footer_text | default: "Powered by <a href='https://jekyllrb.com/'>Jekyll</a> with <a href='https://github.com/sylhare/Type-on-Strap'>Type on Strap</a>" }}</p>
-    <div class="footer-icons">
-        <ul>
-            <!-- Social icons from Font Awesome, if enabled -->
-            {% include social/icons.liquid %}
-        </ul>
+<footer class="site-footer academic-footer">
+    <div class="footer-inner">
+        <div class="footer-grid">
+            <div class="footer-col footer-identity">
+                <h4>Prof. Charalambos (Haris) Themistocleous</h4>
+                <p>Professor of Speech, Language, and Communication<br>
+                Department of Special Needs Education (ISP)<br>
+                Faculty of Educational Sciences · University of Oslo</p>
+                <p class="footer-lab">
+                    Founder &amp; Lead Architect of <a href="https://openbrainai.com" target="_blank" rel="noopener">Open Brain AI</a>
+                </p>
+            </div>
+
+            <div class="footer-col footer-links">
+                <h4>Academic Sections</h4>
+                <ul>
+                    <li><a href="{{ '/about/' | relative_url }}">Biography &amp; Appointments</a></li>
+                    <li><a href="{{ '/research/' | relative_url }}">Frontier Research &amp; Grants</a></li>
+                    <li><a href="{{ '/publications/' | relative_url }}">Peer-Reviewed Publications</a></li>
+                    <li><a href="{{ '/obai/' | relative_url }}">Open Brain AI &amp; Clinical Tools</a></li>
+                    <li><a href="{{ '/leadership/' | relative_url }}">Leadership, Talks &amp; Teaching</a></li>
+                    <li><a href="{{ '/assets/pages/CV_Haris_Themistocleous.pdf' | relative_url }}" target="_blank" rel="noopener">Curriculum Vitae (PDF)</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-col footer-connect">
+                <h4>Contact &amp; Profiles</h4>
+                <p>
+                    <i class="fa-solid fa-location-dot"></i> Helga Engs hus, Office 482, Sem Sælands vei 7, 0371 Oslo, Norway<br>
+                    <i class="fa-solid fa-envelope"></i> <a href="mailto:charalth@uio.no">charalth@uio.no</a>
+                </p>
+                <div class="footer-scholarly-links">
+                    <a href="https://scholar.google.com/citations?user=pATrAdMAAAAJ" target="_blank" rel="noopener" title="Google Scholar"><i class="ai ai-google-scholar"></i> Scholar</a>
+                    <a href="https://www.researchgate.net/profile/Charalambos-Themistocleous" target="_blank" rel="noopener" title="ResearchGate"><i class="ai ai-researchgate"></i> ResearchGate</a>
+                    <a href="https://github.com/themistocleous" target="_blank" rel="noopener" title="GitHub"><i class="fa-brands fa-github"></i> GitHub</a>
+                    <a href="https://osf.io/rvxby" target="_blank" rel="noopener" title="Open Science Framework"><i class="ai ai-osf"></i> OSF</a>
+                    <a href="https://www.linkedin.com/in/haristhemistocleous" target="_blank" rel="noopener" title="LinkedIn"><i class="fa-brands fa-linkedin"></i> LinkedIn</a>
+                    <a href="https://www.uv.uio.no/isp/english/people/aca/charalth/" target="_blank" rel="noopener" title="University of Oslo Profile"><i class="fa-solid fa-building-columns"></i> UiO</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="footer-bottom">
+            <span>© {{ 'now' | date: "%Y" }} Charalambos K. Themistocleous. All rights reserved.</span>
+            <span> computational neurolinguistics · multimodal AI · digital biomarkers</span>
+        </div>
     </div>
     {% if site.mermaid %}
         <script type="module">
@@ -14,5 +52,3 @@
         </script>
     {% endif %}
 </footer>
-
-

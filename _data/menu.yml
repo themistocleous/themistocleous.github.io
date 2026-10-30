@@ -1,16 +1,6 @@
-# To add links to the navigation bar.
-- example:
-  title: Example
-  url: https://example.com
-  hide: true
-  position: 2
-- cv:
-  title: CV
-  url: assets/pages/CV_Haris_Themistocleous.pdf
-  hide: true
-  position: 9
-- obai:
-  title: Open Brain AI
-  url: https://openbrainai.com
-  hide: false
-  position: 8
+# Navigation bar items (managed in _includes/default/navbar.liquid)
+# - cv:
+#   title: CV (PDF)
+#   url: /assets/pages/CV_Haris_Themistocleous.pdf
+#   hide: false
+#   position: 9

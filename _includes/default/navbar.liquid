@@ -1,47 +1,43 @@
-<header class="site-header">
+<header class="site-header academic-navbar">
+    <div class="navbar-inner">
+        <!-- Brand / Academic Identity -->
+        <div class="branding">
+            <a class="brand-link" href="{{ '/' | relative_url }}" aria-label="{{ site.title }}">
+                <span class="brand-accent" aria-hidden="true"></span>
+                <div class="brand-text">
+                    <span class="site-title">Charalambos (Haris) Themistocleous</span>
+                    <span class="site-subtitle">Professor &middot; University of Oslo</span>
+                </div>
+            </a>
+        </div>
 
-    <!-- Logo and title -->
-	<div class="branding">
-        {% if site.avatar %}
-		<a href="{{ '/' | relative_url }}">
-			<img alt="logo img" class="avatar" src="{{ site.avatar | relative_url }}" loading="lazy"/>
-		</a>
-        {% endif %}
-        <a class="site-title" aria-label="{{ site.title }}" href="{{ '/' | relative_url }}">
-        {{ site.title }}
-		</a>
-	</div>
+        <!-- Navigation Menu -->
+        <nav class="main-nav" aria-label="Main Navigation">
+            <button type="button" aria-label="Toggle Menu" aria-expanded="false" id="pull" class="nav-toggle-btn">
+                <i class="fa-solid fa-bars"></i>
+            </button>
 
-    <!-- Toggle menu -->
-    <nav class="clear">
-    <a aria-label="pull" id="pull" class="toggle" href="#">
-    <i class="fas fa-bars fa-lg"></i>
-    </a>
+            <ul id="nav-menu" class="nav-list hide">
+                <li>
+                    <a class="nav-item {% if page.url == '/' or page.url == '/about/' %}active{% endif %}" href="{{ '/about/' | relative_url }}">About</a>
+                </li>
+                <li>
+                    <a class="nav-item {% if page.url == '/research/' or page.url == '/software/' %}active{% endif %}" href="{{ '/research/' | relative_url }}">Research</a>
+                </li>
+                <li>
+                    <a class="nav-item {% if page.url == '/publications/' %}active{% endif %}" href="{{ '/publications/' | relative_url }}">Publications</a>
+                </li>
+                <li>
+                    <a class="nav-item {% if page.url == '/obai/' %}active{% endif %}" href="{{ '/obai/' | relative_url }}">Open Brain AI</a>
+                </li>
+                <li>
+                    <a class="nav-item {% if page.url == '/leadership/' %}active{% endif %}" href="{{ '/leadership/' | relative_url }}">Leadership &amp; Teaching</a>
+                </li>
+                <li>
+                    <a class="nav-item {% if page.url == '/contact/' %}active{% endif %}" href="{{ '/contact/' | relative_url }}">Contact</a>
+                </li>
 
-    <!-- Menu -->
-    <ul class="hide">
-        {% assign name_page = "" %}
-        {% assign emptyArray = '' | split: '' %}
-        {% assign menus = site.data.menu | default: emptyArray %}
-        {% assign pages = site.pages | concat: menus | sort: 'position' %}
-        {% for page in pages %}
-        {% unless page.title == null or page.hide or name_page contains page.title %}
-            <li class="separator"> | </li>
-            <li>
-                <a class="clear" aria-label="{{ page.title }}" title="{{ page.title }}" href="{{ page.url | relative_url }}">
-                    {% if page.icon %} <i class="navbar-icon fas {{ page.icon }}" aria-hidden="true"></i>{% endif %}
-                    <span class="navbar-label {% if page.icon %}navbar-label-with-icon{% endif%}">{{ page.title }}</span>
-                </a>
-            </li>
-        {% endunless %}
-        {% assign name_page = page.title | append: name_page %}
-        {% endfor %}
-
-        {% if site.color_theme == 'auto' %}
-        <li class="separator"> | </li>
-        <li><a id="theme-toggle" title="{{ page.title }} " aria-label="{{ page.title }}" onclick="themeToggle()"></a></li>
-        {% endif %}
-    </ul>
-
-	</nav>
+            </ul>
+        </nav>
+    </div>
 </header>

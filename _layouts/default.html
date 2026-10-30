@@ -1,19 +1,24 @@
 <!DOCTYPE html>
-<!--
-    Type on Strap jekyll theme v2.4.9
-    Theme free for personal and commercial use under the MIT license
-    https://github.com/sylhare/Type-on-Strap/blob/master/LICENSE
--->
-<html lang="en">
-  {% capture _head %}{% include default/head.liquid %}{% endcapture %}
-  {{ _head | split: " " | join: " "}}
+<html lang="en" data-theme="light">
+  {% include default/head.liquid %}
   <body>
-    {% capture _navbar %}{% include default/navbar.liquid %}{% endcapture %}
-    {{ _navbar | split: " " | join: " "}}
-    <div class="content">
+    {% include default/navbar.liquid %}
+    <main class="content" id="main-content">
       {{ content }}
-    </div>
-    {% capture _footer %}{% include default/footer.liquid %}{% endcapture %}
-    {{ _footer | split: " " | join: " "}}
+    </main>
+    {% include default/footer.liquid %}
+    <script>
+      (function () {
+        var btn = document.getElementById('pull');
+        var menu = document.getElementById('nav-menu');
+        if (btn && menu) {
+          btn.addEventListener('click', function (e) {
+            e.preventDefault();
+            var isHidden = menu.classList.toggle('hide');
+            btn.setAttribute('aria-expanded', (!isHidden).toString());
+          });
+        }
+      })();
+    </script>
   </body>
 </html>

@@ -1,842 +1,1183 @@
 <!DOCTYPE html>
-<!--
-    Type on Strap jekyll theme v2.4.9
-    Theme free for personal and commercial use under the MIT license
-    https://github.com/sylhare/Type-on-Strap/blob/master/LICENSE
--->
-<html lang="en">
-  
-  <head> <meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=0.5, maximum-scale=5"> <!-- Theme Mode--> <script> const darkBtn = "Dark"; const lightBtn = "Light"; const isAutoTheme = true; const preferredTheme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'; if (isAutoTheme) { document.documentElement.setAttribute('data-theme', sessionStorage.getItem('theme') ?? preferredTheme); } else { document.documentElement.setAttribute('data-theme', "auto"); } </script> <!-- Main JS (navbar.js, katex_init.js and masonry_init.js)--> <script defer src="/assets/js/main.min.js"></script> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"> <!-- CSS --> <link rel="stylesheet" href="/assets/css/main.css"> <link rel="stylesheet" href="/assets/css/my.css"> <!--Favicon--> <link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon"> <!-- KaTeX 0.16.9 --> <script defer src="/assets/js/vendor/katex.min.js"></script> <script defer src="/assets/js/vendor/katex.auto-render.min.js" onload="renderMathInElement(document.body);"></script> <!-- Mermaid 10.8.0 --> <script defer src="/assets/js/vendor/mermaid.min.js"></script> <!-- Simple Jekyll Search 1.10.0 --> <script src="/assets/js/vendor/simple-jekyll-search.min.js" type="text/javascript"></script> <!-- Google Analytics / Cookie Consent --> <script> const cookieName = 'cookie-notice-dismissed-http://localhost:4000'; const isCookieConsent = 'false'; const analyticsName = ''; const analyticsNameGA4 = ''; </script> <!-- seo tags --> <meta property="og:image" content="http://localhost:4000/"> <meta property="og:type" content="website" /> <!-- Begin Jekyll SEO tag v2.8.0 --> <title>Publications | Haris Themistocleous</title> <meta name="generator" content="Jekyll v4.4.1" /> <meta property="og:title" content="Publications" /> <meta property="og:locale" content="en_US" /> <meta name="description" content="Charalambos K. Themistocleous" /> <meta property="og:description" content="Charalambos K. Themistocleous" /> <link rel="canonical" href="http://localhost:4000/publications/" /> <meta property="og:url" content="http://localhost:4000/publications/" /> <meta property="og:site_name" content="Haris Themistocleous" /> <meta property="og:type" content="website" /> <meta name="twitter:card" content="summary" /> <meta property="twitter:title" content="Publications" /> <script type="application/ld+json"> {"@context":"https://schema.org","@type":"WebPage","description":"Charalambos K. Themistocleous","headline":"Publications","url":"http://localhost:4000/publications/"}</script> <!-- End Jekyll SEO tag --> <!-- RSS --> <link rel="alternate" type="application/atom+xml" title="Haris Themistocleous" href="http://localhost:4000/feed.xml"/> <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Haris Themistocleous" /> <!-- Twitter Cards --> <meta name="twitter:title" content="Publications"> <meta name="twitter:description" content=" Journal Articles Books Conferences Online Manuscripts Journal Articles 2026 ..."> <meta name="twitter:card" content="summary"> <meta name="twitter:image" content="http://localhost:4000/"> <meta name="twitter:image:alt" content="Publications"> </head>
+<html lang="en" data-theme="light">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Google Fonts: Inter & Lora for Academic Typography -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Lora:ital,wght@0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+
+    <!-- Icons: Font Awesome 6 & Academicons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+    <!-- Academic Stylesheet -->
+    <link rel="stylesheet" href="/assets/css/my.css">
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon">
+
+    <!-- SEO & OpenGraph Tags -->
+    <meta property="og:image" content="http://localhost:4000/assets/img/me/haris2.png">
+    <meta property="og:type" content="website">
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Publications | Charalambos (Haris) Themistocleous</title>
+<meta name="generator" content="Jekyll v4.4.1" />
+<meta property="og:title" content="Publications" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Professor of Speech, Language, and Communication at the University of Oslo Computational Neurolinguistics, Multimodal AI &amp; Digital Biomarkers Founder of Open Brain AI" />
+<meta property="og:description" content="Professor of Speech, Language, and Communication at the University of Oslo Computational Neurolinguistics, Multimodal AI &amp; Digital Biomarkers Founder of Open Brain AI" />
+<link rel="canonical" href="http://localhost:4000/publications/" />
+<meta property="og:url" content="http://localhost:4000/publications/" />
+<meta property="og:site_name" content="Charalambos (Haris) Themistocleous" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Publications" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Professor of Speech, Language, and Communication at the University of Oslo Computational Neurolinguistics, Multimodal AI &amp; Digital Biomarkers Founder of Open Brain AI","headline":"Publications","url":"http://localhost:4000/publications/"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+    <!-- Twitter Cards -->
+    <meta name="twitter:title" content="Publications">
+    <meta name="twitter:description" content="Professor of Speech, Language, and Communication at the University of Oslo | Computational Neurolinguistics, Multimodal AI & Digital Biomarkers | Founder of Open Brain AI">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:image" content="http://localhost:4000/assets/img/me/haris2.png">
+    <meta name="twitter:image:alt" content="Charalambos (Haris) Themistocleous">
+</head>
+
   <body>
-    
-    <header class="site-header"> <!-- Logo and title --> <div class="branding"> <a href="/"> <img alt="logo img" class="avatar" src="/assets/img/brain.png" loading="lazy"/> </a> <a class="site-title" aria-label="Haris Themistocleous" href="/"> Haris Themistocleous </a> </div> <!-- Toggle menu --> <nav class="clear"> <a aria-label="pull" id="pull" class="toggle" href="#"> <i class="fas fa-bars fa-lg"></i> </a> <!-- Menu --> <ul class="hide"> <li class="separator"> | </li> <li> <a class="clear" aria-label="About" title="About" href="/about/"> <span class="navbar-label ">About</span> </a> </li> <li class="separator"> | </li> <li> <a class="clear" aria-label="Open Brain AI" title="Open Brain AI" href="/obai/"> <span class="navbar-label ">Open Brain AI</span> </a> </li> <li class="separator"> | </li> <li> <a class="clear" aria-label="Publications" title="Publications" href="/publications/"> <span class="navbar-label ">Publications</span> </a> </li> <li class="separator"> | </li> <li> <a class="clear" aria-label="Research" title="Research" href="/software/"> <span class="navbar-label ">Research</span> </a> </li> <li class="separator"> | </li> <li> <a class="clear" aria-label="Contact" title="Contact" href="/contact/"> <span class="navbar-label ">Contact</span> </a> </li> <li class="separator"> | </li> <li> <a class="clear" aria-label="Search" title="Search" href="/search/"> <i class="navbar-icon fas fa-search" aria-hidden="true"></i> <span class="navbar-label navbar-label-with-icon">Search</span> </a> </li> <li class="separator"> | </li> <li><a id="theme-toggle" title="Publications " aria-label="Publications" onclick="themeToggle()"></a></li> </ul> </nav> </header>
-    <div class="content">
-      <article >
-    <header id="main" style="background-image: url('')">
-        <div class="title-padder">
-            
-                <div class="feature-image-padding"></div>
-            
+    <header class="site-header academic-navbar">
+    <div class="navbar-inner">
+        <!-- Brand / Academic Identity -->
+        <div class="branding">
+            <a class="brand-link" href="/" aria-label="Charalambos (Haris) Themistocleous">
+                <span class="brand-accent" aria-hidden="true"></span>
+                <div class="brand-text">
+                    <span class="site-title">Charalambos (Haris) Themistocleous</span>
+                    <span class="site-subtitle">Professor &middot; University of Oslo</span>
+                </div>
+            </a>
         </div>
-    </header>
-    <section class="post-content">
-    
-            <style>
-    /* Page Layout */
-    .pub-container {
-        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-        max-width: 900px;
-        margin: 0 auto;
-        color: #444;
-    }
 
-    /* Navigation Menu */
-    .pub-nav {
-        display: flex;
-        justify-content: center;
-        flex-wrap: wrap;
-        gap: 12px;
-        margin-bottom: 40px;
-        padding: 20px 0;
-        border-bottom: 1px solid #eaeaea;
-    }
-    .pub-nav a {
-        background-color: #f8f9fa;
-        color: #2c3e50;
-        padding: 10px 20px;
-        border-radius: 30px;
-        text-decoration: none;
-        font-size: 0.95rem;
-        font-weight: 500;
-        border: 1px solid #e0e0e0;
-        transition: all 0.3s ease;
-    }
-    .pub-nav a:hover {
-        background-color: #3498db;
-        color: #fff;
-        border-color: #3498db;
-        box-shadow: 0 4px 10px rgba(52, 152, 219, 0.2);
-    }
+        <!-- Navigation Menu -->
+        <nav class="main-nav" aria-label="Main Navigation">
+            <button type="button" aria-label="Toggle Menu" aria-expanded="false" id="pull" class="nav-toggle-btn">
+                <i class="fa-solid fa-bars"></i>
+            </button>
 
-    /* Section & Year Headers */
-    .pub-section-header {
-        font-size: 2em;
-        color: #2c3e50;
-        margin-top: 50px;
-        margin-bottom: 25px;
-        border-bottom: 3px solid #3498db;
-        display: inline-block;
-        padding-bottom: 5px;
-    }
-    .pub-year-header {
-        font-size: 1.5rem;
-        color: #7f8c8d;
-        border-bottom: 1px solid #eaeaea;
-        margin-top: 30px;
-        margin-bottom: 20px;
-        padding-bottom: 5px;
-        font-weight: bold;
-    }
+            <ul id="nav-menu" class="nav-list hide">
+                <li>
+                    <a class="nav-item " href="/about/">About</a>
+                </li>
+                <li>
+                    <a class="nav-item " href="/research/">Research</a>
+                </li>
+                <li>
+                    <a class="nav-item active" href="/publications/">Publications</a>
+                </li>
+                <li>
+                    <a class="nav-item " href="/obai/">Open Brain AI</a>
+                </li>
+                <li>
+                    <a class="nav-item " href="/leadership/">Leadership &amp; Teaching</a>
+                </li>
+                <li>
+                    <a class="nav-item " href="/contact/">Contact</a>
+                </li>
 
-    /* Publication Card Styling */
+            </ul>
+        </nav>
+    </div>
+</header>
+
+    <main class="content" id="main-content">
+      <style>
+  .pub-controls {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    background: var(--acad-surface);
+    border: 1px solid var(--acad-border);
+    border-radius: 12px;
+    padding: 1.1rem 1.35rem;
+    margin-bottom: 2rem;
+    position: sticky;
+    top: 68px;
+    z-index: 90;
+    backdrop-filter: blur(8px);
+    box-shadow: var(--acad-shadow-sm);
+  }
+  .pub-nav-pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+  }
+  .pub-nav-pills a {
+    background: #ffffff;
+    color: var(--acad-navy);
+    padding: 0.42rem 0.9rem;
+    border-radius: 999px;
+    font-size: 0.84rem;
+    font-weight: 600;
+    border: 1px solid var(--acad-border-strong);
+    text-decoration: none;
+    transition: all 0.18s ease;
+  }
+  .pub-nav-pills a:hover {
+    background: var(--acad-blue);
+    color: #ffffff !important;
+    border-color: var(--acad-blue);
+  }
+  .pub-search-box {
+    position: relative;
+    flex: 1 1 240px;
+    max-width: 340px;
+  }
+  .pub-search-box i {
+    position: absolute;
+    left: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--acad-text-muted);
+    font-size: 0.88rem;
+  }
+  .pub-search-input {
+    width: 100%;
+    padding: 0.48rem 0.85rem 0.48rem 2.15rem;
+    border: 1px solid var(--acad-border-strong);
+    border-radius: 999px;
+    font-family: var(--font-sans);
+    font-size: 0.88rem;
+    color: var(--acad-text);
+    background: #ffffff;
+    outline: none;
+    transition: border-color 0.2s, box-shadow 0.2s;
+  }
+  .pub-search-input:focus {
+    border-color: var(--acad-blue);
+    box-shadow: 0 0 0 3px rgba(29, 78, 216, 0.15);
+  }
+
+  .pub-year-group {
+    margin-bottom: 1.75rem;
+  }
+  .pub-year-badge {
+    display: inline-block;
+    font-family: var(--font-serif);
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--acad-navy);
+    border-bottom: 2px solid var(--acad-blue);
+    padding-bottom: 0.2rem;
+    margin: 1.25rem 0 1rem 0;
+  }
+
+  .pub-card {
+    display: grid;
+    grid-template-columns: 110px 1fr;
+    gap: 1.35rem;
+    background: #ffffff;
+    border: 1px solid var(--acad-border);
+    border-radius: 10px;
+    padding: 1.25rem;
+    margin-bottom: 1rem;
+    box-shadow: var(--acad-shadow-sm);
+    transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+    align-items: start;
+  }
+  .pub-card.no-thumb {
+    grid-template-columns: 1fr;
+    border-left: 4px solid var(--acad-navy);
+  }
+  .pub-card:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--acad-shadow-md);
+    border-color: var(--acad-sky-border);
+  }
+  .pub-image img {
+    width: 100%;
+    max-width: 110px;
+    height: auto;
+    border: 1px solid var(--acad-border);
+    border-radius: 6px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.04);
+    display: block;
+  }
+  .pub-details {
+    font-size: 0.96rem;
+    line-height: 1.6;
+    color: var(--acad-text);
+  }
+  .pub-citation {
+    margin-bottom: 0.65rem;
+    text-align: justify;
+    text-justify: inter-word;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+  }
+  .pub-citation strong {
+    color: var(--acad-navy);
+  }
+  .pub-citation em {
+    color: var(--acad-navy-light);
+    font-weight: 500;
+  }
+  .pub-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 0.5rem;
+  }
+  .btn-pub {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    font-size: 0.76rem;
+    padding: 0.28rem 0.7rem;
+    background: var(--acad-surface);
+    border: 1px solid var(--acad-border-strong);
+    color: var(--acad-navy) !important;
+    border-radius: 5px;
+    text-decoration: none !important;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    transition: all 0.18s ease;
+  }
+  .btn-pub:hover {
+    background: var(--acad-blue);
+    border-color: var(--acad-blue);
+    color: #ffffff !important;
+  }
+
+  .compact-pub-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .compact-pub-list li {
+    background: #ffffff;
+    border: 1px solid var(--acad-border);
+    border-left: 3px solid var(--acad-blue);
+    border-radius: 8px;
+    padding: 0.95rem 1.2rem;
+    margin-bottom: 0.75rem;
+    font-size: 0.93rem;
+    line-height: 1.55;
+    color: var(--acad-text);
+    box-shadow: var(--acad-shadow-sm);
+    text-align: justify;
+    text-justify: inter-word;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+  }
+  .compact-pub-list li strong {
+    color: var(--acad-navy);
+  }
+
+  @media (max-width: 768px) {
+    .pub-controls {
+      position: static;
+    }
+    .pub-search-box {
+      max-width: 100%;
+    }
     .pub-card {
-        display: grid;
-        grid-template-columns: 130px 1fr;
-        gap: 25px;
-        background: #ffffff;
-        border: 1px solid #eaeaea;
-        border-radius: 8px;
-        padding: 20px;
-        margin-bottom: 20px;
-        box-shadow: 0 2px 6px rgba(0,0,0,0.02);
-        transition: transform 0.2s ease, box-shadow 0.2s ease;
-        align-items: start;
+      grid-template-columns: 1fr;
     }
-    .pub-card:hover {
-        transform: translateY(-3px);
-        box-shadow: 0 6px 15px rgba(0,0,0,0.06);
-        border-color: #d6eaf8;
-    }
-
-    /* Mobile Layout */
-    @media (max-width: 768px) {
-        .pub-card {
-            grid-template-columns: 1fr;
-            text-align: center;
-        }
-        .pub-image img {
-            max-width: 120px;
-            margin: 0 auto;
-        }
-        .pub-title {
-            text-align: left; /* Keep text left-aligned for readability */
-        }
-        .pub-nav a {
-            flex: 1 1 calc(50% - 12px);
-            text-align: center;
-        }
-    }
-
-    /* Image Styling */
     .pub-image img {
-        width: 100%;
-        height: auto;
-        border: 1px solid #f0f0f0;
-        box-shadow: 0 2px 5px rgba(0,0,0,0.05);
-        border-radius: 4px;
-        transition: opacity 0.2s;
+      max-width: 95px;
+      margin-bottom: 0.5rem;
     }
-    .pub-image a:hover img {
-        opacity: 0.85;
-    }
-
-    /* Text & Links Styling */
-    .pub-details {
-        font-size: 1.05rem;
-        line-height: 1.6;
-    }
-    .pub-title {
-        margin-bottom: 12px;
-        color: #444;
-    }
-    .pub-title strong {
-        color: #2c3e50; /* Highlights your name cleanly */
-    }
-    .pub-title em {
-        color: #34495e;
-    }
-    
-    .pub-links {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 10px;
-        margin-top: 10px;
-    }
-    .btn-small {
-        display: inline-flex;
-        align-items: center;
-        font-size: 0.85rem;
-        padding: 6px 14px;
-        background: #f8f9fa;
-        border: 1px solid #cbd5e1;
-        color: #2c3e50;
-        border-radius: 4px;
-        text-decoration: none;
-        font-weight: 600;
-        text-transform: uppercase;
-        letter-spacing: 0.5px;
-        transition: all 0.2s;
-    }
-    .btn-small:hover {
-        background-color: #3498db;
-        border-color: #3498db;
-        color: #ffffff;
-    }
+  }
 </style>
 
-<div class="pub-container">
-    
-    <div class="pub-nav">
-        <a href="#jo">Journal Articles</a>
-        <a href="#bo">Books</a>
-        <a href="#co">Conferences</a>
-        <a href="#on">Online Manuscripts</a>
+<div class="acad-container">
+
+  <!-- HERO HEADER -->
+  <div class="acad-page-header">
+    <div class="acad-eyebrow"><i class="fa-solid fa-book-open"></i> Scholarly Output &amp; Open Science</div>
+    <h1>Publications</h1>
+    <p>
+      Peer-reviewed journal articles, monographs, edited volumes, book chapters, and international conference proceedings spanning computational neurolinguistics, clinical AI, neuroimaging, and experimental phonetics.
+    </p>
+    <div class="acad-btn-row" style="margin-top: 1.2rem;">
+      <a href="https://scholar.google.com/citations?user=pATrAdMAAAAJ" target="_blank" rel="noopener" class="acad-btn acad-btn-outline" style="background: rgba(255,255,255,0.12); color: #fff !important; border-color: rgba(255,255,255,0.3);"><i class="ai ai-google-scholar"></i> Google Scholar Profile</a>
+      <a href="https://www.researchgate.net/profile/Charalambos-Themistocleous" target="_blank" rel="noopener" class="acad-btn acad-btn-outline" style="background: rgba(255,255,255,0.12); color: #fff !important; border-color: rgba(255,255,255,0.3);"><i class="ai ai-researchgate"></i> ResearchGate</a>
+      <a href="https://osf.io/rvxby" target="_blank" rel="noopener" class="acad-btn acad-btn-outline" style="background: rgba(255,255,255,0.12); color: #fff !important; border-color: rgba(255,255,255,0.3);"><i class="ai ai-osf"></i> OSF Preprints</a>
     </div>
-
-    <!-- JOURNAL ARTICLES -->
-    <h2 id="jo" class="pub-section-header">Journal Articles</h2>
-    
-    <div class="pub-year-header">2026</div>
-
-        <div class="pub-card">
-        <div class="pub-image">
-            <a href="https://doi.org/https://doi.org/10.1016/j.bandl.2026.105850" target="_blank">
-                <img src="/assets/img/img_papers/b_l.jpg" alt="Brain and Language">
-            </a>
-        </div>
-                <div class="pub-details">
-            <div class="pub-title">
-Stark, B. C., & Themistocleous, C. (2026). Normative clinical language data and task specific effects. Brain and Language, 283, 105850. https://doi.org/https://doi.org/10.1016/j.bandl.2026.105850 
   </div>
-            <div class="pub-links">
-                <a class="btn-small" href="https://doi.org/https://doi.org/10.1016/j.bandl.2026.105850" target="_blank">DOI / URL</a>
-                                <a class="btn-small" href="/assets/papers/BL.pdf" target="_blank">PDF</a>
-            </div>
+
+  <!-- NAVIGATION & FILTER CONTROLS -->
+  <div class="pub-controls">
+    <div class="pub-nav-pills">
+      <a href="#jo"><i class="fa-regular fa-newspaper"></i> Journal Articles</a>
+      <a href="#bo"><i class="fa-solid fa-book"></i> Books &amp; Volumes</a>
+      <a href="#ch"><i class="fa-regular fa-bookmark"></i> Book Chapters</a>
+      <a href="#pr"><i class="fa-solid fa-layer-group"></i> Edited Proceedings</a>
+      <a href="#co"><i class="fa-solid fa-users-rectangle"></i> Conference Papers</a>
+      <a href="#on"><i class="fa-solid fa-file-lines"></i> Manuscripts &amp; Theses</a>
+    </div>
+    <div class="pub-search-box">
+      <i class="fa-solid fa-magnifying-glass"></i>
+      <input type="text" id="pubSearchInput" class="pub-search-input" placeholder="Filter by keyword, author, journal, year..." aria-label="Filter publications">
+    </div>
+  </div>
+
+  <!-- =====================================================================
+       1. JOURNAL ARTICLES & PREPRINTS
+       ===================================================================== -->
+  <h2 id="jo" class="acad-section-title"><i class="fa-regular fa-newspaper"></i> Peer-Reviewed Journal Articles &amp; Preprints</h2>
+
+  <div class="pub-year-group">
+    <div class="pub-year-badge">2026</div>
+
+    <div class="pub-card searchable-pub">
+      <div class="pub-image">
+        <a href="https://doi.org/10.1016/j.bandl.2026.105850" target="_blank" rel="noopener">
+          <img src="/assets/img/img_papers/b_l.jpg" alt="Brain and Language">
+        </a>
+      </div>
+      <div class="pub-details">
+        <div class="pub-citation">
+          Stark, B. C., &amp; <strong>Themistocleous, C.</strong> (2026). Normative clinical language data and task specific effects. <em>Brain and Language</em>, 283, 105850.
         </div>
-    </div>        
-
-
-
-
-    <div class="pub-card">
-        <div class="pub-image">
-            <a href="https://www.tandfonline.com/doi/full/10.1080/02699206.2026.2704602" target="_blank">
-                <img src="/assets/img/img_papers/clp.jpeg" alt="Clinical Linguistics & Phonetics">
-            </a>
+        <div class="pub-links">
+          <a class="btn-pub" href="https://doi.org/10.1016/j.bandl.2026.105850" target="_blank" rel="noopener"><i class="fa-solid fa-link"></i> DOI / URL</a>
+          <a class="btn-pub" href="/assets/papers/BL.pdf" target="_blank" rel="noopener"><i class="fa-regular fa-file-pdf"></i> PDF</a>
         </div>
-        <div class="pub-details">
-            <div class="pub-title">
-               Sundström,  S.  & <strong>Themistocleous, C.</strong> (2026). A whole-word computational algorithm for phonological error scoring: Differentiating children with developmental language disorder, hearing impairment, and typical development. <em>Clinical Linguistics & Phonetics</em>, 1–16.
-            </div>
-            <div class="pub-links">
-                <a class="btn-small" href="https://www.tandfonline.com/doi/full/10.1080/02699206.2026.2704602" target="_blank">DOI / URL</a>
-
-            </div>
-        </div>
+      </div>
     </div>
 
-
-    <div class="pub-card">
-        <div class="pub-image">
-            <a href="https://doi.org/10.1038/s41598-025-34257-z" target="_blank">
-                <img src="/assets/img/img_papers/SR.jpeg" alt="Scientific Reports">
-            </a>
+    <div class="pub-card searchable-pub">
+      <div class="pub-image">
+        <a href="https://www.tandfonline.com/doi/full/10.1080/02699206.2026.2704602" target="_blank" rel="noopener">
+          <img src="/assets/img/img_papers/clp.jpeg" alt="Clinical Linguistics & Phonetics">
+        </a>
+      </div>
+      <div class="pub-details">
+        <div class="pub-citation">
+          Sundström, S., &amp; <strong>Themistocleous, C.</strong> (2026). A whole-word computational algorithm for phonological error scoring: Differentiating children with developmental language disorder, hearing impairment, and typical development. <em>Clinical Linguistics &amp; Phonetics</em>, 1–16.
         </div>
-        <div class="pub-details">
-            <div class="pub-title">
-                <strong>Themistocleous, C.,</strong> & Stark B. (2026). Language biomarker screening using AI: a transdiagnostic approach to the brain. <em>Scientific Reports</em>, 16, 4207.
-            </div>
-            <div class="pub-links">
-                <a class="btn-small" href="https://doi.org/10.1038/s41598-025-34257-z" target="_blank">DOI / URL</a>
-            </div>
+        <div class="pub-links">
+          <a class="btn-pub" href="https://www.tandfonline.com/doi/full/10.1080/02699206.2026.2704602" target="_blank" rel="noopener"><i class="fa-solid fa-link"></i> DOI / URL</a>
         </div>
+      </div>
     </div>
 
-    <div class="pub-card">
-        <div class="pub-image">
-            <a href="https://doi.org/10.1016/j.reia.2025.202771" target="_blank">
-                <img src="/assets/img/img_papers/RA.jpg" alt="Research in Autism">
-            </a>
+    <div class="pub-card searchable-pub">
+      <div class="pub-image">
+        <a href="https://doi.org/10.1038/s41598-025-34257-z" target="_blank" rel="noopener">
+          <img src="/assets/img/img_papers/SR.jpeg" alt="Scientific Reports">
+        </a>
+      </div>
+      <div class="pub-details">
+        <div class="pub-citation">
+          <strong>Themistocleous, C.</strong>, &amp; Stark, B. C. (2026). Language biomarker screening using AI: a transdiagnostic approach to the brain. <em>Scientific Reports</em>, 16, 4207.
         </div>
-        <div class="pub-details">
-            <div class="pub-title">
-                Andreou, M., <strong>Themistocleous, C.,</strong> & Peristeri, E. (2026). Integrating artificial intelligence and natural language processing to investigate lexical errors in autistic preschoolers. <em>Research in Autism</em>, 130, 202771.
-            </div>
-            <div class="pub-links">
-                <a class="btn-small" href="https://doi.org/10.1016/j.reia.2025.202771" target="_blank">DOI / URL</a>
-            </div>
+        <div class="pub-links">
+          <a class="btn-pub" href="https://doi.org/10.1038/s41598-025-34257-z" target="_blank" rel="noopener"><i class="fa-solid fa-link"></i> DOI / URL</a>
         </div>
+      </div>
     </div>
 
-    <div class="pub-year-header">2025</div>
+    <div class="pub-card searchable-pub">
+      <div class="pub-image">
+        <a href="https://doi.org/10.1016/j.reia.2025.202771" target="_blank" rel="noopener">
+          <img src="/assets/img/img_papers/RA.jpg" alt="Research in Autism">
+        </a>
+      </div>
+      <div class="pub-details">
+        <div class="pub-citation">
+          Andreou, M., <strong>Themistocleous, C.</strong>, &amp; Peristeri, E. (2026). Integrating artificial intelligence and natural language processing to investigate lexical errors in autistic preschoolers. <em>Research in Autism</em>, 130, 202771.
+        </div>
+        <div class="pub-links">
+          <a class="btn-pub" href="https://doi.org/10.1016/j.reia.2025.202771" target="_blank" rel="noopener"><i class="fa-solid fa-link"></i> DOI / URL</a>
+        </div>
+      </div>
+    </div>
+  </div>
 
-    <div class="pub-card">
-        <div class="pub-image">
-            <a href="https://doi.org/10.1177/13872877251376381" target="_blank">
-                <img src="/assets/img/img_papers/JAD.jpg" alt="JAD">
-            </a>
+  <div class="pub-year-group">
+    <div class="pub-year-badge">2025</div>
+
+    <div class="pub-card searchable-pub">
+      <div class="pub-image">
+        <a href="https://doi.org/10.1016/j.neubiorev.2025.106210" target="_blank" rel="noopener">
+          <img src="/assets/img/img_papers/NBR.jpg" alt="Neuroscience & Biobehavioral Reviews">
+        </a>
+      </div>
+      <div class="pub-details">
+        <div class="pub-citation">
+          <strong>Themistocleous, C.</strong> (2025). Linguistic and Emotional Prosody: A Systematic Review and ALE Meta-Analysis. <em>Neuroscience &amp; Biobehavioral Reviews</em>, 106210.
         </div>
-        <div class="pub-details">
-            <div class="pub-title">
-                Tippett, D. C., Surrao, K., Neophytou, K., Kim, H., Gallegos, J., <strong>Themistocleous, C.,</strong> Rapp, B., Hillis, A. E., & Tsapkini, K. (2025). Written picture descriptions distinguish variants of primary progressive aphasia. <em>Journal of Alzheimer’s Disease</em>.
-            </div>
-            <div class="pub-links">
-                <a class="btn-small" href="https://doi.org/10.1177/13872877251376381" target="_blank">DOI / URL</a>
-            </div>
+        <div class="pub-links">
+          <a class="btn-pub" href="https://doi.org/10.1016/j.neubiorev.2025.106210" target="_blank" rel="noopener"><i class="fa-solid fa-link"></i> DOI / URL</a>
         </div>
+      </div>
     </div>
 
-    <div class="pub-card">
-        <div class="pub-image">
-            <a href="https://www.sciencedirect.com/science/article/pii/S0149763425002106" target="_blank">
-                <img src="/assets/img/img_papers/NBR.jpg" alt="NBR">
-            </a>
+    <div class="pub-card searchable-pub">
+      <div class="pub-image">
+        <a href="https://doi.org/10.1177/13872877251376381" target="_blank" rel="noopener">
+          <img src="/assets/img/img_papers/JAD.jpg" alt="Journal of Alzheimer's Disease">
+        </a>
+      </div>
+      <div class="pub-details">
+        <div class="pub-citation">
+          Tippett, D. C., Surrao, K., Neophytou, K., Kim, H., Gallegos, J., <strong>Themistocleous, C.</strong>, Rapp, B., Hillis, A. E., &amp; Tsapkini, K. (2025). Written picture descriptions distinguish variants of primary progressive aphasia. <em>Journal of Alzheimer’s Disease</em>.
         </div>
-        <div class="pub-details">
-            <div class="pub-title">
-                <strong>Themistocleous C.</strong> (2025). Linguistic and Emotional Prosody: A Systematic Review and ALE Meta-Analysis. <em>Neuroscience & Biobehavioral Reviews</em>, 106210.
-            </div>
-            <div class="pub-links">
-                <a class="btn-small" href="https://www.sciencedirect.com/science/article/pii/S0149763425002106" target="_blank">DOI / URL</a>
-            </div>
+        <div class="pub-links">
+          <a class="btn-pub" href="https://doi.org/10.1177/13872877251376381" target="_blank" rel="noopener"><i class="fa-solid fa-link"></i> DOI / URL</a>
         </div>
+      </div>
     </div>
 
-    <div class="pub-year-header">2024</div>
+  <div class="pub-year-group">
+    <div class="pub-year-badge">2024</div>
 
-    <div class="pub-card">
-        <div class="pub-image">
-            <a href="https://doi.org/10.3389/fnhum.2024.1421435" target="_blank">
-                <img src="/assets/img/img_papers/fhn2024.png" alt="Frontiers">
-            </a>
+    <div class="pub-card searchable-pub">
+      <div class="pub-image">
+        <a href="https://doi.org/10.3389/fnhum.2024.1421435" target="_blank" rel="noopener">
+          <img src="/assets/img/img_papers/fhn2024.png" alt="Frontiers in Human Neuroscience">
+        </a>
+      </div>
+      <div class="pub-details">
+        <div class="pub-citation">
+          <strong>Themistocleous, C.</strong> (2024). Open Brain AI and language assessment. <em>Frontiers in Human Neuroscience</em>, 18, 1421435.
         </div>
-        <div class="pub-details">
-            <div class="pub-title">
-                <strong>Themistocleous C.</strong> (2024). Open Brain AI and language assessment. <em>Frontiers in Human Neuroscience</em>, 18.
-            </div>
-            <div class="pub-links">
-                <a class="btn-small" href="https://doi.org/10.3389/fnhum.2024.1421435" target="_blank">DOI / URL</a>
-            </div>
+        <div class="pub-links">
+          <a class="btn-pub" href="https://doi.org/10.3389/fnhum.2024.1421435" target="_blank" rel="noopener"><i class="fa-solid fa-link"></i> DOI / URL</a>
         </div>
+      </div>
     </div>
 
-    <div class="pub-card">
-        <div class="pub-image">
-            <a href="https://www.mdpi.com/2076-3425/14/7/652" target="_blank">
-                <img src="/assets/img/img_papers/bs2024.png" alt="Brain Sciences">
-            </a>
+    <div class="pub-card searchable-pub">
+      <div class="pub-image">
+        <a href="https://www.mdpi.com/2076-3425/14/7/652" target="_blank" rel="noopener">
+          <img src="/assets/img/img_papers/bs2024.png" alt="Brain Sciences">
+        </a>
+      </div>
+      <div class="pub-details">
+        <div class="pub-citation">
+          Kim, H., Hillis, A. E., &amp; <strong>Themistocleous, C.</strong> (2024). Machine Learning Classification of Patients with Amnestic Mild Cognitive Impairment and Non-Amnestic Mild Cognitive Impairment from Written Picture Description Tasks. <em>Brain Sciences</em>, 14(7), 652.
         </div>
-        <div class="pub-details">
-            <div class="pub-title">
-                Kim, H., Hillis, A. E., <strong>Themistocleous C.</strong> (2024). Machine Learning Classification of Patients with Amnestic Mild Cognitive Impairment and Non-Amnestic Mild Cognitive Impairment from Written Picture Description Tasks. <em>Brain Sciences</em>, 14, 652.
-            </div>
-            <div class="pub-links">
-                <a class="btn-small" href="https://www.mdpi.com/2076-3425/14/7/652" target="_blank">DOI / URL</a>
-            </div>
+        <div class="pub-links">
+          <a class="btn-pub" href="https://www.mdpi.com/2076-3425/14/7/652" target="_blank" rel="noopener"><i class="fa-solid fa-link"></i> DOI / URL</a>
         </div>
+      </div>
     </div>
 
-    <div class="pub-card">
-        <div class="pub-image">
-            <a href="https://www.mdpi.com/2076-328X/14/6/459/pdf?version=1716991581" target="_blank">
-                <img src="/assets/img/img_papers/mdbibs2024.png" alt="Behavioral Sciences">
-            </a>
+    <div class="pub-card searchable-pub">
+      <div class="pub-image">
+        <a href="https://doi.org/10.3390/bs14060459" target="_blank" rel="noopener">
+          <img src="/assets/img/img_papers/mdbibs2024.png" alt="Behavioral Sciences">
+        </a>
+      </div>
+      <div class="pub-details">
+        <div class="pub-citation">
+          <strong>Themistocleous, C.</strong>, Andreou, M., &amp; Peristeri, E. (2024). Autism Detection in Children: Integrating Machine Learning and Natural Language Processing in Narrative Analysis. <em>Behavioral Sciences</em>, 14(6), 459–475.
         </div>
-        <div class="pub-details">
-            <div class="pub-title">
-                <strong>Themistocleous C.</strong>, Andreou, M., & Peristeri, E. (2024). Autism Detection in Children: Integrating Machine Learning and Natural Language Processing in Narrative Analysis. <em>Behavioral Sciences</em>, 14(6).
-            </div>
-            <div class="pub-links">
-                <a class="btn-small" href="https://www.mdpi.com/2076-328X/14/6/459/pdf?version=1716991581" target="_blank">DOI / URL</a>
-            </div>
+        <div class="pub-links">
+          <a class="btn-pub" href="https://doi.org/10.3390/bs14060459" target="_blank" rel="noopener"><i class="fa-solid fa-link"></i> DOI / URL</a>
         </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="pub-year-group">
+    <div class="pub-year-badge">2023</div>
+
+    <div class="pub-card searchable-pub">
+      <div class="pub-image">
+        <a href="https://doi.org/10.1080/02687038.2022.2039372" target="_blank" rel="noopener">
+          <img src="/assets/img/img_papers/aphasiology2022.png" alt="Aphasiology">
+        </a>
+      </div>
+      <div class="pub-details">
+        <div class="pub-citation">
+          Stark, B. C., Bryant, L., <strong>Themistocleous, C.</strong>, den Ouden, D.-B., &amp; Roberts, A. C. (2023). Best practice guidelines for reporting spoken discourse in aphasia and neurogenic communication disorders. <em>Aphasiology</em>, 37(5), 761–784.
+        </div>
+        <div class="pub-links">
+          <a class="btn-pub" href="https://doi.org/10.1080/02687038.2022.2039372" target="_blank" rel="noopener"><i class="fa-solid fa-link"></i> DOI / URL</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="pub-year-group">
+    <div class="pub-year-badge">2022</div>
+
+    <div class="pub-card searchable-pub">
+      <div class="pub-image">
+        <a href="https://doi.org/10.3389/fneur.2022.698200" target="_blank" rel="noopener">
+          <img src="/assets/img/img_papers/Frontiers2022.png" alt="Frontiers in Neurology">
+        </a>
+      </div>
+      <div class="pub-details">
+        <div class="pub-citation">
+          Afthinos, A., <strong>Themistocleous, C.</strong>, Herrmann, O., Fan, H., Lu, H., &amp; Tsapkini, K. (2022). The Contribution of Working Memory Areas to Verbal Learning and Recall in Primary Progressive Aphasia. <em>Frontiers in Neurology</em>, 13, 698200.
+        </div>
+        <div class="pub-links">
+          <a class="btn-pub" href="https://doi.org/10.3389/fneur.2022.698200" target="_blank" rel="noopener"><i class="fa-solid fa-link"></i> DOI / URL</a>
+        </div>
+      </div>
     </div>
 
-    <div class="pub-year-header">2023</div>
+    <div class="pub-card searchable-pub">
+      <div class="pub-image">
+        <a href="https://doi.org/10.1016/j.specom.2022.06.002" target="_blank" rel="noopener">
+          <img src="/assets/img/img_papers/sc_2022.png" alt="Speech Communication">
+        </a>
+      </div>
+      <div class="pub-details">
+        <div class="pub-citation">
+          <strong>Themistocleous, C.</strong>, Fyndanis, V., &amp; Tsapkini, K. (2022). Sonorant spectra and coarticulation distinguish speakers with different dialects. <em>Speech Communication</em>, 142, 1–14.
+        </div>
+        <div class="pub-links">
+          <a class="btn-pub" href="https://doi.org/10.1016/j.specom.2022.06.002" target="_blank" rel="noopener"><i class="fa-solid fa-link"></i> DOI / URL</a>
+          <a class="btn-pub" href="https://arxiv.org/abs/2110.03756" target="_blank" rel="noopener"><i class="ai ai-arxiv"></i> arXiv</a>
+        </div>
+      </div>
+    </div>
+  </div>
 
-    <div class="pub-card">
-        <div class="pub-image">
-            <a href="https://doi.org/10.1080/02687038.2022.2039372" target="_blank">
-                <img src="/assets/img/img_papers/aphasiology2022.png" alt="Aphasiology">
-            </a>
+  <div class="pub-year-group">
+    <div class="pub-year-badge">2021</div>
+
+    <div class="pub-card searchable-pub">
+      <div class="pub-image">
+        <a href="https://doi.org/10.3390/brainsci11030335" target="_blank" rel="noopener">
+          <img src="/assets/img/img_papers/brainsciences2021.png" alt="Brain Sciences">
+        </a>
+      </div>
+      <div class="pub-details">
+        <div class="pub-citation">
+          <strong>Themistocleous, C.</strong>, Webster, K., &amp; Tsapkini, K. (2021). Effects of tDCS on Sound Duration in Patients with Apraxia of Speech in Primary Progressive Aphasia. <em>Brain Sciences</em>, 11(3), 335.
         </div>
-        <div class="pub-details">
-            <div class="pub-title">
-                Stark, B. C., Bryant, L., <strong>Themistocleous C.</strong>, den Ouden, D. B., & Roberts, A. C. (2022). Best practice guidelines for reporting spoken discourse in aphasia and neurogenic communication disorders. <em>Aphasiology</em>, 1-24.
-            </div>
-            <div class="pub-links">
-                <a class="btn-small" href="https://doi.org/10.1080/02687038.2022.2039372" target="_blank">DOI / URL</a>
-            </div>
+        <div class="pub-links">
+          <a class="btn-pub" href="https://doi.org/10.3390/brainsci11030335" target="_blank" rel="noopener"><i class="fa-solid fa-link"></i> DOI / URL</a>
+          <a class="btn-pub" href="/assets/papers/brainsci-11-00335.pdf" target="_blank" rel="noopener"><i class="fa-regular fa-file-pdf"></i> PDF</a>
         </div>
+      </div>
     </div>
 
-    <div class="pub-year-header">2022</div>
+    <div class="pub-card searchable-pub">
+      <div class="pub-image">
+        <a href="https://doi.org/10.3233/JAD-201101" target="_blank" rel="noopener">
+          <img src="/assets/img/img_papers/JAD2021.png" alt="Journal of Alzheimer's Disease">
+        </a>
+      </div>
+      <div class="pub-details">
+        <div class="pub-citation">
+          <strong>Themistocleous, C.</strong>, Ficek, B., Webster, K., den Ouden, D.-B., Hillis, A. E., &amp; Tsapkini, K. (2021). Automatic subtyping of individuals with Primary Progressive Aphasia. <em>Journal of Alzheimer’s Disease</em>, 79(3), 1185–1194.
+        </div>
+        <div class="pub-links">
+          <a class="btn-pub" href="https://doi.org/10.3233/JAD-201101" target="_blank" rel="noopener"><i class="fa-solid fa-link"></i> DOI / URL</a>
+          <a class="btn-pub" href="https://github.com/themistocleous/JAD_paper" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i> Code</a>
+        </div>
+      </div>
+    </div>
+  </div>
 
-    <div class="pub-card">
-        <div class="pub-image">
-            <a href="https://doi.org/10.3389/fneur.2022.698200" target="_blank">
-                <img src="/assets/img/img_papers/Frontiers2022.png" alt="Frontiers">
-            </a>
+  <div class="pub-year-group">
+    <div class="pub-year-badge">2020</div>
+
+    <div class="pub-card searchable-pub">
+      <div class="pub-image">
+        <a href="https://doi.org/10.1044/2020_AJSLP-19-00114" target="_blank" rel="noopener">
+          <img src="/assets/img/img_papers/AJSLP2020.png" alt="AJSLP">
+        </a>
+      </div>
+      <div class="pub-details">
+        <div class="pub-citation">
+          <strong>Themistocleous, C.</strong>, Webster, K., Afthinos, A., &amp; Tsapkini, K. (2020). Part of Speech Production in Patients With Primary Progressive Aphasia: An Analysis Based on Natural Language Processing. <em>American Journal of Speech-Language Pathology</em>, 29(4), 1–15.
         </div>
-        <div class="pub-details">
-            <div class="pub-title">
-                Afthinos, A., <strong>Themistocleous C.</strong>, Herrmann, O., Fan, H., Lu, H., & Tsapkini, K. (2022). The Contribution of Working Memory Areas to Verbal Learning and Recall in Primary Progressive Aphasia. <em>Frontiers in Neurology</em>, 13.
-            </div>
-            <div class="pub-links">
-                <a class="btn-small" href="https://doi.org/10.3389/fneur.2022.698200" target="_blank">DOI / URL</a>
-            </div>
+        <div class="pub-links">
+          <a class="btn-pub" href="https://doi.org/10.1044/2020_AJSLP-19-00114" target="_blank" rel="noopener"><i class="fa-solid fa-link"></i> DOI / URL</a>
         </div>
+      </div>
     </div>
 
-    <div class="pub-card">
-        <div class="pub-image">
-            <a href="https://doi.org/10.1016/j.specom.2022.06.002" target="_blank">
-                <img src="/assets/img/img_papers/sc_2022.png" alt="Speech Comm">
-            </a>
+    <div class="pub-card searchable-pub">
+      <div class="pub-image">
+        <a href="https://doi.org/10.1044/2020_JSLHR-20-00177" target="_blank" rel="noopener">
+          <img src="/assets/img/img_papers/JSLHR-20-00177.png" alt="JSLHR">
+        </a>
+      </div>
+      <div class="pub-details">
+        <div class="pub-citation">
+          <strong>Themistocleous, C.</strong>, Neophytou, K., Rapp, B., &amp; Tsapkini, K. (2020). Automatic metrics of spelling errors on words and non-words. <em>Journal of Speech, Language, and Hearing Research</em>, 63(12), 4066–4074.
         </div>
-        <div class="pub-details">
-            <div class="pub-title">
-                <strong>Themistocleous C.</strong>, Fyndanis, V., & Tsapkini, K. (2022). Sonorant spectra and coarticulation distinguish speakers with different dialects. <em>Speech Communication</em>.
-            </div>
-            <div class="pub-links">
-                <a class="btn-small" href="https://doi.org/10.1016/j.specom.2022.06.002" target="_blank">DOI / URL</a>
-            </div>
+        <div class="pub-links">
+          <a class="btn-pub" href="https://doi.org/10.1044/2020_JSLHR-20-00177" target="_blank" rel="noopener"><i class="fa-solid fa-link"></i> DOI / URL</a>
+          <a class="btn-pub" href="/assets/papers/2020_JSLHR-20-00177.pdf" target="_blank" rel="noopener"><i class="fa-regular fa-file-pdf"></i> PDF</a>
+          <a class="btn-pub" href="https://github.com/themistocleous/spelling_assesment_app" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i> Code</a>
         </div>
+      </div>
     </div>
 
-    <div class="pub-year-header">2021</div>
-
-    <div class="pub-card">
-        <div class="pub-image">
-            <a href="https://www.mdpi.com/2076-3425/11/3/335" target="_blank">
-                <img src="/assets/img/img_papers/brainsciences2021.png" alt="Brain Sci">
-            </a>
+    <div class="pub-card searchable-pub">
+      <div class="pub-image">
+        <a href="https://doi.org/10.1371/journal.pone.0236009" target="_blank" rel="noopener">
+          <img src="/assets/img/img_papers/2020plos.png" alt="PLOS ONE">
+        </a>
+      </div>
+      <div class="pub-details">
+        <div class="pub-citation">
+          <strong>Themistocleous, C.</strong>, Eckerström, M., &amp; Kokkinakis, D. (2020). Voice quality and speech fluency distinguish individuals with Mild Cognitive Impairment from Healthy Controls. <em>PLOS ONE</em>, 15(7), e0236009.
         </div>
-        <div class="pub-details">
-            <div class="pub-title">
-                <strong>Themistocleous C.</strong>, Webster Kimberly, Tsapkini, Kyrana (2021). Effects of tDCS on Sound Duration in Patients with Apraxia of Speech in Primary Progressive Aphasia. <em>Brain Sciences</em>, 11(3).
-            </div>
-            <div class="pub-links">
-                <a class="btn-small" href="https://www.mdpi.com/2076-3425/11/3/335" target="_blank">DOI / URL</a>
-            </div>
+        <div class="pub-links">
+          <a class="btn-pub" href="https://doi.org/10.1371/journal.pone.0236009" target="_blank" rel="noopener"><i class="fa-solid fa-link"></i> DOI / URL</a>
         </div>
+      </div>
     </div>
 
-    <div class="pub-card">
-        <div class="pub-image">
-            <a href="https://doi.org/10.3233/JAD-201101" target="_blank">
-                <img src="/assets/img/img_papers/JAD2021.png" alt="JAD">
-            </a>
+    <div class="pub-card searchable-pub">
+      <div class="pub-image">
+        <a href="https://doi.org/10.1044/2020_AJSLP-19-00093" target="_blank" rel="noopener">
+          <img src="/assets/img/img_papers/AJSHRBrielle2020.png" alt="AJSLP">
+        </a>
+      </div>
+      <div class="pub-details">
+        <div class="pub-citation">
+          Stark, B. C., Dutta, M., Murray, L. L., Bryant, L., Fromm, D., MacWhinney, B., Ramage, A. E., Roberts, A., den Ouden, D.-B., Brock, K., McKinney-Bock, K., Paek, E. J., Harmon, T. G., <strong>Themistocleous, C.</strong>, Yoo, H., Aveni, K., Gutierrez, S., &amp; Sharma, S. (2020). Standardizing assessment of spoken discourse in aphasia: A working group with deliverables. <em>American Journal of Speech-Language Pathology</em>, 29(3), 1–12.
         </div>
-        <div class="pub-details">
-            <div class="pub-title">
-                <strong>Themistocleous C.</strong>, Ficek B., Webster K., den Ouden D.B., Hillis A.E., Tsapkini K. (2021). Automatic subtyping of individuals with Primary Progressive Aphasia. <em>Journal of Alzheimer’s Disease</em>.
-            </div>
-            <div class="pub-links">
-                <a class="btn-small" href="https://doi.org/10.3233/JAD-201101" target="_blank">DOI / URL</a>
-            </div>
+        <div class="pub-links">
+          <a class="btn-pub" href="https://doi.org/10.1044/2020_AJSLP-19-00093" target="_blank" rel="noopener"><i class="fa-solid fa-link"></i> DOI / URL</a>
         </div>
+      </div>
     </div>
 
-    <div class="pub-year-header">2020</div>
+    <div class="pub-card searchable-pub">
+      <div class="pub-image">
+        <a href="https://doi.org/10.1177/1367006920945396" target="_blank" rel="noopener">
+          <img src="/assets/img/img_papers/IJB2020.png" alt="International Journal of Bilingualism">
+        </a>
+      </div>
+      <div class="pub-details">
+        <div class="pub-citation">
+          Georgiou, G. P., &amp; <strong>Themistocleous, C.</strong> (2020). Vowel learning in diglossic settings: Evidence from Arabic-Greek learners. <em>International Journal of Bilingualism</em>, 25(1), 135–150.
+        </div>
+        <div class="pub-links">
+          <a class="btn-pub" href="https://doi.org/10.1177/1367006920945396" target="_blank" rel="noopener"><i class="fa-solid fa-link"></i> DOI / URL</a>
+        </div>
+      </div>
+    </div>
+  </div>
 
-    <div class="pub-card">
-        <div class="pub-image">
-            <a href="https://doi.org/10.1044/2020_AJSLP-19-00114" target="_blank">
-                <img src="/assets/img/img_papers/AJSLP2020.png" alt="AJSLP">
-            </a>
+  <div class="pub-year-group">
+    <div class="pub-year-badge">2019</div>
+
+    <div class="pub-card searchable-pub">
+      <div class="pub-image">
+        <a href="https://doi.org/10.3389/fcomm.2019.00064" target="_blank" rel="noopener">
+          <img src="/assets/img/img_papers/frontiers_comm.png" alt="Frontiers in Communication">
+        </a>
+      </div>
+      <div class="pub-details">
+        <div class="pub-citation">
+          <strong>Themistocleous, C.</strong> (2019). Dialect Classification from a Single Sonorant Sound Using Deep Neural Networks. <em>Frontiers in Communication</em>, 4, 64.
         </div>
-        <div class="pub-details">
-            <div class="pub-title">
-                <strong>Themistocleous C.</strong>, Webster K., Afthinos A., & Tsapkini K. (2020). Part of Speech Production in Patients With Primary Progressive Aphasia: An Analysis Based on Natural Language Processing. <em>American Journal of Speech-Language Pathology</em>.
-            </div>
-            <div class="pub-links">
-                <a class="btn-small" href="https://doi.org/10.1044/2020_AJSLP-19-00114" target="_blank">DOI / URL</a>
-            </div>
+        <div class="pub-links">
+          <a class="btn-pub" href="https://doi.org/10.3389/fcomm.2019.00064" target="_blank" rel="noopener"><i class="fa-solid fa-link"></i> DOI / URL</a>
+          <a class="btn-pub" href="/assets/papers/frontiers_sonorants_2019.pdf" target="_blank" rel="noopener"><i class="fa-regular fa-file-pdf"></i> PDF</a>
         </div>
+      </div>
     </div>
 
-    <div class="pub-card">
-        <div class="pub-image">
-            <a href="https://pubs.asha.org/doi/full/10.1044/2020_JSLHR-20-00177" target="_blank">
-                <img src="/assets/img/img_papers/JSLHR-20-00177.png" alt="JSLHR">
-            </a>
+    <div class="pub-card searchable-pub">
+      <div class="pub-image">
+        <a href="https://doi.org/10.1080/02699206.2018.1480657" target="_blank" rel="noopener">
+          <img src="/assets/img/img_papers/clp.png" alt="Clinical Linguistics & Phonetics">
+        </a>
+      </div>
+      <div class="pub-details">
+        <div class="pub-citation">
+          Fyndanis, V., &amp; <strong>Themistocleous, C.</strong> (2019). Are there prototypical associations between time frames and aspectual values? Evidence from Greek aphasia and healthy ageing. <em>Clinical Linguistics &amp; Phonetics</em>, 33(1–2), 191–206.
         </div>
-        <div class="pub-details">
-            <div class="pub-title">
-                <strong>Themistocleous C.</strong>, Neophytou K., Rapp B., & Tsapkini K. (2020). A Tool for Automatic Scoring of Spelling Performance. <em>Journal of Speech, Language, and Hearing Research</em>.
-            </div>
-            <div class="pub-links">
-                <a class="btn-small" href="https://openbrainai.com/" target="_blank">View Code</a>
-            </div>
+        <div class="pub-links">
+          <a class="btn-pub" href="https://doi.org/10.1080/02699206.2018.1480657" target="_blank" rel="noopener"><i class="fa-solid fa-link"></i> DOI / URL</a>
+          <a class="btn-pub" href="/assets/papers/clp.pdf" target="_blank" rel="noopener"><i class="fa-regular fa-file-pdf"></i> PDF</a>
         </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="pub-year-group">
+    <div class="pub-year-badge">2018</div>
+
+    <div class="pub-card searchable-pub">
+      <div class="pub-image">
+        <a href="https://doi.org/10.3389/fneur.2018.00975" target="_blank" rel="noopener">
+          <img src="/assets/img/img_papers/fneuro.png" alt="Frontiers in Neurology">
+        </a>
+      </div>
+      <div class="pub-details">
+        <div class="pub-citation">
+          <strong>Themistocleous, C.</strong>, Eckerström, M., &amp; Kokkinakis, D. (2018). Identification of Mild Cognitive Impairment from Speech in Swedish using Deep Sequential Neural Networks. <em>Frontiers in Neurology</em>, 9, 975.
+        </div>
+        <div class="pub-links">
+          <a class="btn-pub" href="https://doi.org/10.3389/fneur.2018.00975" target="_blank" rel="noopener"><i class="fa-solid fa-link"></i> DOI / URL</a>
+          <a class="btn-pub" href="/assets/papers/fneuro.pdf" target="_blank" rel="noopener"><i class="fa-regular fa-file-pdf"></i> PDF</a>
+          <a class="btn-pub" href="https://github.com/themistocleous/nn_mci" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i> Code</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="pub-year-group">
+    <div class="pub-year-badge">2017</div>
+
+    <div class="pub-card searchable-pub">
+      <div class="pub-image">
+        <a href="https://doi.org/10.3389/fpsyg.2017.01945" target="_blank" rel="noopener">
+          <img src="/assets/img/img_papers/fpsychology.png" alt="Frontiers in Psychology">
+        </a>
+      </div>
+      <div class="pub-details">
+        <div class="pub-citation">
+          <strong>Themistocleous, C.</strong> (2017). Effects of two linguistically proximal varieties on the spectral and coarticulatory properties of fricatives: Evidence from Athenian Greek and Cypriot Greek. <em>Frontiers in Psychology</em>, 8, 1945.
+        </div>
+        <div class="pub-links">
+          <a class="btn-pub" href="https://doi.org/10.3389/fpsyg.2017.01945" target="_blank" rel="noopener"><i class="fa-solid fa-link"></i> DOI / URL</a>
+          <a class="btn-pub" href="/assets/papers/frontiers.pdf" target="_blank" rel="noopener"><i class="fa-regular fa-file-pdf"></i> PDF</a>
+        </div>
+      </div>
     </div>
 
-    <div class="pub-card">
-        <div class="pub-image">
-            <a href="https://doi.org/10.1371/journal.pone.0236009" target="_blank">
-                <img src="/assets/img/img_papers/2020plos.png" alt="PLOS ONE">
-            </a>
+    <div class="pub-card searchable-pub">
+      <div class="pub-image">
+        <a href="https://doi.org/10.1016/j.specom.2017.05.003" target="_blank" rel="noopener">
+          <img src="/assets/img/img_papers/dynamicsa.png" alt="Speech Communication">
+        </a>
+      </div>
+      <div class="pub-details">
+        <div class="pub-citation">
+          <strong>Themistocleous, C.</strong> (2017). Dialect classification using vowel acoustic parameters. <em>Speech Communication</em>, 92, 13–22.
         </div>
-        <div class="pub-details">
-            <div class="pub-title">
-                <strong>Themistocleous C.</strong>, Eckerström M., Kokkinakis D. (2020). Voice quality and speech fluency distinguish individuals with Mild Cognitive Impairment from Healthy Controls. <em>PLOS ONE</em> 5(7).
-            </div>
-            <div class="pub-links">
-                <a class="btn-small" href="https://doi.org/10.1371/journal.pone.0236009" target="_blank">DOI / URL</a>
-            </div>
+        <div class="pub-links">
+          <a class="btn-pub" href="https://doi.org/10.1016/j.specom.2017.05.003" target="_blank" rel="noopener"><i class="fa-solid fa-link"></i> DOI / URL</a>
+          <a class="btn-pub" href="/assets/papers/sc.pdf" target="_blank" rel="noopener"><i class="fa-regular fa-file-pdf"></i> PDF</a>
         </div>
+      </div>
     </div>
 
-    <div class="pub-card">
-        <div class="pub-image">
-            <a href="https://doi.org/10.1044/2020_AJSLP-19-00093" target="_blank">
-                <img src="/assets/img/img_papers/AJSHRBrielle2020.png" alt="AJSLP">
-            </a>
+    <div class="pub-card searchable-pub">
+      <div class="pub-image">
+        <a href="https://doi.org/10.1159/000450554" target="_blank" rel="noopener">
+          <img src="/assets/img/img_papers/gradience.png" alt="Phonetica">
+        </a>
+      </div>
+      <div class="pub-details">
+        <div class="pub-citation">
+          <strong>Themistocleous, C.</strong> (2017). The Nature of Phonetic Gradience across a Dialect Continuum: Evidence from Modern Greek Vowels. <em>Phonetica</em>, 74(3), 157–172.
         </div>
-        <div class="pub-details">
-            <div class="pub-title">
-                Stark B.C., ... <strong>Themistocleous C.</strong> ... & Sharma, S. Standardizing Assessment of Spoken Discourse in Aphasia: A Working Group With Deliverables. <em>American Journal of Speech-Language Pathology</em>.
-            </div>
-            <div class="pub-links">
-                <a class="btn-small" href="https://doi.org/10.1044/2020_AJSLP-19-00093" target="_blank">DOI / URL</a>
-            </div>
+        <div class="pub-links">
+          <a class="btn-pub" href="https://doi.org/10.1159/000450554" target="_blank" rel="noopener"><i class="fa-solid fa-link"></i> DOI / URL</a>
+          <a class="btn-pub" href="/assets/papers/phonetica2017.pdf" target="_blank" rel="noopener"><i class="fa-regular fa-file-pdf"></i> PDF</a>
         </div>
+      </div>
     </div>
 
-    <div class="pub-card">
-        <div class="pub-image">
-            <a href="https://doi.org/10.1177/1367006920945396" target="_blank">
-                <img src="/assets/img/img_papers/IJB2020.png" alt="IJB">
-            </a>
+    <div class="pub-card searchable-pub">
+      <div class="pub-image">
+        <a href="https://doi.org/10.3389/fcomm.2017.00005" target="_blank" rel="noopener">
+          <img src="/assets/img/img_papers/grohmann.png" alt="Frontiers in Communication">
+        </a>
+      </div>
+      <div class="pub-details">
+        <div class="pub-citation">
+          Grohmann, K. K., Papadopoulou, E., &amp; <strong>Themistocleous, C.</strong> (2017). Acquiring Clitic Placement in Bilectal Settings: Interactions between Social Factors. <em>Frontiers in Communication</em>, 2, 5.
         </div>
-        <div class="pub-details">
-            <div class="pub-title">
-                Georgiou, G.P., and <strong>Themistocleous C.</strong> (2020). Vowel learning in diglossic settings: Evidence from Arabic-Greek learners. <em>International Journal of Bilingualism</em>.
-            </div>
-            <div class="pub-links">
-                <a class="btn-small" href="https://doi.org/10.1177/1367006920945396" target="_blank">DOI / URL</a>
-            </div>
+        <div class="pub-links">
+          <a class="btn-pub" href="https://doi.org/10.3389/fcomm.2017.00005" target="_blank" rel="noopener"><i class="fa-solid fa-link"></i> DOI / URL</a>
+          <a class="btn-pub" href="/assets/papers/fcomm.pdf" target="_blank" rel="noopener"><i class="fa-regular fa-file-pdf"></i> PDF</a>
         </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="pub-year-group">
+    <div class="pub-year-badge">2016</div>
+
+    <div class="pub-card searchable-pub">
+      <div class="pub-image">
+        <a href="https://doi.org/10.1177/0023830915614602" target="_blank" rel="noopener">
+          <img src="/assets/img/img_papers/anchoragea.png" alt="Language and Speech">
+        </a>
+      </div>
+      <div class="pub-details">
+        <div class="pub-citation">
+          <strong>Themistocleous, C.</strong> (2016). Seeking an anchorage: Evidence from the tonal alignment of the Cypriot Greek prenuclear pitch accent. <em>Language and Speech</em>, 59(4), 433–461.
+        </div>
+        <div class="pub-links">
+          <a class="btn-pub" href="https://doi.org/10.1177/0023830915614602" target="_blank" rel="noopener"><i class="fa-solid fa-link"></i> DOI / URL</a>
+          <a class="btn-pub" href="/assets/papers/anchorage.pdf" target="_blank" rel="noopener"><i class="fa-regular fa-file-pdf"></i> PDF</a>
+        </div>
+      </div>
     </div>
 
-    <div class="pub-year-header">2019</div>
-
-    <div class="pub-card">
-        <div class="pub-image">
-            <a href="https://doi.org/10.3389/fcomm.2019.00064" target="_blank">
-                <img src="/assets/img/img_papers/frontiers_comm.png" alt="Frontiers">
-            </a>
+    <div class="pub-card searchable-pub">
+      <div class="pub-image">
+        <a href="https://doi.org/10.1121/1.4964818" target="_blank" rel="noopener">
+          <img src="/assets/img/img_papers/bursts.png" alt="JASA Express Letters">
+        </a>
+      </div>
+      <div class="pub-details">
+        <div class="pub-citation">
+          <strong>Themistocleous, C.</strong> (2016). The bursts of stops can convey dialectal information. <em>Journal of the Acoustical Society of America Express Letters</em>, 140(4), EL334–EL340.
         </div>
-        <div class="pub-details">
-            <div class="pub-title">
-                <strong>Themistocleous C.</strong> (2019). Dialect Classification from a Single Sonorant Sound Using Deep Neural Networks. <em>Frontiers in Communication</em>.
-            </div>
-            <div class="pub-links">
-                <a class="btn-small" href="https://doi.org/10.3389/fcomm.2019.00064" target="_blank">DOI / URL</a>
-                <a class="btn-small" href="/assets/papers/frontiers_sonorants_2019.pdf" target="_blank">PDF</a>
-            </div>
+        <div class="pub-links">
+          <a class="btn-pub" href="https://doi.org/10.1121/1.4964818" target="_blank" rel="noopener"><i class="fa-solid fa-link"></i> DOI / URL</a>
+          <a class="btn-pub" href="/assets/papers/bursts.pdf" target="_blank" rel="noopener"><i class="fa-regular fa-file-pdf"></i> PDF</a>
         </div>
+      </div>
     </div>
+  </div>
 
-    <div class="pub-card">
-        <div class="pub-image">
-            <a href="https://www.tandfonline.com/doi/abs/10.1080/02699206.2018.1480657" target="_blank">
-                <img src="/assets/img/img_papers/clp.png" alt="CLP">
-            </a>
+  <div class="pub-year-group">
+    <div class="pub-year-badge">2014</div>
+
+    <div class="pub-card searchable-pub">
+      <div class="pub-image">
+        <a href="https://doi.org/10.1075/lv.14.1.06the" target="_blank" rel="noopener">
+          <img src="/assets/img/img_papers/edge.png" alt="Linguistic Variation">
+        </a>
+      </div>
+      <div class="pub-details">
+        <div class="pub-citation">
+          <strong>Themistocleous, C.</strong> (2014). Edge-Tone Effects and Prosodic Domain Effects on Final Lengthening. <em>Linguistic Variation</em>, 14(1), 129–160.
         </div>
-        <div class="pub-details">
-            <div class="pub-title">
-                Fyndanis V. and <strong>Themistocleous C.</strong> (2019). Are there prototypical associations between time frames and aspectual values? Evidence from Greek aphasia and healthy ageing. <em>Clinical Linguistics & Phonetics</em>.
-            </div>
-            <div class="pub-links">
-                <a class="btn-small" href="https://www.tandfonline.com/doi/abs/10.1080/02699206.2018.1480657" target="_blank">DOI / URL</a>
-                <a class="btn-small" href="/assets/papers/clp.pdf" target="_blank">PDF</a>
-            </div>
+        <div class="pub-links">
+          <a class="btn-pub" href="https://doi.org/10.1075/lv.14.1.06the" target="_blank" rel="noopener"><i class="fa-solid fa-link"></i> DOI / URL</a>
+          <a class="btn-pub" href="/assets/papers/lengthening.pdf" target="_blank" rel="noopener"><i class="fa-regular fa-file-pdf"></i> PDF</a>
         </div>
+      </div>
     </div>
+  </div>
 
-    <div class="pub-year-header">2018</div>
+  <!-- =====================================================================
+       2. BOOKS & EDITED VOLUMES
+       ===================================================================== -->
+  <h2 id="bo" class="acad-section-title"><i class="fa-solid fa-book"></i> Books &amp; Edited Volumes</h2>
 
-    <div class="pub-card">
-        <div class="pub-image">
-            <a href="https://www.frontiersin.org/articles/10.3389/fneur.2018.00975/full" target="_blank">
-                <img src="/assets/img/img_papers/fneuro.png" alt="Frontiers">
-            </a>
-        </div>
-        <div class="pub-details">
-            <div class="pub-title">
-                <strong>Themistocleous C.</strong>, Eckerström M., and Kokkinakis D. (2018). Identification of Mild Cognitive Impairment from Speech in Swedish using Deep Sequential Neural Networks. <em>Frontiers in Neurology</em>.
-            </div>
-            <div class="pub-links">
-                <a class="btn-small" href="https://www.frontiersin.org/articles/10.3389/fneur.2018.00975/full" target="_blank">DOI / URL</a>
-                <a class="btn-small" href="/assets/papers/fneuro.pdf" target="_blank">PDF</a>
-            </div>
-        </div>
+  <div class="pub-card searchable-pub">
+    <div class="pub-image">
+      <a href="http://www.iwn.gr/product.asp?catid=17589" target="_blank" rel="noopener">
+        <img src="/assets/img/img_papers/bookstats.png" alt="Experimental Design and Statistics in Linguistics">
+      </a>
     </div>
-
-    <div class="pub-year-header">2017</div>
-
-    <div class="pub-card">
-        <div class="pub-image">
-            <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01945/full" target="_blank">
-                <img src="/assets/img/img_papers/fpsychology.png" alt="Frontiers">
-            </a>
-        </div>
-        <div class="pub-details">
-            <div class="pub-title">
-                <strong>Themistocleous C.</strong> (2017). Effects of two linguistically proximal varieties on the spectral and coarticulatory properties of fricatives. <em>Frontiers in Psychology</em>.
-            </div>
-            <div class="pub-links">
-                <a class="btn-small" href="https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01945/full" target="_blank">DOI / URL</a>
-                <a class="btn-small" href="/assets/papers/frontiers.pdf" target="_blank">PDF</a>
-            </div>
-        </div>
+    <div class="pub-details">
+      <div class="pub-citation">
+        <strong>Themistocleous, C.</strong> (2015). <em>Experimental Design and Statistics in Linguistics: Using R</em> (In Greek). Athens: Ion Publishing. ISBN: 978-960-508-187-4.
+      </div>
+      <p style="font-size: 0.9rem; color: var(--acad-text-secondary); margin: 0.4rem 0 0 0;">
+        Comprehensive monograph introducing experimental methodology, hypothesis formulation, linear and mixed-effects modeling, and statistical analysis for linguistics and speech sciences using R.
+      </p>
     </div>
+  </div>
 
-    <div class="pub-card">
-        <div class="pub-image">
-            <a href="https://www.sciencedirect.com/science/article/pii/S0167639316303132" target="_blank">
-                <img src="/assets/img/img_papers/dynamicsa.png" alt="Speech Comm">
-            </a>
-        </div>
-        <div class="pub-details">
-            <div class="pub-title">
-                <strong>Themistocleous C.</strong> (2017). Dialect classification using vowel acoustic parameters. <em>Speech Communication</em> 94, 13-22.
-            </div>
-            <div class="pub-links">
-                <a class="btn-small" href="https://www.sciencedirect.com/science/article/pii/S0167639316303132" target="_blank">DOI / URL</a>
-                <a class="btn-small" href="/assets/papers/sc.pdf" target="_blank">PDF</a>
-            </div>
-        </div>
+  <div class="pub-card searchable-pub">
+    <div class="pub-image">
+      <a href="https://www.cambridgescholars.com/product/978-1-4438-4025-5" target="_blank" rel="noopener">
+        <img src="/assets/img/img_papers/bookgreek.png" alt="Current Trends in Greek Linguistics">
+      </a>
     </div>
-
-    <div class="pub-card">
-        <div class="pub-image">
-            <a href="https://www.karger.com/Article/Abstract/450554" target="_blank">
-                <img src="/assets/img/img_papers/gradience.png" alt="Phonetica">
-            </a>
-        </div>
-        <div class="pub-details">
-            <div class="pub-title">
-                <strong>Themistocleous C.</strong> (2017). The Nature of Phonetic Gradience across a Dialect Continuum: Evidence from Modern Greek Vowels. <em>Phonetica</em> 74, 157–172.
-            </div>
-            <div class="pub-links">
-                <a class="btn-small" href="https://www.karger.com/Article/Abstract/450554" target="_blank">DOI / URL</a>
-                <a class="btn-small" href="/assets/papers/phonetica2017.pdf" target="_blank">PDF</a>
-            </div>
-        </div>
+    <div class="pub-details">
+      <div class="pub-citation">
+        Fragaki, G., Georgakopoulos, A., &amp; <strong>Themistocleous, C.</strong> (Eds.) (2012). <em>Current Trends in Greek Linguistics</em>. Newcastle upon Tyne: Cambridge Scholars Publishing. ISBN-13: 978-1-4438-4025-5.
+      </div>
     </div>
+  </div>
 
-    <div class="pub-card">
-        <div class="pub-image">
-            <a href="https://www.frontiersin.org/articles/10.3389/fcomm.2017.00005/full" target="_blank">
-                <img src="/assets/img/img_papers/grohmann.png" alt="Frontiers">
-            </a>
-        </div>
-        <div class="pub-details">
-            <div class="pub-title">
-                Grohmann K., Papadopoulou E. and <strong>Themistocleous C.</strong> (2017). Acquiring Clitic Placement in Bilectal Settings: Interactions between Social Factors. <em>Frontiers in Communication</em>.
-            </div>
-            <div class="pub-links">
-                <a class="btn-small" href="https://www.frontiersin.org/articles/10.3389/fcomm.2017.00005/full" target="_blank">DOI / URL</a>
-                <a class="btn-small" href="/assets/papers/fcomm.pdf" target="_blank">PDF</a>
-            </div>
-        </div>
+  <!-- =====================================================================
+       3. BOOK CHAPTERS
+       ===================================================================== -->
+  <h2 id="ch" class="acad-section-title"><i class="fa-regular fa-bookmark"></i> Peer-Reviewed Book Chapters</h2>
+  <ul class="compact-pub-list">
+    <li class="searchable-pub">
+      <strong>Themistocleous, C.</strong> (2023). Discourse and Conversation Impairments in Patients with Dementia. In A. P. H. Kong (Ed.), <em>Spoken Discourse Impairments in the Neurogenic Populations</em> (pp. 37–54). Cham: Springer. <a href="https://doi.org/10.1007/978-3-031-45190-4_3" target="_blank" rel="noopener">[DOI]</a>
+    </li>
+    <li class="searchable-pub">
+      <strong>Themistocleous, C.</strong> (2016). Sextus Empiricus Adversus Grammaticos and the debate Ideal Language vs. Language Variation. <em>Stasinos</em>, 7, 145–152.
+    </li>
+    <li class="searchable-pub">
+      Armostis, S., Christodoulou, K., Katsoyannou, M., &amp; <strong>Themistocleous, C.</strong> (2014). Addressing writing system issues in dialectal lexicography: the case of Cypriot Greek. In T. Granadillo (Ed.), <em>Dialogue on Dialect Standardization</em> (pp. 23–38). Newcastle upon Tyne: Cambridge Scholars Publishing.
+    </li>
+    <li class="searchable-pub">
+      <strong>Themistocleous, C.</strong> (2014). Modern Greek Prosody: Speech melody in communication (<em>Prosodia tis Neas Ellinikis. I axiopoiisi tis melodias tis fonis stin epikoinonia</em>). <em>Stasinos</em>, 6, 319–344.
+    </li>
+    <li class="searchable-pub">
+      Tsakmakis, A., &amp; <strong>Themistocleous, C.</strong> (2013). Textual Structure and Modality in Thucydides' Military Exhortations. In A. Tsakmakis &amp; M. Tamiolaki (Eds.), <em>Thucydides Between History and Literature</em> (pp. 391–408). Berlin: Walter de Gruyter.
+    </li>
+    <li class="searchable-pub">
+      Melissaropoulou, D., <strong>Themistocleous, C.</strong>, Tsiplakou, S., &amp; Tsolakidis, S. (2013). The Present Perfect in Cypriot Greek revisited. In P. Auer, J. C. Reina, &amp; G. Kaufmann (Eds.), <em>Language Variation – European Perspectives IV</em> (pp. 159–172). Amsterdam: John Benjamins.
+    </li>
+    <li class="searchable-pub">
+      <strong>Themistocleous, C.</strong> (2012). Meaning and Form in the Tonal Representation. In G. Fragaki, A. Georgakopoulos, &amp; <strong>C. Themistocleous</strong> (Eds.), <em>Current Trends in Greek Linguistics</em> (pp. 271–289). Cambridge Scholars Publishing.
+    </li>
+    <li class="searchable-pub">
+      <strong>Themistocleous, C.</strong> (2012). Cypriot Greek Nuclear Pitch Accents. In Z. Gavriilidou et al. (Eds.), <em>Selected Papers of the 10th International Conference on Greek Linguistics (ICGL 10)</em> (pp. 796–805). Komotini: Democritus University of Thrace.
+    </li>
+  </ul>
+
+  <!-- =====================================================================
+       4. EDITED CONFERENCE PROCEEDINGS
+       ===================================================================== -->
+  <h2 id="pr" class="acad-section-title"><i class="fa-solid fa-layer-group"></i> Edited Conference Proceedings</h2>
+  <ul class="compact-pub-list">
+    <li class="searchable-pub">
+      Kokkinakis, D., <strong>Themistocleous, C.</strong>, Dias, G., Fraser, K. C., Pais, S., &amp; Öhman, F. (Eds.) (2026). <em>Proceedings of Resources and Processing of Linguistic, Para-linguistic and Extra-linguistic Data from People with Various Forms of Cognitive/Psychiatric/Developmental Impairments – In collaboration with the MENTAL.ai project (RaPID-6@MENTAL.ai 2026) @ LREC 2026</em>. European Language Resources Association (ELRA). <a href="https://spraakbanken.gu.se/en/rapid-2026" target="_blank" rel="noopener">[URL]</a>
+    </li>
+    <li class="searchable-pub">
+      Kokkinakis, D., Fraser, K. C., <strong>Themistocleous, C.</strong>, Lundholm Fors, K., Tsanas, A., &amp; Öhman, F. (Eds.) (2024). <em>Proceedings of the LREC-COLING 2024 5th Workshop on Resources and Processing of Linguistic, Para-linguistic and Extra-linguistic Data from People with Various Forms of Cognitive/Psychiatric/Developmental Impairments (RaPID-5 2024)</em>. May 21, 2024, Torino, Italy: ELRA / ICCL.
+    </li>
+    <li class="searchable-pub">
+      Kokkinakis, D., <strong>Themistocleous, C.</strong>, Lundholm Fors, K., Tsanas, A., &amp; Fraser, K. C. (Eds.) (2022). <em>Proceedings of the 4th RaPID Workshop @ LREC 2022</em>. Marseille, France: European Language Resources Association (ELRA). <a href="https://aclanthology.org/events/lrec-2022/#2022rapid-1" target="_blank" rel="noopener">[ACL Anthology]</a>
+    </li>
+    <li class="searchable-pub">
+      Kokkinakis, D., Lundholm Fors, K., <strong>Themistocleous, C.</strong>, Antonsson, M., &amp; Eckerström, M. (Eds.) (2020). <em>Proceedings of LREC 2020: 3rd RaPID Workshop on Resources and Processing of Linguistic, Para-linguistic and Extra-linguistic Data from People with Various Forms of Cognitive/Psychiatric/Developmental Impairments</em>. Marseille, France: ELRA.
+    </li>
+    <li class="searchable-pub">
+      Demopoulos, C., Kontaksis, K., Kostala, P., Mylona, K., Nastos, V., Savvidou, V., &amp; <strong>Themistocleous, C.</strong> (Eds.) (2012). <em>Proceedings of the 6th Athens Postgraduate Conference of the Faculty of Philology, National and Kapodistrian University of Athens</em> (Volumes A &amp; B). ISSN: 2241-3030.
+    </li>
+    <li class="searchable-pub">
+      Vrynioti, E., Georgakopoulos, A., <strong>Themistocleous, C.</strong>, et al. (Eds.) (2010). <em>Proceedings of the 5th Athens Postgraduate Conference of the Faculty of Philology, National and Kapodistrian University of Athens</em>. ISBN: 978-960-466-056-8.
+    </li>
+  </ul>
+
+  <!-- =====================================================================
+       5. SELECTED CONFERENCE PAPERS (FROM 70+ PAPERS IN CV)
+       ===================================================================== -->
+  <h2 id="co" class="acad-section-title"><i class="fa-solid fa-users-rectangle"></i> Selected Peer-Reviewed Conference Papers (2016–2026)</h2>
+  <p class="acad-section-subtitle">Selected from 70+ peer-reviewed conference papers and abstracts (full list available in the <a href="/assets/pages/CV_Haris_Themistocleous.pdf" target="_blank" rel="noopener">Curriculum Vitae PDF</a>).</p>
+
+  <ul class="compact-pub-list">
+    <li class="searchable-pub">
+      <strong>Themistocleous, C.</strong>, Protopapas, A., Stark, B. C., &amp; Neophytou, K. (2026). Quantifying the Predictive Brain in Aphasia: Information-Theoretic Metrics as Digital Biomarkers for Aphasia Severity. <em>2026 Academy of Aphasia Annual Meeting</em>, University of Liège, Belgium.
+    </li>
+    <li class="searchable-pub">
+      <strong>Themistocleous, C.</strong>, &amp; Stark, B. C. (2026). Language biomarker screening using AI: a trans-diagnostic approach to the brain. <em>6th RaPID Workshop (RaPID@MENTAL.ai) @ LREC 2026</em>, Palma de Mallorca, Spain.
+    </li>
+    <li class="searchable-pub">
+      <span class="acad-badge acad-badge-gold" style="margin-right: 0.4rem;">Best Poster Award</span> Kim, H., &amp; <strong>Themistocleous, C.</strong> (2025). Identifying Key Handwriting Features for Early Detection and Monitoring of Dementia. <em>International Conference of the Korean Dementia Association &amp; 19th International Congress of the Asian Society Against Dementia (IC-KDA &amp; ASAD 2025)</em>, Seoul, Korea.
+    </li>
+    <li class="searchable-pub">
+      Nerantzini, M., <strong>Themistocleous, C.</strong>, Kim, S.-Y., &amp; Varlokosta, S. (2025). Narrative skills in healthy ageing; a data-driven approach to an early identification of apathy and linguistic decline in older adults. Evidence from Greek, American-English and Korean. <em>Science of Aphasia (SoA 2025)</em>, September 15–18, Copenhagen, Denmark.
+    </li>
+    <li class="searchable-pub">
+      Varlokosta, S., Dechounioti, V., Markopoulos, G., Karasimos, A., Stamouli, S., Pantoula, K., Economou, A., <strong>Themistocleous, C.</strong>, &amp; Nerantzini, M. (2025). Investigating disfluency patterns in People with Aphasia: Evidence from Greek. <em>Science of Aphasia (SoA 2025)</em>, Copenhagen, Denmark.
+    </li>
+    <li class="searchable-pub">
+      Kim, H., &amp; <strong>Themistocleous, C.</strong> (2024). Automated classification of mild cognitive impairment from writing: A natural language processing approach. <em>Clinical Aphasiology Conference (CAC 2024)</em>, Waikoloa Beach, Hawai'i, USA.
+    </li>
+    <li class="searchable-pub">
+      Surrao, K., Kim, H., Gallegos, J., Neophytou, K., <strong>Themistocleous, C.</strong>, Hillis, A. E., Tsapkini, K., &amp; Tippett, D. C. (2024). Written Picture Descriptions Distinguish Variants of Primary Progressive Aphasia. <em>2024 ASHA Convention</em>, Seattle, WA, USA.
+    </li>
+    <li class="searchable-pub">
+      <strong>Themistocleous, C.</strong> (2024). Open Brain AI: Automatic Language Assessment. <em>Joint RaPID-5 Workshop @ LREC-COLING 2024</em>, Torino, Italy.
+    </li>
+    <li class="searchable-pub">
+      <strong>Themistocleous, C.</strong> (2024). Open Brain AI: Computational Infrastructure for Researchers, Clinicians, and Educators. <em>HUMINFRA (HiC-2024) Workshop Proceedings</em>, Gothenburg, Sweden.
+    </li>
+    <li class="searchable-pub">
+      <strong>Themistocleous, C.</strong> (2023). Open Brain AI. <em>Academy of Aphasia 61st Annual Meeting</em>, Reading, UK.
+    </li>
+    <li class="searchable-pub">
+      <strong>Themistocleous, C.</strong> (2023). Large Language Models in Aphasia. <em>ExLing 2023</em>, Athens, Greece.
+    </li>
+    <li class="searchable-pub">
+      Sundström, S., &amp; <strong>Themistocleous, C.</strong> (2023). Phonological errors in Swedish-speaking children with Developmental Language Disorders. <em>ExLing 2023</em>, Athens, Greece.
+    </li>
+    <li class="searchable-pub">
+      <strong>Themistocleous, C.</strong>, Ficek, B., Webster, K., &amp; Tsapkini, K. (2022). tDCS reduces phonological errors in patients with primary progressive aphasia. <em>60th Annual Academy of Aphasia Meeting</em>, Philadelphia, PA, USA.
+    </li>
+    <li class="searchable-pub">
+      <strong>Themistocleous, C.</strong>, Afthinos, A., Herrmann, O., Fan, H., Lu, H., &amp; Tsapkini, K. (2021). Brain Perfusion and Neurocognitive Tasks in Patients with Primary Progressive Aphasia. <em>Academy of Aphasia 59th Annual Meeting</em>.
+    </li>
+    <li class="searchable-pub">
+      Herrmann, O., Afthinos, A., <strong>Themistocleous, C.</strong>, Fan, H., Lu, H., &amp; Tsapkini, K. (2021). Brain areas that mediate sentence comprehension in primary progressive aphasia: Evidence from perfusion imaging. <em>Academy of Aphasia 59th Annual Meeting</em>.
+    </li>
+    <li class="searchable-pub">
+      <strong>Themistocleous, C.</strong>, Eckerström, M., &amp; Kokkinakis, D. (2020). Automatic analysis of voice quality and prosody in patients with Mild Cognitive Impairment. <em>Society for the Neurobiology of Language Symposium (SNL 2020)</em> &amp; <em>30th Alzheimer Europe Conference</em>.
+    </li>
+    <li class="searchable-pub">
+      <strong>Themistocleous, C.</strong>, Webster, K. T., Ficek, B., &amp; Tsapkini, K. (2019). Morphosyntactic measures of PPA variants using computational grammars. <em>49th Clinical Aphasiology Conference (CAC 2019)</em>, Whitefish, MT, USA.
+    </li>
+    <li class="searchable-pub">
+      <strong>Themistocleous, C.</strong>, Ficek, B., Webster, K. T., Wendt, H., Hillis, A. E., den Ouden, D.-B., &amp; Tsapkini, K. (2018). Acoustic markers of PPA variants using machine learning. <em>Academy of Aphasia 56th Annual Meeting</em>, Montreal, Canada. <em>Frontiers in Human Neuroscience</em>, doi:10.3389/conf.fnhum.2018.228.00092.
+    </li>
+    <li class="searchable-pub">
+      Fraser, K. C., Lundholm Fors, K., Eckerström, M., <strong>Themistocleous, C.</strong>, &amp; Kokkinakis, D. (2018). Improving the Sensitivity and Specificity of MCI Screening with Linguistic Information. <em>LREC 2018</em>, Miyazaki, Japan.
+    </li>
+    <li class="searchable-pub">
+      Lundholm Fors, K., Fraser, K. C., <strong>Themistocleous, C.</strong>, &amp; Kokkinakis, D. (2018). Prosodic Features As Potential Markers of Linguistic and Cognitive Deterioration in Mild Cognitive Impairment. <em>Alzheimer's Association International Conference (AAIC 2018)</em>, Chicago, USA. <em>Alzheimer’s &amp; Dementia</em>, 14(7), P1195–P1196.
+    </li>
+    <li class="searchable-pub">
+      Bernardy, J.-P., &amp; <strong>Themistocleous, C.</strong> (2017). Modelling prosodic structure using Artificial Neural Networks. <em>Experimental Linguistics 2017</em>, 17–20. <a href="https://arxiv.org/abs/1706.03952" target="_blank" rel="noopener">[arXiv]</a>
+    </li>
+    <li class="searchable-pub">
+      <strong>Themistocleous, C.</strong>, Savva, A., &amp; Aristodemou, A. (2016). Effects of stress on fricatives: Evidence from Standard Modern Greek. <em>Interspeech 2016</em>, 1026–1029. <a href="https://doi.org/10.21437/Interspeech.2016-1057" target="_blank" rel="noopener">[DOI]</a>
+    </li>
+  </ul>
+
+  <!-- =====================================================================
+       6. TEACHING MANUSCRIPTS & THESES
+       ===================================================================== -->
+  <h2 id="on" class="acad-section-title"><i class="fa-solid fa-file-lines"></i> Teaching Manuscripts &amp; Academic Theses</h2>
+
+  <div class="pub-card searchable-pub">
+    <div class="pub-image">
+      <a href="/assets/pages/RIntroCover.pdf" target="_blank" rel="noopener">
+        <img src="/assets/img/img_papers/r.png" alt="Introduction to R">
+      </a>
     </div>
-
-    <div class="pub-year-header">2016</div>
-
-    <div class="pub-card">
-        <div class="pub-image">
-            <a href="https://journals.sagepub.com/doi/abs/10.1177/0023830915614602" target="_blank">
-                <img src="/assets/img/img_papers/anchoragea.png" alt="Language and Speech">
-            </a>
-        </div>
-        <div class="pub-details">
-            <div class="pub-title">
-                <strong>Themistocleous C.</strong> (2016). Seeking an anchorage: Evidence from the tonal alignment of the Cypriot Greek prenuclear pitch accent. <em>Language and Speech</em>.
-            </div>
-            <div class="pub-links">
-                <a class="btn-small" href="https://journals.sagepub.com/doi/abs/10.1177/0023830915614602" target="_blank">DOI / URL</a>
-                <a class="btn-small" href="/assets/papers/anchorage.pdf" target="_blank">PDF</a>
-            </div>
-        </div>
+    <div class="pub-details">
+      <div class="pub-citation">
+        <strong>Themistocleous, C.</strong> (2016). <em>Introduction to R for Linguistic and Statistical Analysis</em>. Teaching Manuscript, University of Gothenburg.
+      </div>
+      <div class="pub-links">
+        <a class="btn-pub" href="/assets/pages/RIntroCover.pdf" target="_blank" rel="noopener"><i class="fa-regular fa-file-pdf"></i> PDF</a>
+      </div>
     </div>
+  </div>
 
-    <div class="pub-card">
-        <div class="pub-image">
-            <a href="https://dx.doi.org/10.1121/1.4964818" target="_blank">
-                <img src="/assets/img/img_papers/bursts.png" alt="JASA">
-            </a>
-        </div>
-        <div class="pub-details">
-            <div class="pub-title">
-                <strong>Themistocleous C.</strong> (2016). The bursts of stops can convey dialectal information. <em>Journal of the Acoustical Society of America EL</em>.
-            </div>
-            <div class="pub-links">
-                <a class="btn-small" href="https://dx.doi.org/10.1121/1.4964818" target="_blank">DOI / URL</a>
-                <a class="btn-small" href="/assets/papers/bursts.pdf" target="_blank">PDF</a>
-            </div>
-        </div>
+  <div class="pub-card searchable-pub">
+    <div class="pub-image">
+      <img src="/assets/img/img_papers/python.png" alt="Introduction to Python">
     </div>
-
-    <div class="pub-year-header">2014</div>
-
-    <div class="pub-card">
-        <div class="pub-image">
-            <a href="https://benjamins.com/catalog/lv.14.1.06the" target="_blank">
-                <img src="/assets/img/img_papers/edge.png" alt="Linguistic Variation">
-            </a>
-        </div>
-        <div class="pub-details">
-            <div class="pub-title">
-                <strong>Themistocleous C.</strong> (2014). Edge-Tone Effects and Prosodic Domain Effects on Final Lengthening. <em>Linguistic Variation</em> 14(1). 129–160.
-            </div>
-            <div class="pub-links">
-                <a class="btn-small" href="https://benjamins.com/catalog/lv.14.1.06the" target="_blank">DOI / URL</a>
-                <a class="btn-small" href="/assets/papers/lengthening.pdf" target="_blank">PDF</a>
-            </div>
-        </div>
+    <div class="pub-details">
+      <div class="pub-citation">
+        <strong>Themistocleous, C.</strong> (2016). <em>Introduction to Python for Natural Language Processing</em>. Teaching Manuscript, University of Gothenburg.
+      </div>
     </div>
+  </div>
 
-    <!-- BOOKS -->
-    <h2 id="bo" class="pub-section-header">Books</h2>
-
-    <div class="pub-card">
-        <div class="pub-image">
-            <a href="http://www.iwn.gr/product.asp?catid=17589" target="_blank">
-                <img src="/assets/img/img_papers/bookstats.png" alt="Statistics Book">
-            </a>
-        </div>
-        <div class="pub-details">
-            <div class="pub-title">
-                <strong>Themistocleous C.</strong> (2015). <em>Experimental Design and Statistics in Linguistics. Using R (In Greek)</em>. Athens: Ion. ISBN:978-960-508-187-4.
-                <br><br>
-                <span style="color: #666; font-size: 0.95em;">
-                    This book is an introduction to experimental methodology and statistics using R and aims:
-                    <ul style="margin-top: 5px; padding-left: 20px;">
-                        <li>To present the basic principles of experimental methodology and experimental design.</li>
-                        <li>To introduce statistics and their application to language problems.</li>
-                        <li>To introduce R, a programming language with specialized functions for statistical analysis.</li>
-                    </ul>
-                </span>
-            </div>
-        </div>
+  <div class="pub-card searchable-pub">
+    <div class="pub-image">
+      <a href="/assets/papers/Phonetics_IntroGR.pdf" target="_blank" rel="noopener">
+        <img src="/assets/img/img_papers/phonGR.png" alt="Introduction to Phonetics and Phonology">
+      </a>
     </div>
-
-    <div class="pub-card">
-        <div class="pub-image">
-            <a href="https://www.cambridgescholars.com/product/978-1-4438-4025-5" target="_blank">
-                <img src="/assets/img/img_papers/bookgreek.png" alt="Current Trends Book">
-            </a>
-        </div>
-        <div class="pub-details">
-            <div class="pub-title">
-                Fragaki G., Georgakopoulos A., <strong>Themistocleous C.</strong> (Eds.) (2012). <em>Current Trends in Greek Linguistics</em>. Newcastle upon Tyne: Cambridge Scholars Publishing.
-            </div>
-        </div>
+    <div class="pub-details">
+      <div class="pub-citation">
+        <strong>Themistocleous, C.</strong> (2011). <em>Introduction to Phonetics and Phonology</em> (In Greek, pp. 100). Nicosia: Open University of Cyprus.
+      </div>
+      <div class="pub-links">
+        <a class="btn-pub" href="/assets/papers/Phonetics_IntroGR.pdf" target="_blank" rel="noopener"><i class="fa-regular fa-file-pdf"></i> PDF</a>
+      </div>
     </div>
+  </div>
 
-    <!-- CONFERENCES -->
-    <h2 id="co" class="pub-section-header">Conference Papers (Selected)</h2>
-
-    <div class="pub-card">
-        <div class="pub-image">
-            <img src="/assets/img/img_papers/interspeech.png" alt="Interspeech">
-        </div>
-        <div class="pub-details">
-            <div class="pub-title">
-                Themistocleous, C., Ficek, B., Webster, K., & Tsapkini, K. (2022). tDCS reduces phonological errors in patients with Primary Progressive Aphasia. <em>60th Annual Academy of Aphasia Meeting</em>, Philadelphia.
-            </div>
-        </div>
-    </div>
-    
-    <div class="pub-card">
-        <div class="pub-image">
-            <img src="/assets/img/img_papers/interspeech.png" alt="Conference">
-        </div>
-        <div class="pub-details">
-            <div class="pub-title">
-                <strong>Themistocleous C.</strong>, et al. (2021). Brain Perfusion and Neurocognitive Tasks in Patients with Primary Progressive Aphasia. <em>Academy of Aphasia 59th Annual Meeting</em>.
-            </div>
-        </div>
-    </div>
-
-    <div class="pub-card">
-        <div class="pub-image">
-            <img src="/assets/img/img_papers/interspeech.png" alt="Conference">
-        </div>
-        <div class="pub-details">
-            <div class="pub-title">
-                Olivia Herrmann, ... <strong>Themistocleous C.</strong>, et al. (2021). Brain areas that mediate sentence comprehension in primary progressive aphasia. <em>Academy of Aphasia 59th Annual Meeting</em>.
-            </div>
-        </div>
-    </div>
-
-    <div class="pub-card">
-        <div class="pub-image">
-            <img src="/assets/img/img_papers/interspeech.png" alt="Conference">
-        </div>
-        <div class="pub-details">
-            <div class="pub-title">
-                Lucy Bryant, ... <strong>Themistocleous C.</strong>, et al. (2021). Best practices for reporting of discourse analysis. <em>Academy of Aphasia 59th Annual Meeting</em>.
-            </div>
-        </div>
-    </div>
-
-    <!-- ONLINE MANUSCRIPTS -->
-    <h2 id="on" class="pub-section-header">Online Manuscripts</h2>
-
-    <div class="pub-card">
-        <div class="pub-image">
-            <a href="/assets/RIntroCover.pdf" target="_blank">
-                <img src="/assets/img/img_papers/r.png" alt="R Intro">
-            </a>
-        </div>
-        <div class="pub-details">
-            <div class="pub-title">
-                <strong>Themistocleous C.</strong>. (2016). Introduction to R. Unpublished manuscript. Gothenburg.
-            </div>
-            <div class="pub-links">
-                <a class="btn-small" href="/assets/RIntroCover.pdf" target="_blank">PDF</a>
-            </div>
-        </div>
-    </div>
-
-    <div class="pub-card">
-        <div class="pub-image">
-            <a href="http://localhost:4000/research/project/2017/05/31/python.html" target="_blank">
-                <img src="/assets/img/img_papers/python.png" alt="Python">
-            </a>
-        </div>
-        <div class="pub-details">
-            <div class="pub-title">
-                <strong>Themistocleous C.</strong> (2016). Introduction to Python. Unpublished manuscript.
-            </div>
-            <div class="pub-links">
-                <a class="btn-small" href="http://localhost:4000/research/project/2017/05/31/python.html" target="_blank">View</a>
-            </div>
-        </div>
-    </div>
-
-    <div class="pub-card">
-        <div class="pub-image">
-            <a href="/assets/papers/Phonetics_IntroGR.pdf" target="_blank">
-                <img src="/assets/img/img_papers/phonGR.png" alt="Phonetics">
-            </a>
-        </div>
-        <div class="pub-details">
-            <div class="pub-title">
-                <strong>Themistocleous C.</strong> (2011). Introduction to Phonetics and Phonology (in Greek).
-            </div>
-            <div class="pub-links">
-                <a class="btn-small" href="/assets/papers/Phonetics_IntroGR.pdf" target="_blank">PDF</a>
-            </div>
-        </div>
-    </div>
+  <ul class="compact-pub-list" style="margin-top: 1rem;">
+    <li class="searchable-pub">
+      <strong>Themistocleous, C.</strong> (2011). <em>Prosodia kai plirophoriaki domi stin Elliniki (Prosody and Information Structure in Greek)</em>. Doctoral Dissertation (PhD, <em>Summa cum laude</em>), National and Kapodistrian University of Athens.
+    </li>
+    <li class="searchable-pub">
+      <strong>Themistocleous, C.</strong> (2008). <em>Lengthening Effects of Prosodic Constituents in Athenian Greek and Cypriot Greek</em>. Master's Thesis (MS in Computational Linguistics), University of Skövde, Sweden.
+    </li>
+    <li class="searchable-pub">
+      <strong>Themistocleous, C.</strong> (2007). <em>A multifactorial analysis of discourse turn in conversations</em> (In Greek). Master's Thesis (MA in Applied Linguistics, <em>Summa cum laude</em>), National and Kapodistrian University of Athens.
+    </li>
+  </ul>
 
 </div>
-            
-    </section>
-    <!-- Tag list for portfolio -->
-    
-    
-    <div class="tag-list"></div>
-</article>
 
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var searchInput = document.getElementById('pubSearchInput');
+    if (!searchInput) return;
+    searchInput.addEventListener('input', function() {
+      var query = this.value.toLowerCase().trim();
+      var items = document.querySelectorAll('.searchable-pub');
+      items.forEach(function(item) {
+        var text = item.textContent.toLowerCase();
+        item.style.display = (!query || text.indexOf(query) !== -1) ? '' : 'none';
+      });
+      var yearGroups = document.querySelectorAll('.pub-year-group');
+      yearGroups.forEach(function(group) {
+        var visibleCards = group.querySelectorAll('.searchable-pub:not([style*="display: none"])');
+        group.style.display = visibleCards.length > 0 ? '' : 'none';
+      });
+    });
+  });
+</script>
+
+
+    </main>
+    <footer class="site-footer academic-footer">
+    <div class="footer-inner">
+        <div class="footer-grid">
+            <div class="footer-col footer-identity">
+                <h4>Prof. Charalambos (Haris) Themistocleous</h4>
+                <p>Professor of Speech, Language, and Communication<br>
+                Department of Special Needs Education (ISP)<br>
+                Faculty of Educational Sciences · University of Oslo</p>
+                <p class="footer-lab">
+                    Founder &amp; Lead Architect of <a href="https://openbrainai.com" target="_blank" rel="noopener">Open Brain AI</a>
+                </p>
+            </div>
+
+            <div class="footer-col footer-links">
+                <h4>Academic Sections</h4>
+                <ul>
+                    <li><a href="/about/">Biography &amp; Appointments</a></li>
+                    <li><a href="/research/">Frontier Research &amp; Grants</a></li>
+                    <li><a href="/publications/">Peer-Reviewed Publications</a></li>
+                    <li><a href="/obai/">Open Brain AI &amp; Clinical Tools</a></li>
+                    <li><a href="/leadership/">Leadership, Talks &amp; Teaching</a></li>
+                    <li><a href="/assets/pages/CV_Haris_Themistocleous.pdf" target="_blank" rel="noopener">Curriculum Vitae (PDF)</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-col footer-connect">
+                <h4>Contact &amp; Profiles</h4>
+                <p>
+                    <i class="fa-solid fa-location-dot"></i> Helga Engs hus, Office 482, Sem Sælands vei 7, 0371 Oslo, Norway<br>
+                    <i class="fa-solid fa-envelope"></i> <a href="mailto:charalth@uio.no">charalth@uio.no</a>
+                </p>
+                <div class="footer-scholarly-links">
+                    <a href="https://scholar.google.com/citations?user=pATrAdMAAAAJ" target="_blank" rel="noopener" title="Google Scholar"><i class="ai ai-google-scholar"></i> Scholar</a>
+                    <a href="https://www.researchgate.net/profile/Charalambos-Themistocleous" target="_blank" rel="noopener" title="ResearchGate"><i class="ai ai-researchgate"></i> ResearchGate</a>
+                    <a href="https://github.com/themistocleous" target="_blank" rel="noopener" title="GitHub"><i class="fa-brands fa-github"></i> GitHub</a>
+                    <a href="https://osf.io/rvxby" target="_blank" rel="noopener" title="Open Science Framework"><i class="ai ai-osf"></i> OSF</a>
+                    <a href="https://www.linkedin.com/in/haristhemistocleous" target="_blank" rel="noopener" title="LinkedIn"><i class="fa-brands fa-linkedin"></i> LinkedIn</a>
+                    <a href="https://www.uv.uio.no/isp/english/people/aca/charalth/" target="_blank" rel="noopener" title="University of Oslo Profile"><i class="fa-solid fa-building-columns"></i> UiO</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="footer-bottom">
+            <span>© 2026 Charalambos K. Themistocleous. All rights reserved.</span>
+            <span> computational neurolinguistics · multimodal AI · digital biomarkers</span>
+        </div>
     </div>
     
-    <footer class="site-footer"> <p class="text"> (c) 2026 Charalambos K. Themistocleous </p> <div class="footer-icons"> <ul> <!-- Social icons from Font Awesome, if enabled --> <li> <a feed.xml href="/feed.xml" title="Follow RSS feed" target="_blank"> <span class="fa-stack fa-lg"> <i class="fas fa-circle fa-stack-2x"></i> <i class="fas fa-rss fa-stack-1x fa-inverse"></i> </span> </a> </li> <li> <a href="https://github.com/themistocleous" title="Follow on Github" target="_blank" rel="noopener"> <span class="fa-stack fa-lg"> <i class="fas fa-circle fa-stack-2x"></i> <i class="fab fa-github fa-stack-1x fa-inverse"></i> </span> </a> </li> <li> <a href="https://scholar.google.com/citations?hl=en&user=pATrAdMAAAAJ" title="Follow on Googlescholar" target="_blank" rel="noopener"> <span class="fa-stack fa-lg"> <i class="fas fa-circle fa-stack-2x"></i> <i class="fas fa-user-graduate fa-stack-1x fa-inverse"></i> </span> </a> </li> <li> <a href="https://www.linkedin.com/in/haristhemistocleous" title="Follow on Linkedin" target="_blank" rel="noopener"> <span class="fa-stack fa-lg"> <i class="fas fa-circle fa-stack-2x"></i> <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i> </span> </a> </li> <li> <a href="mailto:charalth@uio.no" title="Follow on Mail" target="_blank" rel="noopener"> <span class="fa-stack fa-lg"> <i class="fas fa-circle fa-stack-2x"></i> <i class="fas fa-envelope fa-stack-1x fa-inverse"></i> </span> </a> </li> <li> <a href="https://osf.io/rvxby" title="Follow on Osf" target="_blank" rel="noopener"> <span class="fa-stack fa-lg"> <i class="fas fa-circle fa-stack-2x"></i> <i class="ai ai-osf-square fa-stack-1x fa-inverse"></i> </span> </a> </li> <li> <a href="https://www.researchgate.net/profile/Charalambos-Themistocleous" title="Follow on Researchgate" target="_blank" rel="noopener"> <span class="fa-stack fa-lg"> <i class="fas fa-circle fa-stack-2x"></i> <i class="ai ai-researcherid-square fa-stack-1x fa-inverse"></i> </span> </a> </li> </ul> </div> <script type="module"> mermaid.initialize({ startOnLoad: false, theme: "default" }); mermaid.run({ nodes: [...document.querySelectorAll('.language-mermaid'), ...document.querySelectorAll('.mermaid')] }); </script> </footer>
+        <script type="module">
+          mermaid.initialize({ startOnLoad: false, theme: "default" });
+          mermaid.run({ nodes: [...document.querySelectorAll('.language-mermaid'), ...document.querySelectorAll('.mermaid')] });
+        </script>
+    
+</footer>
+
+    <script>
+      (function () {
+        var btn = document.getElementById('pull');
+        var menu = document.getElementById('nav-menu');
+        if (btn && menu) {
+          btn.addEventListener('click', function (e) {
+            e.preventDefault();
+            var isHidden = menu.classList.toggle('hide');
+            btn.setAttribute('aria-expanded', (!isHidden).toString());
+          });
+        }
+      })();
+    </script>
   </body>
 </html>

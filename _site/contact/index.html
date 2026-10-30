@@ -1,125 +1,285 @@
 <!DOCTYPE html>
-<!--
-    Type on Strap jekyll theme v2.4.9
-    Theme free for personal and commercial use under the MIT license
-    https://github.com/sylhare/Type-on-Strap/blob/master/LICENSE
--->
-<html lang="en">
-  
-  <head> <meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=0.5, maximum-scale=5"> <!-- Theme Mode--> <script> const darkBtn = "Dark"; const lightBtn = "Light"; const isAutoTheme = true; const preferredTheme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'; if (isAutoTheme) { document.documentElement.setAttribute('data-theme', sessionStorage.getItem('theme') ?? preferredTheme); } else { document.documentElement.setAttribute('data-theme', "auto"); } </script> <!-- Main JS (navbar.js, katex_init.js and masonry_init.js)--> <script defer src="/assets/js/main.min.js"></script> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"> <!-- CSS --> <link rel="stylesheet" href="/assets/css/main.css"> <link rel="stylesheet" href="/assets/css/my.css"> <!--Favicon--> <link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon"> <!-- KaTeX 0.16.9 --> <script defer src="/assets/js/vendor/katex.min.js"></script> <script defer src="/assets/js/vendor/katex.auto-render.min.js" onload="renderMathInElement(document.body);"></script> <!-- Mermaid 10.8.0 --> <script defer src="/assets/js/vendor/mermaid.min.js"></script> <!-- Simple Jekyll Search 1.10.0 --> <script src="/assets/js/vendor/simple-jekyll-search.min.js" type="text/javascript"></script> <!-- Google Analytics / Cookie Consent --> <script> const cookieName = 'cookie-notice-dismissed-http://localhost:4000'; const isCookieConsent = 'false'; const analyticsName = ''; const analyticsNameGA4 = ''; </script> <!-- seo tags --> <meta property="og:image" content="http://localhost:4000/"> <meta property="og:type" content="website" /> <!-- Begin Jekyll SEO tag v2.8.0 --> <title>Contact | Haris Themistocleous</title> <meta name="generator" content="Jekyll v4.4.1" /> <meta property="og:title" content="Contact" /> <meta property="og:locale" content="en_US" /> <meta name="description" content="Charalambos K. Themistocleous" /> <meta property="og:description" content="Charalambos K. Themistocleous" /> <link rel="canonical" href="http://localhost:4000/contact/" /> <meta property="og:url" content="http://localhost:4000/contact/" /> <meta property="og:site_name" content="Haris Themistocleous" /> <meta property="og:type" content="website" /> <meta name="twitter:card" content="summary" /> <meta property="twitter:title" content="Contact" /> <script type="application/ld+json"> {"@context":"https://schema.org","@type":"WebPage","description":"Charalambos K. Themistocleous","headline":"Contact","url":"http://localhost:4000/contact/"}</script> <!-- End Jekyll SEO tag --> <!-- RSS --> <link rel="alternate" type="application/atom+xml" title="Haris Themistocleous" href="http://localhost:4000/feed.xml"/> <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Haris Themistocleous" /> <!-- Twitter Cards --> <meta name="twitter:title" content="Contact"> <meta name="twitter:description" content=" Contact Information Themistocleous @ ISP/UiO Department of Special Needs Education (ISP) ..."> <meta name="twitter:card" content="summary"> <meta name="twitter:image" content="http://localhost:4000/"> <meta name="twitter:image:alt" content="Contact"> </head>
+<html lang="en" data-theme="light">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Google Fonts: Inter & Lora for Academic Typography -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Lora:ital,wght@0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+
+    <!-- Icons: Font Awesome 6 & Academicons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+    <!-- Academic Stylesheet -->
+    <link rel="stylesheet" href="/assets/css/my.css">
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon">
+
+    <!-- SEO & OpenGraph Tags -->
+    <meta property="og:image" content="http://localhost:4000/assets/img/me/haris2.png">
+    <meta property="og:type" content="website">
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Contact &amp; Collaborations | Charalambos (Haris) Themistocleous</title>
+<meta name="generator" content="Jekyll v4.4.1" />
+<meta property="og:title" content="Contact &amp; Collaborations" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Professor of Speech, Language, and Communication at the University of Oslo Computational Neurolinguistics, Multimodal AI &amp; Digital Biomarkers Founder of Open Brain AI" />
+<meta property="og:description" content="Professor of Speech, Language, and Communication at the University of Oslo Computational Neurolinguistics, Multimodal AI &amp; Digital Biomarkers Founder of Open Brain AI" />
+<link rel="canonical" href="http://localhost:4000/contact/" />
+<meta property="og:url" content="http://localhost:4000/contact/" />
+<meta property="og:site_name" content="Charalambos (Haris) Themistocleous" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Contact &amp; Collaborations" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Professor of Speech, Language, and Communication at the University of Oslo Computational Neurolinguistics, Multimodal AI &amp; Digital Biomarkers Founder of Open Brain AI","headline":"Contact &amp; Collaborations","url":"http://localhost:4000/contact/"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+    <!-- Twitter Cards -->
+    <meta name="twitter:title" content="Contact & Collaborations">
+    <meta name="twitter:description" content="Professor of Speech, Language, and Communication at the University of Oslo | Computational Neurolinguistics, Multimodal AI & Digital Biomarkers | Founder of Open Brain AI">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:image" content="http://localhost:4000/assets/img/me/haris2.png">
+    <meta name="twitter:image:alt" content="Charalambos (Haris) Themistocleous">
+</head>
+
   <body>
-    
-    <header class="site-header"> <!-- Logo and title --> <div class="branding"> <a href="/"> <img alt="logo img" class="avatar" src="/assets/img/brain.png" loading="lazy"/> </a> <a class="site-title" aria-label="Haris Themistocleous" href="/"> Haris Themistocleous </a> </div> <!-- Toggle menu --> <nav class="clear"> <a aria-label="pull" id="pull" class="toggle" href="#"> <i class="fas fa-bars fa-lg"></i> </a> <!-- Menu --> <ul class="hide"> <li class="separator"> | </li> <li> <a class="clear" aria-label="About" title="About" href="/about/"> <span class="navbar-label ">About</span> </a> </li> <li class="separator"> | </li> <li> <a class="clear" aria-label="Publications" title="Publications" href="/publications/"> <span class="navbar-label ">Publications</span> </a> </li> <li class="separator"> | </li> <li> <a class="clear" aria-label="Open Brain AI" title="Open Brain AI" href="/obai/"> <span class="navbar-label ">Open Brain AI</span> </a> </li> <li class="separator"> | </li> <li> <a class="clear" aria-label="Research" title="Research" href="/software/"> <span class="navbar-label ">Research</span> </a> </li> <li class="separator"> | </li> <li> <a class="clear" aria-label="Contact" title="Contact" href="/contact/"> <span class="navbar-label ">Contact</span> </a> </li> <li class="separator"> | </li> <li> <a class="clear" aria-label="Search" title="Search" href="/search/"> <i class="navbar-icon fas fa-search" aria-hidden="true"></i> <span class="navbar-label navbar-label-with-icon">Search</span> </a> </li> <li class="separator"> | </li> <li><a id="theme-toggle" title="Contact " aria-label="Contact" onclick="themeToggle()"></a></li> </ul> </nav> </header>
-    <div class="content">
-      <style>
-    /* Clean, responsive styling for the contact page */
-    .contact-container {
-        max-width: 900px;
-        margin: 0 auto;
-        padding: 2rem 1rem;
-        text-align: center;
-    }
-    .contact-header {
-        margin-bottom: 3rem;
-    }
-    .contact-header h2 {
-        color: #2c3e50;
-        margin-bottom: 1rem;
-    }
-    .contact-header a {
-        display: block;
-        margin: 0.5rem 0;
-        color: #3498db;
-        text-decoration: none;
-        font-size: 1.1em;
-        font-weight: 500;
-    }
-    .contact-header a:hover {
-        text-decoration: underline;
-    }
-    .contact-grid {
-        display: grid;
-        /* This makes the layout responsive: 1 column on mobile, up to 3 on desktop */
-        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-        gap: 2rem;
-    }
-    .contact-card {
-        background: #ffffff;
-        border: 1px solid #eaeaea;
-        border-radius: 8px;
-        padding: 2rem 1.5rem;
-        box-shadow: 0 4px 6px rgba(0,0,0,0.02);
-        transition: transform 0.2s ease;
-    }
-    .contact-card:hover {
-        transform: translateY(-5px); /* Slight lift effect on hover */
-    }
-    .contact-card h3 {
-        color: #2c3e50;
-        font-size: 1.2em;
-        margin-top: 0;
-        margin-bottom: 1rem;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        gap: 10px;
-    }
-    .contact-card i {
-        color: #3498db; /* Makes the FontAwesome icons pop */
-    }
-    .contact-card p, .contact-card address {
-        margin: 0;
-        font-style: normal;
-        line-height: 1.6;
-        color: #555;
-    }
-</style>
+    <header class="site-header academic-navbar">
+    <div class="navbar-inner">
+        <!-- Brand / Academic Identity -->
+        <div class="branding">
+            <a class="brand-link" href="/" aria-label="Charalambos (Haris) Themistocleous">
+                <span class="brand-accent" aria-hidden="true"></span>
+                <div class="brand-text">
+                    <span class="site-title">Charalambos (Haris) Themistocleous</span>
+                    <span class="site-subtitle">Professor &middot; University of Oslo</span>
+                </div>
+            </a>
+        </div>
 
-<div class="contact-container">
-    
-    <!-- Header Section -->
-    <div class="contact-header">
-        <h2>Contact Information</h2>
-        <a href="https://www.uv.uio.no/isp/english/people/aca/charalth/" target="_blank">Themistocleous @ ISP/UiO</a>
-        <a href="https://www.uv.uio.no/isp/english/about/index.html" target="_blank">Department of Special Needs Education (ISP)</a>
+        <!-- Navigation Menu -->
+        <nav class="main-nav" aria-label="Main Navigation">
+            <button type="button" aria-label="Toggle Menu" aria-expanded="false" id="pull" class="nav-toggle-btn">
+                <i class="fa-solid fa-bars"></i>
+            </button>
+
+            <ul id="nav-menu" class="nav-list hide">
+                <li>
+                    <a class="nav-item " href="/about/">About</a>
+                </li>
+                <li>
+                    <a class="nav-item " href="/research/">Research</a>
+                </li>
+                <li>
+                    <a class="nav-item " href="/publications/">Publications</a>
+                </li>
+                <li>
+                    <a class="nav-item " href="/obai/">Open Brain AI</a>
+                </li>
+                <li>
+                    <a class="nav-item " href="/leadership/">Leadership &amp; Teaching</a>
+                </li>
+                <li>
+                    <a class="nav-item active" href="/contact/">Contact</a>
+                </li>
+
+            </ul>
+        </nav>
     </div>
+</header>
 
-    <!-- Contact Cards Grid -->
-    <div class="contact-grid">
-        
-        <!-- Email Card -->
-        <div class="contact-card">
-            <h3><i class="fa-solid fa-paper-plane"></i> Email</h3>
-            <p><a href="mailto:charalampos.themistokleous@isp.uio.no">charalampos.themistokleous@isp.uio.no</a></p>
-        </div>
+    <main class="content" id="main-content">
+      <div class="acad-container">
 
-        <!-- Office Card -->
-        <div class="contact-card">
-            <h3><i class="fa-solid fa-door-open"></i> Office</h3>
-            <!-- Using the semantic <address> tag is better for search engines and accessibility -->
-            <address>
-                Office No: 482<br>
-                Helga Engs hus 4.etg<br>
-                Sem Sælands vei 7<br>
-                0371 OSLO
-            </address>
-        </div>
+  <header class="acad-page-header">
+    <h1>Contact &amp; Research Collaborations</h1>
+    <p class="acad-subtitle">
+      Get in touch regarding European Research Council (ERC) and Horizon Europe consortia, clinical neuroscience collaborations, Open Brain AI partnerships, and postgraduate supervision at the University of Oslo.
+    </p>
+  </header>
 
-        <!-- Postal Card -->
-        <div class="contact-card">
-            <h3><i class="fa-solid fa-envelope-open-text"></i> Postal Address</h3>
-            <address>
-                Charalambos Themistocleous<br>
-                Institutt for spesialpedagogikk<br>
-                Postboks 1140 Blindern<br>
-                0318 Oslo
-            </address>
+  <!-- Direct Contact Cards -->
+  <section class="acad-section">
+    <div class="acad-grid-3">
+
+      <div class="acad-card">
+        <div class="acad-card-meta">Electronic Mail &amp; Institutional Profile</div>
+        <h3><i class="fa-solid fa-envelope" style="color: var(--acad-blue);"></i> Email &amp; Directory</h3>
+        <p style="margin-bottom: 0.5rem; text-align: left;">
+          <strong>Primary (UiO):</strong><br>
+          <a href="mailto:charalth@uio.no">charalth@uio.no</a>
+        </p>
+        <p style="margin-bottom: 0.85rem; text-align: left;">
+          <strong>Departmental (ISP):</strong><br>
+          <a href="mailto:charalampos.themistokleous@isp.uio.no">charalampos.themistokleous@isp.uio.no</a>
+        </p>
+        <div class="pub-links">
+          <a href="https://www.uv.uio.no/isp/english/people/aca/charalth/" target="_blank" rel="noopener" class="pub-link">
+            <i class="fa-solid fa-building-columns"></i> Official UiO Faculty Page
+          </a>
         </div>
+      </div>
+
+      <div class="acad-card">
+        <div class="acad-card-meta">Campus Office &bull; Blindern, Oslo</div>
+        <h3><i class="fa-solid fa-location-dot" style="color: var(--acad-blue);"></i> Visiting Address</h3>
+        <address style="font-style: normal; color: var(--acad-text-secondary); line-height: 1.65;">
+          <strong>Prof. Charalambos Themistocleous</strong><br>
+          Office 482, 4th Floor<br>
+          Helga Engs hus<br>
+          Sem Sælands vei 7<br>
+          0371 Oslo, Norway
+        </address>
+      </div>
+
+      <div class="acad-card">
+        <div class="acad-card-meta">Institutional Mail</div>
+        <h3><i class="fa-solid fa-building-columns" style="color: var(--acad-blue);"></i> Postal Address</h3>
+        <address style="font-style: normal; color: var(--acad-text-secondary); line-height: 1.65;">
+          <strong>Charalambos Themistocleous</strong><br>
+          Department of Special Needs Education (ISP)<br>
+          Faculty of Educational Sciences<br>
+          University of Oslo, Postboks 1140 Blindern<br>
+          0318 Oslo, Norway
+        </address>
+      </div>
 
     </div>
+  </section>
+
+  <!-- Academic & Digital Profiles -->
+  <section class="acad-section">
+    <h2 class="acad-section-title"><i class="fa-solid fa-globe"></i> Academic Networks &amp; Research Profiles</h2>
+    <div style="display: flex; flex-wrap: wrap; gap: 0.75rem;">
+      <a href="https://scholar.google.com/citations?user=s1323bMAAAAJ&hl=en" target="_blank" rel="noopener" class="acad-badge">
+        <i class="ai ai-google-scholar"></i> Google Scholar
+      </a>
+      <a href="https://openbrainai.com" target="_blank" rel="noopener" class="acad-badge">
+        <i class="fa-solid fa-brain"></i> Open Brain AI (openbrainai.com)
+      </a>
+      <a href="https://www.uv.uio.no/isp/english/people/aca/charalth/" target="_blank" rel="noopener" class="acad-badge">
+        <i class="fa-solid fa-building-columns"></i> University of Oslo Profile
+      </a>
+      <a href="https://www.researchgate.net/profile/Charalambos-Themistocleous" target="_blank" rel="noopener" class="acad-badge">
+        <i class="ai ai-researchgate"></i> ResearchGate
+      </a>
+      <a href="https://osf.io/327dc/" target="_blank" rel="noopener" class="acad-badge">
+        <i class="ai ai-osf"></i> Open Science Framework (OSF)
+      </a>
+      <a href="https://github.com/themistocleous" target="_blank" rel="noopener" class="acad-badge">
+        <i class="fa-brands fa-github"></i> GitHub (@themistocleous)
+      </a>
+      <a href="https://www.linkedin.com/in/charalambosthemistocleous/" target="_blank" rel="noopener" class="acad-badge">
+        <i class="fa-brands fa-linkedin"></i> LinkedIn
+      </a>
+    </div>
+  </section>
+
+  <!-- Research Collaborations & Supervision Section -->
+  <section class="acad-section" id="collaboration">
+    <h2 class="acad-section-title"><i class="fa-solid fa-handshake-angle"></i> Opportunities for Collaboration &amp; Supervision</h2>
+
+    <div class="acad-grid-2">
+
+      <div class="acad-card">
+        <div class="acad-card-meta">European &amp; International Consortia</div>
+        <h3>ERC, Horizon Europe, MSCA &amp; Clinical Trials</h3>
+        <p>
+          We actively partner with neurology departments, memory clinics, speech-language pathology centers, and computational linguistics groups on <strong>ERC</strong>, <strong>Horizon Europe</strong>, <strong>Marie Skłodowska-Curie Actions (MSCA Postdoctoral Fellowships)</strong>, <strong>NIH</strong>, and <strong>Nordic/RCN</strong> grant initiatives. Our laboratory and the <a href="/obai/">Open Brain AI</a> platform provide scalable infrastructure for multicenter digital biomarker extraction across 15+ languages.
+        </p>
+      </div>
+
+      <div class="acad-card">
+        <div class="acad-card-meta">Doctoral, Postdoctoral &amp; Master's Candidates</div>
+        <h3>Prospective PhD Fellows, Postdocs &amp; MA Students</h3>
+        <p>
+          Prospective <strong>PhD candidates</strong>, <strong>MSCA/RCN postdoctoral fellows</strong>, and <strong>Master's students</strong> at the University of Oslo interested in AI-driven speech and language assessment, aphasia, dementia, developmental language disorders, or experimental phonetics are encouraged to reach out with a CV and brief research statement.
+        </p>
+        <div class="pub-links">
+          <a href="/projectsma/" class="pub-link">
+            <i class="fa-solid fa-graduation-cap"></i> View Proposed MA Thesis Topic on AI &amp; Communication Disorders
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
 </div>
+
+    </main>
+    <footer class="site-footer academic-footer">
+    <div class="footer-inner">
+        <div class="footer-grid">
+            <div class="footer-col footer-identity">
+                <h4>Prof. Charalambos (Haris) Themistocleous</h4>
+                <p>Professor of Speech, Language, and Communication<br>
+                Department of Special Needs Education (ISP)<br>
+                Faculty of Educational Sciences · University of Oslo</p>
+                <p class="footer-lab">
+                    Founder &amp; Lead Architect of <a href="https://openbrainai.com" target="_blank" rel="noopener">Open Brain AI</a>
+                </p>
+            </div>
+
+            <div class="footer-col footer-links">
+                <h4>Academic Sections</h4>
+                <ul>
+                    <li><a href="/about/">Biography &amp; Appointments</a></li>
+                    <li><a href="/research/">Frontier Research &amp; Grants</a></li>
+                    <li><a href="/publications/">Peer-Reviewed Publications</a></li>
+                    <li><a href="/obai/">Open Brain AI &amp; Clinical Tools</a></li>
+                    <li><a href="/leadership/">Leadership, Talks &amp; Teaching</a></li>
+                    <li><a href="/assets/pages/CV_Haris_Themistocleous.pdf" target="_blank" rel="noopener">Curriculum Vitae (PDF)</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-col footer-connect">
+                <h4>Contact &amp; Profiles</h4>
+                <p>
+                    <i class="fa-solid fa-location-dot"></i> Helga Engs hus, Office 482, Sem Sælands vei 7, 0371 Oslo, Norway<br>
+                    <i class="fa-solid fa-envelope"></i> <a href="mailto:charalth@uio.no">charalth@uio.no</a>
+                </p>
+                <div class="footer-scholarly-links">
+                    <a href="https://scholar.google.com/citations?user=pATrAdMAAAAJ" target="_blank" rel="noopener" title="Google Scholar"><i class="ai ai-google-scholar"></i> Scholar</a>
+                    <a href="https://www.researchgate.net/profile/Charalambos-Themistocleous" target="_blank" rel="noopener" title="ResearchGate"><i class="ai ai-researchgate"></i> ResearchGate</a>
+                    <a href="https://github.com/themistocleous" target="_blank" rel="noopener" title="GitHub"><i class="fa-brands fa-github"></i> GitHub</a>
+                    <a href="https://osf.io/rvxby" target="_blank" rel="noopener" title="Open Science Framework"><i class="ai ai-osf"></i> OSF</a>
+                    <a href="https://www.linkedin.com/in/haristhemistocleous" target="_blank" rel="noopener" title="LinkedIn"><i class="fa-brands fa-linkedin"></i> LinkedIn</a>
+                    <a href="https://www.uv.uio.no/isp/english/people/aca/charalth/" target="_blank" rel="noopener" title="University of Oslo Profile"><i class="fa-solid fa-building-columns"></i> UiO</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="footer-bottom">
+            <span>© 2026 Charalambos K. Themistocleous. All rights reserved.</span>
+            <span> computational neurolinguistics · multimodal AI · digital biomarkers</span>
+        </div>
     </div>
     
-    <footer class="site-footer"> <p class="text"> (c) 2026 Charalambos K. Themistocleous </p> <div class="footer-icons"> <ul> <!-- Social icons from Font Awesome, if enabled --> <li> <a feed.xml href="/feed.xml" title="Follow RSS feed" target="_blank"> <span class="fa-stack fa-lg"> <i class="fas fa-circle fa-stack-2x"></i> <i class="fas fa-rss fa-stack-1x fa-inverse"></i> </span> </a> </li> <li> <a href="https://github.com/themistocleous" title="Follow on Github" target="_blank" rel="noopener"> <span class="fa-stack fa-lg"> <i class="fas fa-circle fa-stack-2x"></i> <i class="fab fa-github fa-stack-1x fa-inverse"></i> </span> </a> </li> <li> <a href="https://scholar.google.com/citations?hl=en&user=pATrAdMAAAAJ" title="Follow on Googlescholar" target="_blank" rel="noopener"> <span class="fa-stack fa-lg"> <i class="fas fa-circle fa-stack-2x"></i> <i class="fas fa-user-graduate fa-stack-1x fa-inverse"></i> </span> </a> </li> <li> <a href="https://www.linkedin.com/in/haristhemistocleous" title="Follow on Linkedin" target="_blank" rel="noopener"> <span class="fa-stack fa-lg"> <i class="fas fa-circle fa-stack-2x"></i> <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i> </span> </a> </li> <li> <a href="mailto:charalth@uio.no" title="Follow on Mail" target="_blank" rel="noopener"> <span class="fa-stack fa-lg"> <i class="fas fa-circle fa-stack-2x"></i> <i class="fas fa-envelope fa-stack-1x fa-inverse"></i> </span> </a> </li> <li> <a href="https://osf.io/rvxby" title="Follow on Osf" target="_blank" rel="noopener"> <span class="fa-stack fa-lg"> <i class="fas fa-circle fa-stack-2x"></i> <i class="ai ai-osf-square fa-stack-1x fa-inverse"></i> </span> </a> </li> <li> <a href="https://www.researchgate.net/profile/Charalambos-Themistocleous" title="Follow on Researchgate" target="_blank" rel="noopener"> <span class="fa-stack fa-lg"> <i class="fas fa-circle fa-stack-2x"></i> <i class="ai ai-researcherid-square fa-stack-1x fa-inverse"></i> </span> </a> </li> </ul> </div> <script type="module"> mermaid.initialize({ startOnLoad: false, theme: "default" }); mermaid.run({ nodes: [...document.querySelectorAll('.language-mermaid'), ...document.querySelectorAll('.mermaid')] }); </script> </footer>
+        <script type="module">
+          mermaid.initialize({ startOnLoad: false, theme: "default" });
+          mermaid.run({ nodes: [...document.querySelectorAll('.language-mermaid'), ...document.querySelectorAll('.mermaid')] });
+        </script>
+    
+</footer>
+
+    <script>
+      (function () {
+        var btn = document.getElementById('pull');
+        var menu = document.getElementById('nav-menu');
+        if (btn && menu) {
+          btn.addEventListener('click', function (e) {
+            e.preventDefault();
+            var isHidden = menu.classList.toggle('hide');
+            btn.setAttribute('aria-expanded', (!isHidden).toString());
+          });
+        }
+      })();
+    </script>
   </body>
 </html>
