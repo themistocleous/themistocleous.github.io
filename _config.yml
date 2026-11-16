@@ -15,4 +15,4 @@ footer_text: >
 sass:
   style: compressed
 plugins: [jekyll-seo-tag, jekyll-feed]
-exclude: [".jekyll-cache", ".jekyll-metadata", ".idea", "vendor/*", "assets/node_modules/*"]
+exclude: [".jekyll-cache", ".jekyll-metadata", ".idea", "vendor/*", "assets/node_modules/*", "preview.sh", "Gemfile", "Gemfile.lock"]
